@@ -107,9 +107,9 @@
 "Previous Media" = "Предыдущий медиафайл";
 "Next Media" = "Следующий медиафайл";
 "Previous Frame/Step Backward 10s" = "Предыдущий кадр/назад на 10 с";
-"Next Frame/Step Forward 10s" = "Следующий кадр/вперед 10 сек.";
-"Step Backward 30s" = "Назад на 30s";
-"Step Forward 30s" = "Вперед на 30s";
+"Next Frame/Step Forward 10s" = "Следующий кадр/вперед 10 с";
+"Step Backward 30s" = "Назад на 30с";
+"Step Forward 30s" = "Вперед на 30с";
 "Volume Up" = "Увеличить громкость";
 "Volume Down" = "Уменьшить громкость";
 "Mute/Unmute" = "Отключить/Включить звук";
@@ -121,16 +121,16 @@
 "Fill Screen" = "Заполнить экран";
 "Toggle Fullscreen" = "Переключить на полный экран";
 "Actual Size" = "Реальный размер";
-"Fixed Size & Position" = "Фиксированный размер и положение";
+"Fixed Size & Position" = "Фикс. размер и положение";
 "Playback Speed x 0.5" = "Скорость воспроизведения x 0.5";
 "Playback Speed x 0.9" = "Скорость воспроизведения x 0.9";
-"Playback Speed Normal" = "Нормальная скорость воспроизведения";
+"Playback Speed Normal" = "Нормальная скорость воспр.";
 "Playback Speed x 1.1" = "Скорость воспроизведения x 1.1";
 "Playback Speed x 1.5" = "Скорость воспроизведения x 1.5";
 "Playback Speed x 2.0" = "Скорость воспроизведения x 2.0";
 "Rotate 180º" = "Повернуть на 180º";
-"Rotate 90º Clockwise" = "Повернуть на 90º по часовой стрелке";
-"Rotate 90º Counter-clockwise" = "Повернуть на 90º против часовой стрелки";
+"Rotate 90º Clockwise" = "Повернуть на 90º по чс";
+"Rotate 90º Counter-clockwise" = "Повернуть на 90º против чс";
 "Upscale Image" = "Апскейл изображения";
 "Eraser Tool" = "Инструмент «Ластик»";
 "Flip Horizontally" = "Перевернуть горизонтально";
@@ -144,18 +144,18 @@
 "Export..." = "Экспорт...";
 "Crop Image..." = "Обрезать изображение...";
 "Hand Tool" = "Инструмент «Рука»";
-"Adjust Hue, Saturation, Brightness..." = "Отрегулируйте оттенок, насыщенность, яркость...";
-"Adjust Color Temperature..." = "Отрегулируйте цветовую температуру...";
-"Adjust Exposure..." = "Настройте экспозицию...";
-"Resize Image..." = "Изменить размер изображения...";
-"Sharpness and Noise..." = "Резкость и подавление шума...";
+"Adjust Hue, Saturation, Brightness..." = "Оттенок, насыщенность, яркость";
+"Adjust Color Temperature..." = "Цветовая температура";
+"Adjust Exposure..." = "Экспозиция";
+"Resize Image..." = "Размер изображения";
+"Sharpness and Noise..." = "Резкость и подавление шума";
 "Clone Tool" = "Инструмент «Клонирование»";
 "Text Selection Tool" = "Инструмент выделения текста";
-"Edit with: App #1" = "Редактировать с помощью: Приложение №1";
-"Edit with: App #2" = "Редактировать с помощью: Приложение №2";
-"Edit with: App #3" = "Редактировать с помощью: Приложение №3";
-"Edit with: App #4" = "Редактировать с помощью: Приложение №4";
-"Edit with: App #5" = "Редактировать с помощью: Приложение №5";
+"Edit with: App #1" = "Редактировать в прилож. №1";
+"Edit with: App #2" = "Редактировать в прилож. №2";
+"Edit with: App #3" = "Редактировать в прилож. №3";
+"Edit with: App #4" = "Редактировать в прилож. №4";
+"Edit with: App #5" = "Редактировать в прилож. №5";
 "Step Forward 10s" = "Вперед на 10с";
 "Step Backward 10s" = "Назад на 10с";
 "Step Forward 30s" = "Вперед на 30с";
@@ -171,12 +171,13 @@
 // Preferences items
 "Preferences" = "Настройки";
 "General" = "Основные";
+"Appearance" = "Вид";
 "Shortcuts" = "Быстрые клавиши";
 "File Types" = "Типы файлов";
 "Video" = "Видео";
 "Folder Access" = "Доступ к папкам";
 "Advanced" = "Дополнительно";
-"More Apps" = "Больше приложений";
+"More Apps" = "Приложения";
 
 
 // inches, cm/mm, pixels, points per inch, etc...

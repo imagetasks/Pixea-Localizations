@@ -1,129 +1,129 @@
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "2Iy-x3-QKJ"; */
-"2Iy-x3-QKJ.title" = "Ящик"; //A
+"2Iy-x3-QKJ.title" = "Box";
 
 /* Class = "NSButtonCell"; title = "Keep always on top"; ObjectID = "5KC-MQ-7fc"; */
-"5KC-MQ-7fc.title" = "Поверх других окон";
+"5KC-MQ-7fc.title" = "Fenster immer im Vordergrund behalten";
 
 /* Class = "NSButtonCell"; title = "Automatically switch to full screen"; ObjectID = "6rx-de-30V"; */
-"6rx-de-30V.title" = "Автоматически переключаться в полноэкранный режим";
+"6rx-de-30V.title" = "Automatisch auf Vollbild umschalten";
 
 /* Class = "NSButtonCell"; title = "List recently opened items"; ObjectID = "7qn-T7-ruB"; */
-"7qn-T7-ruB.title" = "Список недавно открытых элементов";
+"7qn-T7-ruB.title" = "Liste der zuletzt geöffneten Elemente";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "7vn-qv-CEQ"; */
-"7vn-qv-CEQ.title" = "Ящик"; //A
+"7vn-qv-CEQ.title" = "Box";
 
 /* Class = "NSTextFieldCell"; title = "Default zoom"; ObjectID = "8R8-C7-F4i"; */
-"8R8-C7-F4i.title" = "Масштаб по умолчанию";
+"8R8-C7-F4i.title" = "Standardzoom";
 
 /* Class = "NSTextFieldCell"; title = "Sort media files by"; ObjectID = "8gm-BS-eqC"; */
-"8gm-BS-eqC.title" = "Сортировать медиафайлы по";
+"8gm-BS-eqC.title" = "Sortieren Sie Mediendateien nach";
 
 /* Class = "NSButtonCell"; title = "Points"; ObjectID = "91x-64-bJ9"; */
-"91x-64-bJ9.title" = "Поинты";
+"91x-64-bJ9.title" = "Punkte";
 
 /* Class = "NSButtonCell"; title = "Date added"; ObjectID = "Cic-3u-pg5"; */
-"Cic-3u-pg5.title" = "Дате добавления";
+"Cic-3u-pg5.title" = "Datum hinzugefügt";
 
 /* Class = "NSButtonCell"; title = "Date modified"; ObjectID = "CzN-fp-7TW"; */
-"CzN-fp-7TW.title" = "Дате изменения";
+"CzN-fp-7TW.title" = "Änderungsdatum";
 
 /* Class = "NSTextFieldCell"; title = "Stretch to Fit"; ObjectID = "EER-jc-phA"; */
-"EER-jc-phA.title" = "Растянуть до размера экрана";
+"EER-jc-phA.title" = "Zum Anpassen dehnen";
 
 /* Class = "NSButtonCell"; title = "Manage Access..."; ObjectID = "F74-M3-Cci"; */
-"F74-M3-Cci.title" = "Управление доступом...";
+"F74-M3-Cci.title" = "Zugriff verwalten...";
 
 /* Class = "NSButtonCell"; title = "Always show confirmation"; ObjectID = "FI4-Lc-u0F"; */
-"FI4-Lc-u0F.title" = "Всегда показывать подтверждение";
+"FI4-Lc-u0F.title" = "Immer Bestätigung anzeigen";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "FYT-hM-LhR"; */
-"FYT-hM-LhR.title" = "Ящик"; //A
+"FYT-hM-LhR.title" = "Box";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "HTQ-0l-YJx"; */
-"HTQ-0l-YJx.title" = "Ящик"; //A
+"HTQ-0l-YJx.title" = "Box";
 
 /* Class = "NSButtonCell"; title = "File size"; ObjectID = "Kdj-tC-acJ"; */
-"Kdj-tC-acJ.title" = "Размеру файла";
+"Kdj-tC-acJ.title" = "Dateigröße";
 
 /* Class = "NSButtonCell"; title = "Date created"; ObjectID = "Lap-1k-DOH"; */
-"Lap-1k-DOH.title" = "Дате создания";
+"Lap-1k-DOH.title" = "Erstellungsdatum";
 
 /* Class = "NSButtonCell"; title = "Open each image in a new window"; ObjectID = "NqL-Ko-d7J"; */
-"NqL-Ko-d7J.title" = "Открыть каждое изображение в новом окне";
+"NqL-Ko-d7J.title" = "Jedes Bild in einem neuen Fenster öffnen";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "P6g-Y3-rh2"; */
 "P6g-Y3-rh2.title" = "PLUS";
 
 /* Class = "NSButtonCell"; title = "Always ask to save changes"; ObjectID = "QJA-jW-OZO"; */
-"QJA-jW-OZO.title" = "Всегда запрашивать сохранение";
+"QJA-jW-OZO.title" = "Immer nachfragen, ob die Änderungen gespeichert werden sollen";
 
 /* Class = "NSButtonCell"; title = "Use existing window for the same folder"; ObjectID = "Sc4-2j-8ms"; */
-"Sc4-2j-8ms.title" = "Использовать существующее окно для той же папки";
+"Sc4-2j-8ms.title" = "Vorhandenes Fenster für denselben Ordner verwenden";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "UsA-ZU-Slq"; */
-"UsA-ZU-Slq.title" = "Реальный размер";
+"UsA-ZU-Slq.title" = "Tatsächliche Größe";
 
 /* Class = "NSButtonCell"; title = "Automatically set sort mode based on Finder's sort column"; ObjectID = "VDb-Ze-X4P"; */
-"VDb-Ze-X4P.title" = "Автоматически устанавливать режим сортировки как в Finder";
+"VDb-Ze-X4P.title" = "Sortiermodus automatisch basierend auf der Sortierspalte des Finders festlegen";
 
 /* Class = "NSButtonCell"; title = "Keep aspect ratio when resizing"; ObjectID = "Wf9-JJ-N3n"; */
-"Wf9-JJ-N3n.title" = "Сохраняйть пропорции при изменении размера";
+"Wf9-JJ-N3n.title" = "Seitenverhältnis bei Größenänderung beibehalten";
 
 /* Class = "NSButtonCell"; title = "Shuffle"; ObjectID = "XQe-uj-4X2"; */
-"XQe-uj-4X2.title" = "Перемешать";
+"XQe-uj-4X2.title" = "Shuffle"; //reviewed if Shuffle images is meant?
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ato-UQ-pb9"; */
-"ato-UQ-pb9.title" = "Ящик"; //A
+"ato-UQ-pb9.title" = "Box";
 
 /* Class = "NSTextFieldCell"; title = "Deleting files and folders"; ObjectID = "gsV-rn-zs2"; */
-"gsV-rn-zs2.title" = "Удаление файлов и папок";
+"gsV-rn-zs2.title" = "Löschen von Dateien und Ordnern";
 
 /* Class = "NSTextFieldCell"; title = "Fill Screen"; ObjectID = "h84-vw-CFX"; */
-"h84-vw-CFX.title" = "Заполнить экран";
+"h84-vw-CFX.title" = "Bildschirm ausfüllen";
 
 /* Class = "NSButtonCell"; title = "Quit Pixea when last window is closed"; ObjectID = "hek-kW-9le"; */
-"hek-kW-9le.title" = "Выйти из Pixea после закрытия последнего окна";
+"hek-kW-9le.title" = "Pixea beenden, wenn das letzte Fenster geschlossen ist";
 
 /* Class = "NSTextFieldCell"; title = "When opening images"; ObjectID = "iQo-Fc-BOp"; */
-"iQo-Fc-BOp.title" = "При открытии изображений";
+"iQo-Fc-BOp.title" = "Beim Öffnen von Bildern";
 
 /* Class = "NSButtonCell"; title = "File type"; ObjectID = "j2E-63-h1q"; */
-"j2E-63-h1q.title" = "Типу файла";
+"j2E-63-h1q.title" = "Dateityp";
 
 /* Class = "NSButtonCell"; title = "Pixels"; ObjectID = "jNp-fN-bqc"; */
-"jNp-fN-bqc.title" = "Пиксели";
+"jNp-fN-bqc.title" = "Pixel";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "k7Y-lM-Atq"; */
-"k7Y-lM-Atq.title" = "Ящик";
+"k7Y-lM-Atq.title" = "Box";
 
 /* Class = "NSButtonCell"; title = "Name"; ObjectID = "lKi-Hv-8WF"; */
-"lKi-Hv-8WF.title" = "Имени";
+"lKi-Hv-8WF.title" = "Name";
 
 /* Class = "NSTextFieldCell"; title = "Recent items"; ObjectID = "lmr-B1-vI2"; */
-"lmr-B1-vI2.title" = "Недавно окрытые элементы";
+"lmr-B1-vI2.title" = "Zuletzt verwendete Dateien";
 
 /* Class = "NSTextFieldCell"; title = "Editing images"; ObjectID = "m2J-xa-kiP"; */
-"m2J-xa-kiP.title" = "Редактирование";
+"m2J-xa-kiP.title" = "Bilder bearbeiten";
 
 /* Class = "NSTextFieldCell"; title = "If this option is selected, Pixea will sort the contents based on the preferences set in your file system. By default, this option applies to subfolders only, as the sort information for any folder is stored in its parent's attributes. If you want to apply automatic sorting to your root folder, grant permission to access its parent."; ObjectID = "mw4-Oi-R2y"; */
-"mw4-Oi-R2y.title" = "Если выбран этот параметр, Pixea будет сортировать содержимое на основе настроек, установленных в вашей файловой системе. По умолчанию этот параметр применяется только к подпапкам, поскольку информация о сортировке для любой папки хранится в атрибутах ее родительской папки. Если вы хотите применить автоматическую сортировку к своей корневой папке, предоставьте разрешение на доступ к ее родительской папке.";
+"mw4-Oi-R2y.title" = "Wenn diese Option ausgewählt ist, sortiert Pixea den Inhalt basierend auf den in Ihrem Dateisystem festgelegten Einstellungen. Standardmäßig gilt diese Option nur für Unterordner, da die Sortierinformationen für jeden Ordner in den Attributen seines übergeordneten Ordners gespeichert sind. Wenn Sie die automatische Sortierung auf Ihren Stammordner anwenden möchten, erteilen Sie die Berechtigung für den Zugriff auf den übergeordneten Ordner.";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
 "p97-VP-ELd.title" = "PLUS";
 
 /* Class = "NSButtonCell"; title = "Use existing window for any folder"; ObjectID = "qwJ-si-VBu"; */
-"qwJ-si-VBu.title" = "Использовать существующее окно для любой папки";
+"qwJ-si-VBu.title" = "Vorhandenes Fenster für beliebige Ordner verwenden";
 
 /* Class = "NSTextFieldCell"; title = "Window"; ObjectID = "rba-Lk-QXc"; */
-"rba-Lk-QXc.title" = "Окно"; //A
+"rba-Lk-QXc.title" = "Fenster";
 
 /* Class = "NSTextFieldCell"; title = "Fixed Size and Position"; ObjectID = "yYH-QK-MpA"; */
-"yYH-QK-MpA.title" = "Фикс. размер и положение";
+"yYH-QK-MpA.title" = "Größe und Position festlegen";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "ysg-55-8kg"; */
-"ysg-55-8kg.title" = "Реальный размер";
+"ysg-55-8kg.title" = "Tatsächliche Größe";
 
 /* Class = "NSTextFieldCell"; title = "Fit To Screen"; ObjectID = "zXk-De-iOY"; */
-"zXk-De-iOY.title" = "По размеру экрана";
+"zXk-De-iOY.title" = "An Bildschirm anpassen";

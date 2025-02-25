@@ -3,46 +3,46 @@
 "I3E-ap-nn2.title" = "Linear";
 
 /* Class = "NSButtonCell"; title = "Lanczos"; ObjectID = "IO5-6F-GlQ"; */
-"IO5-6F-GlQ.title" = "Lanczos";
+"IO5-6F-GlQ.title" = "Lanczos"; //looks fine as per Cornelius Lanczos-science
 
 /* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
 "OWj-KS-U6S.title" = "Trilinear";
 
 /* Class = "NSButtonCell"; title = "Clear Cache"; ObjectID = "PZJ-ie-aQp"; */
-"PZJ-ie-aQp.title" = "Clear Cache";
+"PZJ-ie-aQp.title" = "Cache leeren";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
 "TxO-YS-twQ.title" = "Box";
 
 /* Class = "NSTextFieldCell"; title = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory."; ObjectID = "YYM-D8-hhL"; */
-"YYM-D8-hhL.title" = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory.";
+"YYM-D8-hhL.title" = "Das Vorladen vorheriger und nächster Bilder ermöglicht sofortiges Umschalten, erfordert aber mehr RAM-Nutzung. Deaktivieren Sie diese Option, wenn Ihr Computer nicht genügend Arbeitsspeicher hat.";
 
 /* Class = "NSTextFieldCell"; title = "Memory and disk cache"; ObjectID = "irp-me-Bao"; */
-"irp-me-Bao.title" = "Memory and disk cache";
+"irp-me-Bao.title" = "Arbeitsspeicher und Festplattencache";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "jNe-Nj-BJO"; */
 "jNe-Nj-BJO.title" = "Box";
 
 /* Class = "NSTextFieldCell"; title = "Minification filtering"; ObjectID = "jkJ-Uo-raR"; */
-"jkJ-Uo-raR.title" = "Minification filtering";
+"jkJ-Uo-raR.title" = "Minimierungsfilterung";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
 "p97-VP-ELd.title" = "PLUS";
 
 /* Class = "NSButtonCell"; title = "Cache thumbnails"; ObjectID = "s1J-IY-0lH"; */
-"s1J-IY-0lH.title" = "Cache thumbnails";
+"s1J-IY-0lH.title" = "Miniaturansichten zwischenspeichern";
 
 /* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "x9U-hd-fpM"; */
-"x9U-hd-fpM.title" = "Zero KB";
+"x9U-hd-fpM.title" = "Null KB";
 
 /* Class = "NSButtonCell"; title = "Preload previous and next images"; ObjectID = "zBI-tS-TjZ"; */
-"zBI-tS-TjZ.title" = "Preload previous and next images";
+"zBI-tS-TjZ.title" = "Vorheriges und nächstes Bild vorladen";
 
 /* Class = "NSTextFieldCell"; title = "RAW Render"; ObjectID = "6Dv-jd-82V"; */
-"6Dv-jd-82V.title" = "RAW Render";
+"6Dv-jd-82V.title" = "RAW-Rendern";
 
 /* Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
-"GTf-ff-aln.title" = "Prefer macOS engine";
+"GTf-ff-aln.title" = "Die macOS-Engine Bevorzugen";
 
 /* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
-"kX7-LK-XlL.title" = "Always use built-in";
+"kX7-LK-XlL.title" = "Verwenden Sie immer integrierte";

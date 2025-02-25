@@ -1,24 +1,24 @@
 
 /* Class = "NSTextFieldCell"; title = "Customize Pixea shortcuts:"; ObjectID = "9KK-3t-xZD"; */
-"9KK-3t-xZD.title" = "Настройте сочетания клавиш Pixea:";
+"9KK-3t-xZD.title" = "Pixea-Verknüpfungen anpassen:";
 
 /* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "UZU-so-m59"; */
-"UZU-so-m59.headerCell.title" = "Папка"; //A
+"UZU-so-m59.headerCell.title" = "Ordner";
 
 /* Class = "NSTextFieldCell"; title = "Next Image"; ObjectID = "VUf-W6-3O0"; */
-"VUf-W6-3O0.title" = "Следующее изображение";
+"VUf-W6-3O0.title" = "Nächstes Bild";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "m9I-Wa-c89"; */
 "m9I-Wa-c89.title" = "PLUS";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pva-Kw-3Xm"; */
-"pva-Kw-3Xm.title" = "Text Cell"; //A //A
+"pva-Kw-3Xm.title" = "Textzelle";
 
 /* Class = "NSTextFieldCell"; title = "SPACE is reserved for \"Hold Spacebar and Drag to Scroll\" and \"Play / Pause Video\" actions. Z and ⌥Z are reserved for \"Zoom In\" / \"Zoom Out\" actions."; ObjectID = "r8b-mT-VMR"; */
-"r8b-mT-VMR.title" = "ПРОБЕЛ зарезервирован для действий \"Удерживайте пробел + перетаскивайте\" и \"Воспроизвести / Приостановить видео\". Z и ⌥Z зарезервированы для действий \"Увеличить\" / \"Уменьшить\".";
+"r8b-mT-VMR.title" = "SPACE ist reserviert für \"Zum Scrollen die Leertaste gedrückt halten und ziehen\" und \"abspielen/anhalten\" Videoaktionen. Z und ⌥Z sind reserviert für Aktionen mit \"Vergrößern\" / \"Verkleinern\".";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "wqY-nK-Suo"; */
-"wqY-nK-Suo.title" = "Ящик"; //A
+"wqY-nK-Suo.title" = "Box";
 
 /* Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
-"xDv-OG-qlV.title" = "Свайп влево/вправо — показать предыдущий/следующий медиафайл";
+"xDv-OG-qlV.title" = "Swipe nach links/rechts um vorheriges/nächstes Bild anzuzeigen";

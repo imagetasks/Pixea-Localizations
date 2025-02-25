@@ -7,7 +7,7 @@
 */
 
 "Unable to process image..." = "Unable to process image...";
-"Check avaliable memory and disk space. Try closing other apps and restarting Pixea." = "Check avaliable memory and disk space. Try closing other apps and restarting Pixea.";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Check available memory and disk space. Try closing other apps and restarting Pixea.";
 "OK" = "OK";
 "Cancel" = "Cancel";
 "macOS 11 or higher is required." = "macOS 11 or higher is required.";
@@ -170,6 +170,7 @@
 // Preferences items
 "Preferences" = "Preferences";
 "General" = "General";
+"Appearance" = "Appearance";
 "Shortcuts" = "Shortcuts";
 "File Types" = "File Types";
 "Video" = "Video";

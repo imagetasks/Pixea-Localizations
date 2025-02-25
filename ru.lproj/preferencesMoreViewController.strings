@@ -15,7 +15,7 @@
 "Uhv-vK-A7J.title" = "Системный монитор. Расширенный и переосмысленный.";
 
 /* Class = "NSTextFieldCell"; title = "Personalize your Desktop with Lockera widgets. Keep track of essential information.\nLockera widgets:\nStorage, Year Progress, On this Day, Days Left, Calendar, Data Usage, \nWi-Fi data usage, Days Passed, and Birthdays."; ObjectID = "arx-LP-oVu"; */
-"arx-LP-oVu.title" = "Персонализируйте свой рабочий стол с помощью виджетов Lockera. Отслеживайте важную информацию.\nВиджеты Lockera:\nХранилище, Прогресс за год, В этот день, Осталось дней, Календарь, Использование данных, \nИспользование данных Wi-Fi, Прошедшие дни и Дни рождения.";
+"arx-LP-oVu.title" = "Персонализируйте свой рабочий стол с помощью виджетов Lockera. Отслеживайте важную информацию.\nВиджеты Lockera:\nХранилище, Прогресс за год, В этот день, Осталось дней, Календарь, Использование данных, Использование данных Wi-Fi, Прошедшие дни и Дни рождения.";
 
 /* Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
 "ulv-pe-DW8.title" = "Видежеты Lockera";

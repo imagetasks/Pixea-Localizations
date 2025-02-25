@@ -1,0 +1,36 @@
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4"; */
+"4.title" = "Andere Ansichten"; //OtherViews does not look like a variable to be replaced - therefore translated
+
+/* Class = "NSMenuItem"; title = "JPEG"; ObjectID = "5"; */
+"5.title" = "JPEG";
+
+/* Class = "NSMenuItem"; title = "TIFF"; ObjectID = "7"; */
+"7.title" = "TIFF";
+
+/* Class = "NSTextFieldCell"; title = "Export as"; ObjectID = "11"; */
+"11.title" = "Export als";
+
+/* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "13"; */
+"13.title" = "Qualität";
+
+/* Class = "NSMenuItem"; title = "PNG"; ObjectID = "15"; */
+"15.title" = "PNG";
+
+/* Class = "NSMenuItem"; title = "JPEG-2000"; ObjectID = "30"; */
+"30.title" = "JPEG-2000";
+
+/* Class = "NSTextFieldCell"; title = "Poor"; ObjectID = "32"; */
+"32.title" = "schlechte";
+
+/* Class = "NSTextFieldCell"; title = "Best"; ObjectID = "34"; */
+"34.title" = "beste";
+
+/* Class = "NSMenuItem"; title = "BMP"; ObjectID = "U5i-b8-f3I"; */
+"U5i-b8-f3I.title" = "BMP";
+
+/* Class = "NSMenuItem"; title = "GIF"; ObjectID = "iR5-cq-Mmn"; */
+"iR5-cq-Mmn.title" = "GIF";
+
+/* Class = "NSButtonCell"; title = "Include EXIF metadata"; ObjectID = "pg2-Hl-C7h"; */
+"pg2-Hl-C7h.title" = "EXIF-Metadaten einbeziehen";

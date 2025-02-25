@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Essential Desktop widgets."; ObjectID = "BKB-yi-LiR"; */
+"BKB-yi-LiR.title" = "Essentielle Desktop-Widgets.";
+
+/* Class = "NSButtonCell"; title = "GET"; ObjectID = "Bvm-QD-MzC"; */
+"Bvm-QD-MzC.title" = "herunterladen";
+
+/* Class = "NSTextFieldCell"; title = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart."; ObjectID = "Cpw-a2-M5n"; */
+"Cpw-a2-M5n.title" = "iStatistica Pro ist ein erweiterter Systemmonitor für macOS.\nÜbersicht über Ihre Batteriestatistiken, Echtzeitinformationen zu CPU-, GPU- und RAM-Nutzung und noch viel mehr. iStatistica Pro zeigt auch Netzwerkstatistiken in Echtzeit an: Diagramme zu externen, Gateway- und lokalen IPs, Geschwindigkeit und Datenraten.";
+
+/* Class = "NSButtonCell"; title = "GET"; ObjectID = "Qpq-8e-lOf"; */
+"Qpq-8e-lOf.title" = "herunterladen";
+
+/* Class = "NSTextFieldCell"; title = "System Monitor. Reinvented."; ObjectID = "Uhv-vK-A7J"; */
+"Uhv-vK-A7J.title" = "Systemmonitor. Neu erfunden.";
+
+/* Class = "NSTextFieldCell"; title = "Personalize your Desktop with Lockera widgets. Keep track of essential information.\nLockera widgets:\nStorage, Year Progress, On this Day, Days Left, Calendar, Data Usage, \nWi-Fi data usage, Days Passed, and Birthdays."; ObjectID = "arx-LP-oVu"; */
+"arx-LP-oVu.title" = "Personalisieren Sie Ihren Desktop mit Lockera-Widgets. Behalten Sie wichtige Informationen im Blick.\nLockera-Widgets:\nSpeicher, Jahresverlauf, An diesem Tag, Verbleibende Tage, Kalender, Datennutzung, \nWLAN-Datennutzung, vergangene Tage und Geburtstage.";
+
+/* Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
+"ulv-pe-DW8.title" = "Lockera-Widgets";
+
+/* Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
+"wvu-eL-Cug.title" = "iStatistica Pro";

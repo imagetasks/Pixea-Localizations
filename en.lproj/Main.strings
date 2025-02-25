@@ -800,6 +800,9 @@
 /* Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "b5B-Bs-2oU"; */
 "b5B-Bs-2oU.title" = "Acknowledgements";
 
+/* Class = "NSMenuItem"; title = "Localizations"; ObjectID = "92h-11-9j8"; */
+"92h-11-9j8.title" = "Localizations";
+
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "b6o-em-pee"; */
 "b6o-em-pee.title" = "Apply";
 
