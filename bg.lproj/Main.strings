@@ -1,6 +1,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Clone pixels from another part of the photo"; ObjectID = "04j-C4-7jb"; */
-"04j-C4-7jb.title" = "Clone pixels from another part of the photo";
+"04j-C4-7jb.title" = "Клонирайте пиксели от друга част на снимката";
 
 /* Class = "NSTextFieldCell"; title = "0"; ObjectID = "0Dc-2r-hrd"; */
 "0Dc-2r-hrd.title" = "0";
@@ -9,745 +9,745 @@
 "0FS-Rn-xpr.title" = "●";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "0MR-nN-3xe"; */
-"0MR-nN-3xe.title" = "Apply";
+"0MR-nN-3xe.title" = "Прилагане";
 
 /* Class = "NSMenuItem"; title = "Audio"; ObjectID = "0Qo-LP-ge7"; */
-"0Qo-LP-ge7.title" = "Audio";
+"0Qo-LP-ge7.title" = "Аудио";
 
 /* Class = "NSMenuItem"; title = "New Pixea Window"; ObjectID = "0Va-DW-7a0"; */
-"0Va-DW-7a0.title" = "New Pixea Window";
+"0Va-DW-7a0.title" = "Нов Pixea прозорец";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "0kn-bK-q2J"; */
-"0kn-bK-q2J.title" = "Box";
+"0kn-bK-q2J.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Small"; ObjectID = "0s5-hj-5PY"; */
-"0s5-hj-5PY.title" = "Small";
+"0s5-hj-5PY.title" = "Малък"; //малко_а i18n testing_optimization
 
 /* Class = "NSTextFieldCell"; title = "Slideshow:"; ObjectID = "0vj-Yi-lOf"; */
-"0vj-Yi-lOf.title" = "Slideshow:";
+"0vj-Yi-lOf.title" = "Слайдшоу:";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "10D-Pu-bwg"; */
-"10D-Pu-bwg.title" = "Box";
+"10D-Pu-bwg.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "15n-gK-z07"; */
-"15n-gK-z07.title" = "Hue";
+"15n-gK-z07.title" = "Нюанс";
 
 /* Class = "NSMenuItem"; title = "Pixea"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "Pixea";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to Pixea!"; ObjectID = "1aG-GF-KI0"; */
-"1aG-GF-KI0.title" = "Welcome to Pixea!";
+"1aG-GF-KI0.title" = "Добре дошли в Pixea!";
 
 /* Class = "NSTextFieldCell"; title = "Searching"; ObjectID = "1eL-r6-5Mi"; */
-"1eL-r6-5Mi.title" = "Searching";
+"1eL-r6-5Mi.title" = "Търсене";
 
 /* Class = "NSTextFieldCell"; title = "No details"; ObjectID = "2Rj-9j-jUH"; */
-"2Rj-9j-jUH.title" = "No details";
+"2Rj-9j-jUH.title" = "Няма подробности";
 
 /* Class = "NSTextFieldCell"; title = "Sharpen images and remove noise"; ObjectID = "2fy-4y-8od"; */
-"2fy-4y-8od.title" = "Sharpen images and remove noise";
+"2fy-4y-8od.title" = "Изостряне на изображенията и премахване на шума";
 
 /* Class = "NSMenuItem"; title = "Next Media"; ObjectID = "2g9-rT-tyG"; */
-"2g9-rT-tyG.title" = "Next Media";
+"2g9-rT-tyG.title" = "Следваща медия";
 
 /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "2lD-Zn-e6Y"; */
-"2lD-Zn-e6Y.title" = "Exposure";
+"2lD-Zn-e6Y.title" = "Експозиция";
 
 /* Class = "NSTextFieldCell"; title = "Pixea can play almost every media format and will resume where you've paused the movie."; ObjectID = "2lY-1f-keo"; */
-"2lY-1f-keo.title" = "Pixea can play almost every media format and will resume where you've paused the movie.";
+"2lY-1f-keo.title" = "Pixea може да възпроизвежда почти всички мултимедийни формати и ще продължи от мястото, където сте спрели медийния файл.";
 
 /* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "2oX-Rh-0jJ"; */
-"2oX-Rh-0jJ.title" = "Zoom In";
+"2oX-Rh-0jJ.title" = "Увеличете";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "32b-FF-Kjb"; */
-"32b-FF-Kjb.title" = "Date Added";
+"32b-FF-Kjb.title" = "Дата на добавяне";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "36w-gH-8GU"; */
-"36w-gH-8GU.title" = "Box";
+"36w-gH-8GU.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "x 0.5"; ObjectID = "3Li-zW-xiQ"; */
 "3Li-zW-xiQ.title" = "x 0.5";
 
 /* Class = "NSTextFieldCell"; title = "Height"; ObjectID = "3cU-QE-IwH"; */
-"3cU-QE-IwH.title" = "Height";
+"3cU-QE-IwH.title" = "Дължина";
 
 /* Class = "NSMenuItem"; title = "Rotate"; ObjectID = "3qj-Zu-A6H"; */
-"3qj-Zu-A6H.title" = "Rotate";
+"3qj-Zu-A6H.title" = "Завъртете";
 
 /* Class = "NSMenuItem"; title = "Previous Frame"; ObjectID = "3yM-hq-lFd"; */
-"3yM-hq-lFd.title" = "Previous Frame";
+"3yM-hq-lFd.title" = "Предишен кадър";
 
 /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "416-RX-gxy"; */
-"416-RX-gxy.title" = "Actual Size";
+"416-RX-gxy.title" = "Действителен размер";
 
 /* Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "4Nr-8T-Cgs"; */
-"4Nr-8T-Cgs.title" = "Previous Media";
+"4Nr-8T-Cgs.title" = "Предишна медия";
 
 /* Class = "NSTextFieldCell"; title = "100 x 100"; ObjectID = "4bu-yX-k9h"; */
 "4bu-yX-k9h.title" = "100 x 100";
 
 /* Class = "NSMenuItem"; title = "Quit Pixea"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Quit Pixea";
+"4sb-4s-VLi.title" = "Изход от Pixea";
 
 /* Class = "NSMenuItem"; title = "Volume Down"; ObjectID = "4wJ-wI-MLi"; */
-"4wJ-wI-MLi.title" = "Volume Down";
+"4wJ-wI-MLi.title" = "Намаляване на звука";
 
 /* Class = "NSButtonCell"; title = "Exit"; ObjectID = "52d-HE-U1N"; */
-"52d-HE-U1N.title" = "Exit";
+"52d-HE-U1N.title" = "Изход";
 
 /* Class = "NSTextFieldCell"; title = "M"; ObjectID = "54U-4s-nQf"; */
 "54U-4s-nQf.title" = "M";
 
 /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "5CW-qq-0gN"; */
-"5CW-qq-0gN.title" = "Actual Size";
+"5CW-qq-0gN.title" = "Действителен размер";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "5FY-Fw-KLM"; */
-"5FY-Fw-KLM.title" = "Box";
+"5FY-Fw-KLM.title" = "Каре";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "5H2-If-tiW"; */
-"5H2-If-tiW.title" = "Box";
+"5H2-If-tiW.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "5HH-hz-IJv"; */
-"5HH-hz-IJv.title" = "Zoom Out";
+"5HH-hz-IJv.title" = "Намаляване на мащаба";
 
 /* Class = "NSTextFieldCell"; title = "Use the \"Upscale Image\" tool to achieve better results when enlarging images."; ObjectID = "5Jr-7K-IcS"; */
-"5Jr-7K-IcS.title" = "Use the \"Upscale Image\" tool to achieve better results when enlarging images.";
+"5Jr-7K-IcS.title" = "Използвайте инструмента \"Премащабиране на изображение\" за постигане на по-добри резултати при уголемяване на изображенията.";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
-"5QF-Oa-p0T.title" = "Edit";
+"5QF-Oa-p0T.title" = "Редактиране";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "5RU-ou-5Cg"; */
-"5RU-ou-5Cg.title" = "Box";
+"5RU-ou-5Cg.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "About Pixea"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "About Pixea";
+"5kV-Vb-QxS.title" = "За Pixea";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "5r1-QR-SO9"; */
-"5r1-QR-SO9.title" = "Name";
+"5r1-QR-SO9.title" = "Име";
 
 /* Class = "NSMenu"; title = "Rotate"; ObjectID = "604-Mt-Dsd"; */
-"604-Mt-Dsd.title" = "Rotate";
+"604-Mt-Dsd.title" = "Завъртете";
 
 /* Class = "NSMenuItem"; title = "Adjust Exposure..."; ObjectID = "61M-AE-aht"; */
-"61M-AE-aht.title" = "Adjust Exposure...";
+"61M-AE-aht.title" = "Регулиране на експозицията...";
 
 /* Class = "NSMenuItem"; title = "Upscale Image..."; ObjectID = "6KP-L7-uG9"; */
-"6KP-L7-uG9.title" = "Upscale Image...";
+"6KP-L7-uG9.title" = "Премащабиране на изображение...";
 
 /* Class = "NSButtonCell"; title = "Resume at: "; ObjectID = "6hd-0Z-fgw"; */
-"6hd-0Z-fgw.title" = "Resume at: ";
+"6hd-0Z-fgw.title" = "Възобновяване на: ";
 
 /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "6kR-i7-zTF"; */
-"6kR-i7-zTF.title" = "Size:";
+"6kR-i7-zTF.title" = "Размер:";
 
 /* Class = "NSTextFieldCell"; title = "Preparing..."; ObjectID = "6sQ-LP-9IX"; */
-"6sQ-LP-9IX.title" = "Preparing...";
+"6sQ-LP-9IX.title" = "Подготовка...";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "71v-SE-LbR"; */
-"71v-SE-LbR.title" = "Box";
+"71v-SE-LbR.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "74N-8e-eGd"; */
-"74N-8e-eGd.title" = "Edit with...";
+"74N-8e-eGd.title" = "Редактиране чрез...";
 
 /* Class = "NSTextFieldCell"; title = "Frames"; ObjectID = "7L0-zo-3pp"; */
-"7L0-zo-3pp.title" = "Frames";
+"7L0-zo-3pp.title" = "Кадри";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "7i2-91-a7w"; */
-"7i2-91-a7w.title" = "Box";
+"7i2-91-a7w.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "8Ru-D7-ENs"; */
-"8Ru-D7-ENs.title" = "Date Modified";
+"8Ru-D7-ENs.title" = "Дата на промяна";
 
 /* Class = "NSMenu"; title = "Edit with..."; ObjectID = "8VL-ln-ZDQ"; */
-"8VL-ln-ZDQ.title" = "Edit with...";
+"8VL-ln-ZDQ.title" = "Редактиране чрез...";
 
 /* Class = "NSMenuItem"; title = "90º Counter-clockwise"; ObjectID = "8Xe-Bv-byj"; */
-"8Xe-Bv-byj.title" = "90º Counter-clockwise";
+"8Xe-Bv-byj.title" = "90º Обратно на часовниковата стрелка";
 
 /* Class = "NSMenuItem"; title = "Crop Image..."; ObjectID = "8xk-cR-8Tk"; */
-"8xk-cR-8Tk.title" = "Crop Image...";
+"8xk-cR-8Tk.title" = "Изрязване на изображението...";
 
 /* Class = "NSButtonCell"; title = "〈"; ObjectID = "8yQ-Ip-sKD"; */
 "8yQ-Ip-sKD.title" = "〈";
 
 /* Class = "NSMenuItem"; title = "Resize Image..."; ObjectID = "93f-5e-wYb"; */
-"93f-5e-wYb.title" = "Resize Image...";
+"93f-5e-wYb.title" = "Преоразмеряване на изображението...";
 
 /* Class = "NSMenuItem"; title = "x 0.9"; ObjectID = "9D2-Ek-WrQ"; */
 "9D2-Ek-WrQ.title" = "x 0.9";
 
 /* Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "9jd-zO-5pf"; */
-"9jd-zO-5pf.title" = "Brightness";
+"9jd-zO-5pf.title" = "Яркост";
 
 /* Class = "NSMenuItem"; title = "Zoom Mode"; ObjectID = "9q2-gY-8Wt"; */
-"9q2-gY-8Wt.title" = "Zoom Mode";
+"9q2-gY-8Wt.title" = "Режим мащабиране";
 
 /* Class = "NSTextFieldCell"; title = "Video Playback"; ObjectID = "9uP-xu-jM2"; */
-"9uP-xu-jM2.title" = "Video Playback";
+"9uP-xu-jM2.title" = "Възпроизвеждане на видео";
 
 /* Class = "NSMenuItem"; title = "Large"; ObjectID = "9v5-Qh-6SO"; */
-"9v5-Qh-6SO.title" = "Large";
+"9v5-Qh-6SO.title" = "Голям"; //Голямо_a i18n testing_optimization
 
 /* Class = "NSTextFieldCell"; title = "one-time purchase"; ObjectID = "AIK-D5-Bcw"; */
-"AIK-D5-Bcw.title" = "one-time purchase";
+"AIK-D5-Bcw.title" = "еднократна покупка";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "AIL-CH-Cv8"; */
-"AIL-CH-Cv8.title" = "Select All";
+"AIL-CH-Cv8.title" = "Изберете всички";
 
 /* Class = "NSTextFieldCell"; title = "0/0"; ObjectID = "AMG-AS-CZn"; */
 "AMG-AS-CZn.title" = "0/0";
 
 /* Class = "NSTextFieldCell"; title = "Crop, Rotate and Flip"; ObjectID = "ATD-nd-5Q7"; */
-"ATD-nd-5Q7.title" = "Crop, Rotate and Flip";
+"ATD-nd-5Q7.title" = "Изрязване, завъртане и обръщане";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
-"AYu-sK-qS6.title" = "Main Menu";
+"AYu-sK-qS6.title" = "Главно Меню";
 
 /* Class = "NSMenuItem"; title = "Support"; ObjectID = "AcJ-fQ-4BR"; */
-"AcJ-fQ-4BR.title" = "Support";
+"AcJ-fQ-4BR.title" = "Поддръжка";
 
 /* Class = "NSMenuItem"; title = "1:1"; ObjectID = "Asx-QD-Aff"; */
 "Asx-QD-Aff.title" = "1:1";
 
 /* Class = "NSTextFieldCell"; title = "macOS 10.15 or higher is required. Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina."; ObjectID = "AyU-gL-xlx"; */
-"AyU-gL-xlx.title" = "macOS 10.15 or higher is required. Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina.";
+"AyU-gL-xlx.title" = "Изисква се macOS 10.15 или по-висока версия. Увеличаването на мащаба на изображението се основава на функционалността за машинно обучение, въведена за първи път в macOS Catalina.";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size:"; ObjectID = "Aza-qk-Yi4"; */
-"Aza-qk-Yi4.title" = "Actual Size:";
+"Aza-qk-Yi4.title" = "Действителен размер:";
 
 /* Class = "NSMenuItem"; title = "Settings..."; ObjectID = "B4P-M2-v7q"; */
-"B4P-M2-v7q.title" = "Settings...";
+"B4P-M2-v7q.title" = "Настройки...";
 
 /* Class = "NSTextFieldCell"; title = "Double-click to toggle Fullscreen"; ObjectID = "BMn-5U-qpQ"; */
-"BMn-5U-qpQ.title" = "Double-click to toggle Fullscreen";
+"BMn-5U-qpQ.title" = "Двойно щракване, за да превключите функцията Пълен екран";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "Preferences…";
+"BOF-NM-1cW.title" = "Преференции…";
 
 /* Class = "NSMenuItem"; title = "Export..."; ObjectID = "BSP-lv-ooN"; */
-"BSP-lv-ooN.title" = "Export...";
+"BSP-lv-ooN.title" = "Експортиране...";
 
 /* Class = "NSTextFieldCell"; title = "Folder"; ObjectID = "BVG-eR-wTo"; */
-"BVG-eR-wTo.title" = "Folder";
+"BVG-eR-wTo.title" = "Папка";
 
 /* Class = "NSTextFieldCell"; title = "Rotate Image Left / Right:"; ObjectID = "BjW-fL-UWX"; */
-"BjW-fL-UWX.title" = "Rotate Image Left / Right:";
+"BjW-fL-UWX.title" = "Завъртане на изображението наляво/надясно:";
 
 /* Class = "NSTextFieldCell"; title = "Folder Access"; ObjectID = "Bm3-17-wQ2"; */
-"Bm3-17-wQ2.title" = "Folder Access";
+"Bm3-17-wQ2.title" = "Достъп до папка";
 
 /* Class = "NSMenuItem"; title = "Panel Size"; ObjectID = "BrS-gR-6QU"; */
-"BrS-gR-6QU.title" = "Panel Size";
+"BrS-gR-6QU.title" = "Размер на панела";
 
 /* Class = "NSMenu"; title = "Sort by"; ObjectID = "C5P-qN-mJm"; */
-"C5P-qN-mJm.title" = "Sort by";
+"C5P-qN-mJm.title" = "Сортирай по";
 
 /* Class = "NSMenuItem"; title = "x 1.1"; ObjectID = "C6C-bh-B2s"; */
 "C6C-bh-B2s.title" = "x 1.1";
 
 /* Class = "NSTextFieldCell"; title = "Object Removal Tool"; ObjectID = "Cc6-JU-cWk"; */
-"Cc6-JU-cWk.title" = "Object Removal Tool";
+"Cc6-JU-cWk.title" = "Инструмент за премахване на обекти";
 
 /* Class = "NSMenuItem"; title = "Aspect Ratio"; ObjectID = "Cia-re-48J"; */
-"Cia-re-48J.title" = "Aspect Ratio";
+"Cia-re-48J.title" = "Съотношение на страните";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "Ckk-un-E0S"; */
-"Ckk-un-E0S.title" = "Format:";
+"Ckk-un-E0S.title" = "Формат:";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "CxA-b3-Alp"; */
-"CxA-b3-Alp.title" = "Name";
+"CxA-b3-Alp.title" = "Име";
 
 /* Class = "NSTextFieldCell"; title = "Hold Spacebar + Drag"; ObjectID = "D3w-IU-Fry"; */
-"D3w-IU-Fry.title" = "Hold Spacebar + Drag";
+"D3w-IU-Fry.title" = "Задръжте интервала + влачете";
 
 /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "D5D-oq-By8"; */
-"D5D-oq-By8.title" = "Contrast";
+"D5D-oq-By8.title" = "Контраст";
 
 /* Class = "NSTextFieldCell"; title = "Square Selection:"; ObjectID = "DFh-Uq-L1Q"; */
-"DFh-Uq-L1Q.title" = "Square Selection:";
+"DFh-Uq-L1Q.title" = "Избор на квадрат:";
 
 /* Class = "NSMenuItem"; title = "Settings..."; ObjectID = "DJJ-LH-C5t"; */
-"DJJ-LH-C5t.title" = "Settings...";
+"DJJ-LH-C5t.title" = "Настройки...";
 
 /* Class = "NSTextFieldCell"; title = "Password is required for this archive:"; ObjectID = "DJs-LR-ydU"; */
-"DJs-LR-ydU.title" = "Password is required for this archive:";
+"DJs-LR-ydU.title" = "За този архив е необходима парола:";
 
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "DNE-ms-IDb"; */
-"DNE-ms-IDb.title" = "Next";
+"DNE-ms-IDb.title" = "Следващ";
 
 /* Class = "NSMenu"; title = "Video"; ObjectID = "DVW-AH-S9e"; */
-"DVW-AH-S9e.title" = "Video";
+"DVW-AH-S9e.title" = "Видео";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
-"DVo-aG-piG.title" = "Close";
+"DVo-aG-piG.title" = "Затвори"; //затворете
 
 /* Class = "NSButtonCell"; title = "Upscale this image..."; ObjectID = "ECS-ZL-U4a"; */
-"ECS-ZL-U4a.title" = "Upscale this image...";
+"ECS-ZL-U4a.title" = "Увеличете мащаба на това изображение...";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Ec8-gV-2d7"; */
-"Ec8-gV-2d7.title" = "Box";
+"Ec8-gV-2d7.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "Eda-XS-lGE"; */
-"Eda-XS-lGE.title" = "Deselect";
+"Eda-XS-lGE.title" = "Премахване на избора";
 
 /* Class = "NSMenuItem"; title = "Sort by"; ObjectID = "Edf-r4-E3w"; */
-"Edf-r4-E3w.title" = "Sort by";
+"Edf-r4-E3w.title" = "Сортирай по";
 
 /* Class = "NSTextFieldCell"; title = "Status Bar"; ObjectID = "Etf-c1-dt0"; */
-"Etf-c1-dt0.title" = "Status Bar";
+"Etf-c1-dt0.title" = "Лентата на състоянието";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
-"F2S-fz-NVQ.title" = "Help";
+"F2S-fz-NVQ.title" = "Помощ";
 
 /* Class = "NSTextFieldCell"; title = "The invisible image viewer & video player"; ObjectID = "FBO-zE-1dF"; */
-"FBO-zE-1dF.title" = "The invisible image viewer & video player";
+"FBO-zE-1dF.title" = "Невидимият плейър за преглед на изображения и видеор";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Move around the picture..."; ObjectID = "FVb-yn-q62"; */
-"FVb-yn-q62.ibShadowedToolTip" = "Move around the picture...";
+"FVb-yn-q62.ibShadowedToolTip" = "Движете се по изображението...";
 
 /* Class = "NSMenuItem"; title = "Open"; ObjectID = "FaJ-Id-m0g"; */
-"FaJ-Id-m0g.title" = "Open";
+"FaJ-Id-m0g.title" = "Отвори"; //can be also отворете
 
 /* Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "FkQ-hh-Gwa"; */
-"FkQ-hh-Gwa.title" = "Fit to Screen";
+"FkQ-hh-Gwa.title" = "Побиране в екрана";
 
 /* Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "G0A-vg-f8I"; */
-"G0A-vg-f8I.title" = "Shuffle";
+"G0A-vg-f8I.title" = "Разбъркване";
 
 /* Class = "NSTextFieldCell"; title = "+ / -"; ObjectID = "G3k-6y-8WP"; */
 "G3k-6y-8WP.title" = "+ / -";
 
 /* Class = "NSMenuItem"; title = "Open"; ObjectID = "G62-pd-8fv"; */
-"G62-pd-8fv.title" = "Open";
+"G62-pd-8fv.title" = "Отвори";
 
 /* Class = "NSMenuItem"; title = "Scroll Mode"; ObjectID = "G9H-DQ-VZP"; */
-"G9H-DQ-VZP.title" = "Scroll Mode";
+"G9H-DQ-VZP.title" = "Режим на превъртане";
 
 /* Class = "NSTextFieldCell"; title = "Reduce Noise"; ObjectID = "GCG-um-bXW"; */
-"GCG-um-bXW.title" = "Reduce Noise";
+"GCG-um-bXW.title" = "Намаляване на шума";
 
 /* Class = "NSButtonCell"; title = "Don't show again"; ObjectID = "GPg-vc-0qg"; */
-"GPg-vc-0qg.title" = "Don't show again";
+"GPg-vc-0qg.title" = "Не показвай повече";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "GS5-eL-6Vc"; */
-"GS5-eL-6Vc.title" = "PLUS";
+"GS5-eL-6Vc.title" = "ПЛЮС";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "GTY-oY-Mav"; */
-"GTY-oY-Mav.title" = "Show in Finder";
+"GTY-oY-Mav.title" = "Покажи във Finder";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Gat-9r-8uz"; */
-"Gat-9r-8uz.title" = "Box";
+"Gat-9r-8uz.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "Gdb-mH-Ge4"; */
-"Gdb-mH-Ge4.title" = "Edit with...";
+"Gdb-mH-Ge4.title" = "Редактиране чрез...";
 
 /* Class = "NSTextFieldCell"; title = "px"; ObjectID = "Gpq-jV-HNI"; */
 "Gpq-jV-HNI.title" = "px";
 
 /* Class = "NSMenu"; title = "Sort by"; ObjectID = "H8K-iQ-dVU"; */
-"H8K-iQ-dVU.title" = "Sort by";
+"H8K-iQ-dVU.title" = "Сортирай по";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
-"H8h-7b-M4v.title" = "View";
+"H8h-7b-M4v.title" = "Преглед";
 
 /* Class = "NSMenu"; title = "Panel Size"; ObjectID = "HBQ-iF-HgZ"; */
-"HBQ-iF-HgZ.title" = "Panel Size";
+"HBQ-iF-HgZ.title" = "Размер на панела";
 
 /* Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "HSh-ER-WGV"; */
-"HSh-ER-WGV.title" = "Next Frame";
+"HSh-ER-WGV.title" = "Следващ кадър";
 
 /* Class = "NSButtonCell"; title = "〉"; ObjectID = "Hx8-bn-cdh"; */
 "Hx8-bn-cdh.title" = "〉";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
-"HyV-fh-RgO.title" = "View";
+"HyV-fh-RgO.title" = "Преглед";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "I7k-iA-z8K"; */
-"I7k-iA-z8K.title" = "Box";
+"I7k-iA-z8K.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Open File or Folder…"; ObjectID = "IAo-SY-fd9"; */
-"IAo-SY-fd9.title" = "Open File or Folder…";
+"IAo-SY-fd9.title" = "Отворете файл или папка…";
 
 /* Class = "NSMenuItem"; title = "White"; ObjectID = "IEz-OH-Nzd"; */
-"IEz-OH-Nzd.title" = "White";
+"IEz-OH-Nzd.title" = "Бяло";
 
 /* Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "IHD-sx-eo9"; */
-"IHD-sx-eo9.title" = "Resolution";
+"IHD-sx-eo9.title" = "Резолюция";
 
 /* Class = "NSButtonCell"; title = "Resize"; ObjectID = "IHT-n0-mvJ"; */
-"IHT-n0-mvJ.title" = "Resize";
+"IHT-n0-mvJ.title" = "Оразмери";
 
 /* Class = "NSWindow"; title = "Pixea"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Pixea";
 
 /* Class = "NSMenuItem"; title = "Video"; ObjectID = "Ij5-Ih-xb2"; */
-"Ij5-Ih-xb2.title" = "Video";
+"Ij5-Ih-xb2.title" = "Видео";
 
 /* Class = "NSMenuItem"; title = "x 2.0"; ObjectID = "Iqa-EO-N9J"; */
 "Iqa-EO-N9J.title" = "x 2.0";
 
 /* Class = "NSTextFieldCell"; title = "0 bytes"; ObjectID = "Iw4-it-Pea"; */
-"Iw4-it-Pea.title" = "0 bytes";
+"Iw4-it-Pea.title" = "0 байта";
 
 /* Class = "NSMenuItem"; title = "Rotate"; ObjectID = "J5c-cI-v9Q"; */
-"J5c-cI-v9Q.title" = "Rotate";
+"J5c-cI-v9Q.title" = "Завъртете";
 
 /* Class = "NSButtonCell"; title = "●"; ObjectID = "JAb-xG-tor"; */
 "JAb-xG-tor.title" = "●";
 
 /* Class = "NSTextFieldCell"; title = "4x Image Upscaling"; ObjectID = "JbV-fx-ccF"; */
-"JbV-fx-ccF.title" = "4x Image Upscaling";
+"JbV-fx-ccF.title" = "4x Мащабиране на изображение";
 
 /* Class = "NSMenuItem"; title = "Regular"; ObjectID = "Jg6-mH-6b3"; */
-"Jg6-mH-6b3.title" = "Regular";
+"Jg6-mH-6b3.title" = "Симетричен"; // i18n testing_optimization can be also like normal
 
 /* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "Jtx-kb-gcf"; */
-"Jtx-kb-gcf.title" = "Zoom In";
+"Jtx-kb-gcf.title" = "Увеличете";
 
 /* Class = "NSTextFieldCell"; title = "Settings..."; ObjectID = "K2k-bp-amS"; */
-"K2k-bp-amS.title" = "Settings...";
+"K2k-bp-amS.title" = "Настройки...";
 
 /* Class = "NSTextFieldCell"; title = "Use Objects Removal Tool to remove unwanted objects, people, or defects. Pixea will reconstruct what was behind the object. Use Clone tool to polish the result."; ObjectID = "K5C-Rc-DMb"; */
-"K5C-Rc-DMb.title" = "Use Objects Removal Tool to remove unwanted objects, people, or defects. Pixea will reconstruct what was behind the object. Use Clone tool to polish the result.";
+"K5C-Rc-DMb.title" = "Използвайте инструмента за премахване на обекти, за да премахнете нежелани обекти, хора или дефекти. Pixea ще реконструира какво е било зад обекта. Използвайте инструмента за клониране, за да полирате резултата.";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "KFA-UH-GAx"; */
-"KFA-UH-GAx.title" = "Box";
+"KFA-UH-GAx.title" = "Каре";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Selection Tool"; ObjectID = "KXC-fA-OG9"; */
-"KXC-fA-OG9.ibShadowedToolTip" = "Selection Tool";
+"KXC-fA-OG9.ibShadowedToolTip" = "Инструмент за избор";
 
 /* Class = "NSMenuItem"; title = "File Size"; ObjectID = "KbP-71-m2o"; */
-"KbP-71-m2o.title" = "File Size";
+"KbP-71-m2o.title" = "Размер на файла";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
-"Kd2-mp-pUS.title" = "Show All";
+"Kd2-mp-pUS.title" = "Покажи Всички";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Kds-l3-8cD"; */
-"Kds-l3-8cD.title" = "Cancel";
+"Kds-l3-8cD.title" = "Отказ";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "Kro-sQ-5VI"; */
-"Kro-sQ-5VI.title" = "Date Created";
+"Kro-sQ-5VI.title" = "Дата на създаване";
 
 /* Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "Kvi-QI-RHW"; */
-"Kvi-QI-RHW.title" = "Shuffle";
+"Kvi-QI-RHW.title" = "Разбъркване";
 
 /* Class = "NSButtonCell"; title = "Undo"; ObjectID = "LD0-zF-hNW"; */
-"LD0-zF-hNW.title" = "Undo";
+"LD0-zF-hNW.title" = "Отмяна";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
-"LE2-aR-0XJ.title" = "Bring All to Front";
+"LE2-aR-0XJ.title" = "Изведете всички отпред";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "LKs-6t-Gpx"; */
-"LKs-6t-Gpx.title" = "Box";
+"LKs-6t-Gpx.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Ambient light"; ObjectID = "LKu-up-qrl"; */
-"LKu-up-qrl.title" = "Ambient light";
+"LKu-up-qrl.title" = "Амбиентно осветление";
 
 /* Class = "NSMenuItem"; title = "Get Info"; ObjectID = "LQy-38-T9R"; */
-"LQy-38-T9R.title" = "Get Info";
+"LQy-38-T9R.title" = "Получете информация";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "LZX-I5-3QR"; */
-"LZX-I5-3QR.title" = "Apply";
+"LZX-I5-3QR.title" = "Приложи";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Lbs-JZ-O2N"; */
-"Lbs-JZ-O2N.title" = "Show in Finder";
+"Lbs-JZ-O2N.title" = "Покажи във Finder";
 
 /* Class = "NSMenuItem"; title = "Find..."; ObjectID = "LdV-jm-VcE"; */
-"LdV-jm-VcE.title" = "Find...";
+"LdV-jm-VcE.title" = "Намерете...";
 
 /* Class = "NSMenuItem"; title = "File Size"; ObjectID = "LfA-Rc-wTY"; */
-"LfA-Rc-wTY.title" = "File Size";
+"LfA-Rc-wTY.title" = "Размер на файла";
 
 /* Class = "NSTextFieldCell"; title = "W: 0, H: 0"; ObjectID = "Lfe-Ve-rFq"; */
 "Lfe-Ve-rFq.title" = "W: 0, H: 0";
 
 /* Class = "NSMenuItem"; title = "Remove from Favorites"; ObjectID = "LmA-ln-jNe"; */
-"LmA-ln-jNe.title" = "Remove from Favorites";
+"LmA-ln-jNe.title" = "Премахване от Любими";
 
 /* Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "LvE-Il-RyX"; */
-"LvE-Il-RyX.title" = "Sharpness and Noise...";
+"LvE-Il-RyX.title" = "Острота и шум...";
 
 /* Class = "NSMenuItem"; title = "Next Media"; ObjectID = "Lzp-L7-kzG"; */
-"Lzp-L7-kzG.title" = "Next Media";
+"Lzp-L7-kzG.title" = "Следваща медия";
 
 /* Class = "NSMenuItem"; title = "Show Thumbnails"; ObjectID = "MKN-JM-Xav"; */
-"MKN-JM-Xav.title" = "Show Thumbnails";
+"MKN-JM-Xav.title" = "Показване на миниатюри";
 
 /* Class = "NSTextFieldCell"; title = "Upscale Mode:"; ObjectID = "MSf-lC-bwD"; */
-"MSf-lC-bwD.title" = "Upscale Mode:";
+"MSf-lC-bwD.title" = "Режим мащабиране:";
 
 /* Class = "NSButtonCell"; title = "Restore Purchase"; ObjectID = "MTs-b0-J0U"; */
-"MTs-b0-J0U.title" = "Restore Purchase";
+"MTs-b0-J0U.title" = "Възстановяване на покупка";
 
 /* Class = "NSTextFieldCell"; title = "Thumbnails Panel"; ObjectID = "MeO-5Y-RDK"; */
-"MeO-5Y-RDK.title" = "Thumbnails Panel";
+"MeO-5Y-RDK.title" = "Панел с миниатюри";
 
 /* Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "Mqa-3g-6OI"; */
-"Mqa-3g-6OI.title" = "Shuffle";
+"Mqa-3g-6OI.title" = "Разбъркване";
 
 /* Class = "NSMenuItem"; title = "Adjust Hue, Saturation, Brightness..."; ObjectID = "N8g-9G-SBg"; */
-"N8g-9G-SBg.title" = "Adjust Hue, Saturation, Brightness...";
+"N8g-9G-SBg.title" = "Регулирайте нюанса, наситеността, яркостта...";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
-"NMo-om-nkz.title" = "Services";
+"NMo-om-nkz.title" = "Услуги";
 
 /* Class = "NSTextFieldCell"; title = "Previous / Next Media:"; ObjectID = "Nk1-R6-DuY"; */
-"Nk1-R6-DuY.title" = "Previous / Next Media:";
+"Nk1-R6-DuY.title" = "Предишна / Следваща Медия:";
 
 /* Class = "NSMenuItem"; title = "Fixed Size & Position"; ObjectID = "O3o-wm-ana"; */
-"O3o-wm-ana.title" = "Fixed Size & Position";
+"O3o-wm-ana.title" = "Фиксиран размер и Позиция";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ODC-XT-zmq"; */
-"ODC-XT-zmq.title" = "Box";
+"ODC-XT-zmq.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "OQk-8W-RAG"; */
-"OQk-8W-RAG.title" = "Show in Finder";
+"OQk-8W-RAG.title" = "Показване във Finder";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "ORK-zr-EmC"; */
-"ORK-zr-EmC.title" = "Date Created";
+"ORK-zr-EmC.title" = "Дата на създаване";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "OTb-g7-p6Y"; */
-"OTb-g7-p6Y.title" = "Box";
+"OTb-g7-p6Y.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "Learn more..."; ObjectID = "OUH-3K-P7t"; */
-"OUH-3K-P7t.title" = "Learn more...";
+"OUH-3K-P7t.title" = "Научете повече...";
 
 /* Class = "NSMenuItem"; title = "Stretch to Fit"; ObjectID = "OXD-1x-aeb"; */
-"OXD-1x-aeb.title" = "Stretch to Fit";
+"OXD-1x-aeb.title" = "Разтегнете, за да се побере";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
-"OY7-WF-poV.title" = "Minimize";
+"OY7-WF-poV.title" = "Минимизиране";
 
 /* Class = "NSMenuItem"; title = "Hide Pixea"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Hide Pixea";
+"Olw-nP-bQN.title" = "Скриване на Pixea";
 
 /* Class = "NSMenuItem"; title = "90º Clockwise"; ObjectID = "OwG-hA-I7X"; */
-"OwG-hA-I7X.title" = "90º Clockwise";
+"OwG-hA-I7X.title" = "90º по часовниковата стрелка";
 
 /* Class = "NSTextFieldCell"; title = "Customize swipe gesture for video playback"; ObjectID = "P4C-AC-JsU"; */
-"P4C-AC-JsU.title" = "Customize swipe gesture for video playback";
+"P4C-AC-JsU.title" = "Персонализирайте жеста на плъзгане за възпроизвеждане на видео";
 
 /* Class = "NSMenuItem"; title = "Resize Image..."; ObjectID = "PCI-2G-Ao3"; */
-"PCI-2G-Ao3.title" = "Resize Image...";
+"PCI-2G-Ao3.title" = "Преоразмеряване на изображението...";
 
 /* Class = "NSMenuItem"; title = "Hand Tool"; ObjectID = "PSk-LG-qQ0"; */
-"PSk-LG-qQ0.title" = "Hand Tool";
+"PSk-LG-qQ0.title" = "Инструмент ръчичка"; //perhaps hand to be replaced as wording i18n testing_optimization
 
 /* Class = "NSMenuItem"; title = "Open"; ObjectID = "Prh-st-4uc"; */
-"Prh-st-4uc.title" = "Open";
+"Prh-st-4uc.title" = "Отвори";
 
 /* Class = "NSTextFieldCell"; title = "Scroll:"; ObjectID = "QDQ-EF-eM9"; */
-"QDQ-EF-eM9.title" = "Scroll:";
+"QDQ-EF-eM9.title" = "Скролиране:";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "QdI-P2-qRp"; */
-"QdI-P2-qRp.title" = "Box";
+"QdI-P2-qRp.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "File Size"; ObjectID = "QdW-qF-iHJ"; */
-"QdW-qF-iHJ.title" = "File Size";
+"QdW-qF-iHJ.title" = "Размер на файла";
 
 /* Class = "NSTextFieldCell"; title = "Object Removal Tool"; ObjectID = "QgE-5c-QK1"; */
-"QgE-5c-QK1.title" = "Object Removal Tool";
+"QgE-5c-QK1.title" = "Инструмент за Премахване на Обекти";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "QhC-BY-ca2"; */
-"QhC-BY-ca2.title" = "Date Added";
+"QhC-BY-ca2.title" = "Дата на добавяне";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
-"R4o-n2-Eq4.title" = "Zoom";
+"R4o-n2-Eq4.title" = "Мащабиране";
 
 /* Class = "NSMenuItem"; title = "3:2"; ObjectID = "RN3-Qt-F71"; */
 "RN3-Qt-F71.title" = "3:2";
 
 /* Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "RZH-Sj-qMe"; */
-"RZH-Sj-qMe.title" = "Fill Screen";
+"RZH-Sj-qMe.title" = "Запълване на екрана";
 
 /* Class = "NSMenuItem"; title = "Add to Favorites"; ObjectID = "RuK-iH-K5f"; */
-"RuK-iH-K5f.title" = "Add to Favorites";
+"RuK-iH-K5f.title" = "Добавяне към Любими";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
-"Ruw-6m-B2m.title" = "Select All";
+"Ruw-6m-B2m.title" = "Изберете Всички";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ry1-9i-6M3"; */
-"Ry1-9i-6M3.title" = "Text Cell";
+"Ry1-9i-6M3.title" = "Клетка за текст";
 
 /* Class = "NSTextFieldCell"; title = "Previous / Next Image Frame:"; ObjectID = "RyE-KS-CvV"; */
-"RyE-KS-CvV.title" = "Previous / Next Image Frame:";
+"RyE-KS-CvV.title" = "Предишна / Следващ кадър на изображението:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "SC4-a4-sdz"; */
-"SC4-a4-sdz.title" = "Default";
+"SC4-a4-sdz.title" = "По подразбиране";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Remove Objects..."; ObjectID = "SIo-1B-uFW"; */
-"SIo-1B-uFW.ibShadowedToolTip" = "Remove Objects...";
+"SIo-1B-uFW.ibShadowedToolTip" = "Премахване на Обекти...";
 
 /* Class = "NSMenuItem"; title = "Toggle Full Screen"; ObjectID = "SQQ-4N-Qa6"; */
-"SQQ-4N-Qa6.title" = "Toggle Full Screen";
+"SQQ-4N-Qa6.title" = "Превключване към цял екран";
 
 /* Class = "NSButtonCell"; title = "●"; ObjectID = "Sfb-YV-5D7"; */
 "Sfb-YV-5D7.title" = "●";
 
 /* Class = "NSTextFieldCell"; title = "Place, Country"; ObjectID = "Srp-qy-d5y"; */
-"Srp-qy-d5y.title" = "Place, Country";
+"Srp-qy-d5y.title" = "Място, държава";
 
 /* Class = "NSTextFieldCell"; title = "X: 0, Y: 0"; ObjectID = "StO-om-yza"; */
 "StO-om-yza.title" = "X: 0, Y: 0";
 
 /* Class = "NSTextFieldCell"; title = "2x and 4x upscaling powered by machine learning"; ObjectID = "SuD-4W-4F6"; */
-"SuD-4W-4F6.title" = "2x and 4x upscaling powered by machine learning";
+"SuD-4W-4F6.title" = "2x и 4x премащабиране задвижено чрез машинно обучение";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to Pixea!"; ObjectID = "SyG-73-GCB"; */
-"SyG-73-GCB.title" = "Welcome to Pixea!";
+"SyG-73-GCB.title" = "Добре дошли в Pixea!";
 
 /* Class = "NSMenuItem"; title = "System default"; ObjectID = "T6u-Hv-Ln0"; */
-"T6u-Hv-Ln0.title" = "System default";
+"T6u-Hv-Ln0.title" = "Система по подразбиране";
 
 /* Class = "NSMenuItem"; title = "Full Screen background:"; ObjectID = "TAo-ff-djH"; */
-"TAo-ff-djH.title" = "Full Screen background:";
+"TAo-ff-djH.title" = "Фон на цял екран:";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "TDY-tf-kxD"; */
-"TDY-tf-kxD.title" = "Box";
+"TDY-tf-kxD.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Pixea"; ObjectID = "TRy-1a-nmH"; */
 "TRy-1a-nmH.title" = "Pixea";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
-"Td7-aD-5lo.title" = "Window";
+"Td7-aD-5lo.title" = "Прозорец";
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "Tgc-bh-Ybe"; */
-"Tgc-bh-Ybe.title" = "Move to Trash";
+"Tgc-bh-Ybe.title" = "Преместване в кошчето";
 
 /* Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "UGm-SA-Fqb"; */
-"UGm-SA-Fqb.title" = "Next Frame";
+"UGm-SA-Fqb.title" = "Следващ кадър";
 
 /* Class = "NSTextFieldCell"; title = "Double-click to Step Backward 10s"; ObjectID = "UQP-Jr-V7o"; */
-"UQP-Jr-V7o.title" = "Double-click to Step Backward 10s";
+"UQP-Jr-V7o.title" = "Щракнете двукратно, за да направите крачка назад с 10 секунди";
 
 /* Class = "NSMenu"; title = "Sort by"; ObjectID = "UQg-Np-NgI"; */
-"UQg-Np-NgI.title" = "Sort by";
+"UQg-Np-NgI.title" = "Сортирай по";
 
 /* Class = "NSTextFieldCell"; title = "Preserve details"; ObjectID = "Ug9-Or-e4v"; */
-"Ug9-Or-e4v.title" = "Preserve details";
+"Ug9-Or-e4v.title" = "Запазете детайлите";
 
 /* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "UtB-es-Opq"; */
-"UtB-es-Opq.title" = "Item 3";
+"UtB-es-Opq.title" = "3 елемента"; //to reconsider if using variables - i18n testing_optimization
 
 /* Class = "NSButton"; ibShadowedToolTip = "Crop, Rotate and Flip..."; ObjectID = "Uus-Lj-fnX"; */
-"Uus-Lj-fnX.ibShadowedToolTip" = "Crop, Rotate and Flip...";
+"Uus-Lj-fnX.ibShadowedToolTip" = "Изрязване, завъртане и обръщане...";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "Uwj-wf-uhz"; */
-"Uwj-wf-uhz.title" = "PLUS";
+"Uwj-wf-uhz.title" = "ПЛЮС";
 
 /* Class = "NSTextFieldCell"; title = "Search for images or videos in media directories or Zip-archives"; ObjectID = "VC3-BS-xWo"; */
-"VC3-BS-xWo.title" = "Search for images or videos in media directories or Zip-archives";
+"VC3-BS-xWo.title" = "Търсете изображения или видеоклипове в медийни директории или Zip-архиви";
 
 /* Class = "NSButtonCell"; title = "price"; ObjectID = "VHm-My-9aD"; */
-"VHm-My-9aD.title" = "price";
+"VHm-My-9aD.title" = "цена";
 
 /* Class = "NSMenuItem"; title = "File Type"; ObjectID = "VJo-ej-Jj8"; */
-"VJo-ej-Jj8.title" = "File Type";
+"VJo-ej-Jj8.title" = "Тип Файл";
 
 /* Class = "NSMenuItem"; title = "Sort by"; ObjectID = "VKC-a1-mMW"; */
-"VKC-a1-mMW.title" = "Sort by";
+"VKC-a1-mMW.title" = "Сортирай по";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Select Text..."; ObjectID = "VZe-sp-Biq"; */
-"VZe-sp-Biq.ibShadowedToolTip" = "Select Text...";
+"VZe-sp-Biq.ibShadowedToolTip" = "Изберете Текст...";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
-"Vdr-fp-XzO.title" = "Hide Others";
+"Vdr-fp-XzO.title" = "Скриване на останалите";
 
 /* Class = "NSButtonCell"; title = "●"; ObjectID = "Vo4-ix-Uc3"; */
 "Vo4-ix-Uc3.title" = "●";
 
 /* Class = "NSTextFieldCell"; title = "Use Objects Removal Tool to remove unwanted objects, people, or defects. Pixea will reconstruct what was behind the object. Use Clone tool to polish the result."; ObjectID = "Vpv-Eg-xEA"; */
-"Vpv-Eg-xEA.title" = "Use Objects Removal Tool to remove unwanted objects, people, or defects. Pixea will reconstruct what was behind the object. Use Clone tool to polish the result.";
+"Vpv-Eg-xEA.title" = "Използвайте инструмента за премахване на обекти, за да премахнете нежелани обекти, хора или дефекти. Pixea ще реконструира какво е било зад обекта. Използвайте инструмента за клониране, за да полирате резултата.";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
-"W48-6f-4Dl.title" = "Edit";
+"W48-6f-4Dl.title" = "Редактиране";
 
 /* Class = "NSMenuItem"; title = "Step Backward 30s"; ObjectID = "WDs-a0-atr"; */
-"WDs-a0-atr.title" = "Step Backward 30s";
+"WDs-a0-atr.title" = "Стъпка назад 30сек";
 
 /* Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "WMu-6w-ljA"; */
-"WMu-6w-ljA.title" = "Text Selection Tool";
+"WMu-6w-ljA.title" = "Инструмент за избор на текст";
 
 /* Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[0] = "px"; ObjectID = "WMy-oE-Lpx"; */
 "WMy-oE-Lpx.ibShadowedObjectValues[0]" = "px";
 
 /* Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[1] = "in"; ObjectID = "WMy-oE-Lpx"; */
-"WMy-oE-Lpx.ibShadowedObjectValues[1]" = "in";
+"WMy-oE-Lpx.ibShadowedObjectValues[1]" = "инча";
 
 /* Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[2] = "mm"; ObjectID = "WMy-oE-Lpx"; */
-"WMy-oE-Lpx.ibShadowedObjectValues[2]" = "mm";
+"WMy-oE-Lpx.ibShadowedObjectValues[2]" = "мм";
 
 /* Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[3] = "cm"; ObjectID = "WMy-oE-Lpx"; */
-"WMy-oE-Lpx.ibShadowedObjectValues[3]" = "cm";
+"WMy-oE-Lpx.ibShadowedObjectValues[3]" = "см";
 
 /* Class = "NSMenuItem"; title = "5:4"; ObjectID = "WOa-Qq-Mnd"; */
 "WOa-Qq-Mnd.title" = "5:4";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Upscale Image..."; ObjectID = "WVT-E0-qow"; */
-"WVT-E0-qow.ibShadowedToolTip" = "Upscale Image...";
+"WVT-E0-qow.ibShadowedToolTip" = "Премащабиране на изображение...";
 
 /* Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "WWZ-KY-P1s"; */
-"WWZ-KY-P1s.title" = "Edit with...";
+"WWZ-KY-P1s.title" = "Редактиране чрез...";
 
 /* Class = "NSMenuItem"; title = "Tools"; ObjectID = "WX4-3f-MXQ"; */
-"WX4-3f-MXQ.title" = "Tools";
+"WX4-3f-MXQ.title" = "Инструменти";
 
 /* Class = "NSMenuItem"; title = "New from Clipboard"; ObjectID = "Was-JA-tGl"; */
-"Was-JA-tGl.title" = "New from Clipboard";
+"Was-JA-tGl.title" = "Нов от клипборда";
 
 /* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Wi7-J4-l0J"; */
-"Wi7-J4-l0J.headerCell.title" = "Key";
+"Wi7-J4-l0J.headerCell.title" = "Ключ";
 
 /* Class = "NSMenuItem"; title = "Export..."; ObjectID = "WoY-kc-InQ"; */
-"WoY-kc-InQ.title" = "Export...";
+"WoY-kc-InQ.title" = "Експортиране...";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "WrH-5a-2aF"; */
-"WrH-5a-2aF.title" = "Box";
+"WrH-5a-2aF.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Adjust Color Temperature..."; ObjectID = "Wsc-LN-N0v"; */
-"Wsc-LN-N0v.title" = "Adjust Color Temperature...";
+"Wsc-LN-N0v.title" = "Регулиране на температурата на цвета...";
 
 /* Class = "NSTextFieldCell"; title = "Width"; ObjectID = "X5g-2h-3aN"; */
-"X5g-2h-3aN.title" = "Width";
+"X5g-2h-3aN.title" = "Ширина";
 
 /* Class = "NSTextFieldCell"; title = "filename"; ObjectID = "XJE-N1-0te"; */
-"XJE-N1-0te.title" = "filename";
+"XJE-N1-0te.title" = "име на файл";
 
 /* Class = "NSMenuItem"; title = "Objects Removal Tool"; ObjectID = "XN3-4a-Abs"; */
-"XN3-4a-Abs.title" = "Objects Removal Tool";
+"XN3-4a-Abs.title" = "Инструмент за премахване на обекти";
 
 /* Class = "NSButtonCell"; title = "〉"; ObjectID = "Xle-vO-5Fh"; */
 "Xle-vO-5Fh.title" = "〉";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "XnU-5g-44p"; */
-"XnU-5g-44p.title" = "Cancel";
+"XnU-5g-44p.title" = "Отказ";
 
 /* Class = "NSMenuItem"; title = "Settings..."; ObjectID = "Xzg-kp-EPT"; */
-"Xzg-kp-EPT.title" = "Settings...";
+"Xzg-kp-EPT.title" = "Настройки...";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Y4j-Rb-ej6"; */
-"Y4j-Rb-ej6.title" = "Box";
+"Y4j-Rb-ej6.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "Y7X-RQ-puJ"; */
-"Y7X-RQ-puJ.title" = "Scroll Left";
+"Y7X-RQ-puJ.title" = "Превъртете наляво";
 
 /* Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "Ybk-dm-Drb"; */
-"Ybk-dm-Drb.title" = "Edit with...";
+"Ybk-dm-Drb.title" = "Редактиране чрез...";
 
 /* Class = "NSTextFieldCell"; title = "1/1"; ObjectID = "YxT-j9-Oog"; */
 "YxT-j9-Oog.title" = "1/1";
 
 /* Class = "NSTextFieldCell"; title = "macOS 11 or higher is required. Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur."; ObjectID = "Yxs-SF-uxz"; */
-"Yxs-SF-uxz.title" = "macOS 11 or higher is required. Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur.";
+"Yxs-SF-uxz.title" = "Изисква се macOS 11 или по-нова версия. Алгоритъмът за премахване на обект се основава на функциите за машинно обучение, въведени за първи път с macOS Big Sur.";
 
 /* Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "ZEt-IC-aoh"; */
-"ZEt-IC-aoh.title" = "Fill Screen";
+"ZEt-IC-aoh.title" = "Запълване на екрана";
 
 /* Class = "NSTextFieldCell"; title = "Double-click to Step Forward 10s"; ObjectID = "Zfi-g9-z9c"; */
-"Zfi-g9-z9c.title" = "Double-click to Step Forward 10s";
+"Zfi-g9-z9c.title" = "Щракнете двукратно, за да преминете напред 10сек";
 
 /* Class = "NSMenu"; title = "Rotate"; ObjectID = "Zw4-W5-pzM"; */
-"Zw4-W5-pzM.title" = "Rotate";
+"Zw4-W5-pzM.title" = "Завъртете";
 
 /* Class = "NSTextFieldCell"; title = "[ / ]"; ObjectID = "a0g-RZ-9tU"; */
 "a0g-RZ-9tU.title" = "[ / ]";
@@ -756,88 +756,85 @@
 "aCG-q3-CDt.title" = "●";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "aIp-ev-WIq"; */
-"aIp-ev-WIq.title" = "Box";
+"aIp-ev-WIq.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Zoom Out:"; ObjectID = "aPJ-Va-Sk8"; */
-"aPJ-Va-Sk8.title" = "Zoom Out:";
+"aPJ-Va-Sk8.title" = "Намаляване:";
 
 /* Class = "NSMenuItem"; title = "Clone Tool"; ObjectID = "aSa-g5-7U9"; */
-"aSa-g5-7U9.title" = "Clone Tool";
+"aSa-g5-7U9.title" = "Инструмент за клониране";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
-"aTl-1u-JFS.title" = "Print…";
+"aTl-1u-JFS.title" = "Отпечатай…";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "aTv-hl-jXN"; */
-"aTv-hl-jXN.title" = "Box";
+"aTv-hl-jXN.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
-"aUF-d1-5bR.title" = "Window";
+"aUF-d1-5bR.title" = "Прозорец";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Search..."; ObjectID = "aVN-Uu-M5E"; */
-"aVN-Uu-M5E.placeholderString" = "Search...";
+"aVN-Uu-M5E.placeholderString" = "Търсене...";
 
 /* Class = "NSTextFieldCell"; title = "Enjoy more options, customizations and tools with Pixea Plus"; ObjectID = "ag2-Mk-Mk5"; */
-"ag2-Mk-Mk5.title" = "Enjoy more options, customizations and tools with Pixea Plus";
+"ag2-Mk-Mk5.title" = "Насладете се на повече опции, персонализации и инструменти с Pixea Plus";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ahk-LR-VQg"; */
-"ahk-LR-VQg.title" = "Box";
+"ahk-LR-VQg.title" = "Каре";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ajt-GZ-d7B"; */
-"ajt-GZ-d7B.title" = "Box";
+"ajt-GZ-d7B.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "pixels/inch"; ObjectID = "aoB-08-d9h"; */
-"aoB-08-d9h.title" = "pixels/inch";
+"aoB-08-d9h.title" = "пиксели/инч";
 
 /* Class = "NSTextFieldCell"; title = "Sharpness and Noise Tool"; ObjectID = "atA-H4-4x6"; */
-"atA-H4-4x6.title" = "Sharpness and Noise Tool";
+"atA-H4-4x6.title" = "Инструмент за острота и шум";
 
 /* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "av3-wV-Pvf"; */
-"av3-wV-Pvf.title" = "Saturation";
+"av3-wV-Pvf.title" = "Насищане";
 
 /* Class = "NSTextFieldCell"; title = "Super Resolution"; ObjectID = "b56-pk-k0K"; */
-"b56-pk-k0K.title" = "Super Resolution";
+"b56-pk-k0K.title" = "Супер Резолюция";
 
 /* Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "b5B-Bs-2oU"; */
-"b5B-Bs-2oU.title" = "Acknowledgements";
-
-/* Class = "NSMenuItem"; title = "Localizations"; ObjectID = "92h-11-9j8"; */
-"92h-11-9j8.title" = "Localizations";
+"b5B-Bs-2oU.title" = "Благодарности";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "b6o-em-pee"; */
-"b6o-em-pee.title" = "Apply";
+"b6o-em-pee.title" = "Приложи";
 
 /* Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "bHN-V9-Jl9"; */
-"bHN-V9-Jl9.title" = "Grant Access";
+"bHN-V9-Jl9.title" = "Разрешете достъп";
 
 /* Class = "NSTextFieldCell"; title = "The machine learning algorithm is trained by analyzing millions of images. Sharpen and upscale a photo without losing its content instead of mathematically interpolating the values of pixels as done by the regular scaling algorithms."; ObjectID = "bLu-IO-FjE"; */
-"bLu-IO-FjE.title" = "The machine learning algorithm is trained by analyzing millions of images. Sharpen and upscale a photo without losing its content instead of mathematically interpolating the values of pixels as done by the regular scaling algorithms.";
+"bLu-IO-FjE.title" = "Алгоритъмът за машинно обучение се обучава чрез анализиране на милиони изображения. Изостряйте и мащабирайте снимка, без да губите нейното съдържание, вместо математически интерполация на стойностите на пикселите, както се прави от обикновените алгоритми за мащабиране.";
 
 /* Class = "NSMenuItem"; title = "Get Info"; ObjectID = "bgE-Ny-zlN"; */
-"bgE-Ny-zlN.title" = "Get Info";
+"bgE-Ny-zlN.title" = "Получете информация";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
-"bib-Uj-vzu.title" = "File";
+"bib-Uj-vzu.title" = "Файл";
 
 /* Class = "NSTextFieldCell"; title = "Set Size and Autohide options"; ObjectID = "bm5-QA-tem"; */
-"bm5-QA-tem.title" = "Set Size and Autohide options";
+"bm5-QA-tem.title" = "Задайте опции за размер и автоматично скриване";
 
 /* Class = "NSMenuItem"; title = "Welcome Screen"; ObjectID = "c2A-fU-DLE"; */
-"c2A-fU-DLE.title" = "Welcome Screen";
+"c2A-fU-DLE.title" = "Добре дошъл екран";
 
 /* Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "c8a-S3-gU8"; */
-"c8a-S3-gU8.title" = "Flip Horizontally";
+"c8a-S3-gU8.title" = "Обърнете хоризонтално";
 
 /* Class = "NSTextFieldCell"; title = "The machine learning algorithm is trained by analyzing millions of images. Sharpen and upscale the photo without losing its content instead of mathematically interpolating the values of pixels as done by the regular scaling algorithms."; ObjectID = "cBC-It-ufs"; */
-"cBC-It-ufs.title" = "The machine learning algorithm is trained by analyzing millions of images. Sharpen and upscale the photo without losing its content instead of mathematically interpolating the values of pixels as done by the regular scaling algorithms.";
+"cBC-It-ufs.title" = "Алгоритъмът за машинно обучение се обучава чрез анализиране на милиони изображения. Изостряйте и мащабирайте снимката, без да губите нейното съдържание, вместо математически интерполация на стойностите на пикселите, както се прави от обикновените алгоритми за мащабиране.";
 
 /* Class = "NSTextFieldCell"; title = "Selection Tool:"; ObjectID = "cE0-Dg-zLa"; */
-"cE0-Dg-zLa.title" = "Selection Tool:";
+"cE0-Dg-zLa.title" = "Инструмент за избор:";
 
 /* Class = "NSMenuItem"; title = "Previous Frame"; ObjectID = "cWd-AP-HWm"; */
-"cWd-AP-HWm.title" = "Previous Frame";
+"cWd-AP-HWm.title" = "Предишен кадър";
 
 /* Class = "NSMenuItem"; title = "Mute"; ObjectID = "cjT-Xn-gYh"; */
-"cjT-Xn-gYh.title" = "Mute";
+"cjT-Xn-gYh.title" = "Без звук";
 
 /* Class = "NSMenuItem"; title = "RGB"; ObjectID = "cqB-yT-TcN"; */
 "cqB-yT-TcN.title" = "RGB";
@@ -846,478 +843,478 @@
 "d82-iS-VFh.title" = "px";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "d8i-Ng-TDr"; */
-"d8i-Ng-TDr.title" = "Close";
+"d8i-Ng-TDr.title" = "Затвори";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
-"dMs-cI-mzQ.title" = "File";
+"dMs-cI-mzQ.title" = "Файл";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "dRC-iW-vch"; */
-"dRC-iW-vch.title" = "Cancel";
+"dRC-iW-vch.title" = "Отказ";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "dTs-zJ-MNH"; */
-"dTs-zJ-MNH.title" = "Apply";
+"dTs-zJ-MNH.title" = "Приложи";
 
 /* Class = "NSMenu"; title = "Edit with..."; ObjectID = "dik-yh-Vk0"; */
-"dik-yh-Vk0.title" = "Edit with...";
+"dik-yh-Vk0.title" = "Редактиране чрез...";
 
 /* Class = "NSTextFieldCell"; title = "Remove any object from your photo in a few brush strokes"; ObjectID = "dwN-NN-qTD"; */
-"dwN-NN-qTD.title" = "Remove any object from your photo in a few brush strokes";
+"dwN-NN-qTD.title" = "Премахнете всеки обект от снимката си с няколко движения на четката";
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "e9u-yo-2uF"; */
-"e9u-yo-2uF.title" = "Move to Trash";
+"e9u-yo-2uF.title" = "Преместване в кошчето";
 
 /* Class = "NSMenuItem"; title = "Selection Tool"; ObjectID = "eKm-Kz-PM4"; */
-"eKm-Kz-PM4.title" = "Selection Tool";
+"eKm-Kz-PM4.title" = "Инструмент за избор";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Exposure..."; ObjectID = "eLb-40-zHf"; */
-"eLb-40-zHf.ibShadowedToolTip" = "Exposure...";
+"eLb-40-zHf.ibShadowedToolTip" = "Експозиция...";
 
 /* Class = "NSMenuItem"; title = "Flip Vertically"; ObjectID = "eO9-e9-svW"; */
-"eO9-e9-svW.title" = "Flip Vertically";
+"eO9-e9-svW.title" = "Обърнете вертикално";
 
 /* Class = "NSMenuItem"; title = "90º Clockwise"; ObjectID = "ebY-dR-Nfx"; */
-"ebY-dR-Nfx.title" = "90º Clockwise";
+"ebY-dR-Nfx.title" = "90º по часовниковата стрелка";
 
 /* Class = "NSMenuItem"; title = "Hand Tool"; ObjectID = "fAE-4v-4dG"; */
-"fAE-4v-4dG.title" = "Hand Tool";
+"fAE-4v-4dG.title" = "Инструмент ръчичка"; //perhaps hand to be replaced as wording i18n testing_optimization
 
 /* Class = "NSButton"; ibShadowedToolTip = "Color Temperature..."; ObjectID = "fBA-dM-TKX"; */
-"fBA-dM-TKX.ibShadowedToolTip" = "Color Temperature...";
+"fBA-dM-TKX.ibShadowedToolTip" = "Температура на цвета...";
 
 /* Class = "NSWindow"; title = "Acknowledgements"; ObjectID = "fK4-ad-YlY"; */
-"fK4-ad-YlY.title" = "Acknowledgements";
+"fK4-ad-YlY.title" = "Благодарности";
 
 /* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "fKv-Gg-Rj7"; */
-"fKv-Gg-Rj7.title" = "Scroll Down";
+"fKv-Gg-Rj7.title" = "Превъртете надолу";
 
 /* Class = "NSMenuItem"; title = "x 1.5"; ObjectID = "fP7-LN-Wwc"; */
 "fP7-LN-Wwc.title" = "x 1.5";
 
 /* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "fdt-kW-X5A"; */
-"fdt-kW-X5A.title" = "Scroll Up";
+"fdt-kW-X5A.title" = "Превъртете нагоре";
 
 /* Class = "NSMenuItem"; title = "Zoom Mode"; ObjectID = "fgN-Um-vwx"; */
-"fgN-Um-vwx.title" = "Zoom Mode";
+"fgN-Um-vwx.title" = "Режим мащабиране";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "fkN-Le-d3B"; */
-"fkN-Le-d3B.title" = "Date Added";
+"fkN-Le-d3B.title" = "Дата на добавяне";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "flJ-r8-ygY"; */
-"flJ-r8-ygY.title" = "Date Added";
+"flJ-r8-ygY.title" = "Дата на добавяне";
 
 /* Class = "NSMenu"; title = "Sort by"; ObjectID = "fr3-ur-dtG"; */
-"fr3-ur-dtG.title" = "Sort by";
+"fr3-ur-dtG.title" = "Сортирай по";
 
 /* Class = "NSTextFieldCell"; title = "Sort media directories by name/type/size/date or shuffle"; ObjectID = "g0T-Tv-F9l"; */
-"g0T-Tv-F9l.title" = "Sort media directories by name/type/size/date or shuffle";
+"g0T-Tv-F9l.title" = "Сортирайте медийните директории по име/тип/размер/дата или разбъркайте";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "g12-LW-4XD"; */
-"g12-LW-4XD.title" = "Show in Finder";
+"g12-LW-4XD.title" = "Покажи във Finder";
 
 /* Class = "NSWindow"; title = "Settings"; ObjectID = "g7q-IO-vA8"; */
-"g7q-IO-vA8.title" = "Settings";
+"g7q-IO-vA8.title" = "Настройки";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Clone Tool"; ObjectID = "gAH-Nf-82X"; */
-"gAH-Nf-82X.ibShadowedToolTip" = "Clone Tool";
+"gAH-Nf-82X.ibShadowedToolTip" = "Инструмент за клониране";
 
 /* Class = "NSTextFieldCell"; title = "Details:"; ObjectID = "gLk-de-69p"; */
-"gLk-de-69p.title" = "Details:";
+"gLk-de-69p.title" = "Детайли:";
 
 /* Class = "NSTextFieldCell"; title = "0 items"; ObjectID = "gVR-QG-fLx"; */
-"gVR-QG-fLx.title" = "0 items";
+"gVR-QG-fLx.title" = "0 елементи";
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "gWr-ui-SHc"; */
-"gWr-ui-SHc.title" = "Move to Trash";
+"gWr-ui-SHc.title" = "Преместване в кошчето";
 
 /* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "gvM-Fz-Tpc"; */
-"gvM-Fz-Tpc.title" = "Scroll Right";
+"gvM-Fz-Tpc.title" = "Превъртете надясно";
 
 /* Class = "NSMenuItem"; title = "Playback Speed"; ObjectID = "h9E-3i-kbv"; */
-"h9E-3i-kbv.title" = "Playback Speed";
+"h9E-3i-kbv.title" = "Скорост на възпроизвеждане";
 
 /* Class = "NSButtonCell"; title = "Crop"; ObjectID = "hET-xp-uEx"; */
-"hET-xp-uEx.title" = "Crop";
+"hET-xp-uEx.title" = "Изрязване";
 
 /* Class = "NSButtonCell"; title = "●"; ObjectID = "hGL-SK-VAZ"; */
 "hGL-SK-VAZ.title" = "●";
 
 /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "hJN-so-6AI"; */
-"hJN-so-6AI.title" = "Deselect";
+"hJN-so-6AI.title" = "Премахнете от маркираните";
 
 /* Class = "NSMenuItem"; title = "Flip Vertically"; ObjectID = "hR2-L4-lCr"; */
-"hR2-L4-lCr.title" = "Flip Vertically";
+"hR2-L4-lCr.title" = "Обърнете вертикално";
 
 /* Class = "NSMenuItem"; title = "16:10"; ObjectID = "hcM-8w-dSu"; */
 "hcM-8w-dSu.title" = "16:10";
 
 /* Class = "NSMenuItem"; title = "Clone Tool"; ObjectID = "hcf-RF-4ls"; */
-"hcf-RF-4ls.title" = "Clone Tool";
+"hcf-RF-4ls.title" = "Инструмент за клониране";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "hcl-ym-lx4"; */
-"hcl-ym-lx4.title" = "Check for Updates...";
+"hcl-ym-lx4.title" = "Проверка за актуализации...";
 
 /* Class = "NSTextFieldCell"; title = "Hold Shift"; ObjectID = "htT-wI-hy6"; */
-"htT-wI-hy6.title" = "Hold Shift";
+"htT-wI-hy6.title" = "Задръжте Shift";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
-"hz9-B4-Xy5.title" = "Services";
+"hz9-B4-Xy5.title" = "Услуги";
 
 /* Class = "NSMenuItem"; title = "Show Thumbnails"; ObjectID = "i6e-DF-AK3"; */
-"i6e-DF-AK3.title" = "Show Thumbnails";
+"i6e-DF-AK3.title" = "Покажи Миниатюри";
 
 /* Class = "NSMenuItem"; title = "16:9"; ObjectID = "i7t-1C-EW2"; */
 "i7t-1C-EW2.title" = "16:9";
 
 /* Class = "NSMenuItem"; title = "File Type"; ObjectID = "iN0-pI-c4t"; */
-"iN0-pI-c4t.title" = "File Type";
+"iN0-pI-c4t.title" = "Тип файл";
 
 /* Class = "NSMenuItem"; title = "Upscale Image..."; ObjectID = "iNG-BZ-jUm"; */
-"iNG-BZ-jUm.title" = "Upscale Image...";
+"iNG-BZ-jUm.title" = "Премащабиране на изображение...";
 
 /* Class = "NSMenuItem"; title = "Subtitles"; ObjectID = "iYV-FN-5Dt"; */
-"iYV-FN-5Dt.title" = "Subtitles";
+"iYV-FN-5Dt.title" = "Субтитри";
 
 /* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "ieI-ek-vp0"; */
-"ieI-ek-vp0.title" = "Item 2";
+"ieI-ek-vp0.title" = "2 елемента";
 
 /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "ir5-La-uXN"; */
-"ir5-La-uXN.title" = "Remove";
+"ir5-La-uXN.title" = "Премахване";
 
 /* Class = "NSTextFieldCell"; title = "Today"; ObjectID = "izt-Qb-S3c"; */
-"izt-Qb-S3c.title" = "Today";
+"izt-Qb-S3c.title" = "Днес";
 
 /* Class = "NSTextFieldCell"; title = "Do not upscale already enlarged images, especially those processed with standard interpolation algorithms. Processing the smaller but sharper image always results in a better quality of an upscaled image."; ObjectID = "jCA-Ek-bHD"; */
-"jCA-Ek-bHD.title" = "Do not upscale already enlarged images, especially those processed with standard interpolation algorithms. Processing the smaller but sharper image always results in a better quality of an upscaled image.";
+"jCA-Ek-bHD.title" = "Не увеличавайте мащаба на вече уголемени изображения, особено тези, обработени със стандартни алгоритми за интерполация. Обработката на по-малкото, но по-отчетливо изображение винаги води до по-добро качество на мащабирано изображение.";
 
 /* Class = "NSMenuItem"; title = "Fixed Size & Position"; ObjectID = "jVE-7D-UG8"; */
-"jVE-7D-UG8.title" = "Fixed Size & Position";
+"jVE-7D-UG8.title" = "Фиксиран размер и Позициониране";
 
 /* Class = "NSButtonCell"; title = "Learn more..."; ObjectID = "jWs-pm-abc"; */
-"jWs-pm-abc.title" = "Learn more...";
+"jWs-pm-abc.title" = "Научете повече...";
 
 /* Class = "NSTextFieldCell"; title = "Sorting"; ObjectID = "jaB-Gb-rUi"; */
-"jaB-Gb-rUi.title" = "Sorting";
+"jaB-Gb-rUi.title" = "Сортиране";
 
 /* Class = "NSTextFieldCell"; title = "Option+Click to select pixels to clone. Click in any area to clone selected pixels."; ObjectID = "jbS-Ra-FBd"; */
-"jbS-Ra-FBd.title" = "Option+Click to select pixels to clone. Click in any area to clone selected pixels.";
+"jbS-Ra-FBd.title" = "Option+Щракнете, за да изберете пиксели за клониране. Щракнете във всяка област, за да клонирате избрани пиксели.";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "jeY-Oj-aG4"; */
-"jeY-Oj-aG4.title" = "Apply";
+"jeY-Oj-aG4.title" = "Приложи"; //прилагане
 
 /* Class = "NSTextFieldCell"; title = "4X Upscale"; ObjectID = "jel-QX-qNV"; */
-"jel-QX-qNV.title" = "4X Upscale";
+"jel-QX-qNV.title" = "4X премащабиране";
 
 /* Class = "NSMenu"; title = "Edit with..."; ObjectID = "jnQ-oz-95e"; */
-"jnQ-oz-95e.title" = "Edit with...";
+"jnQ-oz-95e.title" = "Редактиране чрез...";
 
 /* Class = "NSWindow"; title = "Upscaling"; ObjectID = "jrX-9u-FS5"; */
-"jrX-9u-FS5.title" = "Upscaling";
+"jrX-9u-FS5.title" = "Премащабиране";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "k6s-Qo-Lkq"; */
-"k6s-Qo-Lkq.title" = "Date Modified";
+"k6s-Qo-Lkq.title" = "Дата на промяна";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "k8g-2K-Bey"; */
-"k8g-2K-Bey.title" = "Box";
+"k8g-2K-Bey.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Sort by"; ObjectID = "kC6-Zl-de1"; */
-"kC6-Zl-de1.title" = "Sort by";
+"kC6-Zl-de1.title" = "Сортирай по";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kJU-w6-1rU"; */
-"kJU-w6-1rU.title" = "Cancel";
+"kJU-w6-1rU.title" = "Отказ";
 
 /* Class = "NSTextFieldCell"; title = "Customize any shortcut the way you want it"; ObjectID = "kYQ-fz-mXn"; */
-"kYQ-fz-mXn.title" = "Customize any shortcut the way you want it";
+"kYQ-fz-mXn.title" = "Персонализирайте всяка клавишна комбинация по начина, по който искате";
 
 /* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "kjE-uX-5c5"; */
 "kjE-uX-5c5.title" = "100%";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "kqs-Cs-0ep"; */
-"kqs-Cs-0ep.title" = "Box";
+"kqs-Cs-0ep.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "kwx-BP-Z9T"; */
-"kwx-BP-Z9T.title" = "Name";
+"kwx-BP-Z9T.title" = "Име";
 
 /* Class = "NSButtonCell"; title = "Clear "; ObjectID = "l2w-ij-cGO"; */
-"l2w-ij-cGO.title" = "Clear ";
+"l2w-ij-cGO.title" = "Изчистете ";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad Gestures"; ObjectID = "lHS-If-wO6"; */
-"lHS-If-wO6.title" = "Trackpad Gestures";
+"lHS-If-wO6.title" = "Жестове с тракпад";
 
 /* Class = "NSWindow"; title = "Get Info"; ObjectID = "lHj-J1-gLz"; */
-"lHj-J1-gLz.title" = "Get Info";
+"lHj-J1-gLz.title" = "Получете информация";
 
 /* Class = "NSMenu"; title = "Subtitles"; ObjectID = "lZc-ig-wk3"; */
-"lZc-ig-wk3.title" = "Subtitles";
+"lZc-ig-wk3.title" = "Субтитри";
 
 /* Class = "NSMenuItem"; title = "File Type"; ObjectID = "lbe-b2-zfl"; */
-"lbe-b2-zfl.title" = "File Type";
+"lbe-b2-zfl.title" = "Тип файл";
 
 /* Class = "NSTextFieldCell"; title = "W, A, S, D"; ObjectID = "lhK-K4-kCD"; */
 "lhK-K4-kCD.title" = "W, A, S, D";
 
 /* Class = "NSTextFieldCell"; title = "Highlights"; ObjectID = "lhg-ex-d7u"; */
-"lhg-ex-d7u.title" = "Highlights";
+"lhg-ex-d7u.title" = "Акценти";
 
 /* Class = "NSMenuItem"; title = "Crop Image..."; ObjectID = "lj8-bc-Omh"; */
-"lj8-bc-Omh.title" = "Crop Image...";
+"lj8-bc-Omh.title" = "Изрязване на изображението...";
 
 /* Class = "NSTextFieldCell"; title = "Enter"; ObjectID = "m2l-Qt-wqs"; */
-"m2l-Qt-wqs.title" = "Enter";
+"m2l-Qt-wqs.title" = "Enter"; //вход или въвеждане i18n testing_optimization
 
 /* Class = "NSMenuItem"; title = "180º"; ObjectID = "m48-lc-VN6"; */
 "m48-lc-VN6.title" = "180º";
 
 /* Class = "NSMenuItem"; title = "Step Forward 30s"; ObjectID = "mHC-A2-FE4"; */
-"mHC-A2-FE4.title" = "Step Forward 30s";
+"mHC-A2-FE4.title" = "Стъпка напред 30сек";
 
 /* Class = "NSMenuItem"; title = "Selection Tool"; ObjectID = "mJw-99-23n"; */
-"mJw-99-23n.title" = "Selection Tool";
+"mJw-99-23n.title" = "Инструмент за избор";
 
 /* Class = "NSMenuItem"; title = "Background color"; ObjectID = "mQA-MX-ia8"; */
-"mQA-MX-ia8.title" = "Background color";
+"mQA-MX-ia8.title" = "Цвят на фона";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "maz-8z-dLI"; */
-"maz-8z-dLI.title" = "Date Modified";
+"maz-8z-dLI.title" = "Дата на промяна";
 
 /* Class = "NSTextFieldCell"; title = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. This enables slideshows, media browsing with arrow keys, switching between subfolders, and sorting the directory contents. If permission was not granted before, the dialog requesting you to grant access is displayed. You can change this behavior in Settings at any time."; ObjectID = "moW-aX-kij"; */
-"moW-aX-kij.title" = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. This enables slideshows, media browsing with arrow keys, switching between subfolders, and sorting the directory contents. If permission was not granted before, the dialog requesting you to grant access is displayed. You can change this behavior in Settings at any time.";
+"moW-aX-kij.title" = "Когато отворите изображение или видео, Pixea се опитва да сканира основната папка на файла за друга медия. Това позволява слайдшоута, преглеждане на медия със стрелките от клавиатурата, превключване между подпапки и сортиране на съдържанието на директорията. Ако разрешението не е било дадено преди това, се показва диалоговият прозорец с искане за предоставяне на достъп. Можете да промените това поведение в настройките по всяко време.";
 
 /* Class = "NSButtonCell"; title = "Purchase"; ObjectID = "mpy-Gc-OkH"; */
-"mpy-Gc-OkH.title" = "Purchase";
+"mpy-Gc-OkH.title" = "Покупка";
 
 /* Class = "NSTextFieldCell"; title = "filename"; ObjectID = "mqf-PF-z9B"; */
-"mqf-PF-z9B.title" = "filename";
+"mqf-PF-z9B.title" = "име на файл";
 
 /* Class = "NSMenuItem"; title = "Settings..."; ObjectID = "n24-wY-Zrl"; */
-"n24-wY-Zrl.title" = "Settings...";
+"n24-wY-Zrl.title" = "Настройки...";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "n5j-bn-fzg"; */
-"n5j-bn-fzg.title" = "Box";
+"n5j-bn-fzg.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Sort by"; ObjectID = "nOP-sk-Ezn"; */
-"nOP-sk-Ezn.title" = "Sort by";
+"nOP-sk-Ezn.title" = "Сортирай по";
 
 /* Class = "NSTextFieldCell"; title = "Remove any object from your photo in a few brush strokes"; ObjectID = "nUV-iL-XRb"; */
-"nUV-iL-XRb.title" = "Remove any object from your photo in a few brush strokes";
+"nUV-iL-XRb.title" = "Премахнете всеки обект от снимката си с няколко движения на четката";
 
 /* Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "nZZ-rK-2YN"; */
-"nZZ-rK-2YN.title" = "Previous Media";
+"nZZ-rK-2YN.title" = "Предишна медия";
 
 /* Class = "NSTextFieldCell"; title = "Status bar with resolution, date taken and other image properties"; ObjectID = "nqQ-ho-gil"; */
-"nqQ-ho-gil.title" = "Status bar with resolution, date taken and other image properties";
+"nqQ-ho-gil.title" = "Лента на състоянието с разделителна способност, дата на заснемане и други свойства на изображението";
 
 /* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "nr3-WM-JWj"; */
-"nr3-WM-JWj.title" = "Zoom Out";
+"nr3-WM-JWj.title" = "Намаляване";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "nwQ-wL-OCE"; */
-"nwQ-wL-OCE.title" = "Cancel";
+"nwQ-wL-OCE.title" = "Отказ";
 
 /* Class = "NSButtonCell"; title = "〈"; ObjectID = "oBR-2X-Qk0"; */
 "oBR-2X-Qk0.title" = "〈";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "oC8-uZ-TU7"; */
-"oC8-uZ-TU7.title" = "Cancel";
+"oC8-uZ-TU7.title" = "Отказ";
 
 /* Class = "NSTextFieldCell"; title = "← / →"; ObjectID = "oIf-Lx-xdA"; */
 "oIf-Lx-xdA.title" = "← / →";
 
 /* Class = "NSTextFieldCell"; title = "Object Removal Tool"; ObjectID = "oLD-aw-wZ2"; */
-"oLD-aw-wZ2.title" = "Object Removal Tool";
+"oLD-aw-wZ2.title" = "Инструмент за премахване на обекти";
 
 /* Class = "NSMenuItem"; title = "Video"; ObjectID = "oWw-Fi-1bg"; */
-"oWw-Fi-1bg.title" = "Video";
+"oWw-Fi-1bg.title" = "Видео";
 
 /* Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "oYX-DN-eTA"; */
-"oYX-DN-eTA.title" = "Text Selection Tool";
+"oYX-DN-eTA.title" = "Инструмент за избор на текст";
 
 /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
-"oas-Oc-fiZ.title" = "Open Recent";
+"oas-Oc-fiZ.title" = "Отворете Скорошни";
 
 /* Class = "NSTextFieldCell"; title = "Resize Image"; ObjectID = "ohI-Hy-8It"; */
-"ohI-Hy-8It.title" = "Resize Image";
+"ohI-Hy-8It.title" = "Преоразмеряване на изображението";
 
 /* Class = "NSTextFieldCell"; title = "Reduce noise"; ObjectID = "ovv-Na-tUF"; */
-"ovv-Na-tUF.title" = "Reduce noise";
+"ovv-Na-tUF.title" = "Намаляване на шума";
 
 /* Class = "NSTextFieldCell"; title = "Z + Mouse Click"; ObjectID = "p11-4p-RFw"; */
-"p11-4p-RFw.title" = "Z + Mouse Click";
+"p11-4p-RFw.title" = "Z + Щракване на мишката";
 
 /* Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "pCa-58-8Oh"; */
-"pCa-58-8Oh.title" = "Sharpness and Noise...";
+"pCa-58-8Oh.title" = "Острота и шум...";
 
 /* Class = "NSTextFieldCell"; title = "Paint over the object you want to remove. Click \"Remove\" when done."; ObjectID = "pHN-GX-oKg"; */
-"pHN-GX-oKg.title" = "Paint over the object you want to remove. Click \"Remove\" when done.";
+"pHN-GX-oKg.title" = "Рисувайте върху обекта, който искате да премахнете. Щракнете върху \"Премахване\", когато сте готови.";
 
 /* Class = "NSTextFieldCell"; title = "Color Temperature"; ObjectID = "pI0-XX-fNl"; */
-"pI0-XX-fNl.title" = "Color Temperature";
+"pI0-XX-fNl.title" = "Температура на цвета";
 
 /* Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "pSZ-1U-BMT"; */
-"pSZ-1U-BMT.title" = "Shuffle";
+"pSZ-1U-BMT.title" = "Разбъркване";
 
 /* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "pTP-NG-fUR"; */
-"pTP-NG-fUR.title" = "Slideshow";
+"pTP-NG-fUR.title" = "Слайдшоу";
 
 /* Class = "NSMenuItem"; title = "Adjust Exposure..."; ObjectID = "plo-wH-qpM"; */
-"plo-wH-qpM.title" = "Adjust Exposure...";
+"plo-wH-qpM.title" = "Регулиране на експозицията...";
 
 /* Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "pvO-7q-hSx"; */
-"pvO-7q-hSx.title" = "Flip Horizontally";
+"pvO-7q-hSx.title" = "Обърнете хоризонтално";
 
 /* Class = "NSMenuItem"; title = "Objects Removal Tool"; ObjectID = "qSy-Ae-idZ"; */
-"qSy-Ae-idZ.title" = "Objects Removal Tool";
+"qSy-Ae-idZ.title" = "Инструмент за премахване на обекти";
 
 /* Class = "NSTextFieldCell"; title = "Address"; ObjectID = "qdA-Er-E1D"; */
-"qdA-Er-E1D.title" = "Address";
+"qdA-Er-E1D.title" = "Адрес";
 
 /* Class = "NSTextFieldCell"; title = "Balanced"; ObjectID = "qo1-tF-VAx"; */
-"qo1-tF-VAx.title" = "Balanced";
+"qo1-tF-VAx.title" = "Балансиран";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "qu0-Wb-HIR"; */
-"qu0-Wb-HIR.title" = "Box";
+"qu0-Wb-HIR.title" = "Каре";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Hue, Saturation and Brightness..."; ObjectID = "qv3-kW-hw0"; */
-"qv3-kW-hw0.ibShadowedToolTip" = "Hue, Saturation and Brightness...";
+"qv3-kW-hw0.ibShadowedToolTip" = "Нюанс, наситеност и яркост...";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "qxH-GS-iQ4"; */
-"qxH-GS-iQ4.title" = "Box";
+"qxH-GS-iQ4.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "rID-o7-iKz"; */
-"rID-o7-iKz.title" = "Date Modified";
+"rID-o7-iKz.title" = "Дата на промяна";
 
 /* Class = "NSMenuItem"; title = "Adjust Hue, Saturation, Brightness..."; ObjectID = "rOH-IW-srC"; */
-"rOH-IW-srC.title" = "Adjust Hue, Saturation, Brightness...";
+"rOH-IW-srC.title" = "Регулирайте нюанса, наситеността, яркостта...";
 
 /* Class = "NSTextFieldCell"; title = "2x and 4x upscaling powered by machine learning"; ObjectID = "ryd-I7-GTu"; */
-"ryd-I7-GTu.title" = "2x and 4x upscaling powered by machine learning";
+"ryd-I7-GTu.title" = "2x и 4x премащабиране задвижено чрез машинно обучение";
 
 /* Class = "NSTextFieldCell"; title = "Upscaling..."; ObjectID = "sBQ-tT-T19"; */
-"sBQ-tT-T19.title" = "Upscaling...";
+"sBQ-tT-T19.title" = "Премащабиране...";
 
 /* Class = "NSTextFieldCell"; title = "Z + Option + Mouse Click"; ObjectID = "sDy-yH-kuB"; */
-"sDy-yH-kuB.title" = "Z + Option + Mouse Click";
+"sDy-yH-kuB.title" = "Z + Option + Щракване с мишката";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "sEy-tL-1VG"; */
-"sEy-tL-1VG.title" = "Box";
+"sEy-tL-1VG.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Tint"; ObjectID = "sKz-WK-0TT"; */
-"sKz-WK-0TT.title" = "Tint";
+"sKz-WK-0TT.title" = "Тониране";
 
 /* Class = "NSTextFieldCell"; title = "Remove any object from your photo in a few brush strokes"; ObjectID = "sLS-yO-MJs"; */
-"sLS-yO-MJs.title" = "Remove any object from your photo in a few brush strokes";
+"sLS-yO-MJs.title" = "Премахнете всеки обект от снимката си с няколко движения на четката";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "sYL-FL-bXv"; */
-"sYL-FL-bXv.title" = "Name";
+"sYL-FL-bXv.title" = "Име";
 
 /* Class = "NSTextFieldCell"; title = "Fit to Screen:"; ObjectID = "shR-Xo-D1C"; */
-"shR-Xo-D1C.title" = "Fit to Screen:";
+"shR-Xo-D1C.title" = "Побиране в екрана:";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "sod-aH-xTL"; */
-"sod-aH-xTL.title" = "Box";
+"sod-aH-xTL.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Stretch to Fit"; ObjectID = "t2S-s7-dew"; */
-"t2S-s7-dew.title" = "Stretch to Fit";
+"t2S-s7-dew.title" = "Разтегнете, за да се побере";
 
 /* Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "tEv-le-JYp"; */
-"tEv-le-JYp.title" = "Fit to Screen";
+"tEv-le-JYp.title" = "Побиране в екрана";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "tTD-vd-D6Q"; */
-"tTD-vd-D6Q.title" = "Normal";
+"tTD-vd-D6Q.title" = "Нормално";
 
 /* Class = "NSTextFieldCell"; title = "Zoom In / Zoom Out:"; ObjectID = "tTh-ST-KJH"; */
-"tTh-ST-KJH.title" = "Zoom In / Zoom Out:";
+"tTh-ST-KJH.title" = "Увеличете / Намалете:";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
-"tXI-mr-wws.title" = "Open Recent";
+"tXI-mr-wws.title" = "Отворете Скорошни";
 
 /* Class = "NSWindow"; title = "Welcome"; ObjectID = "tj6-nX-z2t"; */
-"tj6-nX-z2t.title" = "Welcome";
+"tj6-nX-z2t.title" = "Добре дошли";
 
 /* Class = "NSTextFieldCell"; title = "Pixea"; ObjectID = "tkd-ES-wOa"; */
 "tkd-ES-wOa.title" = "Pixea";
 
 /* Class = "NSTextFieldCell"; title = "Histogram:"; ObjectID = "tlY-DS-Rpr"; */
-"tlY-DS-Rpr.title" = "Histogram:";
+"tlY-DS-Rpr.title" = "Хистограма:";
 
 /* Class = "NSTextFieldCell"; title = "↑ / ↓"; ObjectID = "tp8-eO-rBU"; */
 "tp8-eO-rBU.title" = "↑ / ↓";
 
 /* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "txG-Bs-rLo"; */
-"txG-Bs-rLo.title" = "Item 2";
+"txG-Bs-rLo.title" = "2 елемента";
 
 /* Class = "NSMenuItem"; title = "File Size"; ObjectID = "txp-te-149"; */
-"txp-te-149.title" = "File Size";
+"txp-te-149.title" = "Размер на файла";
 
 /* Class = "NSTextFieldCell"; title = "Scroll:"; ObjectID = "u2i-rY-eh1"; */
-"u2i-rY-eh1.title" = "Scroll:";
+"u2i-rY-eh1.title" = "Скролирай:";
 
 /* Class = "NSTextFieldCell"; title = "Set pixels or points"; ObjectID = "u68-Ov-6oI"; */
-"u68-Ov-6oI.title" = "Set pixels or points";
+"u68-Ov-6oI.title" = "Задайте пиксели или точки";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "uGW-63-DcU"; */
-"uGW-63-DcU.title" = "Copy";
+"uGW-63-DcU.title" = "Копирай";
 
 /* Class = "NSMenu"; title = "Pixea"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Pixea";
 
 /* Class = "NSMenuItem"; title = "Volume Up"; ObjectID = "uWo-uA-tXc"; */
-"uWo-uA-tXc.title" = "Volume Up";
+"uWo-uA-tXc.title" = "Увеличаване на звука";
 
 /* Class = "NSButtonCell"; title = "●"; ObjectID = "uY4-Tr-wCF"; */
 "uY4-Tr-wCF.title" = "●";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "ued-Tb-dcA"; */
-"ued-Tb-dcA.title" = "Show in Finder";
+"ued-Tb-dcA.title" = "Показване във Finder";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "ufs-fc-ciP"; */
-"ufs-fc-ciP.title" = "Paste";
+"ufs-fc-ciP.title" = "Постави";
 
 /* Class = "NSWindow"; title = "Upgrade"; ObjectID = "v0i-GE-7ZD"; */
-"v0i-GE-7ZD.title" = "Upgrade";
+"v0i-GE-7ZD.title" = "Ъпгрейд";
 
 /* Class = "NSButtonCell"; title = "●"; ObjectID = "vAe-9l-YNQ"; */
 "vAe-9l-YNQ.title" = "●";
 
 /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
-"vNY-rz-j42.title" = "Clear Menu";
+"vNY-rz-j42.title" = "Изчистване на меню";
 
 /* Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "vXa-zs-95c"; */
-"vXa-zs-95c.title" = "Shadows";
+"vXa-zs-95c.title" = "Сенки";
 
 /* Class = "NSMenu"; title = "Edit with..."; ObjectID = "vsL-Fg-EbF"; */
-"vsL-Fg-EbF.title" = "Edit with...";
+"vsL-Fg-EbF.title" = "Редактиране чрез...";
 
 /* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "vxL-0l-ECu"; */
-"vxL-0l-ECu.title" = "Item 3";
+"vxL-0l-ECu.title" = "3 елемента";
 
 /* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "wFN-8k-YQO"; */
-"wFN-8k-YQO.headerCell.title" = "Value";
+"wFN-8k-YQO.headerCell.title" = "Стойност";
 
 /* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "wGB-4Q-Jmg"; */
-"wGB-4Q-Jmg.title" = "Keyboard Shortcuts";
+"wGB-4Q-Jmg.title" = "Клавишни комбинации";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "wLA-RR-qSZ"; */
-"wLA-RR-qSZ.title" = "Actual Size";
+"wLA-RR-qSZ.title" = "Действителен размер";
 
 /* Class = "NSWindow"; title = "Upscale Image..."; ObjectID = "wXo-xS-kZS"; */
-"wXo-xS-kZS.title" = "Upscale Image...";
+"wXo-xS-kZS.title" = "Премащабиране на изображение...";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "wdu-5F-RGt"; */
-"wdu-5F-RGt.title" = "Date Created";
+"wdu-5F-RGt.title" = "Дата на създаване";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Help";
+"wpr-3q-Mcd.title" = "Помощ";
 
 /* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "wva-as-5Ab"; */
-"wva-as-5Ab.title" = "Slideshow";
+"wva-as-5Ab.title" = "Слайдшоу";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
-"x3v-GG-iWU.title" = "Copy";
+"x3v-GG-iWU.title" = "Копирай";
 
 /* Class = "NSTextFieldCell"; title = "Zoom In:"; ObjectID = "x7o-9q-Gti"; */
-"x7o-9q-Gti.title" = "Zoom In:";
+"x7o-9q-Gti.title" = "Увеличете:";
 
 /* Class = "NSMenuItem"; title = "File Type"; ObjectID = "xOJ-ET-atP"; */
-"xOJ-ET-atP.title" = "File Type";
+"xOJ-ET-atP.title" = "Тип файл";
 
 /* Class = "NSMenuItem"; title = "180º"; ObjectID = "xP6-D3-dqk"; */
 "xP6-D3-dqk.title" = "180º";
@@ -1326,76 +1323,76 @@
 "xSH-Vv-KRG.title" = "\\";
 
 /* Class = "NSTextFieldCell"; title = "2X Upscale"; ObjectID = "xbi-Ds-ixI"; */
-"xbi-Ds-ixI.title" = "2X Upscale";
+"xbi-Ds-ixI.title" = "2X увеличете мащаба";
 
 /* Class = "NSMenuItem"; title = "90º Counter-clockwise"; ObjectID = "xbj-Bs-UCg"; */
-"xbj-Bs-UCg.title" = "90º Counter-clockwise";
+"xbj-Bs-UCg.title" = "90º Обратно на часовниковата стрелка";
 
 /* Class = "NSButtonCell"; title = "Add "; ObjectID = "xgR-ct-Eq3"; */
-"xgR-ct-Eq3.title" = "Add ";
+"xgR-ct-Eq3.title" = "Добавяне ";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "xs0-nv-VcE"; */
-"xs0-nv-VcE.title" = "Date Created";
+"xs0-nv-VcE.title" = "Дата на създаване";
 
 /* Class = "NSMenuItem"; title = "4:3"; ObjectID = "y0b-fU-NAh"; */
 "y0b-fU-NAh.title" = "4:3";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "y67-Mo-rVm"; */
-"y67-Mo-rVm.title" = "Cancel";
+"y67-Mo-rVm.title" = "Отказ";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "y80-Fq-GXL"; */
-"y80-Fq-GXL.title" = "Cancel";
+"y80-Fq-GXL.title" = "Отказ";
 
 /* Class = "NSTextFieldCell"; title = "Clone Tool"; ObjectID = "y8Z-8y-taq"; */
-"y8Z-8y-taq.title" = "Clone Tool";
+"y8Z-8y-taq.title" = "Инструмент за клониране";
 
 /* Class = "NSButtonCell"; title = "Upscale"; ObjectID = "yAy-eZ-7vK"; */
-"yAy-eZ-7vK.title" = "Upscale";
+"yAy-eZ-7vK.title" = "Увеличете мащаба";
 
 /* Class = "NSTextFieldCell"; title = "Sharpness"; ObjectID = "yFa-ka-tDC"; */
-"yFa-ka-tDC.title" = "Sharpness";
+"yFa-ka-tDC.title" = "Острота";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "yHg-du-rEw"; */
-"yHg-du-rEw.title" = "Box";
+"yHg-du-rEw.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "Adjust Color Temperature..."; ObjectID = "yJj-uy-re2"; */
-"yJj-uy-re2.title" = "Adjust Color Temperature...";
+"yJj-uy-re2.title" = "Регулиране на цветовата температура...";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Sharpness and Noise..."; ObjectID = "yMG-g6-wez"; */
-"yMG-g6-wez.ibShadowedToolTip" = "Sharpness and Noise...";
+"yMG-g6-wez.ibShadowedToolTip" = "Острота и шум...";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ycU-Cs-JLq"; */
-"ycU-Cs-JLq.title" = "Box";
+"ycU-Cs-JLq.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Pixea wouldn't be possible without these components:"; ObjectID = "z1W-SL-b9V"; */
-"z1W-SL-b9V.title" = "Pixea wouldn't be possible without these components:";
+"z1W-SL-b9V.title" = "Pixea не би била възможна без тези компоненти:";
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "z3A-9g-LlM"; */
-"z3A-9g-LlM.title" = "Move to Trash";
+"z3A-9g-LlM.title" = "Преместване в кошчето";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft"; */
-"z6Y-gD-vft.ibShadowedToolTip" = "Resize Image..";
+"z6Y-gD-vft.ibShadowedToolTip" = "Преоразмеряване на изображението..";
 
 /* Class = "NSTextFieldCell"; title = "Built-in video player with MP4 and MKV support"; ObjectID = "zB0-DC-BoP"; */
-"zB0-DC-BoP.title" = "Built-in video player with MP4 and MKV support";
+"zB0-DC-BoP.title" = "Вграден видео плейър с поддръжка на MP4 и MKV";
 
 /* Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "zLZ-LC-aXe"; */
-"zLZ-LC-aXe.title" = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:";
+"zLZ-LC-aXe.title" = "Позволете на Pixea да търси допълнителни изображения и видеоклипове за слайдшоуто и бързо да прегледате следните папки:";
 
 /* Class = "NSTextFieldCell"; title = "Four times double the pixels using ML-powered algorithms"; ObjectID = "zRl-BO-RJ0"; */
-"zRl-BO-RJ0.title" = "Four times double the pixels using ML-powered algorithms";
+"zRl-BO-RJ0.title" = "Четири пъти удвоете пикселите с помощта на базирани на ML алгоритми";
 
 /* Class = "NSTextFieldCell"; title = "Super Resolution"; ObjectID = "zd4-VX-VWV"; */
-"zd4-VX-VWV.title" = "Super Resolution";
+"zd4-VX-VWV.title" = "Супер резолюция";
 
 /* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "zeQ-sl-hPT"; */
-"zeQ-sl-hPT.title" = "Images";
+"zeQ-sl-hPT.title" = "Изображения";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "zew-TH-yR2"; */
-"zew-TH-yR2.title" = "Box";
+"zew-TH-yR2.title" = "Каре";
 
 /* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "zjJ-yz-HL8"; */
-"zjJ-yz-HL8.headerCell.title" = "Folder";
+"zjJ-yz-HL8.headerCell.title" = "Папка";
 
 /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
-"zzy-YJ-msS.title" = "Opacity";
+"zzy-YJ-msS.title" = "Непрозрачност";

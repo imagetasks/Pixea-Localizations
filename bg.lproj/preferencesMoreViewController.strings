@@ -1,24 +1,24 @@
 
 /* Class = "NSTextFieldCell"; title = "Essential Desktop widgets."; ObjectID = "BKB-yi-LiR"; */
-"BKB-yi-LiR.title" = "Essential Desktop widgets.";
+"BKB-yi-LiR.title" = "Основни приспособления тип уиджети за настолен компютър.";
 
 /* Class = "NSButtonCell"; title = "GET"; ObjectID = "Bvm-QD-MzC"; */
-"Bvm-QD-MzC.title" = "GET";
+"Bvm-QD-MzC.title" = "Изтегли";
 
 /* Class = "NSTextFieldCell"; title = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart."; ObjectID = "Cpw-a2-M5n"; */
-"Cpw-a2-M5n.title" = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart.";
+"Cpw-a2-M5n.title" = "iStatistica Pro е усъвършенстван системен монитор за macOS.\nПреглед на статистическите данни за вашата батерия, информация в реално време за процесор, видео карта, RAM-памет използване и много, много повече. iStatistica Pro също така показва мрежови статистики в реално време - публичен IP-адрес, шлюз и локални IP адреси, скорост и диаграма на скоростите като данни.";
 
 /* Class = "NSButtonCell"; title = "GET"; ObjectID = "Qpq-8e-lOf"; */
-"Qpq-8e-lOf.title" = "GET";
+"Qpq-8e-lOf.title" = "Изтегли";
 
 /* Class = "NSTextFieldCell"; title = "System Monitor. Reinvented."; ObjectID = "Uhv-vK-A7J"; */
-"Uhv-vK-A7J.title" = "System Monitor. Reinvented.";
+"Uhv-vK-A7J.title" = "Системен Монитор. Преизобратен.";
 
 /* Class = "NSTextFieldCell"; title = "Personalize your Desktop with Lockera widgets. Keep track of essential information.\nLockera widgets:\nStorage, Year Progress, On this Day, Days Left, Calendar, Data Usage, \nWi-Fi data usage, Days Passed, and Birthdays."; ObjectID = "arx-LP-oVu"; */
-"arx-LP-oVu.title" = "Personalize your Desktop with Lockera widgets. Keep track of essential information.\nLockera widgets:\nStorage, Year Progress, On this Day, Days Left, Calendar, Data Usage, \nWi-Fi data usage, Days Passed, and Birthdays.";
+"arx-LP-oVu.title" = "Персонализирайте работния си плот с уиджетите на Lockera. Проследявайте важна информация.Уиджети на Lockera:\nДисково пространство, година в ход на този ден, оставащи дни, календар, използване на данни, \nWi-Fi използване на данни, изминали дни и рожденни дни.";
 
 /* Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
-"ulv-pe-DW8.title" = "Lockera Widgets";
+"ulv-pe-DW8.title" = "Lockera Уиджети";
 
 /* Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
 "wvu-eL-Cug.title" = "iStatistica Pro";

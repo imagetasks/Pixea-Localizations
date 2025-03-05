@@ -6,7 +6,7 @@
 "2XV-Ix-NLZ.title" = "mpg";
 
 /* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "2a3-1N-wuJ"; */
-"2a3-1N-wuJ.title" = "Images";
+"2a3-1N-wuJ.title" = "Изображения";
 
 /* Class = "NSButtonCell"; title = "wmv"; ObjectID = "3LW-S9-jEc"; */
 "3LW-S9-jEc.title" = "wmv";
@@ -27,7 +27,7 @@
 "BmE-xJ-9oi.title" = "nef";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Dyo-Ot-TfX"; */
-"Dyo-Ot-TfX.title" = "Box";
+"Dyo-Ot-TfX.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "erf"; ObjectID = "FMc-7a-jET"; */
 "FMc-7a-jET.title" = "erf";
@@ -36,7 +36,7 @@
 "GN1-TU-UnG.title" = "crw";
 
 /* Class = "NSTextFieldCell"; title = "Videos"; ObjectID = "HQp-un-1Ll"; */
-"HQp-un-1Ll.title" = "Videos";
+"HQp-un-1Ll.title" = "Видеа";
 
 /* Class = "NSButtonCell"; title = "mov"; ObjectID = "Ipk-SN-Njf"; */
 "Ipk-SN-Njf.title" = "mov";
@@ -54,13 +54,13 @@
 "Mth-jH-EmL.title" = "icns";
 
 /* Class = "NSButtonCell"; title = "sketch"; ObjectID = "Na7-le-xOZ"; */
-"Na7-le-xOZ.title" = "sketch";
+"Na7-le-xOZ.title" = "скица";
 
 /* Class = "NSButtonCell"; title = "srw"; ObjectID = "Ne5-zg-qiW"; */
 "Ne5-zg-qiW.title" = "srw";
 
 /* Class = "NSButtonCell"; title = "Ignore zip hierarchy"; ObjectID = "Nrd-Uc-MD1"; */
-"Nrd-Uc-MD1.title" = "Ignore zip hierarchy";
+"Nrd-Uc-MD1.title" = "Пренебрегване на zip йерархията";
 
 /* Class = "NSButtonCell"; title = "exr"; ObjectID = "Nuk-oC-fLB"; */
 "Nuk-oC-fLB.title" = "exr";
@@ -75,16 +75,16 @@
 "Qgh-u2-qxf.title" = "avi";
 
 /* Class = "NSTextFieldCell"; title = "Reopen Pixea windows to apply this setting."; ObjectID = "Roy-IC-n7s"; */
-"Roy-IC-n7s.title" = "Reopen Pixea windows to apply this setting.";
+"Roy-IC-n7s.title" = "Отворете отново прозорците на Pixea, за да приложите тази настройка.";
 
 /* Class = "NSButtonCell"; title = "Select All"; ObjectID = "S84-wM-JWM"; */
-"S84-wM-JWM.title" = "Select All";
+"S84-wM-JWM.title" = "Изберете всички";
 
 /* Class = "NSButtonCell"; title = "3fr"; ObjectID = "Sg2-g7-xCo"; */
 "Sg2-g7-xCo.title" = "3fr";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "TwN-pc-VwI"; */
-"TwN-pc-VwI.title" = "Box";
+"TwN-pc-VwI.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "pef"; ObjectID = "U0B-fY-IcZ"; */
 "U0B-fY-IcZ.title" = "pef";
@@ -99,13 +99,13 @@
 "YHI-aj-xH2.title" = "psd";
 
 /* Class = "NSButtonCell"; title = "Select All"; ObjectID = "ZAR-wu-Suk"; */
-"ZAR-wu-Suk.title" = "Select All";
+"ZAR-wu-Suk.title" = "Изберете всички";
 
 /* Class = "NSButtonCell"; title = "pic"; ObjectID = "ZNJ-iq-k6S"; */
 "ZNJ-iq-k6S.title" = "pic";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "bXf-bg-82Y"; */
-"bXf-bg-82Y.title" = "Box";
+"bXf-bg-82Y.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "webp"; ObjectID = "bgr-aI-0vl"; */
 "bgr-aI-0vl.title" = "webp";
@@ -114,7 +114,7 @@
 "cDc-Op-VW2.title" = "fax";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "cGE-5P-Ivc"; */
-"cGE-5P-Ivc.title" = "Box";
+"cGE-5P-Ivc.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "mp4"; ObjectID = "cUL-Lz-8Vg"; */
 "cUL-Lz-8Vg.title" = "mp4";
@@ -126,7 +126,7 @@
 "eMi-ys-r6y.title" = "jpeg";
 
 /* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "eRR-Kk-Axs"; */
-"eRR-Kk-Axs.title" = "Deselect All";
+"eRR-Kk-Axs.title" = "Премахване на избор на всички";
 
 /* Class = "NSButtonCell"; title = "rwl"; ObjectID = "eZg-jD-aff"; */
 "eZg-jD-aff.title" = "rwl";
@@ -150,7 +150,7 @@
 "jef-Va-shn.title" = "jp2";
 
 /* Class = "NSTextFieldCell"; title = "Automatically scan the selected folder for the following file types: "; ObjectID = "jkJ-Uo-raR"; */
-"jkJ-Uo-raR.title" = "Automatically scan the selected folder for the following file types: ";
+"jkJ-Uo-raR.title" = "Автоматично сканиране на избраната папка за следните типове файлове: ";
 
 /* Class = "NSButtonCell"; title = "gif"; ObjectID = "kNX-PG-GMf"; */
 "kNX-PG-GMf.title" = "gif";
@@ -165,7 +165,7 @@
 "oGQ-pN-Jnb.title" = "jpg";
 
 /* Class = "NSTextFieldCell"; title = "Zip-Archives"; ObjectID = "pA2-qG-TsB"; */
-"pA2-qG-TsB.title" = "Zip-Archives";
+"pA2-qG-TsB.title" = "Zip-Архиви";
 
 /* Class = "NSButtonCell"; title = "raf"; ObjectID = "rLR-zg-t9j"; */
 "rLR-zg-t9j.title" = "raf";
@@ -177,7 +177,7 @@
 "rdZ-IL-Yb4.title" = "srf";
 
 /* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "sKg-63-wGx"; */
-"sKg-63-wGx.title" = "Deselect All";
+"sKg-63-wGx.title" = "Премахване на избор на всички";
 
 /* Class = "NSButtonCell"; title = "m4v"; ObjectID = "sLE-T5-wLY"; */
 "sLE-T5-wLY.title" = "m4v";
@@ -186,13 +186,13 @@
 "sSt-Oe-dxw.title" = "rw2";
 
 /* Class = "NSTextFieldCell"; title = "Format-specific options:"; ObjectID = "ujv-Ap-D4w"; */
-"ujv-Ap-D4w.title" = "Format-specific options:";
+"ujv-Ap-D4w.title" = "Специфични опции за формата:";
 
 /* Class = "NSButtonCell"; title = "jfax"; ObjectID = "vcN-Xj-Qhk"; */
 "vcN-Xj-Qhk.title" = "jfax";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "w6N-hH-H7N"; */
-"w6N-hH-H7N.title" = "Box";
+"w6N-hH-H7N.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "jpe"; ObjectID = "xYA-J0-ndt"; */
 "xYA-J0-ndt.title" = "jpe";

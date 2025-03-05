@@ -1,6 +1,6 @@
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4"; */
-"4.title" = "OtherViews";
+"4.title" = "Други изгледи"; //OtherViews does not look like a variable - therefore translated
 
 /* Class = "NSMenuItem"; title = "JPEG"; ObjectID = "5"; */
 "5.title" = "JPEG";
@@ -9,10 +9,10 @@
 "7.title" = "TIFF";
 
 /* Class = "NSTextFieldCell"; title = "Export as"; ObjectID = "11"; */
-"11.title" = "Export as";
+"11.title" = "Експортиране като";
 
 /* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "13"; */
-"13.title" = "Quality";
+"13.title" = "Качество";
 
 /* Class = "NSMenuItem"; title = "PNG"; ObjectID = "15"; */
 "15.title" = "PNG";
@@ -21,10 +21,10 @@
 "30.title" = "JPEG-2000";
 
 /* Class = "NSTextFieldCell"; title = "Poor"; ObjectID = "32"; */
-"32.title" = "Poor";
+"32.title" = "Лошо";
 
 /* Class = "NSTextFieldCell"; title = "Best"; ObjectID = "34"; */
-"34.title" = "Best";
+"34.title" = "Най-доброто";
 
 /* Class = "NSMenuItem"; title = "BMP"; ObjectID = "U5i-b8-f3I"; */
 "U5i-b8-f3I.title" = "BMP";
@@ -33,4 +33,4 @@
 "iR5-cq-Mmn.title" = "GIF";
 
 /* Class = "NSButtonCell"; title = "Include EXIF metadata"; ObjectID = "pg2-Hl-C7h"; */
-"pg2-Hl-C7h.title" = "Include EXIF metadata";
+"pg2-Hl-C7h.title" = "Включете EXIF ​​метаданни";

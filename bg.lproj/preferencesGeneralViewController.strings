@@ -1,129 +1,129 @@
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "2Iy-x3-QKJ"; */
-"2Iy-x3-QKJ.title" = "Box";
+"2Iy-x3-QKJ.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "Keep always on top"; ObjectID = "5KC-MQ-7fc"; */
-"5KC-MQ-7fc.title" = "Keep always on top";
+"5KC-MQ-7fc.title" = "Дръжте винаги най-отгоре";
 
 /* Class = "NSButtonCell"; title = "Automatically switch to full screen"; ObjectID = "6rx-de-30V"; */
-"6rx-de-30V.title" = "Automatically switch to full screen";
+"6rx-de-30V.title" = "Автоматично превключване към цял екран";
 
 /* Class = "NSButtonCell"; title = "List recently opened items"; ObjectID = "7qn-T7-ruB"; */
-"7qn-T7-ruB.title" = "List recently opened items";
+"7qn-T7-ruB.title" = "Списък на последно отворени елементи";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "7vn-qv-CEQ"; */
-"7vn-qv-CEQ.title" = "Box";
+"7vn-qv-CEQ.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Default zoom"; ObjectID = "8R8-C7-F4i"; */
-"8R8-C7-F4i.title" = "Default zoom";
+"8R8-C7-F4i.title" = "Увеличаване по подразбиране";
 
 /* Class = "NSTextFieldCell"; title = "Sort media files by"; ObjectID = "8gm-BS-eqC"; */
-"8gm-BS-eqC.title" = "Sort media files by";
+"8gm-BS-eqC.title" = "Сортиране на медийни файлове по";
 
 /* Class = "NSButtonCell"; title = "Points"; ObjectID = "91x-64-bJ9"; */
-"91x-64-bJ9.title" = "Points";
+"91x-64-bJ9.title" = "Точки";
 
 /* Class = "NSButtonCell"; title = "Date added"; ObjectID = "Cic-3u-pg5"; */
-"Cic-3u-pg5.title" = "Date added";
+"Cic-3u-pg5.title" = "Дата на добавяне";
 
 /* Class = "NSButtonCell"; title = "Date modified"; ObjectID = "CzN-fp-7TW"; */
-"CzN-fp-7TW.title" = "Date modified";
+"CzN-fp-7TW.title" = "Дата на промяна";
 
 /* Class = "NSTextFieldCell"; title = "Stretch to Fit"; ObjectID = "EER-jc-phA"; */
-"EER-jc-phA.title" = "Stretch to Fit";
+"EER-jc-phA.title" = "Разтягане, за да се побере";
 
 /* Class = "NSButtonCell"; title = "Manage Access..."; ObjectID = "F74-M3-Cci"; */
-"F74-M3-Cci.title" = "Manage Access...";
+"F74-M3-Cci.title" = "Управление на достъпа...";
 
 /* Class = "NSButtonCell"; title = "Always show confirmation"; ObjectID = "FI4-Lc-u0F"; */
-"FI4-Lc-u0F.title" = "Always show confirmation";
+"FI4-Lc-u0F.title" = "Винаги показвай потвърждение";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "FYT-hM-LhR"; */
-"FYT-hM-LhR.title" = "Box";
+"FYT-hM-LhR.title" = "Каре";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "HTQ-0l-YJx"; */
-"HTQ-0l-YJx.title" = "Box";
+"HTQ-0l-YJx.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "File size"; ObjectID = "Kdj-tC-acJ"; */
-"Kdj-tC-acJ.title" = "File size";
+"Kdj-tC-acJ.title" = "Размер на файла";
 
 /* Class = "NSButtonCell"; title = "Date created"; ObjectID = "Lap-1k-DOH"; */
-"Lap-1k-DOH.title" = "Date created";
+"Lap-1k-DOH.title" = "Дата на създаване";
 
 /* Class = "NSButtonCell"; title = "Open each image in a new window"; ObjectID = "NqL-Ko-d7J"; */
-"NqL-Ko-d7J.title" = "Open each image in a new window";
+"NqL-Ko-d7J.title" = "Отваряне на всяка снимка в нов прозорец";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "P6g-Y3-rh2"; */
-"P6g-Y3-rh2.title" = "PLUS";
+"P6g-Y3-rh2.title" = "ПЛЮС";
 
 /* Class = "NSButtonCell"; title = "Always ask to save changes"; ObjectID = "QJA-jW-OZO"; */
-"QJA-jW-OZO.title" = "Always ask to save changes";
+"QJA-jW-OZO.title" = "Винаги питайте за запазване на промените";
 
 /* Class = "NSButtonCell"; title = "Use existing window for the same folder"; ObjectID = "Sc4-2j-8ms"; */
-"Sc4-2j-8ms.title" = "Use existing window for the same folder";
+"Sc4-2j-8ms.title" = "Използване на съществуващ прозорец за същата папка";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "UsA-ZU-Slq"; */
-"UsA-ZU-Slq.title" = "Actual Size";
+"UsA-ZU-Slq.title" = "Действителен размер";
 
 /* Class = "NSButtonCell"; title = "Automatically set sort mode based on Finder's sort column"; ObjectID = "VDb-Ze-X4P"; */
-"VDb-Ze-X4P.title" = "Automatically set sort mode based on Finder's sort column";
+"VDb-Ze-X4P.title" = "Автоматично задаване на режим на сортиране въз основа на колоната за сортиране на Finder";
 
 /* Class = "NSButtonCell"; title = "Keep aspect ratio when resizing"; ObjectID = "Wf9-JJ-N3n"; */
-"Wf9-JJ-N3n.title" = "Keep aspect ratio when resizing";
+"Wf9-JJ-N3n.title" = "Запазване на съотношението на страните при промяна на размера";
 
 /* Class = "NSButtonCell"; title = "Shuffle"; ObjectID = "XQe-uj-4X2"; */
-"XQe-uj-4X2.title" = "Shuffle";
+"XQe-uj-4X2.title" = "Разбъркване";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ato-UQ-pb9"; */
-"ato-UQ-pb9.title" = "Box";
+"ato-UQ-pb9.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Deleting files and folders"; ObjectID = "gsV-rn-zs2"; */
-"gsV-rn-zs2.title" = "Deleting files and folders";
+"gsV-rn-zs2.title" = "Изтриване на файлове и папки";
 
 /* Class = "NSTextFieldCell"; title = "Fill Screen"; ObjectID = "h84-vw-CFX"; */
-"h84-vw-CFX.title" = "Fill Screen";
+"h84-vw-CFX.title" = "Запълване на екрана";
 
 /* Class = "NSButtonCell"; title = "Quit Pixea when last window is closed"; ObjectID = "hek-kW-9le"; */
-"hek-kW-9le.title" = "Quit Pixea when last window is closed";
+"hek-kW-9le.title" = "Излезте от Pixea, когато последният прозорец е затворен";
 
 /* Class = "NSTextFieldCell"; title = "When opening images"; ObjectID = "iQo-Fc-BOp"; */
-"iQo-Fc-BOp.title" = "When opening images";
+"iQo-Fc-BOp.title" = "При отваряне на изображения";
 
 /* Class = "NSButtonCell"; title = "File type"; ObjectID = "j2E-63-h1q"; */
-"j2E-63-h1q.title" = "File type";
+"j2E-63-h1q.title" = "Тип файл";
 
 /* Class = "NSButtonCell"; title = "Pixels"; ObjectID = "jNp-fN-bqc"; */
-"jNp-fN-bqc.title" = "Pixels";
+"jNp-fN-bqc.title" = "Пиксели";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "k7Y-lM-Atq"; */
-"k7Y-lM-Atq.title" = "Box";
+"k7Y-lM-Atq.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "Name"; ObjectID = "lKi-Hv-8WF"; */
-"lKi-Hv-8WF.title" = "Name";
+"lKi-Hv-8WF.title" = "Име";
 
 /* Class = "NSTextFieldCell"; title = "Recent items"; ObjectID = "lmr-B1-vI2"; */
-"lmr-B1-vI2.title" = "Recent items";
+"lmr-B1-vI2.title" = "Скорошни елементи";
 
 /* Class = "NSTextFieldCell"; title = "Editing images"; ObjectID = "m2J-xa-kiP"; */
-"m2J-xa-kiP.title" = "Editing images";
+"m2J-xa-kiP.title" = "Редактиране на изображения";
 
 /* Class = "NSTextFieldCell"; title = "If this option is selected, Pixea will sort the contents based on the preferences set in your file system. By default, this option applies to subfolders only, as the sort information for any folder is stored in its parent's attributes. If you want to apply automatic sorting to your root folder, grant permission to access its parent."; ObjectID = "mw4-Oi-R2y"; */
-"mw4-Oi-R2y.title" = "If this option is selected, Pixea will sort the contents based on the preferences set in your file system. By default, this option applies to subfolders only, as the sort information for any folder is stored in its parent's attributes. If you want to apply automatic sorting to your root folder, grant permission to access its parent.";
+"mw4-Oi-R2y.title" = "Ако тази опция е избрана, Pixea ще сортира съдържанието въз основа на предпочитанията, зададени във файловата Ви система. По подразбиране тази опция се прилага само за подпапки, тъй като информацията за сортиране за всяка папка се съхранява в атрибутите на папката. Ако искате да приложите автоматично сортиране към основната си папка, дайте разрешение за достъп до папката над нея.";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
-"p97-VP-ELd.title" = "PLUS";
+"p97-VP-ELd.title" = "ПЛЮС";
 
 /* Class = "NSButtonCell"; title = "Use existing window for any folder"; ObjectID = "qwJ-si-VBu"; */
-"qwJ-si-VBu.title" = "Use existing window for any folder";
+"qwJ-si-VBu.title" = "Използвайте съществуващ прозорец за всяка папка";
 
 /* Class = "NSTextFieldCell"; title = "Window"; ObjectID = "rba-Lk-QXc"; */
-"rba-Lk-QXc.title" = "Window";
+"rba-Lk-QXc.title" = "Прозорец";
 
 /* Class = "NSTextFieldCell"; title = "Fixed Size and Position"; ObjectID = "yYH-QK-MpA"; */
-"yYH-QK-MpA.title" = "Fixed Size and Position";
+"yYH-QK-MpA.title" = "Фиксиран размер и позиция";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "ysg-55-8kg"; */
-"ysg-55-8kg.title" = "Actual Size";
+"ysg-55-8kg.title" = "Действителен размер";
 
 /* Class = "NSTextFieldCell"; title = "Fit To Screen"; ObjectID = "zXk-De-iOY"; */
-"zXk-De-iOY.title" = "Fit To Screen";
+"zXk-De-iOY.title" = "Побиране в екрана";

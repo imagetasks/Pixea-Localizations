@@ -3,7 +3,7 @@
 "0ku-5x-buq.title" = "x 0.5";
 
 /* Class = "NSButtonCell"; title = "Step forward/backward 30s"; ObjectID = "91x-64-bJ9"; */
-"91x-64-bJ9.title" = "Step forward/backward 30s";
+"91x-64-bJ9.title" = "Стъпка напред/назад 30сек";
 
 /* Class = "NSMenuItem"; title = "x 2.0"; ObjectID = "C5L-OT-pcu"; */
 "C5L-OT-pcu.title" = "x 2.0";
@@ -12,70 +12,70 @@
 "EEj-k2-wGq.title" = "x 1.5";
 
 /* Class = "NSButtonCell"; title = "Prefer QuickTime engine"; ObjectID = "I3E-ap-nn2"; */
-"I3E-ap-nn2.title" = "Prefer QuickTime engine";
+"I3E-ap-nn2.title" = "Предпочитам задвижване чрез QuickTime";
 
 /* Class = "NSTextFieldCell"; title = "Previous/next shortcuts"; ObjectID = "N6e-No-A2H"; */
-"N6e-No-A2H.title" = "Previous/next shortcuts";
+"N6e-No-A2H.title" = "Предишни/следващи клавишни комбинации";
 
 /* Class = "NSTextFieldCell"; title = "Playback"; ObjectID = "O6z-mI-jl7"; */
-"O6z-mI-jl7.title" = "Playback";
+"O6z-mI-jl7.title" = "Възпроизвеждане";
 
 /* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "OWj-KS-U6S"; */
-"OWj-KS-U6S.title" = "Always use built-in";
+"OWj-KS-U6S.title" = "Винаги използвай вградената възможност"; //i18n testing to optimize-shorten
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "QJF-Wp-iDt"; */
-"QJF-Wp-iDt.title" = "Box";
+"QJF-Wp-iDt.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "Show next/previous media"; ObjectID = "TPA-mB-xjp"; */
-"TPA-mB-xjp.title" = "Show next/previous media";
+"TPA-mB-xjp.title" = "Показване на следваща/предишна медия";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
-"TxO-YS-twQ.title" = "Box";
+"TxO-YS-twQ.title" = "Каре";
 
 /* Class = "NSMenuItem"; title = "x 1.1"; ObjectID = "UFb-bx-xDc"; */
 "UFb-bx-xDc.title" = "x 1.1";
 
 /* Class = "NSTextFieldCell"; title = "Swiping left/right"; ObjectID = "UsA-ZU-Slq"; */
-"UsA-ZU-Slq.title" = "Swiping left/right";
+"UsA-ZU-Slq.title" = "Плъзгане наляво/надясно";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "cGE-u0-PNl"; */
-"cGE-u0-PNl.title" = "Box";
+"cGE-u0-PNl.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "When video ends"; ObjectID = "dCD-O4-6Kt"; */
-"dCD-O4-6Kt.title" = "When video ends";
+"dCD-O4-6Kt.title" = "Когато видеото свърши";
 
 /* Class = "NSButtonCell"; title = "Repeat"; ObjectID = "eR3-E3-vOw"; */
-"eR3-E3-vOw.title" = "Repeat";
+"eR3-E3-vOw.title" = "Повторете";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "fCB-IQ-slF"; */
-"fCB-IQ-slF.title" = "Normal";
+"fCB-IQ-slF.title" = "нормално";
 
 /* Class = "NSButtonCell"; title = "Show next media"; ObjectID = "iPN-a7-Gon"; */
-"iPN-a7-Gon.title" = "Show next media";
+"iPN-a7-Gon.title" = "Показване на следващата медия";
 
 /* Class = "NSButtonCell"; title = "Show next/previous media"; ObjectID = "jNp-fN-bqc"; */
-"jNp-fN-bqc.title" = "Show next/previous media";
+"jNp-fN-bqc.title" = "Показване на следваща/предишна медия";
 
 /* Class = "NSTextFieldCell"; title = "Video renderer"; ObjectID = "jkJ-Uo-raR"; */
-"jkJ-Uo-raR.title" = "Video renderer";
+"jkJ-Uo-raR.title" = "Видео обработка";
 
 /* Class = "NSButtonCell"; title = "Stop"; ObjectID = "kNR-H1-rTr"; */
-"kNR-H1-rTr.title" = "Stop";
+"kNR-H1-rTr.title" = "Стоп";
 
 /* Class = "NSMenuItem"; title = "x 0.9"; ObjectID = "mgD-hk-Dmy"; */
 "mgD-hk-Dmy.title" = "x 0.9";
 
 /* Class = "NSButtonCell"; title = "Remember playback position"; ObjectID = "oGQ-pN-Jnb"; */
-"oGQ-pN-Jnb.title" = "Remember playback position";
+"oGQ-pN-Jnb.title" = "Запомнете позицията на възпроизвеждане";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
-"p97-VP-ELd.title" = "PLUS";
+"p97-VP-ELd.title" = "ПЛЮС";
 
 /* Class = "NSButtonCell"; title = "Step forward/backward 30s"; ObjectID = "pqz-0e-mL8"; */
-"pqz-0e-mL8.title" = "Step forward/backward 30s";
+"pqz-0e-mL8.title" = "Стъпка напред/назад 30сек";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "prn-Kr-UHQ"; */
-"prn-Kr-UHQ.title" = "Box";
+"prn-Kr-UHQ.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Default playback speed"; ObjectID = "ro3-ih-vbR"; */
-"ro3-ih-vbR.title" = "Default playback speed";
+"ro3-ih-vbR.title" = "Скорост на възпроизвеждане по подразбиране";

@@ -1,87 +1,87 @@
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "0IV-IR-otP"; */
-"0IV-IR-otP.title" = "Box";
+"0IV-IR-otP.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "Show file names"; ObjectID = "3nV-9V-gas"; */
-"3nV-9V-gas.title" = "Show file names";
+"3nV-9V-gas.title" = "Покажи името на файловете";
 
 /* Class = "NSTextFieldCell"; title = "Status Bar"; ObjectID = "4Up-an-dJb"; */
-"4Up-an-dJb.title" = "Status Bar";
+"4Up-an-dJb.title" = "Лентата на състоянието";
 
 /* Class = "NSButtonCell"; title = "Show file names"; ObjectID = "5EP-eN-UCj"; */
-"5EP-eN-UCj.title" = "Show file names";
+"5EP-eN-UCj.title" = "Покажи името на файловете";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Amg-Ae-ybc"; */
-"Amg-Ae-ybc.title" = "Box";
+"Amg-Ae-ybc.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "Media Window"; ObjectID = "Dtn-HC-Ba6"; */
-"Dtn-HC-Ba6.title" = "Media Window";
+"Dtn-HC-Ba6.title" = "Прозорец за медия";
 
 /* Class = "NSTextFieldCell"; title = "Media Browser"; ObjectID = "EF2-GW-zt7"; */
-"EF2-GW-zt7.title" = "Media Browser";
+"EF2-GW-zt7.title" = "Медиен браузър";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "NsX-9D-RfV"; */
-"NsX-9D-RfV.title" = "PLUS";
+"NsX-9D-RfV.title" = "ПЛЮС";
 
 /* Class = "NSButtonCell"; title = "Enable status bar"; ObjectID = "O7h-qf-Tc0"; */
-"O7h-qf-Tc0.title" = "Enable status bar";
+"O7h-qf-Tc0.title" = "Активиране на лентата на състоянието";
 
 /* Class = "NSButtonCell"; title = "Hide status bar in full screen mode"; ObjectID = "Out-c8-cAX"; */
-"Out-c8-cAX.title" = "Hide status bar in full screen mode";
+"Out-c8-cAX.title" = "Скриване на лентата на състоянието в режим на цял екран";
 
 /* Class = "NSButtonCell"; title = "Hide thumbnails panel automatically"; ObjectID = "P2E-Gh-Ddt"; */
-"P2E-Gh-Ddt.title" = "Hide thumbnails panel automatically";
+"P2E-Gh-Ddt.title" = "Автоматично скриване на панела с миниатюри";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "R27-9r-DyL"; */
-"R27-9r-DyL.title" = "Box";
+"R27-9r-DyL.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "Animate Show Previous/Next media actions"; ObjectID = "RTj-IL-rf3"; */
-"RTj-IL-rf3.title" = "Animate Show Previous/Next media actions";
+"RTj-IL-rf3.title" = "Анимиране на действията за показване на предишни/следващи медии";
 
 /* Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
-"TDB-d8-u4M.title" = "Background color";
+"TDB-d8-u4M.title" = "Цвят на фона";
 
 /* Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
-"WeQ-iF-4I5.title" = "Full screen background";
+"WeQ-iF-4I5.title" = "Фон на целия екран";
 
 /* Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
-"XRc-FW-CYe.title" = "System default";
+"XRc-FW-CYe.title" = "Системни настройки по подразбиране";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
-"Xod-Ki-J3G.title" = "Box";
+"Xod-Ki-J3G.title" = "Каре";
 
 /* Class = "NSTextFieldCell"; title = "5 sec"; ObjectID = "ZTZ-5l-rBe"; */
-"ZTZ-5l-rBe.title" = "5 sec";
+"ZTZ-5l-rBe.title" = "5 секунди";
 
 /* Class = "NSTextFieldCell"; title = "Thumbnails Panel"; ObjectID = "c0L-Qc-fX0"; */
-"c0L-Qc-fX0.title" = "Thumbnails Panel";
+"c0L-Qc-fX0.title" = "Панел с миниатюри";
 
 /* Class = "NSMenuItem"; title = "Ambient light"; ObjectID = "cu1-A8-2QK"; */
-"cu1-A8-2QK.title" = "Ambient light";
+"cu1-A8-2QK.title" = "Заобикаляща светлина";
 
 /* Class = "NSTextFieldCell"; title = "Regular"; ObjectID = "fcU-hn-i9f"; */
-"fcU-hn-i9f.title" = "Regular";
+"fcU-hn-i9f.title" = "Редовно";
 
 /* Class = "NSTextFieldCell"; title = "Panel size:"; ObjectID = "hND-55-qek"; */
-"hND-55-qek.title" = "Panel size:";
+"hND-55-qek.title" = "Размер на панела:";
 
 /* Class = "NSButtonCell"; title = "Show folders and archives on top"; ObjectID = "ik7-8b-NVU"; */
-"ik7-8b-NVU.title" = "Show folders and archives on top";
+"ik7-8b-NVU.title" = "Показване на папки и архиви отгоре";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "nZQ-9C-Ogw"; */
-"nZQ-9C-Ogw.title" = "PLUS";
+"nZQ-9C-Ogw.title" = "ПЛЮС";
 
 /* Class = "NSTextFieldCell"; title = "Slideshow delay"; ObjectID = "oAI-w9-RZd"; */
-"oAI-w9-RZd.title" = "Slideshow delay";
+"oAI-w9-RZd.title" = "Забавяне на слайдшоуто";
 
 /* Class = "NSButtonCell"; title = "Only when swiping left/right"; ObjectID = "oNY-eV-kai"; */
-"oNY-eV-kai.title" = "Only when swiping left/right";
+"oNY-eV-kai.title" = "Само при плъзгане наляво/надясно";
 
 /* Class = "NSTextFieldCell"; title = "Display a file name when you mouse over its thumbnail"; ObjectID = "ot0-xz-PeI"; */
-"ot0-xz-PeI.title" = "Display a file name when you mouse over its thumbnail";
+"ot0-xz-PeI.title" = "Показване на името на файла при преминаване с мишката върху миниатюрата му";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "y0i-P4-Mgr"; */
-"y0i-P4-Mgr.title" = "Box";
+"y0i-P4-Mgr.title" = "Каре";
 
 /* Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph-U7-RvC"; */
-"zph-U7-RvC.title" = "Hide status bar automatically";
+"zph-U7-RvC.title" = "Автоматично скриване на лентата за състояние";

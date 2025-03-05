@@ -1,15 +1,15 @@
 
 /* Class = "NSTextFieldCell"; title = "Grant or revoke the access:"; ObjectID = "Dbc-8H-lMa"; */
-"Dbc-8H-lMa.title" = "Grant or revoke the access:";
+"Dbc-8H-lMa.title" = "Предоставяне или отнемане на достъпа:";
 
 /* Class = "NSButtonCell"; title = "Done"; ObjectID = "F31-ys-eOi"; */
-"F31-ys-eOi.title" = "Done";
+"F31-ys-eOi.title" = "Готово";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "XiJ-wc-qYt"; */
-"XiJ-wc-qYt.title" = "Table View Cell";
+"XiJ-wc-qYt.title" = "Изглед на таблицата с клетка";
 
 /* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "YtJ-3e-7wD"; */
-"YtJ-3e-7wD.headerCell.title" = "Folder";
+"YtJ-3e-7wD.headerCell.title" = "Папка";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "giJ-Z4-4DX"; */
-"giJ-Z4-4DX.title" = "Text Cell";
+"giJ-Z4-4DX.title" = "Клетка за текст";
