@@ -1,0 +1,60 @@
+
+/* Class = "NSButtonCell"; title = "Linear"; ObjectID = "I3E-ap-nn2"; */
+"I3E-ap-nn2.title" = "Линейно";
+
+/* Class = "NSButtonCell"; title = "Lanczos"; ObjectID = "IO5-6F-GlQ"; */
+"IO5-6F-GlQ.title" = "Алгоритъм на Ланцос";
+
+/* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
+"OWj-KS-U6S.title" = "Трилинейно";
+
+/* Class = "NSButtonCell"; title = "Clear Cache"; ObjectID = "PZJ-ie-aQp"; */
+"PZJ-ie-aQp.title" = "Изчистване на кеша";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
+"TxO-YS-twQ.title" = "Каре";
+
+/* Class = "NSTextFieldCell"; title = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory."; ObjectID = "YYM-D8-hhL"; */
+"YYM-D8-hhL.title" = "Предварителното зареждане на предишни и следващи изображения предлага незабавно превключване, но изисква по-голямо използване на RAM памет. Махнете отметката от тази опция, ако компютърът ви е с малко памет.";
+
+/* Class = "NSTextFieldCell"; title = "Memory and disk cache"; ObjectID = "irp-me-Bao"; */
+"irp-me-Bao.title" = "Памет и дисков кеш";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "jNe-Nj-BJO"; */
+"jNe-Nj-BJO.title" = "Каре";
+
+/* Class = "NSTextFieldCell"; title = "Minification filtering"; ObjectID = "jkJ-Uo-raR"; */
+"jkJ-Uo-raR.title" = "Филтриране чрез минимизиране";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
+"p97-VP-ELd.title" = "ПЛЮС";
+
+/* Class = "NSButtonCell"; title = "Cache thumbnails"; ObjectID = "s1J-IY-0lH"; */
+"s1J-IY-0lH.title" = "Кеширане на миниатюри";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "x9U-hd-fpM"; */
+"x9U-hd-fpM.title" = "Нула КБ";
+
+/* Class = "NSButtonCell"; title = "Preload previous and next images"; ObjectID = "zBI-tS-TjZ"; */
+"zBI-tS-TjZ.title" = "Предварително зареждане на предишни и следващи изображения";
+
+/* Class = "NSTextFieldCell"; title = "RAW Render"; ObjectID = "6Dv-jd-82V"; */
+"6Dv-jd-82V.title" = "RAW Рендер";
+
+/* Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
+"GTf-ff-aln.title" = "Предпочитано е с macOS задвиждането"; //consider a shorter wording during i18n_testing_optimization
+
+/* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
+"vCw-yg-L16.title" = "Винаги използвайте вградената възможност";
+
+/* Class = "NSButtonCell"; title = "Process HDR images"; ObjectID = "4BK-K4-0o5"; */
+"4BK-K4-0o5.title" = "Обработка на HDR-изображения";
+
+/* Class = "NSButtonCell"; title = "Automatically"; ObjectID = "zc9-eF-W4i"; */
+"zc9-eF-W4i.title" = "Автоматично";
+
+/* Class = "NSButtonCell"; title = "as HDR"; ObjectID = "u3J-bs-ZaH"; */
+"u3J-bs-ZaH.title" = "като HDR";
+
+/* Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
+"FOW-av-yIA.title" = "как SDR";

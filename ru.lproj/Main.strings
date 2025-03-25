@@ -9,7 +9,7 @@
 "0FS-Rn-xpr.title" = "●";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "0MR-nN-3xe"; */
-"0MR-nN-3xe.title" = "Применить";
+"0MR-nN-3xe.title" = "ОК";
 
 /* Class = "NSMenuItem"; title = "Audio"; ObjectID = "0Qo-LP-ge7"; */
 "0Qo-LP-ge7.title" = "Аудио";
@@ -375,7 +375,7 @@
 "IHD-sx-eo9.title" = "Разрешение";
 
 /* Class = "NSButtonCell"; title = "Resize"; ObjectID = "IHT-n0-mvJ"; */
-"IHT-n0-mvJ.title" = "Изменить размер";
+"IHT-n0-mvJ.title" = "ОК";
 
 /* Class = "NSWindow"; title = "Pixea"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Pixea";
@@ -447,7 +447,7 @@
 "LQy-38-T9R.title" = "Свойства";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "LZX-I5-3QR"; */
-"LZX-I5-3QR.title" = "Применить";
+"LZX-I5-3QR.title" = "ОК";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Lbs-JZ-O2N"; */
 "Lbs-JZ-O2N.title" = "Показать в Finder";
@@ -804,7 +804,7 @@
 "92h-11-9j8.title" = "Локализации";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "b6o-em-pee"; */
-"b6o-em-pee.title" = "Применить";
+"b6o-em-pee.title" = "ОК";
 
 /* Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "bHN-V9-Jl9"; */
 "bHN-V9-Jl9.title" = "Предоставить доступ";
@@ -855,7 +855,7 @@
 "dRC-iW-vch.title" = "Отмена";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "dTs-zJ-MNH"; */
-"dTs-zJ-MNH.title" = "Применить";
+"dTs-zJ-MNH.title" = "ОК";
 
 /* Class = "NSMenu"; title = "Edit with..."; ObjectID = "dik-yh-Vk0"; */
 "dik-yh-Vk0.title" = "Редактировать с помощью...";
@@ -921,7 +921,7 @@
 "gAH-Nf-82X.ibShadowedToolTip" = "Инструмент «Клонирование»";
 
 /* Class = "NSTextFieldCell"; title = "Details:"; ObjectID = "gLk-de-69p"; */
-"gLk-de-69p.title" = "Подробности:";
+"gLk-de-69p.title" = "Детали:";
 
 /* Class = "NSTextFieldCell"; title = "0 items"; ObjectID = "gVR-QG-fLx"; */
 "gVR-QG-fLx.title" = "0 items";
@@ -999,10 +999,10 @@
 "jaB-Gb-rUi.title" = "Сортировка";
 
 /* Class = "NSTextFieldCell"; title = "Option+Click to select pixels to clone. Click in any area to clone selected pixels."; ObjectID = "jbS-Ra-FBd"; */
-"jbS-Ra-FBd.title" = "Option+Клик для выбора пикселей для клонирования. Клик в любой области для клонирования выбранных пикселей.";
+"jbS-Ra-FBd.title" = "Option+Клик для выбора пикселей. Клик в любой области для клонирования.";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "jeY-Oj-aG4"; */
-"jeY-Oj-aG4.title" = "Применить";
+"jeY-Oj-aG4.title" = "ОК";
 
 /* Class = "NSTextFieldCell"; title = "4X Upscale"; ObjectID = "jel-QX-qNV"; */
 "jel-QX-qNV.title" = "4x увеличение";
@@ -1143,10 +1143,10 @@
 "p11-4p-RFw.title" = "Z + Клик мыши";
 
 /* Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "pCa-58-8Oh"; */
-"pCa-58-8Oh.title" = "Резкость и подавление шума......";
+"pCa-58-8Oh.title" = "Резкость и подавление шума...";
 
 /* Class = "NSTextFieldCell"; title = "Paint over the object you want to remove. Click \"Remove\" when done."; ObjectID = "pHN-GX-oKg"; */
-"pHN-GX-oKg.title" = "Закрасьте объект, который вы хотите удалить. Нажмите \"Удалить\", когда закончите.";
+"pHN-GX-oKg.title" = "Закрасьте объект, который вы хотите удалить и нажмите \"Удалить\".";
 
 /* Class = "NSTextFieldCell"; title = "Color Temperature"; ObjectID = "pI0-XX-fNl"; */
 "pI0-XX-fNl.title" = "Цветовая температура";

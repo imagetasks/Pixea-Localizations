@@ -90,9 +90,9 @@
 "Next" = "Далее"; //button on welcome screen
 "Done" = "Готово";
 
-"Small" = "Маленький";
+"Small" = "Малый";
 "Large" = "Большой";
-"Regular" = "Стандартный";
+"Regular" = "Обычный";
 
 //touch bar items
 "Open File or Folder..." = "Открыть файл или папку...";

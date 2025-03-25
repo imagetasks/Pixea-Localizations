@@ -516,7 +516,7 @@
 "OXD-1x-aeb.title" = "Dehnen und Anpassen";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
-"OY7-WF-poV.title" = "minimieren"; 
+"OY7-WF-poV.title" = "Minimieren"; 
 
 /* Class = "NSMenuItem"; title = "Hide Pixea"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Pixea ausblenden";
@@ -537,7 +537,7 @@
 "Prh-st-4uc.title" = "Öffnen"; 
 
 /* Class = "NSTextFieldCell"; title = "Scroll:"; ObjectID = "QDQ-EF-eM9"; */
-"QDQ-EF-eM9.title" = "scrollen:";
+"QDQ-EF-eM9.title" = "Scrollen:";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "QdI-P2-qRp"; */
 "QdI-P2-qRp.title" = "Box";
@@ -624,7 +624,7 @@
 "UQg-Np-NgI.title" = "Sortieren nach";
 
 /* Class = "NSTextFieldCell"; title = "Preserve details"; ObjectID = "Ug9-Or-e4v"; */
-"Ug9-Or-e4v.title" = "Einzelheiten bewahren:";
+"Ug9-Or-e4v.title" = "Einzelheiten bewahren";
 
 /* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "UtB-es-Opq"; */
 "UtB-es-Opq.title" = "Objekt 3";
@@ -999,7 +999,7 @@
 "jaB-Gb-rUi.title" = "Sortierung";
 
 /* Class = "NSTextFieldCell"; title = "Option+Click to select pixels to clone. Click in any area to clone selected pixels."; ObjectID = "jbS-Ra-FBd"; */
-"jbS-Ra-FBd.title" = "Option+Klicken Sie, um die zu klonenden Pixel auszuwählen. Klicken Sie in einen beliebigen Bereich, um die ausgewählten Pixel zu klonen.";
+"jbS-Ra-FBd.title" = "Option+Klicken Sie, um die zu klonenden Pixel auszuwählen.";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "jeY-Oj-aG4"; */
 "jeY-Oj-aG4.title" = "Anwenden"; 
@@ -1287,13 +1287,13 @@
 "vsL-Fg-EbF.title" = "Bearbeiten mit...";
 
 /* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "vxL-0l-ECu"; */
-"vxL-0l-ECu.title" = "Artikel 3"; \\need context it can be also Objekt
+"vxL-0l-ECu.title" = "Artikel 3"; //need context it can be also Objekt
 
 /* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "wFN-8k-YQO"; */
 "wFN-8k-YQO.headerCell.title" = "Wert";
 
 /* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "wGB-4Q-Jmg"; */
-"wGB-4Q-Jmg.title" = "Tastaturkurzbefehle"; \\OR Tastaturk-Hotkeys
+"wGB-4Q-Jmg.title" = "Tastaturkurzbefehle"; //OR Tastaturk-Hotkeys
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "wLA-RR-qSZ"; */
 "wLA-RR-qSZ.title" = "Tatsächliche Größe";

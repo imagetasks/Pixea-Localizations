@@ -1,0 +1,3 @@
+/* Omr-FE-Xlm.title
+Class = "NSTextFieldCell"; title = "Pixea would like to access files in the selected image folder. Allow this to look for additional images for the slideshow and quick browsing. Click \"Grant Access\" to continue."; ObjectID = "Omr-FE-Xlm"; */
+"Omr-FE-Xlm.title" = "Pixeaは選択した画像フォルダー内のファイルにアクセスしたいと考えています。これを許可すると、スライドショー用の追加画像の検索と迅速な閲覧が可能になります。続行するには「アクセスを許可」をクリックしてください。";

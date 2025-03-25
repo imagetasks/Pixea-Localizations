@@ -1,0 +1,57 @@
+/* IO5-6F-GlQ.title
+Class = "NSButtonCell"; title = "Lanczos"; ObjectID = "IO5-6F-GlQ"; */
+"IO5-6F-GlQ.title" = "Lanczos";
+/* PZJ-ie-aQp.title
+Class = "NSButtonCell"; title = "Clear Cache"; ObjectID = "PZJ-ie-aQp"; */
+"PZJ-ie-aQp.title" = "Vider le cache";
+/* TxO-YS-twQ.title
+Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
+"TxO-YS-twQ.title" = "Boîte";
+/* YYM-D8-hhL.title
+Class = "NSTextFieldCell"; title = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory."; ObjectID = "YYM-D8-hhL"; */
+"YYM-D8-hhL.title" = "Le préchargement des images précédentes et suivantes offre un changement instantané mais nécessite une utilisation de RAM plus élevée. Désactivez cette option si votre ordinateur manque de mémoire.";
+/* irp-me-Bao.title
+Class = "NSTextFieldCell"; title = "Memory and disk cache"; ObjectID = "irp-me-Bao"; */
+"irp-me-Bao.title" = "Cache mémoire et disque";
+/* jNe-Nj-BJO.title
+Class = "NSBox"; title = "Box"; ObjectID = "jNe-Nj-BJO"; */
+"jNe-Nj-BJO.title" = "Boîte";
+/* p97-VP-ELd.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
+"p97-VP-ELd.title" = "PLUS";
+/* s1J-IY-0lH.title
+Class = "NSButtonCell"; title = "Cache thumbnails"; ObjectID = "s1J-IY-0lH"; */
+"s1J-IY-0lH.title" = "Mise en cache des miniatures";
+/* x9U-hd-fpM.title
+Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "x9U-hd-fpM"; */
+"x9U-hd-fpM.title" = "Zéro Ko";
+/* zBI-tS-TjZ.title
+Class = "NSButtonCell"; title = "Preload previous and next images"; ObjectID = "zBI-tS-TjZ"; */
+"zBI-tS-TjZ.title" = "Précharger les images précédentes et suivantes";
+/* 6Dv-jd-82V.title
+Class = "NSTextFieldCell"; title = "RAW Render"; ObjectID = "6Dv-jd-82V"; */
+"6Dv-jd-82V.title" = "Rendu RAW";
+/* GTf-ff-aln.title
+Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
+"GTf-ff-aln.title" = "Préférer le moteur macOS";
+/* kX7-LK-XlL.title
+Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
+"kX7-LK-XlL.title" = "Toujours utiliser l\'intégration";
+/* 4BK-K4-0o5.title
+Class = "NSButtonCell"; title = "Process HDR images"; ObjectID = "4BK-K4-0o5"; */
+"4BK-K4-0o5.title" = "Traitement des images HDR";
+/* zc9-eF-W4i.title
+Class = "NSButtonCell"; title = "Automatically"; ObjectID = "zc9-eF-W4i"; */
+"zc9-eF-W4i.title" = "Automatiquement";
+/* u3J-bs-ZaH.title
+Class = "NSButtonCell"; title = "as HDR"; ObjectID = "u3J-bs-ZaH"; */
+"u3J-bs-ZaH.title" = "comme HDR";
+/* FOW-av-yIA.title
+Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
+"FOW-av-yIA.title" = "comme SDR";
+/* Class = "NSTextFieldCell"; title = "Minification filtering"; ObjectID = "jkJ-Uo-raR"; */
+"jkJ-Uo-raR.title" = "Filtrage de minification :";
+/* Class = "NSButtonCell"; title = "Linear"; ObjectID = "I3E-ap-nn2"; */
+"I3E-ap-nn2.title" = "Linéaire";
+/* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
+"OWj-KS-U6S.title" = "Trilinéaire";

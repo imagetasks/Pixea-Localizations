@@ -1,0 +1,15 @@
+/* Dbc-8H-lMa.title
+Class = "NSTextFieldCell"; title = "Grant or revoke the access:"; ObjectID = "Dbc-8H-lMa"; */
+"Dbc-8H-lMa.title" = "Conceder ou revogar o acesso:";
+/* F31-ys-eOi.title
+Class = "NSButtonCell"; title = "Done"; ObjectID = "F31-ys-eOi"; */
+"F31-ys-eOi.title" = "Concluído";
+/* XiJ-wc-qYt.title
+Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "XiJ-wc-qYt"; */
+"XiJ-wc-qYt.title" = "Célula da Tabela";
+/* YtJ-3e-7wD.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "YtJ-3e-7wD"; */
+"YtJ-3e-7wD.headerCell.title" = "Pasta";
+/* giJ-Z4-4DX.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "giJ-Z4-4DX"; */
+"giJ-Z4-4DX.title" = "Célula de Texto";

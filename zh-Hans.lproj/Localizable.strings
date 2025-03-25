@@ -1,0 +1,205 @@
+/* Unable to process image...
+
+Localizable.strings
+Pixea
+
+Created by Andrey Tsarkov on 04.02.2025.
+Copyright © 2025 Andrey Tsarkov. All rights reserved. */
+"Unable to process image..." = "无法处理图像……";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "检查可用内存和磁盘空间。尝试关闭其他应用程序并重新启动Pixea。";
+"OK" = "确定";
+"Cancel" = "取消";
+"macOS 11 or higher is required." = "需要macOS 11或更高版本。";
+"macOS 10.15 or higher is required." = "需要macOS 10.15或更高版本。";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "对象移除算法基于首次在macOS Big Sur中引入的机器学习功能。更新您的macOS以使用对象移除工具。";
+/* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
+"Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "文本选择基于首次在macOS Catalina中引入的机器学习功能。更新您的macOS以使用文本选择工具。";
+"Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "图像升级基于首次在macOS Catalina中引入的机器学习功能。更新您的macOS以使用图像升级。";
+"No media" = "没有媒体";
+"No supported media in this folder" = "此文件夹中没有支持的媒体";
+"Are you sure you want to move this folder to Trash?" = "确定要将此文件夹移到废纸篓吗？";
+"Are you sure you want to move this file to Trash?" = "确定要将此文件移到废纸篓吗？";
+"This folder cannot be moved to Trash. Are you sure you want to delete it permanently?" = "此文件夹无法移到废纸篓。确定要永久删除它吗？";
+"This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "此文件无法移到废纸篓。确定要永久删除它吗？";
+"\"%@\" will be moved to the Trash." = "\"%@\"将被移到废纸篓。";
+"\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\"将立即被删除。此操作无法撤销。";
+"Move To Trash" = "移到废纸篓";
+"Delete" = "删除";
+/* Unable to delete '%@' */
+"Unable to delete \'%@\'" = "无法删除 \'%@\'";
+"Check permissions or try again later." = "检查权限或稍后重试。";
+"Drop your media here" = "将您的媒体拖放到这里";
+"Drop Image/Video file, Folder or Zip-Archive to start" = "拖放图像/视频文件、文件夹或Zip压缩包以开始";
+"Favorites" = "收藏夹";
+"Recents" = "最近";
+"Archived Media" = "已归档媒体";
+"Media in this Folder" = "此文件夹中的媒体";
+"Subfolders in this Archive" = "此压缩档中的子文件夹";
+"Subfolders and Archives" = "子文件夹和压缩档";
+"Images: %lu" = "图片：%lu";
+"Images: %lu, Videos: %lu" = "图片：%lu，视频：%lu";
+"Folders: %lu" = "文件夹：%lu";
+"Folders: %lu, Archives: %lu" = "文件夹：%lu，归档：%lu";
+/* Can't open */
+"Can\'t open" = "无法打开";
+"Unable to open this image file" = "无法打开此图像文件";
+"Unable to open this video file" = "无法打开此视频文件";
+"Unable to open this archive" = "无法打开此压缩档";
+"No media" = "没有媒体";
+"No supported media in this archive" = "此压缩档中没有支持的媒体";
+"No supported media in this folder" = "此文件夹中没有支持的媒体";
+"Nothing found" = "未找到内容";
+/* Sorry, no matches found for '%@' */
+"Sorry, no matches found for \'%@\'" = "很抱歉，没有找到“%@”的匹配项";
+"Image was edited" = "图像已编辑";
+"You can choose to export the edited image, or ignore changes. You can’t undo this action." = "您可以选择导出已编辑的图像，或者忽略更改。此操作无法撤销。";
+"Export Image..." = "导出图像……";
+"Export Image" = "导出图像";
+/* Best
+export jpeg quality */
+"Best" = "最佳";
+"Lossless" = "无损";
+"Ignore Changes" = "忽略更改";
+"Unable to process image..." = "无法处理图像……";
+"Unable to find your purchase..." = "无法找到您的购买……";
+"Check your Apple Account or try again later." = "检查您的Apple账户或稍后重试。";
+"No applications" = "没有应用程序";
+"Preparing..." = "准备中……";
+"Removing objects..." = "移除对象中……";
+"Processing transparency..." = "处理透明度……";
+"Upscaling image..." = "图像升级中……";
+"Loading..." = "加载中……";
+/* Stopping...
+Stopping upscaling process */
+"Stopping..." = "停止中……";
+/* Processing '%@'...
+Saving file */
+"Processing \'%@\'..." = "正在处理 \'%@\'……";
+/* Created: %@
+file created */
+"Created: %@" = "创建时间：%@";
+/* Taken: %@
+photo taken */
+"Taken: %@" = "拍摄时间：%@";
+/* Resume at %@
+resume movie at timestamp */
+"Resume at %@" = "在 %@ 继续";
+/* Frames
+gif frames */
+"Frames" = "帧数";
+"Grant Access" = "授予访问权限";
+"No access" = "无访问权限";
+"Access granted" = "访问已授予";
+/* Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue. */
+"Pixea needs write permissions to delete \'%@\'. Click \"Grant Access\" to continue." = "Pixea需要写入权限以删除\'%@\'。点击\"授予访问权限\"继续。";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**空格键**保留用于“**按住空格键并拖动以滚动**”和“**播放/暂停视频**”操作。
+**Z**和**⌥Z**保留用于“**放大**”/“**缩小**”操作。";
+"Clipboard" = "剪贴板";
+"Unmute" = "取消静音";
+"Mute" = "静音";
+/* Track %i - [%@]
+track 1 - [spanish] */
+"Track %i - [%@]" = "音轨 %i - [%@]";
+"Track %i" = "音轨 %i";
+/* Next
+button on welcome screen */
+"Next" = "下一步";
+"Done" = "完成";
+"Small" = "小";
+"Large" = "大";
+"Regular" = "常规";
+/* Open File or Folder...
+touch bar items */
+"Open File or Folder..." = "打开文件或文件夹……";
+"Recent:" = "最近：";
+"New from Clipboard" = "从剪贴板新建";
+/* Scroll Up
+shortcuts */
+"Scroll Up" = "向上滚动";
+"Scroll Down" = "向下滚动";
+"Scroll Left" = "向左滚动";
+"Scroll Right" = "向右滚动";
+"Previous Media" = "上一个媒体";
+"Next Media" = "下一个媒体";
+"Previous Frame/Step Backward 10s" = "上一帧/后退10秒";
+"Next Frame/Step Forward 10s" = "下一帧/前进10秒";
+"Step Backward 30s" = "后退30秒";
+"Step Forward 30s" = "前进30秒";
+"Volume Up" = "音量加大";
+"Volume Down" = "音量减小";
+"Mute/Unmute" = "静音/取消静音";
+"Slideshow" = "幻灯片放映";
+"Zoom In" = "放大";
+"Zoom Out" = "缩小";
+"Fit to Screen" = "适应屏幕";
+"Stretch to Fit" = "拉伸适应";
+"Fill Screen" = "填满屏幕";
+"Toggle Fullscreen" = "切换全屏";
+"Actual Size" = "实际尺寸";
+"Fixed Size & Position" = "固定大小和位置";
+"Playback Speed x 0.5" = "播放速度 x 0.5";
+"Playback Speed x 0.9" = "播放速度 x 0.9";
+"Playback Speed Normal" = "正常播放速度";
+"Playback Speed x 1.1" = "播放速度 x 1.1";
+"Playback Speed x 1.5" = "播放速度 x 1.5";
+"Playback Speed x 2.0" = "播放速度 x 2.0";
+"Rotate 180º" = "旋转180º";
+"Rotate 90º Clockwise" = "顺时针旋转90º";
+"Rotate 90º Counter-clockwise" = "逆时针旋转90º";
+"Upscale Image" = "图像升级";
+"Eraser Tool" = "橡皮工具";
+"Flip Horizontally" = "水平翻转";
+"Flip Vertically" = "垂直翻转";
+"Selection Tool" = "选择工具";
+"Deselect" = "取消选择";
+"Show Thumbnails" = "显示缩略图";
+"Get Info" = "获取信息";
+"Move to Trash" = "移到废纸篓";
+"Show in Finder" = "在Finder中显示";
+"Export..." = "导出……";
+"Crop Image..." = "裁剪图像……";
+"Hand Tool" = "手形工具";
+"Adjust Hue, Saturation, Brightness..." = "调整色调、饱和度、亮度……";
+"Adjust Color Temperature..." = "调整色温……";
+"Adjust Exposure..." = "调整曝光……";
+"Resize Image..." = "调整图像尺寸……";
+"Sharpness and Noise..." = "锐化和降噪……";
+"Clone Tool" = "克隆工具";
+"Text Selection Tool" = "文本选择工具";
+"Edit with: App #1" = "使用：应用程序#1编辑";
+"Edit with: App #2" = "使用：应用程序#2编辑";
+"Edit with: App #3" = "使用：应用程序#3编辑";
+"Edit with: App #4" = "使用：应用程序#4编辑";
+"Edit with: App #5" = "使用：应用程序#5编辑";
+"Step Forward 10s" = "前进10秒";
+"Step Backward 10s" = "后退10秒";
+"Step Forward 30s" = "前进30秒";
+"Step Backward 30s" = "后退30秒";
+"Hide Thumbnails" = "隐藏缩略图";
+"Show Thumbnails" = "显示缩略图";
+"Next Frame" = "下一帧";
+"Previous Frame" = "上一帧";
+"Next Media" = "下一个媒体";
+"Previous Media" = "上一个媒体";
+"Not set" = "未设置";
+/* Preferences
+Preferences items */
+"Preferences" = "偏好设置";
+"General" = "一般";
+"Appearance" = "外观";
+"Shortcuts" = "快捷方式";
+"File Types" = "文件类型";
+"Video" = "视频";
+"Folder Access" = "文件夹访问";
+"Advanced" = "高级";
+"More Apps" = "更多应用程序";
+/* in
+inches, cm/mm, pixels, points per inch, etc... */
+"in" = "英寸";
+"mm" = "毫米";
+"cm" = "厘米";
+"px" = "像素";
+"%ipx × %ipx" = "%ipx × %ipx";
+"%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
+"%@ bytes" = "%@ 字节";
+"%li sec" = "%li 秒";

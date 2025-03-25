@@ -87,7 +87,7 @@
 "hek-kW-9le.title" = "Pixea beenden, wenn das letzte Fenster geschlossen ist";
 
 /* Class = "NSTextFieldCell"; title = "When opening images"; ObjectID = "iQo-Fc-BOp"; */
-"iQo-Fc-BOp.title" = "Beim Öffnen von Bildern";
+"iQo-Fc-BOp.title" = "Beim Öffnen";
 
 /* Class = "NSButtonCell"; title = "File type"; ObjectID = "j2E-63-h1q"; */
 "j2E-63-h1q.title" = "Dateityp";

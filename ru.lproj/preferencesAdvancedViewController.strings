@@ -46,3 +46,15 @@
 
 /* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
 "kX7-LK-XlL.title" = "Всегда использовать встроенный";
+
+/* Class = "NSButtonCell"; title = "Process HDR images"; ObjectID = "4BK-K4-0o5"; */
+"4BK-K4-0o5.title" = "Обработка HDR-изображений";
+
+/* Class = "NSButtonCell"; title = "Automatically"; ObjectID = "zc9-eF-W4i"; */
+"zc9-eF-W4i.title" = "Автоматически";
+
+/* Class = "NSButtonCell"; title = "as HDR"; ObjectID = "u3J-bs-ZaH"; */
+"u3J-bs-ZaH.title" = "как HDR";
+
+/* Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
+"FOW-av-yIA.title" = "как SDR";

@@ -6,7 +6,7 @@
 "2XV-Ix-NLZ.title" = "mpg";
 
 /* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "2a3-1N-wuJ"; */
-"2a3-1N-wuJ.title" = "Images";
+"2a3-1N-wuJ.title" = "Bilder";
 
 /* Class = "NSButtonCell"; title = "wmv"; ObjectID = "3LW-S9-jEc"; */
 "3LW-S9-jEc.title" = "wmv";
@@ -60,7 +60,7 @@
 "Ne5-zg-qiW.title" = "srw";
 
 /* Class = "NSButtonCell"; title = "Ignore zip hierarchy"; ObjectID = "Nrd-Uc-MD1"; */
-"Nrd-Uc-MD1.title" = "Ignore zip hierarchy";
+"Nrd-Uc-MD1.title" = "Zip-Hierarchie ignorieren";
 
 /* Class = "NSButtonCell"; title = "exr"; ObjectID = "Nuk-oC-fLB"; */
 "Nuk-oC-fLB.title" = "exr";
@@ -75,10 +75,10 @@
 "Qgh-u2-qxf.title" = "avi";
 
 /* Class = "NSTextFieldCell"; title = "Reopen Pixea windows to apply this setting."; ObjectID = "Roy-IC-n7s"; */
-"Roy-IC-n7s.title" = "Reopen Pixea windows to apply this setting.";
+"Roy-IC-n7s.title" = "Öffnen Sie Pixea-Fenster erneut, um diese Einstellung anzuwenden.";
 
 /* Class = "NSButtonCell"; title = "Select All"; ObjectID = "S84-wM-JWM"; */
-"S84-wM-JWM.title" = "Select All";
+"S84-wM-JWM.title" = "Alles auswählen";
 
 /* Class = "NSButtonCell"; title = "3fr"; ObjectID = "Sg2-g7-xCo"; */
 "Sg2-g7-xCo.title" = "3fr";
@@ -99,7 +99,7 @@
 "YHI-aj-xH2.title" = "psd";
 
 /* Class = "NSButtonCell"; title = "Select All"; ObjectID = "ZAR-wu-Suk"; */
-"ZAR-wu-Suk.title" = "Select All";
+"ZAR-wu-Suk.title" = "Alles auswählen";
 
 /* Class = "NSButtonCell"; title = "pic"; ObjectID = "ZNJ-iq-k6S"; */
 "ZNJ-iq-k6S.title" = "pic";
@@ -126,7 +126,7 @@
 "eMi-ys-r6y.title" = "jpeg";
 
 /* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "eRR-Kk-Axs"; */
-"eRR-Kk-Axs.title" = "Deselect All";
+"eRR-Kk-Axs.title" = "Al abwählen";
 
 /* Class = "NSButtonCell"; title = "rwl"; ObjectID = "eZg-jD-aff"; */
 "eZg-jD-aff.title" = "rwl";
@@ -150,7 +150,7 @@
 "jef-Va-shn.title" = "jp2";
 
 /* Class = "NSTextFieldCell"; title = "Automatically scan the selected folder for the following file types: "; ObjectID = "jkJ-Uo-raR"; */
-"jkJ-Uo-raR.title" = "Automatically scan the selected folder for the following file types: ";
+"jkJ-Uo-raR.title" = "Den ausgewählten Ordner automatisch nach den folgenden Dateitypen durchsuchen:";
 
 /* Class = "NSButtonCell"; title = "gif"; ObjectID = "kNX-PG-GMf"; */
 "kNX-PG-GMf.title" = "gif";
@@ -165,7 +165,7 @@
 "oGQ-pN-Jnb.title" = "jpg";
 
 /* Class = "NSTextFieldCell"; title = "Zip-Archives"; ObjectID = "pA2-qG-TsB"; */
-"pA2-qG-TsB.title" = "Zip-Archives";
+"pA2-qG-TsB.title" = "Zip-Archive";
 
 /* Class = "NSButtonCell"; title = "raf"; ObjectID = "rLR-zg-t9j"; */
 "rLR-zg-t9j.title" = "raf";
@@ -177,7 +177,7 @@
 "rdZ-IL-Yb4.title" = "srf";
 
 /* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "sKg-63-wGx"; */
-"sKg-63-wGx.title" = "Deselect All";
+"sKg-63-wGx.title" = "Al abwählen";
 
 /* Class = "NSButtonCell"; title = "m4v"; ObjectID = "sLE-T5-wLY"; */
 "sLE-T5-wLY.title" = "m4v";
@@ -186,7 +186,7 @@
 "sSt-Oe-dxw.title" = "rw2";
 
 /* Class = "NSTextFieldCell"; title = "Format-specific options:"; ObjectID = "ujv-Ap-D4w"; */
-"ujv-Ap-D4w.title" = "Format-specific options:";
+"ujv-Ap-D4w.title" = "Formatspezifische Optionen:";
 
 /* Class = "NSButtonCell"; title = "jfax"; ObjectID = "vcN-Xj-Qhk"; */
 "vcN-Xj-Qhk.title" = "jfax";

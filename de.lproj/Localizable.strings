@@ -171,13 +171,13 @@
 // Preferences items
 "Preferences" = "Einstellungen";
 "General" = "Allgemein";
-"Appearance" = "Appearance"; // NEW
+"Appearance" = "Erscheinungsbild";
 "Shortcuts" = "Verknüpfungen";
 "File Types" = "Dateitypen";
 "Video" = "Video";
 "Folder Access" = "Ordnerzugriff";
 "Advanced" = "Erweitert";
-"More Apps" = "Weitere Anwendungen";
+"More Apps" = "Anwendungen";
 
 
 // inches, cm/mm, pixels, points per inch, etc...

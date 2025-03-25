@@ -42,7 +42,7 @@
 "TDB-d8-u4M.title" = "Цвет фона";
 
 /* Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
-"WeQ-iF-4I5.title" = "Фон полноэкр. режима";
+"WeQ-iF-4I5.title" = "Фон полноэкранного режима";
 
 /* Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
 "XRc-FW-CYe.title" = "Системные настройки";

@@ -1,0 +1,33 @@
+/* 9uZ-Tb-YpY.title
+Class = "NSTextFieldCell"; title = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. If permission was not granted before, the dialog requesting you to grant access is displayed."; ObjectID = "9uZ-Tb-YpY"; */
+"9uZ-Tb-YpY.title" = "Lorsque vous ouvrez une image ou une vidéo, Pixea tente de scanner le dossier parent du fichier pour d\'autres médias. Si l\'autorisation n\'a pas été accordée auparavant, la boîte de dialogue demandant l\'autorisation s\'affiche.";
+/* C3O-re-5e7.title
+Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "C3O-re-5e7"; */
+"C3O-re-5e7.title" = "Accorder l\'accès";
+/* C96-9R-xlJ.title
+Class = "NSTextFieldCell"; title = "Pixea won't show \"Grant Access\" dialog when opening individual files if this option is unchecked. You will need to open a folder instead of an individual file to enable slideshow and media browsing features."; ObjectID = "C96-9R-xlJ"; */
+"C96-9R-xlJ.title" = "Pixea n\'affichera pas la boîte de dialogue \"Accorder l\'accès\" lors de l\'ouverture de fichiers individuels si cette option n\'est pas cochée. Vous devrez ouvrir un dossier au lieu d\'un fichier individuel pour activer les fonctionnalités de diaporama et de navigation dans les médias.";
+/* Dzl-eQ-UQN.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dzl-eQ-UQN"; */
+"Dzl-eQ-UQN.title" = "Cellule de texte";
+/* GQW-6p-mcS.title
+Class = "NSTextFieldCell"; title = "Folder"; ObjectID = "GQW-6p-mcS"; */
+"GQW-6p-mcS.title" = "Dossier";
+/* Vjm-4n-4X9.title
+Class = "NSBox"; title = "Box"; ObjectID = "Vjm-4n-4X9"; */
+"Vjm-4n-4X9.title" = "Boîte";
+/* cW7-h4-Cgz.title
+Class = "NSButtonCell"; title = "Ask for folder access when opening images"; ObjectID = "cW7-h4-Cgz"; */
+"cW7-h4-Cgz.title" = "Demander l\'accès au dossier lors de l\'ouverture des images";
+/* nBi-vL-aCO.title
+Class = "NSBox"; title = "Box"; ObjectID = "nBi-vL-aCO"; */
+"nBi-vL-aCO.title" = "Boîte";
+/* r28-NY-wGI.title
+Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "r28-NY-wGI"; */
+"r28-NY-wGI.title" = "Autorisez Pixea à rechercher des images et vidéos supplémentaires pour le diaporama et à parcourir rapidement les dossiers suivants :";
+/* sLh-AK-fC7.title
+Class = "NSButtonCell"; title = "Manage Access..."; ObjectID = "sLh-AK-fC7"; */
+"sLh-AK-fC7.title" = "Gérer l\'accès...";
+/* yrv-wp-W9z.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "yrv-wp-W9z"; */
+"yrv-wp-W9z.headerCell.title" = "Dossier";

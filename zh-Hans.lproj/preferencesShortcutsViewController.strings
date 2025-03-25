@@ -1,0 +1,24 @@
+/* 9KK-3t-xZD.title
+Class = "NSTextFieldCell"; title = "Customize Pixea shortcuts:"; ObjectID = "9KK-3t-xZD"; */
+"9KK-3t-xZD.title" = "自定义 Pixea 快捷键：";
+/* UZU-so-m59.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "UZU-so-m59"; */
+"UZU-so-m59.headerCell.title" = "文件夹";
+/* VUf-W6-3O0.title
+Class = "NSTextFieldCell"; title = "Next Image"; ObjectID = "VUf-W6-3O0"; */
+"VUf-W6-3O0.title" = "下一张图片";
+/* m9I-Wa-c89.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "m9I-Wa-c89"; */
+"m9I-Wa-c89.title" = "加号";
+/* pva-Kw-3Xm.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pva-Kw-3Xm"; */
+"pva-Kw-3Xm.title" = "文本单元格";
+/* r8b-mT-VMR.title
+Class = "NSTextFieldCell"; title = "SPACE is reserved for \"Hold Spacebar and Drag to Scroll\" and \"Play / Pause Video\" actions. Z and ⌥Z are reserved for \"Zoom In\" / \"Zoom Out\" actions."; ObjectID = "r8b-mT-VMR"; */
+"r8b-mT-VMR.title" = "空格用于“按住空格键并拖动以滚动”和“播放/暂停视频”操作。Z 和 ⌥Z 保留用于“放大”/“缩小”操作。";
+/* wqY-nK-Suo.title
+Class = "NSBox"; title = "Box"; ObjectID = "wqY-nK-Suo"; */
+"wqY-nK-Suo.title" = "盒子";
+/* xDv-OG-qlV.title
+Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
+"xDv-OG-qlV.title" = "向左/向右滑动以显示上一张/下一张图片";

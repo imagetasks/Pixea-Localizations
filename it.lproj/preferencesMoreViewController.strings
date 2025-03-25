@@ -1,0 +1,24 @@
+/* BKB-yi-LiR.title
+Class = "NSTextFieldCell"; title = "Essential Desktop widgets."; ObjectID = "BKB-yi-LiR"; */
+"BKB-yi-LiR.title" = "Widget essenziali per il desktop.";
+/* Bvm-QD-MzC.title
+Class = "NSButtonCell"; title = "GET"; ObjectID = "Bvm-QD-MzC"; */
+"Bvm-QD-MzC.title" = "GET";
+/* Cpw-a2-M5n.title
+Class = "NSTextFieldCell"; title = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart."; ObjectID = "Cpw-a2-M5n"; */
+"Cpw-a2-M5n.title" = "iStatistica Pro è un avanzato sistema di monitoraggio per macOS.\nPanoramica delle tue statistiche della batteria, informazioni in tempo reale sull\'uso di CPU, GPU, RAM e molto altro ancora. iStatistica Pro mostra anche statistiche di rete in tempo reale: IP esterni, gateway e locali, velocità e grafico dei tassi di dati.";
+/* Qpq-8e-lOf.title
+Class = "NSButtonCell"; title = "GET"; ObjectID = "Qpq-8e-lOf"; */
+"Qpq-8e-lOf.title" = "GET";
+/* Uhv-vK-A7J.title
+Class = "NSTextFieldCell"; title = "System Monitor. Reinvented."; ObjectID = "Uhv-vK-A7J"; */
+"Uhv-vK-A7J.title" = "Monitor di sistema. Reinventato.";
+/* arx-LP-oVu.title
+Class = "NSTextFieldCell"; title = "Personalize your Desktop with Lockera widgets. Keep track of essential information.\nLockera widgets:\nStorage, Year Progress, On this Day, Days Left, Calendar, Data Usage, \nWi-Fi data usage, Days Passed, and Birthdays."; ObjectID = "arx-LP-oVu"; */
+"arx-LP-oVu.title" = "Personalizza il tuo Desktop con i widget di Lockera. Tieni traccia delle informazioni essenziali.\nWidget Lockera: Spazio di archiviazione, Avanzamento Anno, Oggi, Giorni Restanti, Calendario, Uso dei Dati, Uso dati Wi-Fi, Giorni Passati e Compleanni.";
+/* ulv-pe-DW8.title
+Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
+"ulv-pe-DW8.title" = "Widget Lockera";
+/* wvu-eL-Cug.title
+Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
+"wvu-eL-Cug.title" = "iStatistica Pro";

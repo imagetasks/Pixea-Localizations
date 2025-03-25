@@ -1,0 +1,87 @@
+/* 0IV-IR-otP.title
+Class = "NSBox"; title = "Box"; ObjectID = "0IV-IR-otP"; */
+"0IV-IR-otP.title" = "Boîte";
+/* 3nV-9V-gas.title
+Class = "NSButtonCell"; title = "Show file names"; ObjectID = "3nV-9V-gas"; */
+"3nV-9V-gas.title" = "Afficher les noms de fichiers";
+/* 4Up-an-dJb.title
+Class = "NSTextFieldCell"; title = "Status Bar"; ObjectID = "4Up-an-dJb"; */
+"4Up-an-dJb.title" = "Barre d\'état";
+/* 5EP-eN-UCj.title
+Class = "NSButtonCell"; title = "Show file names"; ObjectID = "5EP-eN-UCj"; */
+"5EP-eN-UCj.title" = "Afficher les noms de fichiers";
+/* Amg-Ae-ybc.title
+Class = "NSBox"; title = "Box"; ObjectID = "Amg-Ae-ybc"; */
+"Amg-Ae-ybc.title" = "Boîte";
+/* Dtn-HC-Ba6.title
+Class = "NSTextFieldCell"; title = "Media Window"; ObjectID = "Dtn-HC-Ba6"; */
+"Dtn-HC-Ba6.title" = "Fenêtre multimédia";
+/* EF2-GW-zt7.title
+Class = "NSTextFieldCell"; title = "Media Browser"; ObjectID = "EF2-GW-zt7"; */
+"EF2-GW-zt7.title" = "Navigateur multimédia";
+/* NsX-9D-RfV.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "NsX-9D-RfV"; */
+"NsX-9D-RfV.title" = "PLUS";
+/* O7h-qf-Tc0.title
+Class = "NSButtonCell"; title = "Enable status bar"; ObjectID = "O7h-qf-Tc0"; */
+"O7h-qf-Tc0.title" = "Activer la barre d\'état";
+/* Out-c8-cAX.title
+Class = "NSButtonCell"; title = "Hide status bar in full screen mode"; ObjectID = "Out-c8-cAX"; */
+"Out-c8-cAX.title" = "Masquer la barre d\'état en mode plein écran";
+/* P2E-Gh-Ddt.title
+Class = "NSButtonCell"; title = "Hide thumbnails panel automatically"; ObjectID = "P2E-Gh-Ddt"; */
+"P2E-Gh-Ddt.title" = "Masquer automatiquement le panneau des miniatures";
+/* R27-9r-DyL.title
+Class = "NSBox"; title = "Box"; ObjectID = "R27-9r-DyL"; */
+"R27-9r-DyL.title" = "Boîte";
+/* RTj-IL-rf3.title
+Class = "NSButtonCell"; title = "Animate Show Previous/Next media actions"; ObjectID = "RTj-IL-rf3"; */
+"RTj-IL-rf3.title" = "Animer les actions Afficher Média Précédent/Suivant";
+/* TDB-d8-u4M.title
+Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
+"TDB-d8-u4M.title" = "Couleur de fond";
+/* WeQ-iF-4I5.title
+Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
+"WeQ-iF-4I5.title" = "Fond d\'écran plein écran";
+/* XRc-FW-CYe.title
+Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
+"XRc-FW-CYe.title" = "Système par défaut";
+/* Xod-Ki-J3G.title
+Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
+"Xod-Ki-J3G.title" = "Boîte";
+/* ZTZ-5l-rBe.title
+Class = "NSTextFieldCell"; title = "5 sec"; ObjectID = "ZTZ-5l-rBe"; */
+"ZTZ-5l-rBe.title" = "5 sec";
+/* c0L-Qc-fX0.title
+Class = "NSTextFieldCell"; title = "Thumbnails Panel"; ObjectID = "c0L-Qc-fX0"; */
+"c0L-Qc-fX0.title" = "Panneau de miniatures";
+/* cu1-A8-2QK.title
+Class = "NSMenuItem"; title = "Ambient light"; ObjectID = "cu1-A8-2QK"; */
+"cu1-A8-2QK.title" = "Lumière ambiante";
+/* fcU-hn-i9f.title
+Class = "NSTextFieldCell"; title = "Regular"; ObjectID = "fcU-hn-i9f"; */
+"fcU-hn-i9f.title" = "Régulier";
+/* hND-55-qek.title
+Class = "NSTextFieldCell"; title = "Panel size:"; ObjectID = "hND-55-qek"; */
+"hND-55-qek.title" = "Taille du panneau :";
+/* ik7-8b-NVU.title
+Class = "NSButtonCell"; title = "Show folders and archives on top"; ObjectID = "ik7-8b-NVU"; */
+"ik7-8b-NVU.title" = "Afficher les dossiers et archives en haut";
+/* nZQ-9C-Ogw.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "nZQ-9C-Ogw"; */
+"nZQ-9C-Ogw.title" = "PLUS";
+/* oAI-w9-RZd.title
+Class = "NSTextFieldCell"; title = "Slideshow delay"; ObjectID = "oAI-w9-RZd"; */
+"oAI-w9-RZd.title" = "Délai du diaporama";
+/* oNY-eV-kai.title
+Class = "NSButtonCell"; title = "Only when swiping left/right"; ObjectID = "oNY-eV-kai"; */
+"oNY-eV-kai.title" = "Seulement lors du balayage gauche/droite";
+/* ot0-xz-PeI.title
+Class = "NSTextFieldCell"; title = "Display a file name when you mouse over its thumbnail"; ObjectID = "ot0-xz-PeI"; */
+"ot0-xz-PeI.title" = "Afficher le nom d\'un fichier lorsque vous passez la souris sur sa miniature";
+/* y0i-P4-Mgr.title
+Class = "NSBox"; title = "Box"; ObjectID = "y0i-P4-Mgr"; */
+"y0i-P4-Mgr.title" = "Boîte";
+/* zph-U7-RvC.title
+Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph-U7-RvC"; */
+"zph-U7-RvC.title" = "Masquer automatiquement la barre d\'état";

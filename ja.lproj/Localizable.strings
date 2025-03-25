@@ -1,0 +1,204 @@
+/* Unable to process image...
+
+Localizable.strings
+Pixea
+
+Created by Andrey Tsarkov on 04.02.2025.
+Copyright © 2025 Andrey Tsarkov. All rights reserved. */
+"Unable to process image..." = "画像を処理できません…";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "利用可能なメモリとディスクスペースを確認してください。 他のアプリを閉じて Pixea を再起動してみてください。";
+"OK" = "OK";
+"Cancel" = "キャンセル";
+"macOS 11 or higher is required." = "macOS 11 以降が必要です。";
+"macOS 10.15 or higher is required." = "macOS 10.15 以降が必要です。";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "オブジェクト削除アルゴリズムは、macOS Big Sur で初めて導入された機械学習機能に基づいています。 オブジェクト削除ツールを使用するには macOS を更新してください。";
+/* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
+"Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "テキスト選択は、macOS Catalina で初めて導入された機械学習機能に基づいています。 テキスト選択ツールを使用するには macOS を更新してください。";
+"Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "画像のアップスケーリングは、macOS Catalina で初めて導入された機械学習機能に基づいています。 画像のアップスケーリングを使用するには macOS を更新してください。";
+"No media" = "メディアなし";
+"No supported media in this folder" = "このフォルダに対応するメディアがありません";
+"Are you sure you want to move this folder to Trash?" = "このフォルダをゴミ箱に移動してもよろしいですか？";
+"Are you sure you want to move this file to Trash?" = "このファイルをゴミ箱に移動してもよろしいですか？";
+"This folder cannot be moved to Trash. Are you sure you want to delete it permanently?" = "このフォルダはゴミ箱に移動できません。本当に完全に削除してもよろしいですか？";
+"This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "このファイルはゴミ箱に移動できません。本当に完全に削除してもよろしいですか？";
+"\"%@\" will be moved to the Trash." = "\"%@\" はゴミ箱に移動されます。";
+"\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\" は直ちに削除されます。 この操作は取り消せません。";
+"Move To Trash" = "ゴミ箱に移動";
+"Delete" = "削除";
+/* Unable to delete '%@' */
+"Unable to delete \'%@\'" = "\'%@\' を削除できません";
+"Check permissions or try again later." = "アクセス許可を確認するか、後でもう一度試してください。";
+"Drop your media here" = "ここにメディアをドロップ";
+"Drop Image/Video file, Folder or Zip-Archive to start" = "画像/ビデオファイル、フォルダ、または Zip アーカイブをドロップして開始します";
+"Favorites" = "お気に入り";
+"Recents" = "最近表示した項目";
+"Archived Media" = "アーカイブされたメディア";
+"Media in this Folder" = "このフォルダ内のメディア";
+"Subfolders in this Archive" = "このアーカイブ内のサブフォルダー";
+"Subfolders and Archives" = "サブフォルダーとアーカイブ";
+"Images: %lu" = "画像: %lu";
+"Images: %lu, Videos: %lu" = "画像: %lu、ビデオ: %lu";
+"Folders: %lu" = "フォルダ: %lu";
+"Folders: %lu, Archives: %lu" = "フォルダ: %lu、アーカイブ: %lu";
+/* Can't open */
+"Can\'t open" = "開けない";
+"Unable to open this image file" = "この画像ファイルを開けません";
+"Unable to open this video file" = "このビデオファイルを開けません";
+"Unable to open this archive" = "このアーカイブを開けません";
+"No media" = "メディアなし";
+"No supported media in this archive" = "このアーカイブには対応するメディアがありません";
+"No supported media in this folder" = "このフォルダに対応するメディアがありません";
+"Nothing found" = "何も見つかりません";
+/* Sorry, no matches found for '%@' */
+"Sorry, no matches found for \'%@\'" = "申し訳ありませんが、「%@」に一致するものは見つかりませんでした";
+"Image was edited" = "画像が編集されました";
+"You can choose to export the edited image, or ignore changes. You can’t undo this action." = "編集した画像をエクスポートするか、変更を無視することができます。 この操作は取り消せません。";
+"Export Image..." = "画像をエクスポート…";
+"Export Image" = "画像をエクスポート";
+/* Best
+export jpeg quality */
+"Best" = "最高";
+"Lossless" = "ロスレス";
+"Ignore Changes" = "変更を無視";
+"Unable to process image..." = "画像を処理できません…";
+"Unable to find your purchase..." = "購入が見つかりません…";
+"Check your Apple Account or try again later." = "Apple アカウントを確認するか、後でもう一度お試しください。";
+"No applications" = "アプリケーションなし";
+"Preparing..." = "準備中…";
+"Removing objects..." = "オブジェクトを削除しています…";
+"Processing transparency..." = "透明度を処理しています…";
+"Upscaling image..." = "画像をアップスケーリングしています…";
+"Loading..." = "読み込み中…";
+/* Stopping...
+Stopping upscaling process */
+"Stopping..." = "停止中…";
+/* Processing '%@'...
+Saving file */
+"Processing \'%@\'..." = "\'%@\' を処理中…";
+/* Created: %@
+file created */
+"Created: %@" = "作成日: %@";
+/* Taken: %@
+photo taken */
+"Taken: %@" = "撮影日: %@";
+/* Resume at %@
+resume movie at timestamp */
+"Resume at %@" = "%@ で再開";
+/* Frames
+gif frames */
+"Frames" = "フレーム";
+"Grant Access" = "アクセスを許可";
+"No access" = "アクセスなし";
+"Access granted" = "アクセス許可が付与されました";
+/* Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue. */
+"Pixea needs write permissions to delete \'%@\'. Click \"Grant Access\" to continue." = "Pixea には \'%@\' を削除するための書き込み権限が必要です。 続行するには「アクセスを許可」をクリックしてください。";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**スペース** は「**スペースバーを押しながらドラッグしてスクロール**」および「**ビデオの再生/一時停止**」アクションに予約されています。**Z** および **⌥Z** は「**ズームイン**/ **ズームアウト**」アクションに予約されています。";
+"Clipboard" = "クリップボード";
+"Unmute" = "ミュート解除";
+"Mute" = "ミュート";
+/* Track %i - [%@]
+track 1 - [spanish] */
+"Track %i - [%@]" = "トラック %i - [%@]";
+"Track %i" = "トラック %i";
+/* Next
+button on welcome screen */
+"Next" = "次へ";
+"Done" = "完了";
+"Small" = "小";
+"Large" = "大";
+"Regular" = "通常";
+/* Open File or Folder...
+touch bar items */
+"Open File or Folder..." = "ファイルまたはフォルダを開く…";
+"Recent:" = "最近：";
+"New from Clipboard" = "クリップボードから新規作成";
+/* Scroll Up
+shortcuts */
+"Scroll Up" = "上にスクロール";
+"Scroll Down" = "下にスクロール";
+"Scroll Left" = "左にスクロール";
+"Scroll Right" = "右にスクロール";
+"Previous Media" = "前のメディア";
+"Next Media" = "次のメディア";
+"Previous Frame/Step Backward 10s" = "前のフレーム/10秒戻る";
+"Next Frame/Step Forward 10s" = "次のフレーム/10秒進める";
+"Step Backward 30s" = "30秒戻る";
+"Step Forward 30s" = "30秒進める";
+"Volume Up" = "音量を上げる";
+"Volume Down" = "音量を下げる";
+"Mute/Unmute" = "ミュート/ミュート解除";
+"Slideshow" = "スライドショー";
+"Zoom In" = "ズームアウト";
+"Zoom Out" = "ズームイン";
+"Fit to Screen" = "画面に合わせる";
+"Stretch to Fit" = "フィットに引き伸ばす";
+"Fill Screen" = "画面を埋める";
+"Toggle Fullscreen" = "全画面表示を切り替え";
+"Actual Size" = "実際のサイズ";
+"Fixed Size & Position" = "固定サイズと位置";
+"Playback Speed x 0.5" = "再生速度 x 0.5";
+"Playback Speed x 0.9" = "再生速度 x 0.9";
+"Playback Speed Normal" = "標準の再生速度";
+"Playback Speed x 1.1" = "再生速度 x 1.1";
+"Playback Speed x 1.5" = "再生速度 x 1.5";
+"Playback Speed x 2.0" = "再生速度 x 2.0";
+"Rotate 180º" = "180º 回転";
+"Rotate 90º Clockwise" = "90º 時計回りに回転";
+"Rotate 90º Counter-clockwise" = "90º 反時計回りに回転";
+"Upscale Image" = "画像をアップスケーリング";
+"Eraser Tool" = "消しゴムツール";
+"Flip Horizontally" = "水平に反転";
+"Flip Vertically" = "垂直に反転";
+"Selection Tool" = "選択ツール";
+"Deselect" = "選択解除";
+"Show Thumbnails" = "サムネイルを表示";
+"Get Info" = "情報を見る";
+"Move to Trash" = "ゴミ箱に移動";
+"Show in Finder" = "Finder で表示";
+"Export..." = "エクスポート…";
+"Crop Image..." = "画像をトリミング…";
+"Hand Tool" = "ハンドツール";
+"Adjust Hue, Saturation, Brightness..." = "色合い、彩度、明るさを調整…";
+"Adjust Color Temperature..." = "色温度を調整…";
+"Adjust Exposure..." = "露出を調整…";
+"Resize Image..." = "画像のサイズを変更…";
+"Sharpness and Noise..." = "シャープネスとノイズ…";
+"Clone Tool" = "クローンツール";
+"Text Selection Tool" = "テキスト選択ツール";
+"Edit with: App #1" = "アプリ #1 で編集";
+"Edit with: App #2" = "アプリ #2 で編集";
+"Edit with: App #3" = "アプリ #3 で編集";
+"Edit with: App #4" = "アプリ #4 で編集";
+"Edit with: App #5" = "アプリ #5 で編集";
+"Step Forward 10s" = "10秒進める";
+"Step Backward 10s" = "10秒戻る";
+"Step Forward 30s" = "30秒進める";
+"Step Backward 30s" = "30秒戻る";
+"Hide Thumbnails" = "サムネイルを非表示";
+"Show Thumbnails" = "サムネイルを表示";
+"Next Frame" = "次のフレーム";
+"Previous Frame" = "前のフレーム";
+"Next Media" = "次のメディア";
+"Previous Media" = "前のメディア";
+"Not set" = "設定なし";
+/* Preferences
+Preferences items */
+"Preferences" = "環境設定";
+"General" = "一般";
+"Appearance" = "外観";
+"Shortcuts" = "ショートカット";
+"File Types" = "ファイルタイプ";
+"Video" = "ビデオ";
+"Folder Access" = "フォルダへのアクセス";
+"Advanced" = "詳細";
+"More Apps" = "その他のアプリ";
+/* in
+inches, cm/mm, pixels, points per inch, etc... */
+"in" = "インチ単位で";
+"mm" = "mm";
+"cm" = "cm";
+"px" = "px";
+"%ipx × %ipx" = "%ipx × %ipx";
+"%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
+"%@ bytes" = "%@ バイト";
+"%li sec" = "%li 秒";

@@ -39,10 +39,22 @@
 "zBI-tS-TjZ.title" = "Preload previous and next images";
 
 /* Class = "NSTextFieldCell"; title = "RAW Render"; ObjectID = "6Dv-jd-82V"; */
-"6Dv-jd-82V.title" = "RAW Render";
+"6Dv-jd-82V.title" = "RAW renderer";
 
 /* Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
 "GTf-ff-aln.title" = "Prefer macOS engine";
 
 /* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
 "kX7-LK-XlL.title" = "Always use built-in";
+
+/* Class = "NSButtonCell"; title = "Process HDR images"; ObjectID = "4BK-K4-0o5"; */
+"4BK-K4-0o5.title" = "Process HDR images";
+
+/* Class = "NSButtonCell"; title = "Automatically"; ObjectID = "zc9-eF-W4i"; */
+"zc9-eF-W4i.title" = "Automatically";
+
+/* Class = "NSButtonCell"; title = "as HDR"; ObjectID = "u3J-bs-ZaH"; */
+"u3J-bs-ZaH.title" = "as HDR";
+
+/* Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
+"FOW-av-yIA.title" = "as SDR";
