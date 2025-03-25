@@ -16,7 +16,7 @@ If you'd like to contribute, pick up a branch and follow contribution guidelines
 
 ## Localizations in progress
 
-[**German**](https://github.com/imagetasks/Pixea-Localizations/tree/German) (100%), [**Russian**](https://github.com/imagetasks/Pixea-Localizations/tree/Russian) (95%), [**Bulgarian**](https://github.com/imagetasks/Pixea-Localizations/tree/Bulgarian) (0%), [**French**](https://github.com/imagetasks/Pixea-Localizations/tree/French) (0%), [**Spanish**](https://github.com/imagetasks/Pixea-Localizations/tree/Spanish) (0%), [**Italian**](https://github.com/imagetasks/Pixea-Localizations/tree/Italian) (0%)... 
+[**German**](https://github.com/imagetasks/Pixea-Localizations/tree/main/de.lproj), [**Russian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/ru.lproj), [**Bulgarian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/bg.lproj), [**French**](https://github.com/imagetasks/Pixea-Localizations/tree/main/fr.lproj), [**Spanish**](https://github.com/imagetasks/Pixea-Localizations/tree/main/es.lproj), [**Italian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/it.lproj), [**Portuguese**](https://github.com/imagetasks/Pixea-Localizations/tree/main/pt-PT.lproj), [**Japanese**](https://github.com/imagetasks/Pixea-Localizations/tree/main/ja.lproj), [**Chinese (Simplified)**](https://github.com/imagetasks/Pixea-Localizations/tree/main/zh-Hans.lproj), [**Ukrainian**] (in progress). 
 
 Fork to add your own language!
 
