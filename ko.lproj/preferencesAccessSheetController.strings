@@ -1,0 +1,15 @@
+/* Dbc-8H-lMa.title
+Class = "NSTextFieldCell"; title = "Grant or revoke the access:"; ObjectID = "Dbc-8H-lMa"; */
+"Dbc-8H-lMa.title" = "액세스 승인 또는 취소:";
+/* F31-ys-eOi.title
+Class = "NSButtonCell"; title = "Done"; ObjectID = "F31-ys-eOi"; */
+"F31-ys-eOi.title" = "완료";
+/* XiJ-wc-qYt.title
+Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "XiJ-wc-qYt"; */
+"XiJ-wc-qYt.title" = "테이블 보기 셀";
+/* YtJ-3e-7wD.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "YtJ-3e-7wD"; */
+"YtJ-3e-7wD.headerCell.title" = "폴더";
+/* giJ-Z4-4DX.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "giJ-Z4-4DX"; */
+"giJ-Z4-4DX.title" = "텍스트 셀";

@@ -44,8 +44,8 @@
 /* Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
 "GTf-ff-aln.title" = "Предпочитано е с macOS задвиждането"; //consider a shorter wording during i18n_testing_optimization
 
-/* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
-"vCw-yg-L16.title" = "Винаги използвайте вградената възможност";
+/* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "kX7-LK-XlL"; */
+"kX7-LK-XlL.title" = "Винаги използвайте вградената възможност";
 
 /* Class = "NSButtonCell"; title = "Process HDR images"; ObjectID = "4BK-K4-0o5"; */
 "4BK-K4-0o5.title" = "Обработка на HDR-изображения";

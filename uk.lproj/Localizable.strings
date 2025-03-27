@@ -1,0 +1,205 @@
+/* Unable to process image...
+
+Localizable.strings
+Pixea
+
+Created by Andrey Tsarkov on 04.02.2025.
+Copyright © 2025 Andrey Tsarkov. All rights reserved. */
+"Unable to process image..." = "Неможливо обробити зображення...";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Перевірте доступну пам\'ять та місце на диску. Спробуйте закрити інші програми та перезапустити Pixea.";
+"OK" = "ОК";
+"Cancel" = "Скасувати";
+"macOS 11 or higher is required." = "Потрібна macOS 11 або новіша версія.";
+"macOS 10.15 or higher is required." = "Потрібна macOS 10.15 або новіша версія.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "Алгоритм видалення об\'єктів базується на функціях машинного навчання, вперше представлених у macOS Big Sur. Оновіть вашу macOS, щоб використовувати інструмент видалення об\'єктів.";
+/* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
+"Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "Виділення тексту базується на функціях машинного навчання, вперше представлених у macOS Catalina. Оновіть вашу macOS, щоб використовувати інструмент виділення тексту.";
+"Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Масштабування зображення базується на функціях машинного навчання, вперше представлених у macOS Catalina. Оновіть вашу macOS, щоб використовувати функцію масштабування зображення.";
+"No media" = "Жодних медіа";
+"No supported media in this folder" = "У цій папці немає підтримуваних медіа";
+"Are you sure you want to move this folder to Trash?" = "Ви впевнені, що хочете перемістити цю папку до кошика?";
+"Are you sure you want to move this file to Trash?" = "Ви впевнені, що хочете перемістити цей файл до кошика?";
+"This folder cannot be moved to Trash. Are you sure you want to delete it permanently?" = "Цю папку не можна перемістити до кошика. Ви впевнені, що хочете видалити її назавжди?";
+"This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "Цей файл не можна перемістити до кошика. Ви впевнені, що хочете видалити його назавжди?";
+"\"%@\" will be moved to the Trash." = "\"%@\" буде переміщено до кошика.";
+"\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\" буде негайно видалено. Ви не можете скасувати цю дію.";
+"Move To Trash" = "Перемістити в кошик";
+"Delete" = "Видалити";
+/* Unable to delete '%@' */
+"Unable to delete \'%@\'" = "Неможливо видалити \'%@\'";
+"Check permissions or try again later." = "Перевірте дозволи або спробуйте пізніше.";
+"Drop your media here" = "Перетягніть ваші медіа сюди";
+"Drop Image/Video file, Folder or Zip-Archive to start" = "Перетягніть файл зображення/відео, папку або архів Zip для початку";
+"Favorites" = "Обране";
+"Recents" = "Недавні";
+"Archived Media" = "Архівовані медіа";
+"Media in this Folder" = "Медіа в цій папці";
+"Subfolders in this Archive" = "Підпапки в цьому архіві";
+"Subfolders and Archives" = "Підпапки та Архіви";
+"Images: %lu" = "Зображення: %lu";
+"Images: %lu, Videos: %lu" = "Зображення: %lu, Відео: %lu";
+"Folders: %lu" = "Папки: %lu";
+"Folders: %lu, Archives: %lu" = "Папки: %lu, Архіви: %lu";
+/* Can't open */
+"Can\'t open" = "Не вдається відкрити";
+"Unable to open this image file" = "Не вдається відкрити цей файл зображення";
+"Unable to open this video file" = "Не вдається відкрити цей файл відео";
+"Unable to open this archive" = "Не вдається відкрити цей архів";
+"No media" = "Жодних медіа";
+"No supported media in this archive" = "У цьому архіві немає підтримуваних медіа";
+"No supported media in this folder" = "У цій папці немає підтримуваних медіа";
+"Nothing found" = "Нічого не знайдено";
+/* Sorry, no matches found for '%@' */
+"Sorry, no matches found for \'%@\'" = "Вибачте, не знайдено відповідностей для \'%@\'";
+"Image was edited" = "Зображення було відредаговано";
+"You can choose to export the edited image, or ignore changes. You can’t undo this action." = "Ви можете вибрати експорт відредагованого зображення або ігнорувати зміни. Ви не можете скасувати цю дію.";
+"Export Image..." = "Експорт зображення...";
+"Export Image" = "Експорт зображення";
+/* Best
+export jpeg quality */
+"Best" = "Найкраще";
+"Lossless" = "Без втрат";
+"Ignore Changes" = "Ігнорувати зміни";
+"Unable to process image..." = "Неможливо обробити зображення...";
+"Unable to find your purchase..." = "Не вдається знайти вашу покупку...";
+"Check your Apple Account or try again later." = "Перевірте свій обліковий запис Apple або спробуйте пізніше.";
+"No applications" = "Немає застосунків";
+"Preparing..." = "Підготовка...";
+"Removing objects..." = "Видалення об\'єктів...";
+"Processing transparency..." = "Обробка прозорості...";
+"Upscaling image..." = "Масштабування зображення...";
+"Loading..." = "Завантаження...";
+/* Stopping...
+Stopping upscaling process */
+"Stopping..." = "Зупиняю...";
+/* Processing '%@'...
+Saving file */
+"Processing \'%@\'..." = "Обробка \"%@\"...";
+/* Created: %@
+file created */
+"Created: %@" = "Створено: %@";
+/* Taken: %@
+photo taken */
+"Taken: %@" = "Знято: %@";
+/* Resume at %@
+resume movie at timestamp */
+"Resume at %@" = "Продовження у %@";
+/* Frames
+gif frames */
+"Frames" = "Кадри";
+"Grant Access" = "Надати доступ";
+"No access" = "Немає доступу";
+"Access granted" = "Доступ надано";
+/* Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue. */
+"Pixea needs write permissions to delete \'%@\'. Click \"Grant Access\" to continue." = "Pixea потребує дозволу на запис, щоб видалити \'%@\'. Натисніть \"Надати доступ\", щоб продовжити.";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**ПРОБІЛ** зарезервовано для дій \"**Утримуйте пробіл і тягніть для прокрутки**\" та \"**Відтворення/Пауза відео**\".
+**Z** та **⌥Z** зарезервовано для \"**Збільшити**\" / \"**Зменшити**\".";
+"Clipboard" = "Буфер обміну";
+"Unmute" = "Увімкнути звук";
+"Mute" = "Вимкнути звук";
+/* Track %i - [%@]
+track 1 - [spanish] */
+"Track %i - [%@]" = "Трек %i - [%@]";
+"Track %i" = "Трек %i";
+/* Next
+button on welcome screen */
+"Next" = "Далі";
+"Done" = "Готово";
+"Small" = "Мал.";
+"Large" = "Вел.";
+"Regular" = "Звич.";
+/* Open File or Folder...
+touch bar items */
+"Open File or Folder..." = "Відкрити файл або папку...";
+"Recent:" = "Нещодавно:";
+"New from Clipboard" = "Новий з буфера обміну";
+/* Scroll Up
+shortcuts */
+"Scroll Up" = "Прокрутити вгору";
+"Scroll Down" = "Прокрутити вниз";
+"Scroll Left" = "Прокрутити вліво";
+"Scroll Right" = "Прокрутити вправо";
+"Previous Media" = "Попереднє медіа";
+"Next Media" = "Наступне медіа";
+"Previous Frame/Step Backward 10s" = "Попередній кадр/Крок назад на 10с";
+"Next Frame/Step Forward 10s" = "Наступний кадр/Крок вперед на 10с";
+"Step Backward 30s" = "Крок назад на 30с";
+"Step Forward 30s" = "Крок вперед на 30с";
+"Volume Up" = "Збільшення гучності";
+"Volume Down" = "Зменшення гучності";
+"Mute/Unmute" = "Вимкнути/Увімкнути звук";
+"Slideshow" = "Слайдшоу";
+"Zoom In" = "Збільшити";
+"Zoom Out" = "Зменшити";
+"Fit to Screen" = "Помістити на екран";
+"Stretch to Fit" = "Розтягнути до розміру";
+"Fill Screen" = "Заповнити екран";
+"Toggle Fullscreen" = "Переключити на повний екран";
+"Actual Size" = "Справжній розмір";
+"Fixed Size & Position" = "Фіксований розмір і позиція";
+"Playback Speed x 0.5" = "Швидкість відтворення x 0.5";
+"Playback Speed x 0.9" = "Швидкість відтворення x 0.9";
+"Playback Speed Normal" = "Нормальна швидкість відтворення";
+"Playback Speed x 1.1" = "Швидкість відтворення x 1.1";
+"Playback Speed x 1.5" = "Швидкість відтворення x 1.5";
+"Playback Speed x 2.0" = "Швидкість відтворення x 2.0";
+"Rotate 180º" = "Повернути на 180º";
+"Rotate 90º Clockwise" = "Повернути на 90º за годинниковою стрілкою";
+"Rotate 90º Counter-clockwise" = "Повернути на 90º проти годинникової стрілки";
+"Upscale Image" = "Масштабувати зображення";
+"Eraser Tool" = "Інструмент гумки";
+"Flip Horizontally" = "Відобразити по горизонталі";
+"Flip Vertically" = "Відобразити по вертикалі";
+"Selection Tool" = "Інструмент вибору";
+"Deselect" = "Скасувати вибір";
+"Show Thumbnails" = "Показати мініатюри";
+"Get Info" = "Отримати інформацію";
+"Move to Trash" = "Перемістити в кошик";
+"Show in Finder" = "Показати у Finder";
+"Export..." = "Експортувати...";
+"Crop Image..." = "Обрізати зображення...";
+"Hand Tool" = "Інструмент руки";
+"Adjust Hue, Saturation, Brightness..." = "Регулювання відтінку, насиченості, яскравості...";
+"Adjust Color Temperature..." = "Регулювання колірної температури...";
+"Adjust Exposure..." = "Регулювання експозиції...";
+"Resize Image..." = "Змінити розмір зображення...";
+"Sharpness and Noise..." = "Різкість та шум...";
+"Clone Tool" = "Інструмент клонування";
+"Text Selection Tool" = "Інструмент вибору тексту";
+"Edit with: App #1" = "Редагувати з: Додаток №1";
+"Edit with: App #2" = "Редагувати з: Додаток №2";
+"Edit with: App #3" = "Редагувати з: Додаток №3";
+"Edit with: App #4" = "Редагувати з: Додаток №4";
+"Edit with: App #5" = "Редагувати з: Додаток №5";
+"Step Forward 10s" = "Крок вперед на 10с";
+"Step Backward 10s" = "Крок назад на 10с";
+"Step Forward 30s" = "Крок вперед на 30с";
+"Step Backward 30s" = "Крок назад на 30с";
+"Hide Thumbnails" = "Сховати мініатюри";
+"Show Thumbnails" = "Показати мініатюри";
+"Next Frame" = "Наступний кадр";
+"Previous Frame" = "Попередній кадр";
+"Next Media" = "Наступне медіа";
+"Previous Media" = "Попереднє медіа";
+"Not set" = "Не встановлено";
+/* Preferences
+Preferences items */
+"Preferences" = "Налаштування";
+"General" = "Загальне";
+"Appearance" = "Зовнішній вигляд";
+"Shortcuts" = "Клавіатурні скорочення";
+"File Types" = "Типи файлів";
+"Video" = "Відео";
+"Folder Access" = "Доступ до папок";
+"Advanced" = "Розширене";
+"More Apps" = "Більше додатків";
+/* in
+inches, cm/mm, pixels, points per inch, etc... */
+"in" = "дюйм";
+"mm" = "мм";
+"cm" = "см";
+"px" = "пікс";
+"%iпікс × %iпікс" = "%iпікс × %iпікс";
+"%iпікс × %iпікс (%iпнд)" = "%iпікс × %iпікс (%iпнд)";
+"%@ bytes" = "%@ байт";
+"%li sec" = "%li сек";

@@ -1,0 +1,87 @@
+/* 0IV-IR-otP.title
+Class = "NSBox"; title = "Box"; ObjectID = "0IV-IR-otP"; */
+"0IV-IR-otP.title" = "상자";
+/* 3nV-9V-gas.title
+Class = "NSButtonCell"; title = "Show file names"; ObjectID = "3nV-9V-gas"; */
+"3nV-9V-gas.title" = "파일 이름 표시";
+/* 4Up-an-dJb.title
+Class = "NSTextFieldCell"; title = "Status Bar"; ObjectID = "4Up-an-dJb"; */
+"4Up-an-dJb.title" = "상태 표시줄";
+/* 5EP-eN-UCj.title
+Class = "NSButtonCell"; title = "Show file names"; ObjectID = "5EP-eN-UCj"; */
+"5EP-eN-UCj.title" = "파일 이름 표시";
+/* Amg-Ae-ybc.title
+Class = "NSBox"; title = "Box"; ObjectID = "Amg-Ae-ybc"; */
+"Amg-Ae-ybc.title" = "상자";
+/* Dtn-HC-Ba6.title
+Class = "NSTextFieldCell"; title = "Media Window"; ObjectID = "Dtn-HC-Ba6"; */
+"Dtn-HC-Ba6.title" = "미디어 창";
+/* EF2-GW-zt7.title
+Class = "NSTextFieldCell"; title = "Media Browser"; ObjectID = "EF2-GW-zt7"; */
+"EF2-GW-zt7.title" = "미디어 브라우저";
+/* NsX-9D-RfV.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "NsX-9D-RfV"; */
+"NsX-9D-RfV.title" = "플러스";
+/* O7h-qf-Tc0.title
+Class = "NSButtonCell"; title = "Enable status bar"; ObjectID = "O7h-qf-Tc0"; */
+"O7h-qf-Tc0.title" = "상태 바 활성화";
+/* Out-c8-cAX.title
+Class = "NSButtonCell"; title = "Hide status bar in full screen mode"; ObjectID = "Out-c8-cAX"; */
+"Out-c8-cAX.title" = "전체 화면 모드에서 상태 표시줄 숨기기";
+/* P2E-Gh-Ddt.title
+Class = "NSButtonCell"; title = "Hide thumbnails panel automatically"; ObjectID = "P2E-Gh-Ddt"; */
+"P2E-Gh-Ddt.title" = "축소판 패널 자동 숨기기";
+/* R27-9r-DyL.title
+Class = "NSBox"; title = "Box"; ObjectID = "R27-9r-DyL"; */
+"R27-9r-DyL.title" = "상자";
+/* RTj-IL-rf3.title
+Class = "NSButtonCell"; title = "Animate Show Previous/Next media actions"; ObjectID = "RTj-IL-rf3"; */
+"RTj-IL-rf3.title" = "이전/다음 미디어 동작 표시 애니메이션";
+/* TDB-d8-u4M.title
+Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
+"TDB-d8-u4M.title" = "배경색";
+/* WeQ-iF-4I5.title
+Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
+"WeQ-iF-4I5.title" = "전체 화면 배경";
+/* XRc-FW-CYe.title
+Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
+"XRc-FW-CYe.title" = "시스템 기본값";
+/* Xod-Ki-J3G.title
+Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
+"Xod-Ki-J3G.title" = "상자";
+/* ZTZ-5l-rBe.title
+Class = "NSTextFieldCell"; title = "5 sec"; ObjectID = "ZTZ-5l-rBe"; */
+"ZTZ-5l-rBe.title" = "5초";
+/* c0L-Qc-fX0.title
+Class = "NSTextFieldCell"; title = "Thumbnails Panel"; ObjectID = "c0L-Qc-fX0"; */
+"c0L-Qc-fX0.title" = "축소판 패널";
+/* cu1-A8-2QK.title
+Class = "NSMenuItem"; title = "Ambient light"; ObjectID = "cu1-A8-2QK"; */
+"cu1-A8-2QK.title" = "주위 조명";
+/* fcU-hn-i9f.title
+Class = "NSTextFieldCell"; title = "Regular"; ObjectID = "fcU-hn-i9f"; */
+"fcU-hn-i9f.title" = "일반";
+/* hND-55-qek.title
+Class = "NSTextFieldCell"; title = "Panel size:"; ObjectID = "hND-55-qek"; */
+"hND-55-qek.title" = "패널 크기:";
+/* ik7-8b-NVU.title
+Class = "NSButtonCell"; title = "Show folders and archives on top"; ObjectID = "ik7-8b-NVU"; */
+"ik7-8b-NVU.title" = "폴더 및 아카이브를 위에 표시";
+/* nZQ-9C-Ogw.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "nZQ-9C-Ogw"; */
+"nZQ-9C-Ogw.title" = "플러스";
+/* oAI-w9-RZd.title
+Class = "NSTextFieldCell"; title = "Slideshow delay"; ObjectID = "oAI-w9-RZd"; */
+"oAI-w9-RZd.title" = "슬라이드쇼 지연";
+/* oNY-eV-kai.title
+Class = "NSButtonCell"; title = "Only when swiping left/right"; ObjectID = "oNY-eV-kai"; */
+"oNY-eV-kai.title" = "좌/우로 스와이프할 때만";
+/* ot0-xz-PeI.title
+Class = "NSTextFieldCell"; title = "Display a file name when you mouse over its thumbnail"; ObjectID = "ot0-xz-PeI"; */
+"ot0-xz-PeI.title" = "썸네일 위에 마우스를 올리면 파일 이름을 표시합니다";
+/* y0i-P4-Mgr.title
+Class = "NSBox"; title = "Box"; ObjectID = "y0i-P4-Mgr"; */
+"y0i-P4-Mgr.title" = "상자";
+/* zph-U7-RvC.title
+Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph-U7-RvC"; */
+"zph-U7-RvC.title" = "상태 표시줄 자동 숨기기";

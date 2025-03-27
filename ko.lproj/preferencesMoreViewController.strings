@@ -1,0 +1,24 @@
+/* BKB-yi-LiR.title
+Class = "NSTextFieldCell"; title = "Essential Desktop widgets."; ObjectID = "BKB-yi-LiR"; */
+"BKB-yi-LiR.title" = "필수 데스크탑 위젯.";
+/* Bvm-QD-MzC.title
+Class = "NSButtonCell"; title = "GET"; ObjectID = "Bvm-QD-MzC"; */
+"Bvm-QD-MzC.title" = "GET";
+/* Cpw-a2-M5n.title
+Class = "NSTextFieldCell"; title = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart."; ObjectID = "Cpw-a2-M5n"; */
+"Cpw-a2-M5n.title" = "iStatistica Pro는 macOS용 고급 시스템 모니터입니다.\n배터리 통계 개요, CPU, GPU, RAM 사용률에 대한 실시간 정보 및 그 외 다양한 정보를 제공합니다. iStatistica Pro는 또한 실시간 네트워크 통계도 표시합니다: 외부, 게이트웨이 및 로컬 IP, 속도 및 데이터 전송률 차트.";
+/* Qpq-8e-lOf.title
+Class = "NSButtonCell"; title = "GET"; ObjectID = "Qpq-8e-lOf"; */
+"Qpq-8e-lOf.title" = "GET";
+/* Uhv-vK-A7J.title
+Class = "NSTextFieldCell"; title = "System Monitor. Reinvented."; ObjectID = "Uhv-vK-A7J"; */
+"Uhv-vK-A7J.title" = "시스템 모니터. 재창조되었습니다.";
+/* arx-LP-oVu.title
+Class = "NSTextFieldCell"; title = "Personalize your Desktop with Lockera widgets. Keep track of essential information.\nLockera widgets:\nStorage, Year Progress, On this Day, Days Left, Calendar, Data Usage, \nWi-Fi data usage, Days Passed, and Birthdays."; ObjectID = "arx-LP-oVu"; */
+"arx-LP-oVu.title" = "Lockera 위젯으로 데스크탑을 개인화하십시오. 필수 정보를 추적합니다.\nLockera 위젯: 저장소, 연도 진행, 오늘의 일, 남은 날, 캘린더, 데이터 사용량, Wi-Fi 데이터 사용량, 경과된 날 및 생일.";
+/* ulv-pe-DW8.title
+Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
+"ulv-pe-DW8.title" = "Lockera Widgets";
+/* wvu-eL-Cug.title
+Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
+"wvu-eL-Cug.title" = "iStatistica Pro";

@@ -225,7 +225,7 @@ Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "偏好设置…";
 /* BSP-lv-ooN.title
 Class = "NSMenuItem"; title = "Export..."; ObjectID = "BSP-lv-ooN"; */
-"BSP-lv-ooN.title" = "导出……";
+"BSP-lv-ooN.title" = "导出…";
 /* BVG-eR-wTo.title
 Class = "NSTextFieldCell"; title = "Folder"; ObjectID = "BVG-eR-wTo"; */
 "BVG-eR-wTo.title" = "文件夹";
@@ -309,7 +309,7 @@ Class = "NSMenuItem"; title = "Open"; ObjectID = "FaJ-Id-m0g"; */
 "FaJ-Id-m0g.title" = "打开";
 /* FkQ-hh-Gwa.title
 Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "FkQ-hh-Gwa"; */
-"FkQ-hh-Gwa.title" = "适合屏幕";
+"FkQ-hh-Gwa.title" = "适合于屏幕";
 /* G0A-vg-f8I.title
 Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "G0A-vg-f8I"; */
 "G0A-vg-f8I.title" = "随机播放";
@@ -435,7 +435,7 @@ Class = "NSButtonCell"; title = "Undo"; ObjectID = "LD0-zF-hNW"; */
 "LD0-zF-hNW.title" = "撤销";
 /* LE2-aR-0XJ.title
 Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
-"LE2-aR-0XJ.title" = "全部调到前面";
+"LE2-aR-0XJ.title" = "前置全部窗口";
 /* LKs-6t-Gpx.title
 Class = "NSBox"; title = "Box"; ObjectID = "LKs-6t-Gpx"; */
 "LKs-6t-Gpx.title" = "框";
@@ -444,16 +444,16 @@ Class = "NSMenuItem"; title = "Ambient light"; ObjectID = "LKu-up-qrl"; */
 "LKu-up-qrl.title" = "环境光";
 /* LQy-38-T9R.title
 Class = "NSMenuItem"; title = "Get Info"; ObjectID = "LQy-38-T9R"; */
-"LQy-38-T9R.title" = "获取信息";
+"LQy-38-T9R.title" = "显示简介";
 /* LZX-I5-3QR.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "LZX-I5-3QR"; */
 "LZX-I5-3QR.title" = "应用";
 /* Lbs-JZ-O2N.title
 Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Lbs-JZ-O2N"; */
-"Lbs-JZ-O2N.title" = "在访达中显示";
+"Lbs-JZ-O2N.title" = "在 Finder 中显示";
 /* LdV-jm-VcE.title
 Class = "NSMenuItem"; title = "Find..."; ObjectID = "LdV-jm-VcE"; */
-"LdV-jm-VcE.title" = "查找……";
+"LdV-jm-VcE.title" = "查找…";
 /* LfA-Rc-wTY.title
 Class = "NSMenuItem"; title = "File Size"; ObjectID = "LfA-Rc-wTY"; */
 "LfA-Rc-wTY.title" = "文件大小";
@@ -462,7 +462,7 @@ Class = "NSTextFieldCell"; title = "W: 0, H: 0"; ObjectID = "Lfe-Ve-rFq"; */
 "Lfe-Ve-rFq.title" = "宽：0，高：0";
 /* LmA-ln-jNe.title
 Class = "NSMenuItem"; title = "Remove from Favorites"; ObjectID = "LmA-ln-jNe"; */
-"LmA-ln-jNe.title" = "从收藏中移除";
+"LmA-ln-jNe.title" = "从个人收藏中移除";
 /* LvE-Il-RyX.title
 Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "LvE-Il-RyX"; */
 "LvE-Il-RyX.title" = "锐度和噪声……";
@@ -501,7 +501,7 @@ Class = "NSBox"; title = "Box"; ObjectID = "ODC-XT-zmq"; */
 "ODC-XT-zmq.title" = "框";
 /* OQk-8W-RAG.title
 Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "OQk-8W-RAG"; */
-"OQk-8W-RAG.title" = "在访达中显示";
+"OQk-8W-RAG.title" = "在 Finder 中显示";
 /* ORK-zr-EmC.title
 Class = "NSMenuItem"; title = "Date Created"; ObjectID = "ORK-zr-EmC"; */
 "ORK-zr-EmC.title" = "创建日期";
@@ -519,7 +519,7 @@ Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
 "OY7-WF-poV.title" = "最小化";
 /* Olw-nP-bQN.title
 Class = "NSMenuItem"; title = "Hide Pixea"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "隐藏Pixea";
+"Olw-nP-bQN.title" = "隐藏 Pixea";
 /* OwG-hA-I7X.title
 Class = "NSMenuItem"; title = "90º Clockwise"; ObjectID = "OwG-hA-I7X"; */
 "OwG-hA-I7X.title" = "顺时针90º";
@@ -558,10 +558,10 @@ Class = "NSMenuItem"; title = "3:2"; ObjectID = "RN3-Qt-F71"; */
 "RN3-Qt-F71.title" = "3:2";
 /* RZH-Sj-qMe.title
 Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "RZH-Sj-qMe"; */
-"RZH-Sj-qMe.title" = "填充屏幕";
+"RZH-Sj-qMe.title" = "充满屏幕";
 /* RuK-iH-K5f.title
 Class = "NSMenuItem"; title = "Add to Favorites"; ObjectID = "RuK-iH-K5f"; */
-"RuK-iH-K5f.title" = "添加到收藏夹";
+"RuK-iH-K5f.title" = "添加到个人收藏";
 /* Ruw-6m-B2m.title
 Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
 "Ruw-6m-B2m.title" = "全选";
@@ -612,7 +612,7 @@ Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
 "Td7-aD-5lo.title" = "窗口";
 /* Tgc-bh-Ybe.title
 Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "Tgc-bh-Ybe"; */
-"Tgc-bh-Ybe.title" = "移动到废纸篓";
+"Tgc-bh-Ybe.title" = "移到废纸篓";
 /* UGm-SA-Fqb.title
 Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "UGm-SA-Fqb"; */
 "UGm-SA-Fqb.title" = "下一帧";
@@ -699,7 +699,7 @@ Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Wi7-J4-l0J"; */
 "Wi7-J4-l0J.headerCell.title" = "键";
 /* WoY-kc-InQ.title
 Class = "NSMenuItem"; title = "Export..."; ObjectID = "WoY-kc-InQ"; */
-"WoY-kc-InQ.title" = "导出……";
+"WoY-kc-InQ.title" = "导出…";
 /* WrH-5a-2aF.title
 Class = "NSBox"; title = "Box"; ObjectID = "WrH-5a-2aF"; */
 "WrH-5a-2aF.title" = "框";
@@ -741,7 +741,7 @@ Class = "NSTextFieldCell"; title = "macOS 11 or higher is required. Object Remov
 "Yxs-SF-uxz.title" = "需要macOS 11或更高版本。对象移除算法基于macOS Big Sur首次引入的机器学习功能。";
 /* ZEt-IC-aoh.title
 Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "ZEt-IC-aoh"; */
-"ZEt-IC-aoh.title" = "填充屏幕";
+"ZEt-IC-aoh.title" = "充满屏幕";
 /* Zfi-g9-z9c.title
 Class = "NSTextFieldCell"; title = "Double-click to Step Forward 10s"; ObjectID = "Zfi-g9-z9c"; */
 "Zfi-g9-z9c.title" = "双击快进10秒";
@@ -813,7 +813,7 @@ Class = "NSTextFieldCell"; title = "The machine learning algorithm is trained by
 "bLu-IO-FjE.title" = "机器学习算法通过分析数百万张图像进行训练。锐化并放大照片而不丢失其内容，而不是像常规缩放算法那样数学插值像素值。";
 /* bgE-Ny-zlN.title
 Class = "NSMenuItem"; title = "Get Info"; ObjectID = "bgE-Ny-zlN"; */
-"bgE-Ny-zlN.title" = "获取信息";
+"bgE-Ny-zlN.title" = "显示简介";
 /* bib-Uj-vzu.title
 Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
 "bib-Uj-vzu.title" = "文件";
@@ -912,7 +912,7 @@ Class = "NSTextFieldCell"; title = "Sort media directories by name/type/size/dat
 "g0T-Tv-F9l.title" = "按名称/类型/大小/日期或随机排序媒体目录";
 /* g12-LW-4XD.title
 Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "g12-LW-4XD"; */
-"g12-LW-4XD.title" = "在访达中显示";
+"g12-LW-4XD.title" = "在 Finder 中显示";
 /* g7q-IO-vA8.title
 Class = "NSWindow"; title = "Settings"; ObjectID = "g7q-IO-vA8"; */
 "g7q-IO-vA8.title" = "设置";
@@ -1044,7 +1044,7 @@ Class = "NSTextFieldCell"; title = "Trackpad Gestures"; ObjectID = "lHS-If-wO6";
 "lHS-If-wO6.title" = "触控板手势";
 /* lHj-J1-gLz.title
 Class = "NSWindow"; title = "Get Info"; ObjectID = "lHj-J1-gLz"; */
-"lHj-J1-gLz.title" = "获取信息";
+"lHj-J1-gLz.title" = "信息";
 /* lZc-ig-wk3.title
 Class = "NSMenu"; title = "Subtitles"; ObjectID = "lZc-ig-wk3"; */
 "lZc-ig-wk3.title" = "字幕";
@@ -1131,7 +1131,7 @@ Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "oYX-DN-eTA"; */
 "oYX-DN-eTA.title" = "文本选择工具";
 /* oas-Oc-fiZ.title
 Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
-"oas-Oc-fiZ.title" = "打开最近";
+"oas-Oc-fiZ.title" = "打开最近使用";
 /* ohI-Hy-8It.title
 Class = "NSTextFieldCell"; title = "Resize Image"; ObjectID = "ohI-Hy-8It"; */
 "ohI-Hy-8It.title" = "调整图像大小";
@@ -1155,7 +1155,7 @@ Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "pSZ-1U-BMT"; */
 "pSZ-1U-BMT.title" = "随机播放";
 /* pTP-NG-fUR.title
 Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "pTP-NG-fUR"; */
-"pTP-NG-fUR.title" = "幻灯片";
+"pTP-NG-fUR.title" = "幻灯片放映";
 /* plo-wH-qpM.title
 Class = "NSMenuItem"; title = "Adjust Exposure..."; ObjectID = "plo-wH-qpM"; */
 "plo-wH-qpM.title" = "调整曝光……";
@@ -1209,7 +1209,7 @@ Class = "NSMenuItem"; title = "Name"; ObjectID = "sYL-FL-bXv"; */
 "sYL-FL-bXv.title" = "名称";
 /* shR-Xo-D1C.title
 Class = "NSTextFieldCell"; title = "Fit to Screen:"; ObjectID = "shR-Xo-D1C"; */
-"shR-Xo-D1C.title" = "适合屏幕：";
+"shR-Xo-D1C.title" = "适合于屏幕：";
 /* sod-aH-xTL.title
 Class = "NSBox"; title = "Box"; ObjectID = "sod-aH-xTL"; */
 "sod-aH-xTL.title" = "框";
@@ -1218,7 +1218,7 @@ Class = "NSMenuItem"; title = "Stretch to Fit"; ObjectID = "t2S-s7-dew"; */
 "t2S-s7-dew.title" = "拉伸以适应";
 /* tEv-le-JYp.title
 Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "tEv-le-JYp"; */
-"tEv-le-JYp.title" = "适合屏幕";
+"tEv-le-JYp.title" = "适合于屏幕";
 /* tTD-vd-D6Q.title
 Class = "NSMenuItem"; title = "Normal"; ObjectID = "tTD-vd-D6Q"; */
 "tTD-vd-D6Q.title" = "正常";
@@ -1227,7 +1227,7 @@ Class = "NSTextFieldCell"; title = "Zoom In / Zoom Out:"; ObjectID = "tTh-ST-KJH
 "tTh-ST-KJH.title" = "放大 / 缩小：";
 /* tXI-mr-wws.title
 Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
-"tXI-mr-wws.title" = "打开最近";
+"tXI-mr-wws.title" = "打开最近使用";
 /* tj6-nX-z2t.title
 Class = "NSWindow"; title = "Welcome"; ObjectID = "tj6-nX-z2t"; */
 "tj6-nX-z2t.title" = "欢迎";
@@ -1266,7 +1266,7 @@ Class = "NSButtonCell"; title = "●"; ObjectID = "uY4-Tr-wCF"; */
 "uY4-Tr-wCF.title" = "●";
 /* ued-Tb-dcA.title
 Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "ued-Tb-dcA"; */
-"ued-Tb-dcA.title" = "在Finder中显示";
+"ued-Tb-dcA.title" = "在 Finder 中显示";
 /* ufs-fc-ciP.title
 Class = "NSMenuItem"; title = "Paste"; ObjectID = "ufs-fc-ciP"; */
 "ufs-fc-ciP.title" = "粘贴";
@@ -1308,10 +1308,10 @@ Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "帮助";
 /* wva-as-5Ab.title
 Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "wva-as-5Ab"; */
-"wva-as-5Ab.title" = "幻灯片";
+"wva-as-5Ab.title" = "幻灯片放映";
 /* x3v-GG-iWU.title
 Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
-"x3v-GG-iWU.title" = "复制";
+"x3v-GG-iWU.title" = "拷贝";
 /* x7o-9q-Gti.title
 Class = "NSTextFieldCell"; title = "Zoom In:"; ObjectID = "x7o-9q-Gti"; */
 "x7o-9q-Gti.title" = "放大：";
@@ -1371,7 +1371,7 @@ Class = "NSTextFieldCell"; title = "Pixea wouldn't be possible without these com
 "z1W-SL-b9V.title" = "没有这些组件，Pixea 是无法实现的：";
 /* z3A-9g-LlM.title
 Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "z3A-9g-LlM"; */
-"z3A-9g-LlM.title" = "移至废纸篓";
+"z3A-9g-LlM.title" = "移到废纸篓";
 /* z6Y-gD-vft.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft"; */
 "z6Y-gD-vft.ibShadowedToolTip" = "调整图像大小。。";

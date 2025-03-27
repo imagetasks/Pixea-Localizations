@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="23504" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="23504"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="preferencesMoreViewController">
+            <connections>
+                <outlet property="gotoButton" destination="TzG-E8-Vq1" id="0EH-nc-DKA"/>
+                <outlet property="view" destination="Hz6-mo-xeY" id="0bl-1N-x8E"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView translatesAutoresizingMaskIntoConstraints="NO" id="Hz6-mo-xeY">
+            <rect key="frame" x="0.0" y="0.0" width="520" height="667"/>
+            <subviews>
+                <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="mqr-65-kJu">
+                    <rect key="frame" x="82" y="612" width="154" height="14"/>
+                    <textFieldCell key="cell" lineBreakMode="clipping" title="System Monitor. Reinvented." id="Uhv-vK-A7J">
+                        <font key="font" metaFont="message" size="11"/>
+                        <color key="textColor" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <textField focusRingType="none" verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="KzP-CE-kay">
+                    <rect key="frame" x="30" y="537" width="460" height="60"/>
+                    <textFieldCell key="cell" id="Cpw-a2-M5n">
+                        <font key="font" metaFont="cellTitle"/>
+                        <string key="title">iStatistica Pro is an advanced system monitor for macOS.
+Overview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart.</string>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="acc-6T-RwU">
+                    <rect key="frame" x="82" y="630" width="104" height="19"/>
+                    <buttonCell key="cell" type="roundRect" title="iStatistica Pro" bezelStyle="roundedRect" alignment="left" imageScaling="proportionallyDown" inset="2" id="wvu-eL-Cug">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="systemSemibold" size="15"/>
+                    </buttonCell>
+                    <color key="contentTintColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                    <connections>
+                        <action selector="gotoIStatistica:" target="-2" id="Sc2-V6-TeE"/>
+                    </connections>
+                </button>
+                <button translatesAutoresizingMaskIntoConstraints="NO" id="Ad1-fC-Z24">
+                    <rect key="frame" x="0.0" y="369" width="520" height="160"/>
+                    <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="iStatistica-screen" imagePosition="only" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="Fut-6I-amY">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="160" id="n4I-5c-x3z"/>
+                    </constraints>
+                    <connections>
+                        <action selector="gotoIStatistica:" target="-2" id="dKt-6H-22c"/>
+                    </connections>
+                </button>
+                <button translatesAutoresizingMaskIntoConstraints="NO" id="e63-c7-YFL">
+                    <rect key="frame" x="28" y="605" width="48" height="48"/>
+                    <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="iStatistica" imagePosition="only" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="NiD-fn-aMI">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="48" id="AAR-Uy-bYY"/>
+                        <constraint firstAttribute="height" constant="48" id="afd-bn-gRx"/>
+                    </constraints>
+                    <connections>
+                        <action selector="gotoIStatistica:" target="-2" id="4US-rL-j4h"/>
+                    </connections>
+                </button>
+                <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="9l6-In-xly">
+                    <rect key="frame" x="82" y="303" width="146" height="14"/>
+                    <textFieldCell key="cell" lineBreakMode="clipping" title="Essential Desktop widgets." id="BKB-yi-LiR">
+                        <font key="font" metaFont="message" size="11"/>
+                        <color key="textColor" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <textField focusRingType="none" verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="Pf4-jx-JVV">
+                    <rect key="frame" x="30" y="213" width="460" height="75"/>
+                    <textFieldCell key="cell" id="arx-LP-oVu">
+                        <font key="font" metaFont="cellTitle"/>
+                        <string key="title">Personalize your Desktop with Lockera widgets. Keep track of essential information.
+Lockera widgets:
+Storage, Year Progress, On this Day, Days Left, Calendar, Data Usage, 
+Wi-Fi data usage, Days Passed, and Birthdays.</string>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="rxs-k7-0yK">
+                    <rect key="frame" x="82" y="321" width="124" height="19"/>
+                    <buttonCell key="cell" type="roundRect" title="Lockera Widgets" bezelStyle="roundedRect" alignment="left" imageScaling="proportionallyDown" inset="2" id="ulv-pe-DW8">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="systemSemibold" size="15"/>
+                    </buttonCell>
+                    <color key="contentTintColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                    <connections>
+                        <action selector="gotoIStatistica:" target="-2" id="ZoW-hw-7Wa"/>
+                    </connections>
+                </button>
+                <button translatesAutoresizingMaskIntoConstraints="NO" id="Hfx-XB-QiB">
+                    <rect key="frame" x="28" y="296" width="48" height="48"/>
+                    <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="Lockera" imagePosition="only" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="aR9-tG-Lod">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="48" id="8Ic-y9-NTN"/>
+                        <constraint firstAttribute="height" constant="48" id="RvJ-hY-K7N"/>
+                    </constraints>
+                    <connections>
+                        <action selector="gotoIStatistica:" target="-2" id="h5g-n5-1bk"/>
+                    </connections>
+                </button>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="oaM-PC-FI1" customClass="SYFlatButton">
+                    <rect key="frame" x="436" y="321" width="48" height="20"/>
+                    <buttonCell key="cell" type="square" title="GET" bezelStyle="shadowlessSquare" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Bvm-QD-MzC">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="systemSemibold" size="13"/>
+                    </buttonCell>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="7gK-fM-YO9"/>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="48" id="JpQ-uq-J2X"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="momentary" value="YES"/>
+                        <userDefinedRuntimeAttribute type="number" keyPath="onAnimateDuration">
+                            <real key="value" value="0.25"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="offAnimateDuration">
+                            <real key="value" value="0.25"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="10"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                            <real key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="titleNormalColor">
+                            <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="titleHighlightColor">
+                            <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="backgroundNormalColor">
+                            <color key="value" red="0.0" green="0.50196078430000002" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="backgroundHighlightColor">
+                            <color key="value" red="0.0" green="0.35053720119999998" blue="0.69833583050000003" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="borderNormalColor">
+                            <color key="value" red="0.0" green="0.50196078430000002" blue="1" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="borderHighlightColor">
+                            <color key="value" red="0.0" green="0.50196078430000002" blue="1" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="gotoLockera:" target="-2" id="xfq-7e-8Wx"/>
+                    </connections>
+                </button>
+                <box verticalHuggingPriority="750" boxType="separator" translatesAutoresizingMaskIntoConstraints="NO" id="fef-SX-iiD">
+                    <rect key="frame" x="0.0" y="367" width="520" height="5"/>
+                </box>
+                <button translatesAutoresizingMaskIntoConstraints="NO" id="Oay-r1-WG7">
+                    <rect key="frame" x="0.0" y="33" width="520" height="160"/>
+                    <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="Lockera-screens" imagePosition="only" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="bbd-8L-IOe">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="160" id="Ike-mM-DnX"/>
+                    </constraints>
+                    <connections>
+                        <action selector="gotoLockera:" target="-2" id="BIc-Q4-cr1"/>
+                    </connections>
+                </button>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="TzG-E8-Vq1" customClass="SYFlatButton">
+                    <rect key="frame" x="436" y="627" width="48" height="20"/>
+                    <buttonCell key="cell" type="square" title="GET" bezelStyle="shadowlessSquare" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Qpq-8e-lOf">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="systemSemibold" size="13"/>
+                    </buttonCell>
+                    <constraints>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="48" id="DuY-UF-YUC"/>
+                        <constraint firstAttribute="height" constant="20" id="rD1-3o-nBl"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="momentary" value="YES"/>
+                        <userDefinedRuntimeAttribute type="number" keyPath="onAnimateDuration">
+                            <real key="value" value="0.25"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="offAnimateDuration">
+                            <real key="value" value="0.25"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="10"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                            <real key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="titleNormalColor">
+                            <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="titleHighlightColor">
+                            <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="backgroundNormalColor">
+                            <color key="value" red="0.0" green="0.50196078430000002" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="backgroundHighlightColor">
+                            <color key="value" red="0.0" green="0.35053720119999998" blue="0.69833583050000003" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="borderNormalColor">
+                            <color key="value" red="0.0" green="0.50196078430000002" blue="1" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="borderHighlightColor">
+                            <color key="value" red="0.0" green="0.50196078430000002" blue="1" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="spacing">
+                            <real key="value" value="0.0"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="gotoIStatistica:" target="-2" id="dDX-wj-gZe"/>
+                    </connections>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="Ad1-fC-Z24" firstAttribute="top" secondItem="KzP-CE-kay" secondAttribute="bottom" constant="8" symbolic="YES" id="6hd-7Q-rKx"/>
+                <constraint firstItem="Hfx-XB-QiB" firstAttribute="top" secondItem="Ad1-fC-Z24" secondAttribute="bottom" constant="25" id="AHm-5F-NOt"/>
+                <constraint firstItem="rxs-k7-0yK" firstAttribute="leading" secondItem="Hfx-XB-QiB" secondAttribute="trailing" constant="6" id="Dxo-5H-KUk"/>
+                <constraint firstAttribute="trailing" secondItem="Pf4-jx-JVV" secondAttribute="trailing" constant="32" id="FQy-xH-yIF"/>
+                <constraint firstItem="mqr-65-kJu" firstAttribute="top" secondItem="acc-6T-RwU" secondAttribute="bottom" constant="4" id="IqA-e2-NGg"/>
+                <constraint firstItem="Hfx-XB-QiB" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" constant="28" id="Jsh-t8-Xs7"/>
+                <constraint firstAttribute="trailing" secondItem="fef-SX-iiD" secondAttribute="trailing" id="Ldo-go-zS6"/>
+                <constraint firstItem="fef-SX-iiD" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" id="MWd-FG-64Q"/>
+                <constraint firstAttribute="trailing" secondItem="TzG-E8-Vq1" secondAttribute="trailing" constant="36" id="OC2-DZ-Gob"/>
+                <constraint firstItem="oaM-PC-FI1" firstAttribute="top" secondItem="Ad1-fC-Z24" secondAttribute="bottom" constant="28" id="PU5-aW-PUO"/>
+                <constraint firstAttribute="trailing" secondItem="KzP-CE-kay" secondAttribute="trailing" constant="32" id="Qjz-qV-Th9"/>
+                <constraint firstItem="acc-6T-RwU" firstAttribute="leading" secondItem="e63-c7-YFL" secondAttribute="trailing" constant="6" id="R8y-dB-bQc"/>
+                <constraint firstItem="fef-SX-iiD" firstAttribute="bottom" secondItem="Ad1-fC-Z24" secondAttribute="bottom" id="bU4-w4-sev"/>
+                <constraint firstItem="Pf4-jx-JVV" firstAttribute="top" secondItem="Hfx-XB-QiB" secondAttribute="bottom" constant="8" symbolic="YES" id="bcV-7N-Zxz"/>
+                <constraint firstItem="TzG-E8-Vq1" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" constant="20" symbolic="YES" id="cpQ-yG-4UD"/>
+                <constraint firstAttribute="trailing" secondItem="oaM-PC-FI1" secondAttribute="trailing" constant="36" id="dvS-yK-Hfd"/>
+                <constraint firstItem="KzP-CE-kay" firstAttribute="top" secondItem="e63-c7-YFL" secondAttribute="bottom" constant="8" symbolic="YES" id="ekS-B1-MMz"/>
+                <constraint firstAttribute="trailing" secondItem="Ad1-fC-Z24" secondAttribute="trailing" id="fqQ-Da-Uda"/>
+                <constraint firstItem="mqr-65-kJu" firstAttribute="leading" secondItem="acc-6T-RwU" secondAttribute="leading" constant="2" id="gCf-OO-UMJ"/>
+                <constraint firstItem="rxs-k7-0yK" firstAttribute="top" secondItem="Ad1-fC-Z24" secondAttribute="bottom" constant="29" id="hic-NT-jY9"/>
+                <constraint firstItem="KzP-CE-kay" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" constant="32" id="jTS-yW-oRM"/>
+                <constraint firstItem="9l6-In-xly" firstAttribute="top" secondItem="rxs-k7-0yK" secondAttribute="bottom" constant="4" id="lpP-kD-3dv"/>
+                <constraint firstItem="Pf4-jx-JVV" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" constant="32" id="mBv-ZU-d3g"/>
+                <constraint firstItem="Oay-r1-WG7" firstAttribute="top" secondItem="Pf4-jx-JVV" secondAttribute="bottom" constant="20" id="nxB-uW-EjV"/>
+                <constraint firstItem="e63-c7-YFL" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" constant="14" id="pVW-Wi-yHX"/>
+                <constraint firstItem="9l6-In-xly" firstAttribute="leading" secondItem="rxs-k7-0yK" secondAttribute="leading" constant="2" id="q5q-ld-LOF"/>
+                <constraint firstAttribute="trailing" secondItem="Oay-r1-WG7" secondAttribute="trailing" id="qqP-Pw-18T"/>
+                <constraint firstItem="Ad1-fC-Z24" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" id="quM-GM-sxM"/>
+                <constraint firstItem="Oay-r1-WG7" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" id="sBL-X8-88C"/>
+                <constraint firstItem="e63-c7-YFL" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" constant="28" id="sgz-zh-Pd5"/>
+                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Oay-r1-WG7" secondAttribute="bottom" constant="33" id="sjD-N8-t6f"/>
+                <constraint firstItem="acc-6T-RwU" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" constant="18" id="vxe-6c-KiF"/>
+            </constraints>
+            <point key="canvasLocation" x="140" y="391.5"/>
+        </customView>
+    </objects>
+    <resources>
+        <image name="Lockera" width="48" height="48"/>
+        <image name="Lockera-screens" width="520" height="160"/>
+        <image name="iStatistica" width="48" height="48"/>
+        <image name="iStatistica-screen" width="520" height="160"/>
+    </resources>
+</document>

@@ -375,7 +375,7 @@ Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "IHD-sx-eo9"; */
 "IHD-sx-eo9.title" = "Risoluzione";
 /* IHT-n0-mvJ.title
 Class = "NSButtonCell"; title = "Resize"; ObjectID = "IHT-n0-mvJ"; */
-"IHT-n0-mvJ.title" = "Ridimensiona";
+"IHT-n0-mvJ.title" = "Applica";
 /* IQv-IB-iLA.title
 Class = "NSWindow"; title = "Pixea"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Pixea";
@@ -999,7 +999,7 @@ Class = "NSTextFieldCell"; title = "Sorting"; ObjectID = "jaB-Gb-rUi"; */
 "jaB-Gb-rUi.title" = "Ordinamento";
 /* jbS-Ra-FBd.title
 Class = "NSTextFieldCell"; title = "Option+Click to select pixels to clone. Click in any area to clone selected pixels."; ObjectID = "jbS-Ra-FBd"; */
-"jbS-Ra-FBd.title" = "Opzione+Clic per selezionare i pixel da clonare. Clicca in qualsiasi area per clonare i pixel selezionati.";
+"jbS-Ra-FBd.title" = "Opzione+Clic per selezionare i pixel da clonare.";
 /* jeY-Oj-aG4.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "jeY-Oj-aG4"; */
 "jeY-Oj-aG4.title" = "Applica";
@@ -1044,7 +1044,7 @@ Class = "NSTextFieldCell"; title = "Trackpad Gestures"; ObjectID = "lHS-If-wO6";
 "lHS-If-wO6.title" = "Gesti del trackpad";
 /* lHj-J1-gLz.title
 Class = "NSWindow"; title = "Get Info"; ObjectID = "lHj-J1-gLz"; */
-"lHj-J1-gLz.title" = "Ottieni informazioni";
+"lHj-J1-gLz.title" = "Informazioni";
 /* lZc-ig-wk3.title
 Class = "NSMenu"; title = "Subtitles"; ObjectID = "lZc-ig-wk3"; */
 "lZc-ig-wk3.title" = "Sottotitoli";

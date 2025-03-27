@@ -67,6 +67,7 @@
 "Loading..." = "Laden ...";
 "Stopping..." = "Hochskalierung Stoppen ...";
 "Processing '%@'..." = "'%@' wird bearbeitet..."; //Saving file														  
+"Processing upscaled image..." = "Vergrößertes Bild wird verarbeitet …";
 
 
 "Created: %@" = "Erstellte: %@"; //file created
@@ -120,7 +121,7 @@
 "Stretch to Fit" = "Zum Anpassen dehnen";
 "Fill Screen" = "Bildschirm ausfüllen";
 "Toggle Fullscreen" = "Vollbild ein-/ausblenden";
-"Actual Size" = "Tatsächliche Größe";
+"Actual Size" = "Originalgröße";
 "Fixed Size & Position" = "Größe und Position festlegen";
 "Playback Speed x 0.5" = "Wiedergabegeschwindigkeit x 0.5";
 "Playback Speed x 0.9" = "Wiedergabegeschwindigkeit x 0.9";

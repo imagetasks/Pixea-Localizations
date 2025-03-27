@@ -1,0 +1,75 @@
+/* 0ku-5x-buq.title
+Class = "NSMenuItem"; title = "x 0.5"; ObjectID = "0ku-5x-buq"; */
+"0ku-5x-buq.title" = "x 0,5";
+/* 91x-64-bJ9.title
+Class = "NSButtonCell"; title = "Step forward/backward 30s"; ObjectID = "91x-64-bJ9"; */
+"91x-64-bJ9.title" = "Крок вперед/назад";
+/* C5L-OT-pcu.title
+Class = "NSMenuItem"; title = "x 2.0"; ObjectID = "C5L-OT-pcu"; */
+"C5L-OT-pcu.title" = "x 2,0";
+/* EEj-k2-wGq.title
+Class = "NSMenuItem"; title = "x 1.5"; ObjectID = "EEj-k2-wGq"; */
+"EEj-k2-wGq.title" = "x 1,5";
+/* I3E-ap-nn2.title
+Class = "NSButtonCell"; title = "Prefer QuickTime engine"; ObjectID = "I3E-ap-nn2"; */
+"I3E-ap-nn2.title" = "Віддавати перевагу двигуну QuickTime";
+/* N6e-No-A2H.title
+Class = "NSTextFieldCell"; title = "Previous/next shortcuts"; ObjectID = "N6e-No-A2H"; */
+"N6e-No-A2H.title" = "Попередні/наступні комбінації клавіш";
+/* O6z-mI-jl7.title
+Class = "NSTextFieldCell"; title = "Playback"; ObjectID = "O6z-mI-jl7"; */
+"O6z-mI-jl7.title" = "Відтворення";
+/* OWj-KS-U6S.title
+Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "OWj-KS-U6S"; */
+"OWj-KS-U6S.title" = "Завжди використовувати вбудоване";
+/* QJF-Wp-iDt.title
+Class = "NSBox"; title = "Box"; ObjectID = "QJF-Wp-iDt"; */
+"QJF-Wp-iDt.title" = "Коробка";
+/* TPA-mB-xjp.title
+Class = "NSButtonCell"; title = "Show next/previous media"; ObjectID = "TPA-mB-xjp"; */
+"TPA-mB-xjp.title" = "Показати наступне/попереднє медіа";
+/* UFb-bx-xDc.title
+Class = "NSMenuItem"; title = "x 1.1"; ObjectID = "UFb-bx-xDc"; */
+"UFb-bx-xDc.title" = "x 1,1";
+/* UsA-ZU-Slq.title
+Class = "NSTextFieldCell"; title = "Swiping left/right"; ObjectID = "UsA-ZU-Slq"; */
+"UsA-ZU-Slq.title" = "Проведення вліво/вправо";
+/* cGE-u0-PNl.title
+Class = "NSBox"; title = "Box"; ObjectID = "cGE-u0-PNl"; */
+"cGE-u0-PNl.title" = "Коробка";
+/* dCD-O4-6Kt.title
+Class = "NSTextFieldCell"; title = "When video ends"; ObjectID = "dCD-O4-6Kt"; */
+"dCD-O4-6Kt.title" = "Коли відео закінчується";
+/* eR3-E3-vOw.title
+Class = "NSButtonCell"; title = "Repeat"; ObjectID = "eR3-E3-vOw"; */
+"eR3-E3-vOw.title" = "Повторити";
+/* fCB-IQ-slF.title
+Class = "NSMenuItem"; title = "Normal"; ObjectID = "fCB-IQ-slF"; */
+"fCB-IQ-slF.title" = "Нормально";
+/* iPN-a7-Gon.title
+Class = "NSButtonCell"; title = "Show next media"; ObjectID = "iPN-a7-Gon"; */
+"iPN-a7-Gon.title" = "Показати наступне медіа";
+/* jNp-fN-bqc.title
+Class = "NSButtonCell"; title = "Show next/previous media"; ObjectID = "jNp-fN-bqc"; */
+"jNp-fN-bqc.title" = "Показати наступне/попереднє медіа";
+/* jkJ-Uo-raR.title
+Class = "NSTextFieldCell"; title = "Video renderer"; ObjectID = "jkJ-Uo-raR"; */
+"jkJ-Uo-raR.title" = "Відеопрогравач";
+/* kNR-H1-rTr.title
+Class = "NSButtonCell"; title = "Stop"; ObjectID = "kNR-H1-rTr"; */
+"kNR-H1-rTr.title" = "Зупинити";
+/* mgD-hk-Dmy.title
+Class = "NSMenuItem"; title = "x 0.9"; ObjectID = "mgD-hk-Dmy"; */
+"mgD-hk-Dmy.title" = "x 0,9";
+/* oGQ-pN-Jnb.title
+Class = "NSButtonCell"; title = "Remember playback position"; ObjectID = "oGQ-pN-Jnb"; */
+"oGQ-pN-Jnb.title" = "Запам\'ятати місце відтворення";
+/* pqz-0e-mL8.title
+Class = "NSButtonCell"; title = "Step forward/backward 30s"; ObjectID = "pqz-0e-mL8"; */
+"pqz-0e-mL8.title" = "Крок вперед/назад";
+/* prn-Kr-UHQ.title
+Class = "NSBox"; title = "Box"; ObjectID = "prn-Kr-UHQ"; */
+"prn-Kr-UHQ.title" = "Коробка";
+/* ro3-ih-vbR.title
+Class = "NSTextFieldCell"; title = "Default playback speed"; ObjectID = "ro3-ih-vbR"; */
+"ro3-ih-vbR.title" = "Швидкість відтворення за замовчуванням";

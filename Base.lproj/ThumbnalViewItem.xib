@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="23504" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="23504"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner"/>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView id="Hz6-mo-xeY">
+            <rect key="frame" x="0.0" y="0.0" width="64" height="54"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <box boxType="custom" title="Box" translatesAutoresizingMaskIntoConstraints="NO" id="1Kb-mC-HzT">
+                    <rect key="frame" x="-1" y="0.0" width="65" height="55"/>
+                    <view key="contentView" id="LdC-LE-Peq">
+                        <rect key="frame" x="1" y="1" width="63" height="53"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    </view>
+                    <color key="borderColor" red="1" green="1" blue="1" alpha="0.045612684229320861" colorSpace="custom" customColorSpace="sRGB"/>
+                </box>
+                <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="FUp-Nf-VOC">
+                    <rect key="frame" x="19" y="22" width="26" height="26"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="FUp-Nf-VOC" secondAttribute="height" multiplier="1:1" id="oGj-g2-OK1"/>
+                    </constraints>
+                    <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyUpOrDown" id="FA5-vq-tOv"/>
+                </imageView>
+                <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="e9e-Lj-u0u">
+                    <rect key="frame" x="23" y="4" width="18" height="14"/>
+                    <constraints>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="14" id="UdE-83-g5r"/>
+                    </constraints>
+                    <textFieldCell key="cell" truncatesLastVisibleLine="YES" alignment="center" id="xIm-hI-oTd">
+                        <font key="font" metaFont="smallSystem"/>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <imageView hidden="YES" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="IZg-n9-rZx">
+                    <rect key="frame" x="29" y="0.0" width="32" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="32" id="HrG-HX-PNC"/>
+                        <constraint firstAttribute="height" constant="32" id="hv6-V2-dcs"/>
+                    </constraints>
+                    <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" image="file-is-video" id="HEI-Qs-aiQ"/>
+                </imageView>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="1Kb-mC-HzT" secondAttribute="trailing" priority="800" id="5S2-mS-QjR"/>
+                <constraint firstItem="e9e-Lj-u0u" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Hz6-mo-xeY" secondAttribute="leading" priority="800" constant="4" id="9ib-Pf-I57"/>
+                <constraint firstAttribute="bottom" secondItem="IZg-n9-rZx" secondAttribute="bottom" id="BiL-OK-E03"/>
+                <constraint firstItem="1Kb-mC-HzT" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" priority="800" constant="-1" id="Kt6-jd-gPx"/>
+                <constraint firstAttribute="trailing" secondItem="IZg-n9-rZx" secondAttribute="trailing" constant="3" id="Ou9-3O-ADF"/>
+                <constraint firstItem="e9e-Lj-u0u" firstAttribute="top" secondItem="FUp-Nf-VOC" secondAttribute="bottom" priority="900" constant="4" id="SFi-fU-hGc"/>
+                <constraint firstItem="e9e-Lj-u0u" firstAttribute="centerX" secondItem="Hz6-mo-xeY" secondAttribute="centerX" priority="900" id="Vfd-gF-1YY"/>
+                <constraint firstItem="FUp-Nf-VOC" firstAttribute="width" secondItem="Hz6-mo-xeY" secondAttribute="width" multiplier="0.4" id="f4n-Og-SLh"/>
+                <constraint firstItem="FUp-Nf-VOC" firstAttribute="centerX" secondItem="Hz6-mo-xeY" secondAttribute="centerX" id="hOi-63-5aL"/>
+                <constraint firstItem="FUp-Nf-VOC" firstAttribute="centerY" secondItem="Hz6-mo-xeY" secondAttribute="centerY" multiplier="0.7" id="iK3-RV-hLa"/>
+                <constraint firstItem="1Kb-mC-HzT" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" priority="800" constant="-1" id="lLV-J8-nnM"/>
+                <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="e9e-Lj-u0u" secondAttribute="trailing" constant="4" id="mw5-3g-qvx"/>
+                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="e9e-Lj-u0u" secondAttribute="bottom" constant="4" id="tC6-fG-6ia"/>
+                <constraint firstAttribute="bottom" secondItem="1Kb-mC-HzT" secondAttribute="bottom" id="ydb-nX-XEK"/>
+            </constraints>
+            <point key="canvasLocation" x="-69" y="50"/>
+        </customView>
+        <collectionViewItem id="ePq-Df-M69" customClass="ThumbnalViewItem">
+            <connections>
+                <outlet property="icon" destination="FUp-Nf-VOC" id="ZYF-zn-yfd"/>
+                <outlet property="label" destination="e9e-Lj-u0u" id="YWm-9E-uPQ"/>
+                <outlet property="videoIcon" destination="IZg-n9-rZx" id="fpT-ua-wme"/>
+                <outlet property="view" destination="Hz6-mo-xeY" id="QhQ-cr-Bre"/>
+            </connections>
+        </collectionViewItem>
+    </objects>
+    <resources>
+        <image name="file-is-video" width="32" height="32"/>
+    </resources>
+</document>

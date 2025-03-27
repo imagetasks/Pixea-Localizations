@@ -1,0 +1,205 @@
+/* Unable to process image...
+
+Localizable.strings
+Pixea
+
+Created by Andrey Tsarkov on 04.02.2025.
+Copyright © 2025 Andrey Tsarkov. All rights reserved. */
+"Unable to process image..." = "이미지를 처리할 수 없습니다...";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "사용 가능한 메모리와 디스크 공간을 확인하세요. 다른 앱을 닫고 Pixea를 다시 시작해 보세요.";
+"OK" = "확인";
+"Cancel" = "취소";
+"macOS 11 or higher is required." = "macOS 11 이상이 필요합니다.";
+"macOS 10.15 or higher is required." = "macOS 10.15 이상이 필요합니다.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "객체 제거 알고리즘은 macOS Big Sur에서 처음 도입된 기계 학습 기능을 기반으로 합니다. macOS를 업데이트하여 객체 제거 도구를 사용하세요.";
+/* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
+"Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "텍스트 선택은 macOS Catalina에서 처음 도입된 기계 학습 기능을 기반으로 합니다. macOS를 업데이트하여 텍스트 선택 도구를 사용하세요.";
+"Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "이미지 업스케일링은 macOS Catalina에서 처음 도입된 기계 학습 기능을 기반으로 합니다. macOS를 업데이트하여 이미지 업스케일링을 사용하세요.";
+"No media" = "미디어 없음";
+"No supported media in this folder" = "이 폴더에는 지원되는 미디어가 없습니다";
+"Are you sure you want to move this folder to Trash?" = "이 폴더를 휴지통으로 이동하시겠습니까?";
+"Are you sure you want to move this file to Trash?" = "이 파일을 휴지통으로 이동하시겠습니까?";
+"This folder cannot be moved to Trash. Are you sure you want to delete it permanently?" = "이 폴더는 휴지통으로 이동할 수 없습니다. 영구적으로 삭제하시겠습니까?";
+"This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "이 파일은 휴지통으로 이동할 수 없습니다. 영구적으로 삭제하시겠습니까?";
+"\"%@\" will be moved to the Trash." = "\"%@\"가 휴지통으로 이동됩니다.";
+"\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\"가 즉시 삭제됩니다. 이 작업은 실행 취소할 수 없습니다.";
+"Move To Trash" = "휴지통으로 이동";
+"Delete" = "삭제";
+/* Unable to delete '%@' */
+"Unable to delete \'%@\'" = "\'%@\'을(를) 삭제할 수 없습니다";
+"Check permissions or try again later." = "권한을 확인하거나 나중에 다시 시도하세요.";
+"Drop your media here" = "여기에 미디어를 드롭하세요";
+"Drop Image/Video file, Folder or Zip-Archive to start" = "이미지/비디오 파일, 폴더 또는 Zip-아카이브를 드롭하여 시작";
+"Favorites" = "즐겨찾기";
+"Recents" = "최근 기록";
+"Archived Media" = "보관된 미디어";
+"Media in this Folder" = "이 폴더의 미디어";
+"Subfolders in this Archive" = "이 아카이브의 하위 폴더";
+"Subfolders and Archives" = "하위 폴더 및 아카이브";
+"Images: %lu" = "이미지: %lu";
+"Images: %lu, Videos: %lu" = "이미지: %lu, 비디오: %lu";
+"Folders: %lu" = "폴더: %lu";
+"Folders: %lu, Archives: %lu" = "폴더: %lu, 아카이브: %lu";
+/* Can't open */
+"Can\'t open" = "열 수 없음";
+"Unable to open this image file" = "이 이미지 파일을 열 수 없습니다";
+"Unable to open this video file" = "이 비디오 파일을 열 수 없습니다";
+"Unable to open this archive" = "이 아카이브를 열 수 없습니다";
+"No media" = "미디어 없음";
+"No supported media in this archive" = "이 아카이브에는 지원되는 미디어가 없습니다";
+"No supported media in this folder" = "이 폴더에는 지원되는 미디어가 없습니다";
+"Nothing found" = "결과 없음";
+/* Sorry, no matches found for '%@' */
+"Sorry, no matches found for \'%@\'" = "죄송합니다, \'%@\'에 대한 결과를 찾을 수 없습니다";
+"Image was edited" = "이미지가 편집되었습니다";
+"You can choose to export the edited image, or ignore changes. You can’t undo this action." = "편집된 이미지를 내보내거나 변경 사항을 무시할 수 있습니다. 이 작업은 실행 취소할 수 없습니다.";
+"Export Image..." = "이미지 내보내기...";
+"Export Image" = "이미지 내보내기";
+/* Best
+export jpeg quality */
+"Best" = "최고";
+"Lossless" = "무손실";
+"Ignore Changes" = "변경 사항 무시";
+"Unable to process image..." = "이미지를 처리할 수 없습니다...";
+"Unable to find your purchase..." = "구매 내역을 찾을 수 없습니다...";
+"Check your Apple Account or try again later." = "Apple 계정을 확인하거나 나중에 다시 시도하세요.";
+"No applications" = "애플리케이션 없음";
+"Preparing..." = "준비 중...";
+"Removing objects..." = "객체 제거 중...";
+"Processing transparency..." = "투명성 처리 중...";
+"Upscaling image..." = "이미지 업스케일링 중...";
+"Loading..." = "로딩 중...";
+/* Stopping...
+Stopping upscaling process */
+"Stopping..." = "멈추는 중...";
+/* Processing '%@'...
+Saving file */
+"Processing \'%@\'..." = "\'%@\' 처리 중...";
+/* Created: %@
+file created */
+"Created: %@" = "생성됨: %@";
+/* Taken: %@
+photo taken */
+"Taken: %@" = "촬영됨: %@";
+/* Resume at %@
+resume movie at timestamp */
+"Resume at %@" = "재개 시점: %@";
+/* Frames
+gif frames */
+"Frames" = "프레임";
+"Grant Access" = "접근 권한 부여";
+"No access" = "접근 불가";
+"Access granted" = "접근 허용됨";
+/* Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue. */
+"Pixea needs write permissions to delete \'%@\'. Click \"Grant Access\" to continue." = "Pixea는 \'%@\'을(를) 삭제하기 위해 쓰기 권한이 필요합니다. 계속하려면 \"접근 권한 부여\"를 클릭하세요.";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**SPACE**는 \"**스페이스바를 길게 누르고 드래그하여 스크롤**\" 및 \"**비디오 재생 / 일시 정지**\" 작업을 위해 예약되어 있습니다.
+**Z**와 **⌥Z**는 \"**확대**\" / \"**축소**\" 작업을 위해 예약되어 있습니다.";
+"Clipboard" = "클립보드";
+"Unmute" = "음소거 해제";
+"Mute" = "소리 끔";
+/* Track %i - [%@]
+track 1 - [spanish] */
+"Track %i - [%@]" = "트랙 %i - [%@]";
+"Track %i" = "트랙 %i";
+/* Next
+button on welcome screen */
+"Next" = "다음";
+"Done" = "완료";
+"Small" = "작은";
+"Large" = "큰";
+"Regular" = "보통";
+/* Open File or Folder...
+touch bar items */
+"Open File or Folder..." = "파일 또는 폴더 열기...";
+"Recent:" = "최근 기록:";
+"New from Clipboard" = "클립보드에서 신규";
+/* Scroll Up
+shortcuts */
+"Scroll Up" = "위로 스크롤";
+"Scroll Down" = "아래로 스크롤";
+"Scroll Left" = "왼쪽으로 스크롤";
+"Scroll Right" = "오른쪽으로 스크롤";
+"Previous Media" = "이전 미디어";
+"Next Media" = "다음 미디어";
+"Previous Frame/Step Backward 10s" = "이전 프레임/10초 뒤로 이동";
+"Next Frame/Step Forward 10s" = "다음 프레임/10초 앞으로 이동";
+"Step Backward 30s" = "30초 뒤로 이동";
+"Step Forward 30s" = "30초 앞으로 이동";
+"Volume Up" = "볼륨 높이기";
+"Volume Down" = "볼륨 낮추기";
+"Mute/Unmute" = "소리 켜기/끄기";
+"Slideshow" = "슬라이드쇼";
+"Zoom In" = "확대";
+"Zoom Out" = "축소";
+"Fit to Screen" = "화면에 맞추기";
+"Stretch to Fit" = "맞춰 늘이기";
+"Fill Screen" = "화면 채우기";
+"Toggle Fullscreen" = "전체 화면 전환";
+"Actual Size" = "실제 크기";
+"Fixed Size & Position" = "고정 크기 및 위치";
+"Playback Speed x 0.5" = "재생 속도 x 0.5";
+"Playback Speed x 0.9" = "재생 속도 x 0.9";
+"Playback Speed Normal" = "재생 속도 정상";
+"Playback Speed x 1.1" = "재생 속도 x 1.1";
+"Playback Speed x 1.5" = "재생 속도 x 1.5";
+"Playback Speed x 2.0" = "재생 속도 x 2.0";
+"Rotate 180º" = "180º 회전";
+"Rotate 90º Clockwise" = "90º 시계 방향 회전";
+"Rotate 90º Counter-clockwise" = "90º 반시계 방향 회전";
+"Upscale Image" = "이미지 업스케일링";
+"Eraser Tool" = "지우개 도구";
+"Flip Horizontally" = "수평으로 뒤집기";
+"Flip Vertically" = "수직으로 뒤집기";
+"Selection Tool" = "선택 도구";
+"Deselect" = "선택 취소";
+"Show Thumbnails" = "축소판 보기";
+"Get Info" = "정보 가져오기";
+"Move to Trash" = "휴지통으로 이동";
+"Show in Finder" = "Finder에서 보기";
+"Export..." = "보내기...";
+"Crop Image..." = "이미지 자르기...";
+"Hand Tool" = "핸드 도구";
+"Adjust Hue, Saturation, Brightness..." = "색조, 채도, 밝기 조정...";
+"Adjust Color Temperature..." = "색온도 조정...";
+"Adjust Exposure..." = "노출 조정...";
+"Resize Image..." = "이미지 크기 변경...";
+"Sharpness and Noise..." = "선명도 및 소음...";
+"Clone Tool" = "클론 도구";
+"Text Selection Tool" = "텍스트 선택 도구";
+"Edit with: App #1" = "앱 #1로 편집하기";
+"Edit with: App #2" = "앱 #2로 편집하기";
+"Edit with: App #3" = "앱 #3로 편집하기";
+"Edit with: App #4" = "앱 #4로 편집하기";
+"Edit with: App #5" = "앱 #5로 편집하기";
+"Step Forward 10s" = "10초 앞으로 이동";
+"Step Backward 10s" = "10초 뒤로 이동";
+"Step Forward 30s" = "30초 앞으로 이동";
+"Step Backward 30s" = "30초 뒤로 이동";
+"Hide Thumbnails" = "축소판 숨기기";
+"Show Thumbnails" = "축소판 보기";
+"Next Frame" = "다음 프레임";
+"Previous Frame" = "이전 프레임";
+"Next Media" = "다음 미디어";
+"Previous Media" = "이전 미디어";
+"Not set" = "설정되지 않음";
+/* Preferences
+Preferences items */
+"Preferences" = "환경 설정";
+"General" = "일반";
+"Appearance" = "모양";
+"Shortcuts" = "단축키";
+"File Types" = "파일 유형";
+"Video" = "비디오";
+"Folder Access" = "폴더 접근";
+"Advanced" = "고급";
+"More Apps" = "더 많은 앱";
+/* in
+inches, cm/mm, pixels, points per inch, etc... */
+"in" = "안에";
+"mm" = "밀리미터";
+"cm" = "센티미터";
+"px" = "픽셀";
+"%ipx × %ipx" = "%ipx × %ipx";
+"%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
+"%@ bytes" = "%@ 바이트";
+"%li sec" = "%li 초";

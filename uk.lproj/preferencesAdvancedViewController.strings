@@ -1,0 +1,57 @@
+/* IO5-6F-GlQ.title
+Class = "NSButtonCell"; title = "Lanczos"; ObjectID = "IO5-6F-GlQ"; */
+"IO5-6F-GlQ.title" = "Ланцош";
+/* PZJ-ie-aQp.title
+Class = "NSButtonCell"; title = "Clear Cache"; ObjectID = "PZJ-ie-aQp"; */
+"PZJ-ie-aQp.title" = "Очистити кеш";
+/* TxO-YS-twQ.title
+Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
+"TxO-YS-twQ.title" = "Коробка";
+/* YYM-D8-hhL.title
+Class = "NSTextFieldCell"; title = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory."; ObjectID = "YYM-D8-hhL"; */
+"YYM-D8-hhL.title" = "Попереднє завантаження попередніх та наступних зображень забезпечує миттєве перемикання, але вимагає більшого використання пам\'яті RAM. Зніміть цю опцію, якщо у вашому комп\'ютері мало пам\'яті.";
+/* irp-me-Bao.title
+Class = "NSTextFieldCell"; title = "Memory and disk cache"; ObjectID = "irp-me-Bao"; */
+"irp-me-Bao.title" = "Кеш пам\'яті та диска";
+/* jNe-Nj-BJO.title
+Class = "NSBox"; title = "Box"; ObjectID = "jNe-Nj-BJO"; */
+"jNe-Nj-BJO.title" = "Коробка";
+/* p97-VP-ELd.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
+"p97-VP-ELd.title" = "ПЛЮС";
+/* s1J-IY-0lH.title
+Class = "NSButtonCell"; title = "Cache thumbnails"; ObjectID = "s1J-IY-0lH"; */
+"s1J-IY-0lH.title" = "Кешування ескізів";
+/* x9U-hd-fpM.title
+Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "x9U-hd-fpM"; */
+"x9U-hd-fpM.title" = "Нуль КБ";
+/* zBI-tS-TjZ.title
+Class = "NSButtonCell"; title = "Preload previous and next images"; ObjectID = "zBI-tS-TjZ"; */
+"zBI-tS-TjZ.title" = "Попереднє завантаження попередніх і наступних зображень";
+/* 6Dv-jd-82V.title
+Class = "NSTextFieldCell"; title = "RAW Render"; ObjectID = "6Dv-jd-82V"; */
+"6Dv-jd-82V.title" = "RAW рендер";
+/* GTf-ff-aln.title
+Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
+"GTf-ff-aln.title" = "Віддавати перевагу macOS двигуну";
+/* kX7-LK-XlL.title
+Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
+"kX7-LK-XlL.title" = "Завжди використовувати вбудований";
+/* 4BK-K4-0o5.title
+Class = "NSButtonCell"; title = "Process HDR images"; ObjectID = "4BK-K4-0o5"; */
+"4BK-K4-0o5.title" = "Обробка HDR зображень";
+/* zc9-eF-W4i.title
+Class = "NSButtonCell"; title = "Automatically"; ObjectID = "zc9-eF-W4i"; */
+"zc9-eF-W4i.title" = "Автоматично";
+/* u3J-bs-ZaH.title
+Class = "NSButtonCell"; title = "as HDR"; ObjectID = "u3J-bs-ZaH"; */
+"u3J-bs-ZaH.title" = "як HDR";
+/* FOW-av-yIA.title
+Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
+"FOW-av-yIA.title" = "як SDR";
+/* Class = "NSTextFieldCell"; title = "Minification filtering"; ObjectID = "jkJ-Uo-raR"; */
+"jkJ-Uo-raR.title" = "Мініфікаційна фільтрація";
+/* Class = "NSButtonCell"; title = "Linear"; ObjectID = "I3E-ap-nn2"; */
+"I3E-ap-nn2.title" = "Трилінійна,";
+/* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
+"OWj-KS-U6S.title" = "Трилінійна,";

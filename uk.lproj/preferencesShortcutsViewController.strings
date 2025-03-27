@@ -1,0 +1,24 @@
+/* 9KK-3t-xZD.title
+Class = "NSTextFieldCell"; title = "Customize Pixea shortcuts:"; ObjectID = "9KK-3t-xZD"; */
+"9KK-3t-xZD.title" = "Налаштуйте комбінації клавіш Pixea:";
+/* UZU-so-m59.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "UZU-so-m59"; */
+"UZU-so-m59.headerCell.title" = "Тека";
+/* VUf-W6-3O0.title
+Class = "NSTextFieldCell"; title = "Next Image"; ObjectID = "VUf-W6-3O0"; */
+"VUf-W6-3O0.title" = "Наступне зображення";
+/* m9I-Wa-c89.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "m9I-Wa-c89"; */
+"m9I-Wa-c89.title" = "ПЛЮС";
+/* pva-Kw-3Xm.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pva-Kw-3Xm"; */
+"pva-Kw-3Xm.title" = "Текстова комірка";
+/* r8b-mT-VMR.title
+Class = "NSTextFieldCell"; title = "SPACE is reserved for \"Hold Spacebar and Drag to Scroll\" and \"Play / Pause Video\" actions. Z and ⌥Z are reserved for \"Zoom In\" / \"Zoom Out\" actions."; ObjectID = "r8b-mT-VMR"; */
+"r8b-mT-VMR.title" = "ПРОБІЛ зарезервовано для \"Утримання пробілу для прокручування\" та \"Відтворення/Пауза відео\".\nZ та ⌥Z зарезервовані для \"Збільшити\"/\"Зменшити\".";
+/* wqY-nK-Suo.title
+Class = "NSBox"; title = "Box"; ObjectID = "wqY-nK-Suo"; */
+"wqY-nK-Suo.title" = "Коробка";
+/* xDv-OG-qlV.title
+Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
+"xDv-OG-qlV.title" = "Проведіть пальцем вліво/вправо, щоб побачити попереднє/наступне зображення";

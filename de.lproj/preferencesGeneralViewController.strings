@@ -63,7 +63,7 @@
 "Sc4-2j-8ms.title" = "Vorhandenes Fenster für denselben Ordner verwenden";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "UsA-ZU-Slq"; */
-"UsA-ZU-Slq.title" = "Tatsächliche Größe";
+"UsA-ZU-Slq.title" = "Originalgröße";
 
 /* Class = "NSButtonCell"; title = "Automatically set sort mode based on Finder's sort column"; ObjectID = "VDb-Ze-X4P"; */
 "VDb-Ze-X4P.title" = "Sortiermodus automatisch basierend auf der Sortierspalte des Finders festlegen";
@@ -123,7 +123,7 @@
 "yYH-QK-MpA.title" = "Größe und Position festlegen";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "ysg-55-8kg"; */
-"ysg-55-8kg.title" = "Tatsächliche Größe";
+"ysg-55-8kg.title" = "Originalgröße";
 
 /* Class = "NSTextFieldCell"; title = "Fit To Screen"; ObjectID = "zXk-De-iOY"; */
 "zXk-De-iOY.title" = "An Bildschirm anpassen";

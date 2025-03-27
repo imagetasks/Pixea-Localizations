@@ -1,0 +1,1401 @@
+/* 04j-C4-7jb.title
+Class = "NSTextFieldCell"; title = "Clone pixels from another part of the photo"; ObjectID = "04j-C4-7jb"; */
+"04j-C4-7jb.title" = "사진의 다른 부분에서 픽셀 복제";
+/* 0Dc-2r-hrd.title
+Class = "NSTextFieldCell"; title = "0"; ObjectID = "0Dc-2r-hrd"; */
+"0Dc-2r-hrd.title" = "0";
+/* 0FS-Rn-xpr.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "0FS-Rn-xpr"; */
+"0FS-Rn-xpr.title" = "●";
+/* 0MR-nN-3xe.title
+Class = "NSButtonCell"; title = "Apply"; ObjectID = "0MR-nN-3xe"; */
+"0MR-nN-3xe.title" = "적용";
+/* 0Qo-LP-ge7.title
+Class = "NSMenuItem"; title = "Audio"; ObjectID = "0Qo-LP-ge7"; */
+"0Qo-LP-ge7.title" = "오디오";
+/* 0Va-DW-7a0.title
+Class = "NSMenuItem"; title = "New Pixea Window"; ObjectID = "0Va-DW-7a0"; */
+"0Va-DW-7a0.title" = "새 Pixea 창";
+/* 0kn-bK-q2J.title
+Class = "NSBox"; title = "Box"; ObjectID = "0kn-bK-q2J"; */
+"0kn-bK-q2J.title" = "박스";
+/* 0s5-hj-5PY.title
+Class = "NSMenuItem"; title = "Small"; ObjectID = "0s5-hj-5PY"; */
+"0s5-hj-5PY.title" = "작은";
+/* 0vj-Yi-lOf.title
+Class = "NSTextFieldCell"; title = "Slideshow:"; ObjectID = "0vj-Yi-lOf"; */
+"0vj-Yi-lOf.title" = "슬라이드쇼:";
+/* 10D-Pu-bwg.title
+Class = "NSBox"; title = "Box"; ObjectID = "10D-Pu-bwg"; */
+"10D-Pu-bwg.title" = "박스";
+/* 15n-gK-z07.title
+Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "15n-gK-z07"; */
+"15n-gK-z07.title" = "색조";
+/* 1Xt-HY-uBw.title
+Class = "NSMenuItem"; title = "Pixea"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Pixea";
+/* 1aG-GF-KI0.title
+Class = "NSTextFieldCell"; title = "Welcome to Pixea!"; ObjectID = "1aG-GF-KI0"; */
+"1aG-GF-KI0.title" = "Pixea에 오신 것을 환영합니다!";
+/* 1eL-r6-5Mi.title
+Class = "NSTextFieldCell"; title = "Searching"; ObjectID = "1eL-r6-5Mi"; */
+"1eL-r6-5Mi.title" = "검색 중";
+/* 2Rj-9j-jUH.title
+Class = "NSTextFieldCell"; title = "No details"; ObjectID = "2Rj-9j-jUH"; */
+"2Rj-9j-jUH.title" = "세부 정보 없음";
+/* 2fy-4y-8od.title
+Class = "NSTextFieldCell"; title = "Sharpen images and remove noise"; ObjectID = "2fy-4y-8od"; */
+"2fy-4y-8od.title" = "이미지 선명화 및 소음 제거";
+/* 2g9-rT-tyG.title
+Class = "NSMenuItem"; title = "Next Media"; ObjectID = "2g9-rT-tyG"; */
+"2g9-rT-tyG.title" = "다음 미디어";
+/* 2lD-Zn-e6Y.title
+Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "2lD-Zn-e6Y"; */
+"2lD-Zn-e6Y.title" = "노출";
+/* 2lY-1f-keo.title
+Class = "NSTextFieldCell"; title = "Pixea can play almost every media format and will resume where you've paused the movie."; ObjectID = "2lY-1f-keo"; */
+"2lY-1f-keo.title" = "Pixea는 거의 모든 미디어 형식을 재생하고 영화를 일시 중지한 위치에서 다시 시작할 수 있습니다.";
+/* 2oX-Rh-0jJ.title
+Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "2oX-Rh-0jJ"; */
+"2oX-Rh-0jJ.title" = "확대";
+/* 32b-FF-Kjb.title
+Class = "NSMenuItem"; title = "Date Added"; ObjectID = "32b-FF-Kjb"; */
+"32b-FF-Kjb.title" = "등록 날짜";
+/* 36w-gH-8GU.title
+Class = "NSBox"; title = "Box"; ObjectID = "36w-gH-8GU"; */
+"36w-gH-8GU.title" = "박스";
+/* 3Li-zW-xiQ.title
+Class = "NSMenuItem"; title = "x 0.5"; ObjectID = "3Li-zW-xiQ"; */
+"3Li-zW-xiQ.title" = "x 0.5";
+/* 3cU-QE-IwH.title
+Class = "NSTextFieldCell"; title = "Height"; ObjectID = "3cU-QE-IwH"; */
+"3cU-QE-IwH.title" = "높이";
+/* 3qj-Zu-A6H.title
+Class = "NSMenuItem"; title = "Rotate"; ObjectID = "3qj-Zu-A6H"; */
+"3qj-Zu-A6H.title" = "회전";
+/* 3yM-hq-lFd.title
+Class = "NSMenuItem"; title = "Previous Frame"; ObjectID = "3yM-hq-lFd"; */
+"3yM-hq-lFd.title" = "이전 프레임";
+/* 416-RX-gxy.title
+Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "416-RX-gxy"; */
+"416-RX-gxy.title" = "실제 크기";
+/* 4Nr-8T-Cgs.title
+Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "4Nr-8T-Cgs"; */
+"4Nr-8T-Cgs.title" = "이전 미디어";
+/* 4bu-yX-k9h.title
+Class = "NSTextFieldCell"; title = "100 x 100"; ObjectID = "4bu-yX-k9h"; */
+"4bu-yX-k9h.title" = "100 x 100";
+/* 4sb-4s-VLi.title
+Class = "NSMenuItem"; title = "Quit Pixea"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Pixea 종료";
+/* 4wJ-wI-MLi.title
+Class = "NSMenuItem"; title = "Volume Down"; ObjectID = "4wJ-wI-MLi"; */
+"4wJ-wI-MLi.title" = "볼륨 낮추기";
+/* 52d-HE-U1N.title
+Class = "NSButtonCell"; title = "Exit"; ObjectID = "52d-HE-U1N"; */
+"52d-HE-U1N.title" = "종료";
+/* 54U-4s-nQf.title
+Class = "NSTextFieldCell"; title = "M"; ObjectID = "54U-4s-nQf"; */
+"54U-4s-nQf.title" = "M";
+/* 5CW-qq-0gN.title
+Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "5CW-qq-0gN"; */
+"5CW-qq-0gN.title" = "실제 크기";
+/* 5FY-Fw-KLM.title
+Class = "NSBox"; title = "Box"; ObjectID = "5FY-Fw-KLM"; */
+"5FY-Fw-KLM.title" = "박스";
+/* 5H2-If-tiW.title
+Class = "NSBox"; title = "Box"; ObjectID = "5H2-If-tiW"; */
+"5H2-If-tiW.title" = "박스";
+/* 5HH-hz-IJv.title
+Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "5HH-hz-IJv"; */
+"5HH-hz-IJv.title" = "축소";
+/* 5Jr-7K-IcS.title
+Class = "NSTextFieldCell"; title = "Use the \"Upscale Image\" tool to achieve better results when enlarging images."; ObjectID = "5Jr-7K-IcS"; */
+"5Jr-7K-IcS.title" = "이미지를 확대할 때 더 나은 결과를 얻기 위해 \"이미지 업스케일링\" 도구를 사용하세요.";
+/* 5QF-Oa-p0T.title
+Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "편집";
+/* 5RU-ou-5Cg.title
+Class = "NSBox"; title = "Box"; ObjectID = "5RU-ou-5Cg"; */
+"5RU-ou-5Cg.title" = "박스";
+/* 5kV-Vb-QxS.title
+Class = "NSMenuItem"; title = "About Pixea"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Pixea에 관하여";
+/* 5r1-QR-SO9.title
+Class = "NSMenuItem"; title = "Name"; ObjectID = "5r1-QR-SO9"; */
+"5r1-QR-SO9.title" = "이름";
+/* 604-Mt-Dsd.title
+Class = "NSMenu"; title = "Rotate"; ObjectID = "604-Mt-Dsd"; */
+"604-Mt-Dsd.title" = "회전";
+/* 61M-AE-aht.title
+Class = "NSMenuItem"; title = "Adjust Exposure..."; ObjectID = "61M-AE-aht"; */
+"61M-AE-aht.title" = "노출 조정...";
+/* 6KP-L7-uG9.title
+Class = "NSMenuItem"; title = "Upscale Image..."; ObjectID = "6KP-L7-uG9"; */
+"6KP-L7-uG9.title" = "이미지 업스케일링...";
+/* 6hd-0Z-fgw.title
+Class = "NSButtonCell"; title = "Resume at: "; ObjectID = "6hd-0Z-fgw"; */
+"6hd-0Z-fgw.title" = "재개 시점: ";
+/* 6kR-i7-zTF.title
+Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "6kR-i7-zTF"; */
+"6kR-i7-zTF.title" = "크기:";
+/* 6sQ-LP-9IX.title
+Class = "NSTextFieldCell"; title = "Preparing..."; ObjectID = "6sQ-LP-9IX"; */
+"6sQ-LP-9IX.title" = "준비 중...";
+/* 71v-SE-LbR.title
+Class = "NSBox"; title = "Box"; ObjectID = "71v-SE-LbR"; */
+"71v-SE-LbR.title" = "박스";
+/* 74N-8e-eGd.title
+Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "74N-8e-eGd"; */
+"74N-8e-eGd.title" = "다음으로 편집...";
+/* 7L0-zo-3pp.title
+Class = "NSTextFieldCell"; title = "Frames"; ObjectID = "7L0-zo-3pp"; */
+"7L0-zo-3pp.title" = "프레임";
+/* 7i2-91-a7w.title
+Class = "NSBox"; title = "Box"; ObjectID = "7i2-91-a7w"; */
+"7i2-91-a7w.title" = "박스";
+/* 8Ru-D7-ENs.title
+Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "8Ru-D7-ENs"; */
+"8Ru-D7-ENs.title" = "수정일";
+/* 8VL-ln-ZDQ.title
+Class = "NSMenu"; title = "Edit with..."; ObjectID = "8VL-ln-ZDQ"; */
+"8VL-ln-ZDQ.title" = "다음으로 편집...";
+/* 8Xe-Bv-byj.title
+Class = "NSMenuItem"; title = "90º Counter-clockwise"; ObjectID = "8Xe-Bv-byj"; */
+"8Xe-Bv-byj.title" = "90º 반시계 방향";
+/* 8xk-cR-8Tk.title
+Class = "NSMenuItem"; title = "Crop Image..."; ObjectID = "8xk-cR-8Tk"; */
+"8xk-cR-8Tk.title" = "이미지 자르기...";
+/* 8yQ-Ip-sKD.title
+Class = "NSButtonCell"; title = "〈"; ObjectID = "8yQ-Ip-sKD"; */
+"8yQ-Ip-sKD.title" = "〈";
+/* 93f-5e-wYb.title
+Class = "NSMenuItem"; title = "Resize Image..."; ObjectID = "93f-5e-wYb"; */
+"93f-5e-wYb.title" = "이미지 크기 조정...";
+/* 9D2-Ek-WrQ.title
+Class = "NSMenuItem"; title = "x 0.9"; ObjectID = "9D2-Ek-WrQ"; */
+"9D2-Ek-WrQ.title" = "x 0.9";
+/* 9jd-zO-5pf.title
+Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "9jd-zO-5pf"; */
+"9jd-zO-5pf.title" = "밝기";
+/* 9q2-gY-8Wt.title
+Class = "NSMenuItem"; title = "Zoom Mode"; ObjectID = "9q2-gY-8Wt"; */
+"9q2-gY-8Wt.title" = "확대/축소 모드";
+/* 9uP-xu-jM2.title
+Class = "NSTextFieldCell"; title = "Video Playback"; ObjectID = "9uP-xu-jM2"; */
+"9uP-xu-jM2.title" = "비디오 재생";
+/* 9v5-Qh-6SO.title
+Class = "NSMenuItem"; title = "Large"; ObjectID = "9v5-Qh-6SO"; */
+"9v5-Qh-6SO.title" = "크게";
+/* AIK-D5-Bcw.title
+Class = "NSTextFieldCell"; title = "one-time purchase"; ObjectID = "AIK-D5-Bcw"; */
+"AIK-D5-Bcw.title" = "일회성 구매";
+/* AIL-CH-Cv8.title
+Class = "NSMenuItem"; title = "Select All"; ObjectID = "AIL-CH-Cv8"; */
+"AIL-CH-Cv8.title" = "전체 선택";
+/* AMG-AS-CZn.title
+Class = "NSTextFieldCell"; title = "0/0"; ObjectID = "AMG-AS-CZn"; */
+"AMG-AS-CZn.title" = "0/0";
+/* ATD-nd-5Q7.title
+Class = "NSTextFieldCell"; title = "Crop, Rotate and Flip"; ObjectID = "ATD-nd-5Q7"; */
+"ATD-nd-5Q7.title" = "자르기, 회전 및 뒤집기";
+/* AYu-sK-qS6.title
+Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "주 메뉴";
+/* AcJ-fQ-4BR.title
+Class = "NSMenuItem"; title = "Support"; ObjectID = "AcJ-fQ-4BR"; */
+"AcJ-fQ-4BR.title" = "지원";
+/* Asx-QD-Aff.title
+Class = "NSMenuItem"; title = "1:1"; ObjectID = "Asx-QD-Aff"; */
+"Asx-QD-Aff.title" = "1:1";
+/* AyU-gL-xlx.title
+Class = "NSTextFieldCell"; title = "macOS 10.15 or higher is required. Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina."; ObjectID = "AyU-gL-xlx"; */
+"AyU-gL-xlx.title" = "macOS 10.15 이상이 필요합니다. 이미지 업스케일링은 macOS 카탈리나에서 처음 도입된 머신 러닝 기능을 기반으로 합니다.";
+/* Aza-qk-Yi4.title
+Class = "NSTextFieldCell"; title = "Actual Size:"; ObjectID = "Aza-qk-Yi4"; */
+"Aza-qk-Yi4.title" = "실제 크기:";
+/* B4P-M2-v7q.title
+Class = "NSMenuItem"; title = "Settings..."; ObjectID = "B4P-M2-v7q"; */
+"B4P-M2-v7q.title" = "설정...";
+/* BMn-5U-qpQ.title
+Class = "NSTextFieldCell"; title = "Double-click to toggle Fullscreen"; ObjectID = "BMn-5U-qpQ"; */
+"BMn-5U-qpQ.title" = "더블 클릭하여 전체 화면 전환";
+/* BOF-NM-1cW.title
+Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "환경설정...";
+/* BSP-lv-ooN.title
+Class = "NSMenuItem"; title = "Export..."; ObjectID = "BSP-lv-ooN"; */
+"BSP-lv-ooN.title" = "보내기...";
+/* BVG-eR-wTo.title
+Class = "NSTextFieldCell"; title = "Folder"; ObjectID = "BVG-eR-wTo"; */
+"BVG-eR-wTo.title" = "폴더";
+/* BjW-fL-UWX.title
+Class = "NSTextFieldCell"; title = "Rotate Image Left / Right:"; ObjectID = "BjW-fL-UWX"; */
+"BjW-fL-UWX.title" = "이미지 왼쪽/오른쪽 회전:";
+/* Bm3-17-wQ2.title
+Class = "NSTextFieldCell"; title = "Folder Access"; ObjectID = "Bm3-17-wQ2"; */
+"Bm3-17-wQ2.title" = "폴더 접근";
+/* BrS-gR-6QU.title
+Class = "NSMenuItem"; title = "Panel Size"; ObjectID = "BrS-gR-6QU"; */
+"BrS-gR-6QU.title" = "패널 크기";
+/* C5P-qN-mJm.title
+Class = "NSMenu"; title = "Sort by"; ObjectID = "C5P-qN-mJm"; */
+"C5P-qN-mJm.title" = "정렬 기준";
+/* C6C-bh-B2s.title
+Class = "NSMenuItem"; title = "x 1.1"; ObjectID = "C6C-bh-B2s"; */
+"C6C-bh-B2s.title" = "x 1.1";
+/* Cc6-JU-cWk.title
+Class = "NSTextFieldCell"; title = "Object Removal Tool"; ObjectID = "Cc6-JU-cWk"; */
+"Cc6-JU-cWk.title" = "객체 제거 도구";
+/* Cia-re-48J.title
+Class = "NSMenuItem"; title = "Aspect Ratio"; ObjectID = "Cia-re-48J"; */
+"Cia-re-48J.title" = "종횡비";
+/* Ckk-un-E0S.title
+Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "Ckk-un-E0S"; */
+"Ckk-un-E0S.title" = "포맷:";
+/* CxA-b3-Alp.title
+Class = "NSMenuItem"; title = "Name"; ObjectID = "CxA-b3-Alp"; */
+"CxA-b3-Alp.title" = "이름";
+/* D3w-IU-Fry.title
+Class = "NSTextFieldCell"; title = "Hold Spacebar + Drag"; ObjectID = "D3w-IU-Fry"; */
+"D3w-IU-Fry.title" = "스페이스바 누르고 드래그";
+/* D5D-oq-By8.title
+Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "D5D-oq-By8"; */
+"D5D-oq-By8.title" = "대비";
+/* DFh-Uq-L1Q.title
+Class = "NSTextFieldCell"; title = "Square Selection:"; ObjectID = "DFh-Uq-L1Q"; */
+"DFh-Uq-L1Q.title" = "정사각형 선택:";
+/* DJJ-LH-C5t.title
+Class = "NSMenuItem"; title = "Settings..."; ObjectID = "DJJ-LH-C5t"; */
+"DJJ-LH-C5t.title" = "설정...";
+/* DJs-LR-ydU.title
+Class = "NSTextFieldCell"; title = "Password is required for this archive:"; ObjectID = "DJs-LR-ydU"; */
+"DJs-LR-ydU.title" = "이 아카이브에는 비밀번호가 필요합니다:";
+/* DNE-ms-IDb.title
+Class = "NSButtonCell"; title = "Next"; ObjectID = "DNE-ms-IDb"; */
+"DNE-ms-IDb.title" = "다음";
+/* DVW-AH-S9e.title
+Class = "NSMenu"; title = "Video"; ObjectID = "DVW-AH-S9e"; */
+"DVW-AH-S9e.title" = "비디오";
+/* DVo-aG-piG.title
+Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "닫기";
+/* ECS-ZL-U4a.title
+Class = "NSButtonCell"; title = "Upscale this image..."; ObjectID = "ECS-ZL-U4a"; */
+"ECS-ZL-U4a.title" = "이 이미지 업스케일...";
+/* Ec8-gV-2d7.title
+Class = "NSBox"; title = "Box"; ObjectID = "Ec8-gV-2d7"; */
+"Ec8-gV-2d7.title" = "박스";
+/* Eda-XS-lGE.title
+Class = "NSMenuItem"; title = "Deselect"; ObjectID = "Eda-XS-lGE"; */
+"Eda-XS-lGE.title" = "선택 해제";
+/* Edf-r4-E3w.title
+Class = "NSMenuItem"; title = "Sort by"; ObjectID = "Edf-r4-E3w"; */
+"Edf-r4-E3w.title" = "정렬 기준";
+/* Etf-c1-dt0.title
+Class = "NSTextFieldCell"; title = "Status Bar"; ObjectID = "Etf-c1-dt0"; */
+"Etf-c1-dt0.title" = "상태 표시줄";
+/* F2S-fz-NVQ.title
+Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "도움말";
+/* FBO-zE-1dF.title
+Class = "NSTextFieldCell"; title = "The invisible image viewer & video player"; ObjectID = "FBO-zE-1dF"; */
+"FBO-zE-1dF.title" = "보이지 않는 이미지 뷰어 및 비디오 플레이어";
+/* FVb-yn-q62.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Move around the picture..."; ObjectID = "FVb-yn-q62"; */
+"FVb-yn-q62.ibShadowedToolTip" = "그림을 이동...";
+/* FaJ-Id-m0g.title
+Class = "NSMenuItem"; title = "Open"; ObjectID = "FaJ-Id-m0g"; */
+"FaJ-Id-m0g.title" = "열기";
+/* FkQ-hh-Gwa.title
+Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "FkQ-hh-Gwa"; */
+"FkQ-hh-Gwa.title" = "화면에 맞추기";
+/* G0A-vg-f8I.title
+Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "G0A-vg-f8I"; */
+"G0A-vg-f8I.title" = "셔플";
+/* G3k-6y-8WP.title
+Class = "NSTextFieldCell"; title = "+ / -"; ObjectID = "G3k-6y-8WP"; */
+"G3k-6y-8WP.title" = "+ / -";
+/* G62-pd-8fv.title
+Class = "NSMenuItem"; title = "Open"; ObjectID = "G62-pd-8fv"; */
+"G62-pd-8fv.title" = "열기";
+/* G9H-DQ-VZP.title
+Class = "NSMenuItem"; title = "Scroll Mode"; ObjectID = "G9H-DQ-VZP"; */
+"G9H-DQ-VZP.title" = "스크롤 모드";
+/* GCG-um-bXW.title
+Class = "NSTextFieldCell"; title = "Reduce Noise"; ObjectID = "GCG-um-bXW"; */
+"GCG-um-bXW.title" = "노이즈 줄이기";
+/* GPg-vc-0qg.title
+Class = "NSButtonCell"; title = "Don't show again"; ObjectID = "GPg-vc-0qg"; */
+"GPg-vc-0qg.title" = "다시 표시하지 않음";
+/* GS5-eL-6Vc.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "GS5-eL-6Vc"; */
+"GS5-eL-6Vc.title" = "플러스";
+/* GTY-oY-Mav.title
+Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "GTY-oY-Mav"; */
+"GTY-oY-Mav.title" = "Finder에서 보기";
+/* Gat-9r-8uz.title
+Class = "NSBox"; title = "Box"; ObjectID = "Gat-9r-8uz"; */
+"Gat-9r-8uz.title" = "박스";
+/* Gdb-mH-Ge4.title
+Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "Gdb-mH-Ge4"; */
+"Gdb-mH-Ge4.title" = "다음으로 편집...";
+/* Gpq-jV-HNI.title
+Class = "NSTextFieldCell"; title = "px"; ObjectID = "Gpq-jV-HNI"; */
+"Gpq-jV-HNI.title" = "px";
+/* H8K-iQ-dVU.title
+Class = "NSMenu"; title = "Sort by"; ObjectID = "H8K-iQ-dVU"; */
+"H8K-iQ-dVU.title" = "정렬 기준";
+/* H8h-7b-M4v.title
+Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "보기";
+/* HBQ-iF-HgZ.title
+Class = "NSMenu"; title = "Panel Size"; ObjectID = "HBQ-iF-HgZ"; */
+"HBQ-iF-HgZ.title" = "패널 크기";
+/* HSh-ER-WGV.title
+Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "HSh-ER-WGV"; */
+"HSh-ER-WGV.title" = "다음 프레임";
+/* Hx8-bn-cdh.title
+Class = "NSButtonCell"; title = "〉"; ObjectID = "Hx8-bn-cdh"; */
+"Hx8-bn-cdh.title" = "〉";
+/* HyV-fh-RgO.title
+Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "보기";
+/* I7k-iA-z8K.title
+Class = "NSBox"; title = "Box"; ObjectID = "I7k-iA-z8K"; */
+"I7k-iA-z8K.title" = "박스";
+/* IAo-SY-fd9.title
+Class = "NSMenuItem"; title = "Open File or Folder…"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "파일 또는 폴더 열기…";
+/* IEz-OH-Nzd.title
+Class = "NSMenuItem"; title = "White"; ObjectID = "IEz-OH-Nzd"; */
+"IEz-OH-Nzd.title" = "흰색";
+/* IHD-sx-eo9.title
+Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "IHD-sx-eo9"; */
+"IHD-sx-eo9.title" = "해상도";
+/* IHT-n0-mvJ.title
+Class = "NSButtonCell"; title = "Resize"; ObjectID = "IHT-n0-mvJ"; */
+"IHT-n0-mvJ.title" = "크기 조정";
+/* IQv-IB-iLA.title
+Class = "NSWindow"; title = "Pixea"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "픽시아";
+/* Ij5-Ih-xb2.title
+Class = "NSMenuItem"; title = "Video"; ObjectID = "Ij5-Ih-xb2"; */
+"Ij5-Ih-xb2.title" = "비디오";
+/* Iqa-EO-N9J.title
+Class = "NSMenuItem"; title = "x 2.0"; ObjectID = "Iqa-EO-N9J"; */
+"Iqa-EO-N9J.title" = "x 2.0";
+/* Iw4-it-Pea.title
+Class = "NSTextFieldCell"; title = "0 bytes"; ObjectID = "Iw4-it-Pea"; */
+"Iw4-it-Pea.title" = "0 바이트";
+/* J5c-cI-v9Q.title
+Class = "NSMenuItem"; title = "Rotate"; ObjectID = "J5c-cI-v9Q"; */
+"J5c-cI-v9Q.title" = "회전";
+/* JAb-xG-tor.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "JAb-xG-tor"; */
+"JAb-xG-tor.title" = "●";
+/* JbV-fx-ccF.title
+Class = "NSTextFieldCell"; title = "4x Image Upscaling"; ObjectID = "JbV-fx-ccF"; */
+"JbV-fx-ccF.title" = "4배 이미지 업스케일링";
+/* Jg6-mH-6b3.title
+Class = "NSMenuItem"; title = "Regular"; ObjectID = "Jg6-mH-6b3"; */
+"Jg6-mH-6b3.title" = "보통";
+/* Jtx-kb-gcf.title
+Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "Jtx-kb-gcf"; */
+"Jtx-kb-gcf.title" = "확대";
+/* K2k-bp-amS.title
+Class = "NSTextFieldCell"; title = "Settings..."; ObjectID = "K2k-bp-amS"; */
+"K2k-bp-amS.title" = "설정...";
+/* K5C-Rc-DMb.title
+Class = "NSTextFieldCell"; title = "Use Objects Removal Tool to remove unwanted objects, people, or defects. Pixea will reconstruct what was behind the object. Use Clone tool to polish the result."; ObjectID = "K5C-Rc-DMb"; */
+"K5C-Rc-DMb.title" = "객체 제거 도구를 사용하여 불필요한 객체, 사람, 결함을 제거하십시오. 픽시아는 객체 뒤에 무엇이 있었는지 재구성합니다. 결과를 다듬으려면 복제 도구를 사용하십시오.";
+/* KFA-UH-GAx.title
+Class = "NSBox"; title = "Box"; ObjectID = "KFA-UH-GAx"; */
+"KFA-UH-GAx.title" = "박스";
+/* KXC-fA-OG9.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Selection Tool"; ObjectID = "KXC-fA-OG9"; */
+"KXC-fA-OG9.ibShadowedToolTip" = "선택 도구";
+/* KbP-71-m2o.title
+Class = "NSMenuItem"; title = "File Size"; ObjectID = "KbP-71-m2o"; */
+"KbP-71-m2o.title" = "파일 크기";
+/* Kd2-mp-pUS.title
+Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "모두 보기";
+/* Kds-l3-8cD.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Kds-l3-8cD"; */
+"Kds-l3-8cD.title" = "취소";
+/* Kro-sQ-5VI.title
+Class = "NSMenuItem"; title = "Date Created"; ObjectID = "Kro-sQ-5VI"; */
+"Kro-sQ-5VI.title" = "생성일";
+/* Kvi-QI-RHW.title
+Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "Kvi-QI-RHW"; */
+"Kvi-QI-RHW.title" = "셔플";
+/* LD0-zF-hNW.title
+Class = "NSButtonCell"; title = "Undo"; ObjectID = "LD0-zF-hNW"; */
+"LD0-zF-hNW.title" = "실행 취소";
+/* LE2-aR-0XJ.title
+Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "모두 앞으로 가져오기";
+/* LKs-6t-Gpx.title
+Class = "NSBox"; title = "Box"; ObjectID = "LKs-6t-Gpx"; */
+"LKs-6t-Gpx.title" = "박스";
+/* LKu-up-qrl.title
+Class = "NSMenuItem"; title = "Ambient light"; ObjectID = "LKu-up-qrl"; */
+"LKu-up-qrl.title" = "주변 조명";
+/* LQy-38-T9R.title
+Class = "NSMenuItem"; title = "Get Info"; ObjectID = "LQy-38-T9R"; */
+"LQy-38-T9R.title" = "정보 가져오기";
+/* LZX-I5-3QR.title
+Class = "NSButtonCell"; title = "Apply"; ObjectID = "LZX-I5-3QR"; */
+"LZX-I5-3QR.title" = "적용";
+/* Lbs-JZ-O2N.title
+Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Lbs-JZ-O2N"; */
+"Lbs-JZ-O2N.title" = "Finder에서 보기";
+/* LdV-jm-VcE.title
+Class = "NSMenuItem"; title = "Find..."; ObjectID = "LdV-jm-VcE"; */
+"LdV-jm-VcE.title" = "찾기...";
+/* LfA-Rc-wTY.title
+Class = "NSMenuItem"; title = "File Size"; ObjectID = "LfA-Rc-wTY"; */
+"LfA-Rc-wTY.title" = "파일 크기";
+/* Lfe-Ve-rFq.title
+Class = "NSTextFieldCell"; title = "W: 0, H: 0"; ObjectID = "Lfe-Ve-rFq"; */
+"Lfe-Ve-rFq.title" = "W: 0, H: 0";
+/* LmA-ln-jNe.title
+Class = "NSMenuItem"; title = "Remove from Favorites"; ObjectID = "LmA-ln-jNe"; */
+"LmA-ln-jNe.title" = "즐겨찾기에서 제거";
+/* LvE-Il-RyX.title
+Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "LvE-Il-RyX"; */
+"LvE-Il-RyX.title" = "선명도 및 노이즈...";
+/* Lzp-L7-kzG.title
+Class = "NSMenuItem"; title = "Next Media"; ObjectID = "Lzp-L7-kzG"; */
+"Lzp-L7-kzG.title" = "다음 미디어";
+/* MKN-JM-Xav.title
+Class = "NSMenuItem"; title = "Show Thumbnails"; ObjectID = "MKN-JM-Xav"; */
+"MKN-JM-Xav.title" = "축소판 보기";
+/* MSf-lC-bwD.title
+Class = "NSTextFieldCell"; title = "Upscale Mode:"; ObjectID = "MSf-lC-bwD"; */
+"MSf-lC-bwD.title" = "업스케일 모드:";
+/* MTs-b0-J0U.title
+Class = "NSButtonCell"; title = "Restore Purchase"; ObjectID = "MTs-b0-J0U"; */
+"MTs-b0-J0U.title" = "구매 복원";
+/* MeO-5Y-RDK.title
+Class = "NSTextFieldCell"; title = "Thumbnails Panel"; ObjectID = "MeO-5Y-RDK"; */
+"MeO-5Y-RDK.title" = "썸네일 패널";
+/* Mqa-3g-6OI.title
+Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "Mqa-3g-6OI"; */
+"Mqa-3g-6OI.title" = "셔플";
+/* N8g-9G-SBg.title
+Class = "NSMenuItem"; title = "Adjust Hue, Saturation, Brightness..."; ObjectID = "N8g-9G-SBg"; */
+"N8g-9G-SBg.title" = "색조, 채도, 밝기 조정...";
+/* NMo-om-nkz.title
+Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "서비스";
+/* Nk1-R6-DuY.title
+Class = "NSTextFieldCell"; title = "Previous / Next Media:"; ObjectID = "Nk1-R6-DuY"; */
+"Nk1-R6-DuY.title" = "이전/다음 미디어:";
+/* O3o-wm-ana.title
+Class = "NSMenuItem"; title = "Fixed Size & Position"; ObjectID = "O3o-wm-ana"; */
+"O3o-wm-ana.title" = "고정 크기 및 위치";
+/* ODC-XT-zmq.title
+Class = "NSBox"; title = "Box"; ObjectID = "ODC-XT-zmq"; */
+"ODC-XT-zmq.title" = "박스";
+/* OQk-8W-RAG.title
+Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "OQk-8W-RAG"; */
+"OQk-8W-RAG.title" = "Finder에서 보기";
+/* ORK-zr-EmC.title
+Class = "NSMenuItem"; title = "Date Created"; ObjectID = "ORK-zr-EmC"; */
+"ORK-zr-EmC.title" = "생성일";
+/* OTb-g7-p6Y.title
+Class = "NSBox"; title = "Box"; ObjectID = "OTb-g7-p6Y"; */
+"OTb-g7-p6Y.title" = "박스";
+/* OUH-3K-P7t.title
+Class = "NSButtonCell"; title = "Learn more..."; ObjectID = "OUH-3K-P7t"; */
+"OUH-3K-P7t.title" = "자세히 알아보기...";
+/* OXD-1x-aeb.title
+Class = "NSMenuItem"; title = "Stretch to Fit"; ObjectID = "OXD-1x-aeb"; */
+"OXD-1x-aeb.title" = "화면에 맞게 늘리기";
+/* OY7-WF-poV.title
+Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "최소화";
+/* Olw-nP-bQN.title
+Class = "NSMenuItem"; title = "Hide Pixea"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Pixea 가리기";
+/* OwG-hA-I7X.title
+Class = "NSMenuItem"; title = "90º Clockwise"; ObjectID = "OwG-hA-I7X"; */
+"OwG-hA-I7X.title" = "90º 시계 방향";
+/* P4C-AC-JsU.title
+Class = "NSTextFieldCell"; title = "Customize swipe gesture for video playback"; ObjectID = "P4C-AC-JsU"; */
+"P4C-AC-JsU.title" = "비디오 재생을 위한 스와이프 제스처 사용자 정의";
+/* PCI-2G-Ao3.title
+Class = "NSMenuItem"; title = "Resize Image..."; ObjectID = "PCI-2G-Ao3"; */
+"PCI-2G-Ao3.title" = "이미지 크기 조정...";
+/* PSk-LG-qQ0.title
+Class = "NSMenuItem"; title = "Hand Tool"; ObjectID = "PSk-LG-qQ0"; */
+"PSk-LG-qQ0.title" = "핸드 도구";
+/* Prh-st-4uc.title
+Class = "NSMenuItem"; title = "Open"; ObjectID = "Prh-st-4uc"; */
+"Prh-st-4uc.title" = "열기";
+/* QDQ-EF-eM9.title
+Class = "NSTextFieldCell"; title = "Scroll:"; ObjectID = "QDQ-EF-eM9"; */
+"QDQ-EF-eM9.title" = "스크롤:";
+/* QdI-P2-qRp.title
+Class = "NSBox"; title = "Box"; ObjectID = "QdI-P2-qRp"; */
+"QdI-P2-qRp.title" = "박스";
+/* QdW-qF-iHJ.title
+Class = "NSMenuItem"; title = "File Size"; ObjectID = "QdW-qF-iHJ"; */
+"QdW-qF-iHJ.title" = "파일 크기";
+/* QgE-5c-QK1.title
+Class = "NSTextFieldCell"; title = "Object Removal Tool"; ObjectID = "QgE-5c-QK1"; */
+"QgE-5c-QK1.title" = "객체 제거 도구";
+/* QhC-BY-ca2.title
+Class = "NSMenuItem"; title = "Date Added"; ObjectID = "QhC-BY-ca2"; */
+"QhC-BY-ca2.title" = "추가 날짜";
+/* R4o-n2-Eq4.title
+Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "확대/축소";
+/* RN3-Qt-F71.title
+Class = "NSMenuItem"; title = "3:2"; ObjectID = "RN3-Qt-F71"; */
+"RN3-Qt-F71.title" = "3:2";
+/* RZH-Sj-qMe.title
+Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "RZH-Sj-qMe"; */
+"RZH-Sj-qMe.title" = "화면 채우기";
+/* RuK-iH-K5f.title
+Class = "NSMenuItem"; title = "Add to Favorites"; ObjectID = "RuK-iH-K5f"; */
+"RuK-iH-K5f.title" = "즐겨찾기에 추가";
+/* Ruw-6m-B2m.title
+Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "전체 선택";
+/* Ry1-9i-6M3.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ry1-9i-6M3"; */
+"Ry1-9i-6M3.title" = "텍스트 셀";
+/* RyE-KS-CvV.title
+Class = "NSTextFieldCell"; title = "Previous / Next Image Frame:"; ObjectID = "RyE-KS-CvV"; */
+"RyE-KS-CvV.title" = "이전/다음 이미지 프레임:";
+/* SC4-a4-sdz.title
+Class = "NSMenuItem"; title = "Default"; ObjectID = "SC4-a4-sdz"; */
+"SC4-a4-sdz.title" = "기본값";
+/* SIo-1B-uFW.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Remove Objects..."; ObjectID = "SIo-1B-uFW"; */
+"SIo-1B-uFW.ibShadowedToolTip" = "객체 제거...";
+/* SQQ-4N-Qa6.title
+Class = "NSMenuItem"; title = "Toggle Full Screen"; ObjectID = "SQQ-4N-Qa6"; */
+"SQQ-4N-Qa6.title" = "전체 화면 전환";
+/* Sfb-YV-5D7.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "Sfb-YV-5D7"; */
+"Sfb-YV-5D7.title" = "●";
+/* Srp-qy-d5y.title
+Class = "NSTextFieldCell"; title = "Place, Country"; ObjectID = "Srp-qy-d5y"; */
+"Srp-qy-d5y.title" = "장소, 국가";
+/* StO-om-yza.title
+Class = "NSTextFieldCell"; title = "X: 0, Y: 0"; ObjectID = "StO-om-yza"; */
+"StO-om-yza.title" = "X: 0, Y: 0";
+/* SuD-4W-4F6.title
+Class = "NSTextFieldCell"; title = "2x and 4x upscaling powered by machine learning"; ObjectID = "SuD-4W-4F6"; */
+"SuD-4W-4F6.title" = "2배 및 4배 업스케일링은 머신 러닝을 통해 제공됩니다";
+/* SyG-73-GCB.title
+Class = "NSTextFieldCell"; title = "Welcome to Pixea!"; ObjectID = "SyG-73-GCB"; */
+"SyG-73-GCB.title" = "픽시아에 오신 것을 환영합니다!";
+/* T6u-Hv-Ln0.title
+Class = "NSMenuItem"; title = "System default"; ObjectID = "T6u-Hv-Ln0"; */
+"T6u-Hv-Ln0.title" = "시스템 기본값";
+/* TAo-ff-djH.title
+Class = "NSMenuItem"; title = "Full Screen background:"; ObjectID = "TAo-ff-djH"; */
+"TAo-ff-djH.title" = "전체 화면 배경:";
+/* TDY-tf-kxD.title
+Class = "NSBox"; title = "Box"; ObjectID = "TDY-tf-kxD"; */
+"TDY-tf-kxD.title" = "상자";
+/* TRy-1a-nmH.title
+Class = "NSTextFieldCell"; title = "Pixea"; ObjectID = "TRy-1a-nmH"; */
+"TRy-1a-nmH.title" = "Pixea";
+/* Td7-aD-5lo.title
+Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "윈도우";
+/* Tgc-bh-Ybe.title
+Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "Tgc-bh-Ybe"; */
+"Tgc-bh-Ybe.title" = "휴지통으로 이동";
+/* UGm-SA-Fqb.title
+Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "UGm-SA-Fqb"; */
+"UGm-SA-Fqb.title" = "다음 프레임";
+/* UQP-Jr-V7o.title
+Class = "NSTextFieldCell"; title = "Double-click to Step Backward 10s"; ObjectID = "UQP-Jr-V7o"; */
+"UQP-Jr-V7o.title" = "더블 클릭하여 10초 뒤로 이동";
+/* UQg-Np-NgI.title
+Class = "NSMenu"; title = "Sort by"; ObjectID = "UQg-Np-NgI"; */
+"UQg-Np-NgI.title" = "정렬 기준";
+/* Ug9-Or-e4v.title
+Class = "NSTextFieldCell"; title = "Preserve details"; ObjectID = "Ug9-Or-e4v"; */
+"Ug9-Or-e4v.title" = "세부 사항 보존";
+/* UtB-es-Opq.title
+Class = "NSMenuItem"; title = "Item 3"; ObjectID = "UtB-es-Opq"; */
+"UtB-es-Opq.title" = "항목 3";
+/* Uus-Lj-fnX.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Crop, Rotate and Flip..."; ObjectID = "Uus-Lj-fnX"; */
+"Uus-Lj-fnX.ibShadowedToolTip" = "자르기, 회전 및 뒤집기...";
+/* Uwj-wf-uhz.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "Uwj-wf-uhz"; */
+"Uwj-wf-uhz.title" = "플러스";
+/* VC3-BS-xWo.title
+Class = "NSTextFieldCell"; title = "Search for images or videos in media directories or Zip-archives"; ObjectID = "VC3-BS-xWo"; */
+"VC3-BS-xWo.title" = "미디어 디렉토리 또는 Zip-archive에서 이미지나 비디오 검색";
+/* VHm-My-9aD.title
+Class = "NSButtonCell"; title = "price"; ObjectID = "VHm-My-9aD"; */
+"VHm-My-9aD.title" = "가격";
+/* VJo-ej-Jj8.title
+Class = "NSMenuItem"; title = "File Type"; ObjectID = "VJo-ej-Jj8"; */
+"VJo-ej-Jj8.title" = "파일 유형";
+/* VKC-a1-mMW.title
+Class = "NSMenuItem"; title = "Sort by"; ObjectID = "VKC-a1-mMW"; */
+"VKC-a1-mMW.title" = "정렬 기준";
+/* VZe-sp-Biq.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Select Text..."; ObjectID = "VZe-sp-Biq"; */
+"VZe-sp-Biq.ibShadowedToolTip" = "텍스트 선택...";
+/* Vdr-fp-XzO.title
+Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "기타 가리기";
+/* Vo4-ix-Uc3.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "Vo4-ix-Uc3"; */
+"Vo4-ix-Uc3.title" = "●";
+/* Vpv-Eg-xEA.title
+Class = "NSTextFieldCell"; title = "Use Objects Removal Tool to remove unwanted objects, people, or defects. Pixea will reconstruct what was behind the object. Use Clone tool to polish the result."; ObjectID = "Vpv-Eg-xEA"; */
+"Vpv-Eg-xEA.title" = "원하지 않는 객체, 사람 또는 결함을 제거하려면 객체 제거 도구를 사용하십시오. Pixea는 객체 뒤에 있던 내용을 재구성합니다. 클론 도구를 사용하여 결과를 다듬습니다.";
+/* W48-6f-4Dl.title
+Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "편집";
+/* WDs-a0-atr.title
+Class = "NSMenuItem"; title = "Step Backward 30s"; ObjectID = "WDs-a0-atr"; */
+"WDs-a0-atr.title" = "30초 뒤로 이동";
+/* WMu-6w-ljA.title
+Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "WMu-6w-ljA"; */
+"WMu-6w-ljA.title" = "텍스트 선택 도구";
+/* WMy-oE-Lpx.ibShadowedObjectValues[0]
+Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[0] = "px"; ObjectID = "WMy-oE-Lpx"; */
+"WMy-oE-Lpx.ibShadowedObjectValues[0]" = "픽셀";
+/* WMy-oE-Lpx.ibShadowedObjectValues[1]
+Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[1] = "in"; ObjectID = "WMy-oE-Lpx"; */
+"WMy-oE-Lpx.ibShadowedObjectValues[1]" = "인치";
+/* WMy-oE-Lpx.ibShadowedObjectValues[2]
+Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[2] = "mm"; ObjectID = "WMy-oE-Lpx"; */
+"WMy-oE-Lpx.ibShadowedObjectValues[2]" = "밀리미터";
+/* WMy-oE-Lpx.ibShadowedObjectValues[3]
+Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[3] = "cm"; ObjectID = "WMy-oE-Lpx"; */
+"WMy-oE-Lpx.ibShadowedObjectValues[3]" = "센티미터";
+/* WOa-Qq-Mnd.title
+Class = "NSMenuItem"; title = "5:4"; ObjectID = "WOa-Qq-Mnd"; */
+"WOa-Qq-Mnd.title" = "5:4";
+/* WVT-E0-qow.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Upscale Image..."; ObjectID = "WVT-E0-qow"; */
+"WVT-E0-qow.ibShadowedToolTip" = "이미지 업스케일...";
+/* WWZ-KY-P1s.title
+Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "WWZ-KY-P1s"; */
+"WWZ-KY-P1s.title" = "편집...";
+/* WX4-3f-MXQ.title
+Class = "NSMenuItem"; title = "Tools"; ObjectID = "WX4-3f-MXQ"; */
+"WX4-3f-MXQ.title" = "도구";
+/* Was-JA-tGl.title
+Class = "NSMenuItem"; title = "New from Clipboard"; ObjectID = "Was-JA-tGl"; */
+"Was-JA-tGl.title" = "클립보드에서 신규";
+/* Wi7-J4-l0J.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Wi7-J4-l0J"; */
+"Wi7-J4-l0J.headerCell.title" = "키";
+/* WoY-kc-InQ.title
+Class = "NSMenuItem"; title = "Export..."; ObjectID = "WoY-kc-InQ"; */
+"WoY-kc-InQ.title" = "보내기...";
+/* WrH-5a-2aF.title
+Class = "NSBox"; title = "Box"; ObjectID = "WrH-5a-2aF"; */
+"WrH-5a-2aF.title" = "상자";
+/* Wsc-LN-N0v.title
+Class = "NSMenuItem"; title = "Adjust Color Temperature..."; ObjectID = "Wsc-LN-N0v"; */
+"Wsc-LN-N0v.title" = "색온도 조정...";
+/* X5g-2h-3aN.title
+Class = "NSTextFieldCell"; title = "Width"; ObjectID = "X5g-2h-3aN"; */
+"X5g-2h-3aN.title" = "너비";
+/* XJE-N1-0te.title
+Class = "NSTextFieldCell"; title = "filename"; ObjectID = "XJE-N1-0te"; */
+"XJE-N1-0te.title" = "파일 이름";
+/* XN3-4a-Abs.title
+Class = "NSMenuItem"; title = "Objects Removal Tool"; ObjectID = "XN3-4a-Abs"; */
+"XN3-4a-Abs.title" = "객체 제거 도구";
+/* Xle-vO-5Fh.title
+Class = "NSButtonCell"; title = "〉"; ObjectID = "Xle-vO-5Fh"; */
+"Xle-vO-5Fh.title" = "〉";
+/* XnU-5g-44p.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "XnU-5g-44p"; */
+"XnU-5g-44p.title" = "취소";
+/* Xzg-kp-EPT.title
+Class = "NSMenuItem"; title = "Settings..."; ObjectID = "Xzg-kp-EPT"; */
+"Xzg-kp-EPT.title" = "설정...";
+/* Y4j-Rb-ej6.title
+Class = "NSBox"; title = "Box"; ObjectID = "Y4j-Rb-ej6"; */
+"Y4j-Rb-ej6.title" = "상자";
+/* Y7X-RQ-puJ.title
+Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "Y7X-RQ-puJ"; */
+"Y7X-RQ-puJ.title" = "왼쪽으로 스크롤";
+/* Ybk-dm-Drb.title
+Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "Ybk-dm-Drb"; */
+"Ybk-dm-Drb.title" = "편집...";
+/* YxT-j9-Oog.title
+Class = "NSTextFieldCell"; title = "1/1"; ObjectID = "YxT-j9-Oog"; */
+"YxT-j9-Oog.title" = "1/1";
+/* Yxs-SF-uxz.title
+Class = "NSTextFieldCell"; title = "macOS 11 or higher is required. Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur."; ObjectID = "Yxs-SF-uxz"; */
+"Yxs-SF-uxz.title" = "macOS 11 이상이 필요합니다. 객체 제거 알고리즘은 처음으로 macOS Big Sur에서 도입된 머신 러닝 기능을 기반으로 합니다.";
+/* ZEt-IC-aoh.title
+Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "ZEt-IC-aoh"; */
+"ZEt-IC-aoh.title" = "화면 채우기";
+/* Zfi-g9-z9c.title
+Class = "NSTextFieldCell"; title = "Double-click to Step Forward 10s"; ObjectID = "Zfi-g9-z9c"; */
+"Zfi-g9-z9c.title" = "더블 클릭하여 10초 앞으로 이동";
+/* Zw4-W5-pzM.title
+Class = "NSMenu"; title = "Rotate"; ObjectID = "Zw4-W5-pzM"; */
+"Zw4-W5-pzM.title" = "회전";
+/* a0g-RZ-9tU.title
+Class = "NSTextFieldCell"; title = "[ / ]"; ObjectID = "a0g-RZ-9tU"; */
+"a0g-RZ-9tU.title" = "[ / ]";
+/* aCG-q3-CDt.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "aCG-q3-CDt"; */
+"aCG-q3-CDt.title" = "●";
+/* aIp-ev-WIq.title
+Class = "NSBox"; title = "Box"; ObjectID = "aIp-ev-WIq"; */
+"aIp-ev-WIq.title" = "상자";
+/* aPJ-Va-Sk8.title
+Class = "NSTextFieldCell"; title = "Zoom Out:"; ObjectID = "aPJ-Va-Sk8"; */
+"aPJ-Va-Sk8.title" = "축소:";
+/* aSa-g5-7U9.title
+Class = "NSMenuItem"; title = "Clone Tool"; ObjectID = "aSa-g5-7U9"; */
+"aSa-g5-7U9.title" = "클론 도구";
+/* aTl-1u-JFS.title
+Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "프린트...";
+/* aTv-hl-jXN.title
+Class = "NSBox"; title = "Box"; ObjectID = "aTv-hl-jXN"; */
+"aTv-hl-jXN.title" = "상자";
+/* aUF-d1-5bR.title
+Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "윈도우";
+/* aVN-Uu-M5E.placeholderString
+Class = "NSTextFieldCell"; placeholderString = "Search..."; ObjectID = "aVN-Uu-M5E"; */
+"aVN-Uu-M5E.placeholderString" = "검색...";
+/* ag2-Mk-Mk5.title
+Class = "NSTextFieldCell"; title = "Enjoy more options, customizations and tools with Pixea Plus"; ObjectID = "ag2-Mk-Mk5"; */
+"ag2-Mk-Mk5.title" = "Pixea Plus로 더 많은 옵션, 사용자 정의 및 도구를 즐기세요";
+/* ahk-LR-VQg.title
+Class = "NSBox"; title = "Box"; ObjectID = "ahk-LR-VQg"; */
+"ahk-LR-VQg.title" = "상자";
+/* ajt-GZ-d7B.title
+Class = "NSBox"; title = "Box"; ObjectID = "ajt-GZ-d7B"; */
+"ajt-GZ-d7B.title" = "상자";
+/* aoB-08-d9h.title
+Class = "NSTextFieldCell"; title = "pixels/inch"; ObjectID = "aoB-08-d9h"; */
+"aoB-08-d9h.title" = "픽셀/인치";
+/* atA-H4-4x6.title
+Class = "NSTextFieldCell"; title = "Sharpness and Noise Tool"; ObjectID = "atA-H4-4x6"; */
+"atA-H4-4x6.title" = "선명도 및 노이즈 도구";
+/* av3-wV-Pvf.title
+Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "av3-wV-Pvf"; */
+"av3-wV-Pvf.title" = "채도";
+/* b56-pk-k0K.title
+Class = "NSTextFieldCell"; title = "Super Resolution"; ObjectID = "b56-pk-k0K"; */
+"b56-pk-k0K.title" = "슈퍼 해상도";
+/* b5B-Bs-2oU.title
+Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "b5B-Bs-2oU"; */
+"b5B-Bs-2oU.title" = "인정";
+/* 92h-11-9j8.title
+Class = "NSMenuItem"; title = "Localizations"; ObjectID = "92h-11-9j8"; */
+"92h-11-9j8.title" = "지역화";
+/* b6o-em-pee.title
+Class = "NSButtonCell"; title = "Apply"; ObjectID = "b6o-em-pee"; */
+"b6o-em-pee.title" = "적용";
+/* bHN-V9-Jl9.title
+Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "bHN-V9-Jl9"; */
+"bHN-V9-Jl9.title" = "접근 허용";
+/* bLu-IO-FjE.title
+Class = "NSTextFieldCell"; title = "The machine learning algorithm is trained by analyzing millions of images. Sharpen and upscale a photo without losing its content instead of mathematically interpolating the values of pixels as done by the regular scaling algorithms."; ObjectID = "bLu-IO-FjE"; */
+"bLu-IO-FjE.title" = "머신 러닝 알고리즘은 수백만 개의 이미지를 분석하여 학습됩니다. 일반적인 스케일링 알고리즘이 픽셀 값을 수학적으로 보간하는 대신 내용을 잃지 않고 사진을 선명하게하고 업스케일합니다.";
+/* bgE-Ny-zlN.title
+Class = "NSMenuItem"; title = "Get Info"; ObjectID = "bgE-Ny-zlN"; */
+"bgE-Ny-zlN.title" = "정보 가져오기";
+/* bib-Uj-vzu.title
+Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "파일";
+/* bm5-QA-tem.title
+Class = "NSTextFieldCell"; title = "Set Size and Autohide options"; ObjectID = "bm5-QA-tem"; */
+"bm5-QA-tem.title" = "크기 및 자동 숨김 옵션 설정";
+/* c2A-fU-DLE.title
+Class = "NSMenuItem"; title = "Welcome Screen"; ObjectID = "c2A-fU-DLE"; */
+"c2A-fU-DLE.title" = "환영 화면";
+/* c8a-S3-gU8.title
+Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "c8a-S3-gU8"; */
+"c8a-S3-gU8.title" = "수평으로 뒤집기";
+/* cBC-It-ufs.title
+Class = "NSTextFieldCell"; title = "The machine learning algorithm is trained by analyzing millions of images. Sharpen and upscale the photo without losing its content instead of mathematically interpolating the values of pixels as done by the regular scaling algorithms."; ObjectID = "cBC-It-ufs"; */
+"cBC-It-ufs.title" = "머신 러닝 알고리즘은 수백만 개의 이미지를 분석하여 학습됩니다. 일반적인 스케일링 알고리즘이 픽셀 값을 수학적으로 보간하는 대신 내용을 잃지 않고 사진을 선명하게하고 업스케일합니다.";
+/* cE0-Dg-zLa.title
+Class = "NSTextFieldCell"; title = "Selection Tool:"; ObjectID = "cE0-Dg-zLa"; */
+"cE0-Dg-zLa.title" = "선택 도구:";
+/* cWd-AP-HWm.title
+Class = "NSMenuItem"; title = "Previous Frame"; ObjectID = "cWd-AP-HWm"; */
+"cWd-AP-HWm.title" = "이전 프레임";
+/* cjT-Xn-gYh.title
+Class = "NSMenuItem"; title = "Mute"; ObjectID = "cjT-Xn-gYh"; */
+"cjT-Xn-gYh.title" = "소리 끔";
+/* cqB-yT-TcN.title
+Class = "NSMenuItem"; title = "RGB"; ObjectID = "cqB-yT-TcN"; */
+"cqB-yT-TcN.title" = "RGB";
+/* d82-iS-VFh.title
+Class = "NSTextFieldCell"; title = "px"; ObjectID = "d82-iS-VFh"; */
+"d82-iS-VFh.title" = "픽셀";
+/* d8i-Ng-TDr.title
+Class = "NSButtonCell"; title = "Close"; ObjectID = "d8i-Ng-TDr"; */
+"d8i-Ng-TDr.title" = "닫기";
+/* dMs-cI-mzQ.title
+Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "파일";
+/* dRC-iW-vch.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "dRC-iW-vch"; */
+"dRC-iW-vch.title" = "취소";
+/* dTs-zJ-MNH.title
+Class = "NSButtonCell"; title = "Apply"; ObjectID = "dTs-zJ-MNH"; */
+"dTs-zJ-MNH.title" = "적용";
+/* dik-yh-Vk0.title
+Class = "NSMenu"; title = "Edit with..."; ObjectID = "dik-yh-Vk0"; */
+"dik-yh-Vk0.title" = "편집...";
+/* dwN-NN-qTD.title
+Class = "NSTextFieldCell"; title = "Remove any object from your photo in a few brush strokes"; ObjectID = "dwN-NN-qTD"; */
+"dwN-NN-qTD.title" = "몇 번만 브러시 터치를 하면 사진에서 모든 개체를 제거할 수 있습니다";
+/* e9u-yo-2uF.title
+Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "e9u-yo-2uF"; */
+"e9u-yo-2uF.title" = "휴지통으로 이동";
+/* eKm-Kz-PM4.title
+Class = "NSMenuItem"; title = "Selection Tool"; ObjectID = "eKm-Kz-PM4"; */
+"eKm-Kz-PM4.title" = "선택 도구";
+/* eLb-40-zHf.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Exposure..."; ObjectID = "eLb-40-zHf"; */
+"eLb-40-zHf.ibShadowedToolTip" = "노출...";
+/* eO9-e9-svW.title
+Class = "NSMenuItem"; title = "Flip Vertically"; ObjectID = "eO9-e9-svW"; */
+"eO9-e9-svW.title" = "수직으로 뒤집기";
+/* ebY-dR-Nfx.title
+Class = "NSMenuItem"; title = "90º Clockwise"; ObjectID = "ebY-dR-Nfx"; */
+"ebY-dR-Nfx.title" = "90º 시계 방향으로";
+/* fAE-4v-4dG.title
+Class = "NSMenuItem"; title = "Hand Tool"; ObjectID = "fAE-4v-4dG"; */
+"fAE-4v-4dG.title" = "핸드 도구";
+/* fBA-dM-TKX.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Color Temperature..."; ObjectID = "fBA-dM-TKX"; */
+"fBA-dM-TKX.ibShadowedToolTip" = "색온도...";
+/* fK4-ad-YlY.title
+Class = "NSWindow"; title = "Acknowledgements"; ObjectID = "fK4-ad-YlY"; */
+"fK4-ad-YlY.title" = "인정";
+/* fKv-Gg-Rj7.title
+Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "fKv-Gg-Rj7"; */
+"fKv-Gg-Rj7.title" = "아래로 스크롤";
+/* fP7-LN-Wwc.title
+Class = "NSMenuItem"; title = "x 1.5"; ObjectID = "fP7-LN-Wwc"; */
+"fP7-LN-Wwc.title" = "x 1.5";
+/* fdt-kW-X5A.title
+Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "fdt-kW-X5A"; */
+"fdt-kW-X5A.title" = "위로 스크롤";
+/* fgN-Um-vwx.title
+Class = "NSMenuItem"; title = "Zoom Mode"; ObjectID = "fgN-Um-vwx"; */
+"fgN-Um-vwx.title" = "확대 모드";
+/* fkN-Le-d3B.title
+Class = "NSMenuItem"; title = "Date Added"; ObjectID = "fkN-Le-d3B"; */
+"fkN-Le-d3B.title" = "추가된 날짜";
+/* flJ-r8-ygY.title
+Class = "NSMenuItem"; title = "Date Added"; ObjectID = "flJ-r8-ygY"; */
+"flJ-r8-ygY.title" = "추가된 날짜";
+/* fr3-ur-dtG.title
+Class = "NSMenu"; title = "Sort by"; ObjectID = "fr3-ur-dtG"; */
+"fr3-ur-dtG.title" = "정렬 기준";
+/* g0T-Tv-F9l.title
+Class = "NSTextFieldCell"; title = "Sort media directories by name/type/size/date or shuffle"; ObjectID = "g0T-Tv-F9l"; */
+"g0T-Tv-F9l.title" = "미디어 디렉토리를 이름/유형/크기/날짜별로 정렬하거나 임의로 섞습니다";
+/* g12-LW-4XD.title
+Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "g12-LW-4XD"; */
+"g12-LW-4XD.title" = "Finder에서 보기";
+/* g7q-IO-vA8.title
+Class = "NSWindow"; title = "Settings"; ObjectID = "g7q-IO-vA8"; */
+"g7q-IO-vA8.title" = "설정";
+/* gAH-Nf-82X.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Clone Tool"; ObjectID = "gAH-Nf-82X"; */
+"gAH-Nf-82X.ibShadowedToolTip" = "클론 도구";
+/* gLk-de-69p.title
+Class = "NSTextFieldCell"; title = "Details:"; ObjectID = "gLk-de-69p"; */
+"gLk-de-69p.title" = "세부 정보:";
+/* gVR-QG-fLx.title
+Class = "NSTextFieldCell"; title = "0 items"; ObjectID = "gVR-QG-fLx"; */
+"gVR-QG-fLx.title" = "0 개 항목";
+/* gWr-ui-SHc.title
+Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "gWr-ui-SHc"; */
+"gWr-ui-SHc.title" = "휴지통으로 이동";
+/* gvM-Fz-Tpc.title
+Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "gvM-Fz-Tpc"; */
+"gvM-Fz-Tpc.title" = "오른쪽으로 스크롤";
+/* h9E-3i-kbv.title
+Class = "NSMenuItem"; title = "Playback Speed"; ObjectID = "h9E-3i-kbv"; */
+"h9E-3i-kbv.title" = "재생 속도";
+/* hET-xp-uEx.title
+Class = "NSButtonCell"; title = "Crop"; ObjectID = "hET-xp-uEx"; */
+"hET-xp-uEx.title" = "자르기";
+/* hGL-SK-VAZ.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "hGL-SK-VAZ"; */
+"hGL-SK-VAZ.title" = "●";
+/* hJN-so-6AI.title
+Class = "NSMenuItem"; title = "Deselect"; ObjectID = "hJN-so-6AI"; */
+"hJN-so-6AI.title" = "선택 해제";
+/* hR2-L4-lCr.title
+Class = "NSMenuItem"; title = "Flip Vertically"; ObjectID = "hR2-L4-lCr"; */
+"hR2-L4-lCr.title" = "수직으로 뒤집기";
+/* hcM-8w-dSu.title
+Class = "NSMenuItem"; title = "16:10"; ObjectID = "hcM-8w-dSu"; */
+"hcM-8w-dSu.title" = "16:10";
+/* hcf-RF-4ls.title
+Class = "NSMenuItem"; title = "Clone Tool"; ObjectID = "hcf-RF-4ls"; */
+"hcf-RF-4ls.title" = "클론 도구";
+/* hcl-ym-lx4.title
+Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "hcl-ym-lx4"; */
+"hcl-ym-lx4.title" = "업데이트 확인...";
+/* htT-wI-hy6.title
+Class = "NSTextFieldCell"; title = "Hold Shift"; ObjectID = "htT-wI-hy6"; */
+"htT-wI-hy6.title" = "Shift 누르기";
+/* hz9-B4-Xy5.title
+Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "서비스";
+/* i6e-DF-AK3.title
+Class = "NSMenuItem"; title = "Show Thumbnails"; ObjectID = "i6e-DF-AK3"; */
+"i6e-DF-AK3.title" = "축소판 보기";
+/* i7t-1C-EW2.title
+Class = "NSMenuItem"; title = "16:9"; ObjectID = "i7t-1C-EW2"; */
+"i7t-1C-EW2.title" = "16:9";
+/* iN0-pI-c4t.title
+Class = "NSMenuItem"; title = "File Type"; ObjectID = "iN0-pI-c4t"; */
+"iN0-pI-c4t.title" = "파일 유형";
+/* iNG-BZ-jUm.title
+Class = "NSMenuItem"; title = "Upscale Image..."; ObjectID = "iNG-BZ-jUm"; */
+"iNG-BZ-jUm.title" = "이미지 업스케일...";
+/* iYV-FN-5Dt.title
+Class = "NSMenuItem"; title = "Subtitles"; ObjectID = "iYV-FN-5Dt"; */
+"iYV-FN-5Dt.title" = "자막";
+/* ieI-ek-vp0.title
+Class = "NSMenuItem"; title = "Item 2"; ObjectID = "ieI-ek-vp0"; */
+"ieI-ek-vp0.title" = "항목 2";
+/* ir5-La-uXN.title
+Class = "NSButtonCell"; title = "Remove"; ObjectID = "ir5-La-uXN"; */
+"ir5-La-uXN.title" = "제거";
+/* izt-Qb-S3c.title
+Class = "NSTextFieldCell"; title = "Today"; ObjectID = "izt-Qb-S3c"; */
+"izt-Qb-S3c.title" = "오늘";
+/* jCA-Ek-bHD.title
+Class = "NSTextFieldCell"; title = "Do not upscale already enlarged images, especially those processed with standard interpolation algorithms. Processing the smaller but sharper image always results in a better quality of an upscaled image."; ObjectID = "jCA-Ek-bHD"; */
+"jCA-Ek-bHD.title" = "이미 확대된 이미지를 업스케일하지 마십시오, 특히 표준 보간 알고리즘으로 처리된 경우. 작은 이미지이지만 더 선명한 이미지를 처리하면 업스케일된 이미지의 품질이 항상 더 나아집니다.";
+/* jVE-7D-UG8.title
+Class = "NSMenuItem"; title = "Fixed Size & Position"; ObjectID = "jVE-7D-UG8"; */
+"jVE-7D-UG8.title" = "고정 크기 및 위치";
+/* jWs-pm-abc.title
+Class = "NSButtonCell"; title = "Learn more..."; ObjectID = "jWs-pm-abc"; */
+"jWs-pm-abc.title" = "자세히 알아보기...";
+/* jaB-Gb-rUi.title
+Class = "NSTextFieldCell"; title = "Sorting"; ObjectID = "jaB-Gb-rUi"; */
+"jaB-Gb-rUi.title" = "정렬 중";
+/* jbS-Ra-FBd.title
+Class = "NSTextFieldCell"; title = "Option+Click to select pixels to clone. Click in any area to clone selected pixels."; ObjectID = "jbS-Ra-FBd"; */
+"jbS-Ra-FBd.title" = "Option+클릭하여 복제할 픽셀을 선택합니다. 아무 영역이나 클릭하여 선택한 픽셀을 복제합니다.";
+/* jeY-Oj-aG4.title
+Class = "NSButtonCell"; title = "Apply"; ObjectID = "jeY-Oj-aG4"; */
+"jeY-Oj-aG4.title" = "적용";
+/* jel-QX-qNV.title
+Class = "NSTextFieldCell"; title = "4X Upscale"; ObjectID = "jel-QX-qNV"; */
+"jel-QX-qNV.title" = "4X 업스케일";
+/* jnQ-oz-95e.title
+Class = "NSMenu"; title = "Edit with..."; ObjectID = "jnQ-oz-95e"; */
+"jnQ-oz-95e.title" = "편집...";
+/* jrX-9u-FS5.title
+Class = "NSWindow"; title = "Upscaling"; ObjectID = "jrX-9u-FS5"; */
+"jrX-9u-FS5.title" = "업스케일링";
+/* k6s-Qo-Lkq.title
+Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "k6s-Qo-Lkq"; */
+"k6s-Qo-Lkq.title" = "수정일";
+/* k8g-2K-Bey.title
+Class = "NSBox"; title = "Box"; ObjectID = "k8g-2K-Bey"; */
+"k8g-2K-Bey.title" = "상자";
+/* kC6-Zl-de1.title
+Class = "NSMenuItem"; title = "Sort by"; ObjectID = "kC6-Zl-de1"; */
+"kC6-Zl-de1.title" = "정렬 기준";
+/* kJU-w6-1rU.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kJU-w6-1rU"; */
+"kJU-w6-1rU.title" = "취소";
+/* kYQ-fz-mXn.title
+Class = "NSTextFieldCell"; title = "Customize any shortcut the way you want it"; ObjectID = "kYQ-fz-mXn"; */
+"kYQ-fz-mXn.title" = "원하는 대로 모든 바로가기를 사용자 지정하세요";
+/* kjE-uX-5c5.title
+Class = "NSTextFieldCell"; title = "100%"; ObjectID = "kjE-uX-5c5"; */
+"kjE-uX-5c5.title" = "100%";
+/* kqs-Cs-0ep.title
+Class = "NSBox"; title = "Box"; ObjectID = "kqs-Cs-0ep"; */
+"kqs-Cs-0ep.title" = "박스";
+/* kwx-BP-Z9T.title
+Class = "NSMenuItem"; title = "Name"; ObjectID = "kwx-BP-Z9T"; */
+"kwx-BP-Z9T.title" = "이름";
+/* l2w-ij-cGO.title
+Class = "NSButtonCell"; title = "Clear "; ObjectID = "l2w-ij-cGO"; */
+"l2w-ij-cGO.title" = "지우기";
+/* lHS-If-wO6.title
+Class = "NSTextFieldCell"; title = "Trackpad Gestures"; ObjectID = "lHS-If-wO6"; */
+"lHS-If-wO6.title" = "트랙패드 제스처";
+/* lHj-J1-gLz.title
+Class = "NSWindow"; title = "Get Info"; ObjectID = "lHj-J1-gLz"; */
+"lHj-J1-gLz.title" = "정보 가져오기";
+/* lZc-ig-wk3.title
+Class = "NSMenu"; title = "Subtitles"; ObjectID = "lZc-ig-wk3"; */
+"lZc-ig-wk3.title" = "자막";
+/* lbe-b2-zfl.title
+Class = "NSMenuItem"; title = "File Type"; ObjectID = "lbe-b2-zfl"; */
+"lbe-b2-zfl.title" = "파일 유형";
+/* lhK-K4-kCD.title
+Class = "NSTextFieldCell"; title = "W, A, S, D"; ObjectID = "lhK-K4-kCD"; */
+"lhK-K4-kCD.title" = "W, A, S, D";
+/* lhg-ex-d7u.title
+Class = "NSTextFieldCell"; title = "Highlights"; ObjectID = "lhg-ex-d7u"; */
+"lhg-ex-d7u.title" = "하이라이트";
+/* lj8-bc-Omh.title
+Class = "NSMenuItem"; title = "Crop Image..."; ObjectID = "lj8-bc-Omh"; */
+"lj8-bc-Omh.title" = "이미지 자르기...";
+/* m2l-Qt-wqs.title
+Class = "NSTextFieldCell"; title = "Enter"; ObjectID = "m2l-Qt-wqs"; */
+"m2l-Qt-wqs.title" = "입력";
+/* m48-lc-VN6.title
+Class = "NSMenuItem"; title = "180º"; ObjectID = "m48-lc-VN6"; */
+"m48-lc-VN6.title" = "180º";
+/* mHC-A2-FE4.title
+Class = "NSMenuItem"; title = "Step Forward 30s"; ObjectID = "mHC-A2-FE4"; */
+"mHC-A2-FE4.title" = "30초 앞으로 이동";
+/* mJw-99-23n.title
+Class = "NSMenuItem"; title = "Selection Tool"; ObjectID = "mJw-99-23n"; */
+"mJw-99-23n.title" = "선택 도구";
+/* mQA-MX-ia8.title
+Class = "NSMenuItem"; title = "Background color"; ObjectID = "mQA-MX-ia8"; */
+"mQA-MX-ia8.title" = "배경색";
+/* maz-8z-dLI.title
+Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "maz-8z-dLI"; */
+"maz-8z-dLI.title" = "수정일";
+/* moW-aX-kij.title
+Class = "NSTextFieldCell"; title = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. This enables slideshows, media browsing with arrow keys, switching between subfolders, and sorting the directory contents. If permission was not granted before, the dialog requesting you to grant access is displayed. You can change this behavior in Settings at any time."; ObjectID = "moW-aX-kij"; */
+"moW-aX-kij.title" = "이미지나 비디오를 열 때마다 Pixea는 파일의 상위 폴더를 스캔하여 다른 미디어를 찾습니다. 이를 통해 슬라이드쇼, 화살표 키를 사용한 미디어 탐색, 하위 폴더 간 전환 및 디렉터리 내용 정렬이 가능합니다. 이전에 권한이 부여되지 않은 경우, 액세스를 요청하는 대화 상자가 표시됩니다. 설정에서 언제든지 이 동작을 변경할 수 있습니다.";
+/* mpy-Gc-OkH.title
+Class = "NSButtonCell"; title = "Purchase"; ObjectID = "mpy-Gc-OkH"; */
+"mpy-Gc-OkH.title" = "구매";
+/* mqf-PF-z9B.title
+Class = "NSTextFieldCell"; title = "filename"; ObjectID = "mqf-PF-z9B"; */
+"mqf-PF-z9B.title" = "파일 이름";
+/* n24-wY-Zrl.title
+Class = "NSMenuItem"; title = "Settings..."; ObjectID = "n24-wY-Zrl"; */
+"n24-wY-Zrl.title" = "설정...";
+/* n5j-bn-fzg.title
+Class = "NSBox"; title = "Box"; ObjectID = "n5j-bn-fzg"; */
+"n5j-bn-fzg.title" = "박스";
+/* nOP-sk-Ezn.title
+Class = "NSMenuItem"; title = "Sort by"; ObjectID = "nOP-sk-Ezn"; */
+"nOP-sk-Ezn.title" = "정렬 기준";
+/* nUV-iL-XRb.title
+Class = "NSTextFieldCell"; title = "Remove any object from your photo in a few brush strokes"; ObjectID = "nUV-iL-XRb"; */
+"nUV-iL-XRb.title" = "브러시 몇 번으로 사진에서 개체를 제거하세요";
+/* nZZ-rK-2YN.title
+Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "nZZ-rK-2YN"; */
+"nZZ-rK-2YN.title" = "이전 미디어";
+/* nqQ-ho-gil.title
+Class = "NSTextFieldCell"; title = "Status bar with resolution, date taken and other image properties"; ObjectID = "nqQ-ho-gil"; */
+"nqQ-ho-gil.title" = "해상도, 촬영 날짜 및 기타 이미지 속성이 포함된 상태 표시줄";
+/* nr3-WM-JWj.title
+Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "nr3-WM-JWj"; */
+"nr3-WM-JWj.title" = "축소";
+/* nwQ-wL-OCE.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "nwQ-wL-OCE"; */
+"nwQ-wL-OCE.title" = "취소";
+/* oBR-2X-Qk0.title
+Class = "NSButtonCell"; title = "〈"; ObjectID = "oBR-2X-Qk0"; */
+"oBR-2X-Qk0.title" = "〈";
+/* oC8-uZ-TU7.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "oC8-uZ-TU7"; */
+"oC8-uZ-TU7.title" = "취소";
+/* oIf-Lx-xdA.title
+Class = "NSTextFieldCell"; title = "← / →"; ObjectID = "oIf-Lx-xdA"; */
+"oIf-Lx-xdA.title" = "← / →";
+/* oLD-aw-wZ2.title
+Class = "NSTextFieldCell"; title = "Object Removal Tool"; ObjectID = "oLD-aw-wZ2"; */
+"oLD-aw-wZ2.title" = "객체 제거 도구";
+/* oWw-Fi-1bg.title
+Class = "NSMenuItem"; title = "Video"; ObjectID = "oWw-Fi-1bg"; */
+"oWw-Fi-1bg.title" = "비디오";
+/* oYX-DN-eTA.title
+Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "oYX-DN-eTA"; */
+"oYX-DN-eTA.title" = "텍스트 선택 도구";
+/* oas-Oc-fiZ.title
+Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
+"oas-Oc-fiZ.title" = "최근 사용 열기";
+/* ohI-Hy-8It.title
+Class = "NSTextFieldCell"; title = "Resize Image"; ObjectID = "ohI-Hy-8It"; */
+"ohI-Hy-8It.title" = "이미지 크기 조정";
+/* ovv-Na-tUF.title
+Class = "NSTextFieldCell"; title = "Reduce noise"; ObjectID = "ovv-Na-tUF"; */
+"ovv-Na-tUF.title" = "노이즈 감소";
+/* p11-4p-RFw.title
+Class = "NSTextFieldCell"; title = "Z + Mouse Click"; ObjectID = "p11-4p-RFw"; */
+"p11-4p-RFw.title" = "Z + 마우스 클릭";
+/* pCa-58-8Oh.title
+Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "pCa-58-8Oh"; */
+"pCa-58-8Oh.title" = "선명도 및 노이즈...";
+/* pHN-GX-oKg.title
+Class = "NSTextFieldCell"; title = "Paint over the object you want to remove. Click \"Remove\" when done."; ObjectID = "pHN-GX-oKg"; */
+"pHN-GX-oKg.title" = "제거할 객체에 페인트하세요. 완료되면 \"제거\"를 클릭하세요.";
+/* pI0-XX-fNl.title
+Class = "NSTextFieldCell"; title = "Color Temperature"; ObjectID = "pI0-XX-fNl"; */
+"pI0-XX-fNl.title" = "색온도";
+/* pSZ-1U-BMT.title
+Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "pSZ-1U-BMT"; */
+"pSZ-1U-BMT.title" = "섞기";
+/* pTP-NG-fUR.title
+Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "pTP-NG-fUR"; */
+"pTP-NG-fUR.title" = "슬라이드쇼";
+/* plo-wH-qpM.title
+Class = "NSMenuItem"; title = "Adjust Exposure..."; ObjectID = "plo-wH-qpM"; */
+"plo-wH-qpM.title" = "노출 조정...";
+/* pvO-7q-hSx.title
+Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "pvO-7q-hSx"; */
+"pvO-7q-hSx.title" = "수평으로 뒤집기";
+/* qSy-Ae-idZ.title
+Class = "NSMenuItem"; title = "Objects Removal Tool"; ObjectID = "qSy-Ae-idZ"; */
+"qSy-Ae-idZ.title" = "객체 제거 도구";
+/* qdA-Er-E1D.title
+Class = "NSTextFieldCell"; title = "Address"; ObjectID = "qdA-Er-E1D"; */
+"qdA-Er-E1D.title" = "주소";
+/* qo1-tF-VAx.title
+Class = "NSTextFieldCell"; title = "Balanced"; ObjectID = "qo1-tF-VAx"; */
+"qo1-tF-VAx.title" = "균형잡힌";
+/* qu0-Wb-HIR.title
+Class = "NSBox"; title = "Box"; ObjectID = "qu0-Wb-HIR"; */
+"qu0-Wb-HIR.title" = "박스";
+/* qv3-kW-hw0.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Hue, Saturation and Brightness..."; ObjectID = "qv3-kW-hw0"; */
+"qv3-kW-hw0.ibShadowedToolTip" = "색조, 채도 및 밝기...";
+/* qxH-GS-iQ4.title
+Class = "NSBox"; title = "Box"; ObjectID = "qxH-GS-iQ4"; */
+"qxH-GS-iQ4.title" = "박스";
+/* rID-o7-iKz.title
+Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "rID-o7-iKz"; */
+"rID-o7-iKz.title" = "수정일";
+/* rOH-IW-srC.title
+Class = "NSMenuItem"; title = "Adjust Hue, Saturation, Brightness..."; ObjectID = "rOH-IW-srC"; */
+"rOH-IW-srC.title" = "색조, 채도, 밝기 조정...";
+/* ryd-I7-GTu.title
+Class = "NSTextFieldCell"; title = "2x and 4x upscaling powered by machine learning"; ObjectID = "ryd-I7-GTu"; */
+"ryd-I7-GTu.title" = "기계 학습을 통해 2x 및 4x 업스케일링";
+/* sBQ-tT-T19.title
+Class = "NSTextFieldCell"; title = "Upscaling..."; ObjectID = "sBQ-tT-T19"; */
+"sBQ-tT-T19.title" = "업스케일링...";
+/* sDy-yH-kuB.title
+Class = "NSTextFieldCell"; title = "Z + Option + Mouse Click"; ObjectID = "sDy-yH-kuB"; */
+"sDy-yH-kuB.title" = "Z + 옵션 + 마우스 클릭";
+/* sEy-tL-1VG.title
+Class = "NSBox"; title = "Box"; ObjectID = "sEy-tL-1VG"; */
+"sEy-tL-1VG.title" = "박스";
+/* sKz-WK-0TT.title
+Class = "NSTextFieldCell"; title = "Tint"; ObjectID = "sKz-WK-0TT"; */
+"sKz-WK-0TT.title" = "색조";
+/* sLS-yO-MJs.title
+Class = "NSTextFieldCell"; title = "Remove any object from your photo in a few brush strokes"; ObjectID = "sLS-yO-MJs"; */
+"sLS-yO-MJs.title" = "브러시 몇 번으로 사진에서 개체를 제거하세요";
+/* sYL-FL-bXv.title
+Class = "NSMenuItem"; title = "Name"; ObjectID = "sYL-FL-bXv"; */
+"sYL-FL-bXv.title" = "이름";
+/* shR-Xo-D1C.title
+Class = "NSTextFieldCell"; title = "Fit to Screen:"; ObjectID = "shR-Xo-D1C"; */
+"shR-Xo-D1C.title" = "화면에 맞추기:";
+/* sod-aH-xTL.title
+Class = "NSBox"; title = "Box"; ObjectID = "sod-aH-xTL"; */
+"sod-aH-xTL.title" = "박스";
+/* t2S-s7-dew.title
+Class = "NSMenuItem"; title = "Stretch to Fit"; ObjectID = "t2S-s7-dew"; */
+"t2S-s7-dew.title" = "확장하여 맞추기";
+/* tEv-le-JYp.title
+Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "tEv-le-JYp"; */
+"tEv-le-JYp.title" = "화면에 맞추기";
+/* tTD-vd-D6Q.title
+Class = "NSMenuItem"; title = "Normal"; ObjectID = "tTD-vd-D6Q"; */
+"tTD-vd-D6Q.title" = "일반";
+/* tTh-ST-KJH.title
+Class = "NSTextFieldCell"; title = "Zoom In / Zoom Out:"; ObjectID = "tTh-ST-KJH"; */
+"tTh-ST-KJH.title" = "확대:";
+/* tXI-mr-wws.title
+Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "최근 사용 열기";
+/* tj6-nX-z2t.title
+Class = "NSWindow"; title = "Welcome"; ObjectID = "tj6-nX-z2t"; */
+"tj6-nX-z2t.title" = "환영합니다";
+/* tkd-ES-wOa.title
+Class = "NSTextFieldCell"; title = "Pixea"; ObjectID = "tkd-ES-wOa"; */
+"tkd-ES-wOa.title" = "Pixea";
+/* tlY-DS-Rpr.title
+Class = "NSTextFieldCell"; title = "Histogram:"; ObjectID = "tlY-DS-Rpr"; */
+"tlY-DS-Rpr.title" = "히스토그램:";
+/* tp8-eO-rBU.title
+Class = "NSTextFieldCell"; title = "↑ / ↓"; ObjectID = "tp8-eO-rBU"; */
+"tp8-eO-rBU.title" = "↑ / ↓";
+/* txG-Bs-rLo.title
+Class = "NSMenuItem"; title = "Item 2"; ObjectID = "txG-Bs-rLo"; */
+"txG-Bs-rLo.title" = "항목 2";
+/* txp-te-149.title
+Class = "NSMenuItem"; title = "File Size"; ObjectID = "txp-te-149"; */
+"txp-te-149.title" = "파일 크기";
+/* u2i-rY-eh1.title
+Class = "NSTextFieldCell"; title = "Scroll:"; ObjectID = "u2i-rY-eh1"; */
+"u2i-rY-eh1.title" = "스크롤:";
+/* u68-Ov-6oI.title
+Class = "NSTextFieldCell"; title = "Set pixels or points"; ObjectID = "u68-Ov-6oI"; */
+"u68-Ov-6oI.title" = "픽셀 또는 포인트 설정";
+/* uGW-63-DcU.title
+Class = "NSMenuItem"; title = "Copy"; ObjectID = "uGW-63-DcU"; */
+"uGW-63-DcU.title" = "복사하기";
+/* uQy-DD-JDr.title
+Class = "NSMenu"; title = "Pixea"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Pixea";
+/* uWo-uA-tXc.title
+Class = "NSMenuItem"; title = "Volume Up"; ObjectID = "uWo-uA-tXc"; */
+"uWo-uA-tXc.title" = "볼륨 높이기";
+/* uY4-Tr-wCF.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "uY4-Tr-wCF"; */
+"uY4-Tr-wCF.title" = "●";
+/* ued-Tb-dcA.title
+Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "ued-Tb-dcA"; */
+"ued-Tb-dcA.title" = "Finder에서 보기";
+/* ufs-fc-ciP.title
+Class = "NSMenuItem"; title = "Paste"; ObjectID = "ufs-fc-ciP"; */
+"ufs-fc-ciP.title" = "붙이기";
+/* v0i-GE-7ZD.title
+Class = "NSWindow"; title = "Upgrade"; ObjectID = "v0i-GE-7ZD"; */
+"v0i-GE-7ZD.title" = "업그레이드";
+/* vAe-9l-YNQ.title
+Class = "NSButtonCell"; title = "●"; ObjectID = "vAe-9l-YNQ"; */
+"vAe-9l-YNQ.title" = "●";
+/* vNY-rz-j42.title
+Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
+"vNY-rz-j42.title" = "메뉴 지우기";
+/* vXa-zs-95c.title
+Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "vXa-zs-95c"; */
+"vXa-zs-95c.title" = "그림자";
+/* vsL-Fg-EbF.title
+Class = "NSMenu"; title = "Edit with..."; ObjectID = "vsL-Fg-EbF"; */
+"vsL-Fg-EbF.title" = "로 편집...";
+/* vxL-0l-ECu.title
+Class = "NSMenuItem"; title = "Item 3"; ObjectID = "vxL-0l-ECu"; */
+"vxL-0l-ECu.title" = "항목 3";
+/* wFN-8k-YQO.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "wFN-8k-YQO"; */
+"wFN-8k-YQO.headerCell.title" = "값";
+/* wGB-4Q-Jmg.title
+Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "wGB-4Q-Jmg"; */
+"wGB-4Q-Jmg.title" = "키보드 단축키";
+/* wLA-RR-qSZ.title
+Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "wLA-RR-qSZ"; */
+"wLA-RR-qSZ.title" = "실제 크기";
+/* wXo-xS-kZS.title
+Class = "NSWindow"; title = "Upscale Image..."; ObjectID = "wXo-xS-kZS"; */
+"wXo-xS-kZS.title" = "이미지 업스케일링...";
+/* wdu-5F-RGt.title
+Class = "NSMenuItem"; title = "Date Created"; ObjectID = "wdu-5F-RGt"; */
+"wdu-5F-RGt.title" = "생성일";
+/* wpr-3q-Mcd.title
+Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "도움말";
+/* wva-as-5Ab.title
+Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "wva-as-5Ab"; */
+"wva-as-5Ab.title" = "슬라이드쇼";
+/* x3v-GG-iWU.title
+Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "복사하기";
+/* x7o-9q-Gti.title
+Class = "NSTextFieldCell"; title = "Zoom In:"; ObjectID = "x7o-9q-Gti"; */
+"x7o-9q-Gti.title" = "확대:";
+/* xOJ-ET-atP.title
+Class = "NSMenuItem"; title = "File Type"; ObjectID = "xOJ-ET-atP"; */
+"xOJ-ET-atP.title" = "파일 유형";
+/* xP6-D3-dqk.title
+Class = "NSMenuItem"; title = "180º"; ObjectID = "xP6-D3-dqk"; */
+"xP6-D3-dqk.title" = "180º";
+/* xSH-Vv-KRG.title
+Class = "NSTextFieldCell"; title = "\\"; ObjectID = "xSH-Vv-KRG"; */
+"xSH-Vv-KRG.title" = "\\";
+/* xbi-Ds-ixI.title
+Class = "NSTextFieldCell"; title = "2X Upscale"; ObjectID = "xbi-Ds-ixI"; */
+"xbi-Ds-ixI.title" = "2X 업스케일";
+/* xbj-Bs-UCg.title
+Class = "NSMenuItem"; title = "90º Counter-clockwise"; ObjectID = "xbj-Bs-UCg"; */
+"xbj-Bs-UCg.title" = "90º 시계 반대 방향";
+/* xgR-ct-Eq3.title
+Class = "NSButtonCell"; title = "Add "; ObjectID = "xgR-ct-Eq3"; */
+"xgR-ct-Eq3.title" = "추가";
+/* xs0-nv-VcE.title
+Class = "NSMenuItem"; title = "Date Created"; ObjectID = "xs0-nv-VcE"; */
+"xs0-nv-VcE.title" = "생성일";
+/* y0b-fU-NAh.title
+Class = "NSMenuItem"; title = "4:3"; ObjectID = "y0b-fU-NAh"; */
+"y0b-fU-NAh.title" = "4:3";
+/* y67-Mo-rVm.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "y67-Mo-rVm"; */
+"y67-Mo-rVm.title" = "취소";
+/* y80-Fq-GXL.title
+Class = "NSButtonCell"; title = "Cancel"; ObjectID = "y80-Fq-GXL"; */
+"y80-Fq-GXL.title" = "취소";
+/* y8Z-8y-taq.title
+Class = "NSTextFieldCell"; title = "Clone Tool"; ObjectID = "y8Z-8y-taq"; */
+"y8Z-8y-taq.title" = "복제 도구";
+/* yAy-eZ-7vK.title
+Class = "NSButtonCell"; title = "Upscale"; ObjectID = "yAy-eZ-7vK"; */
+"yAy-eZ-7vK.title" = "업스케일링";
+/* yFa-ka-tDC.title
+Class = "NSTextFieldCell"; title = "Sharpness"; ObjectID = "yFa-ka-tDC"; */
+"yFa-ka-tDC.title" = "선명도";
+/* yHg-du-rEw.title
+Class = "NSBox"; title = "Box"; ObjectID = "yHg-du-rEw"; */
+"yHg-du-rEw.title" = "박스";
+/* yJj-uy-re2.title
+Class = "NSMenuItem"; title = "Adjust Color Temperature..."; ObjectID = "yJj-uy-re2"; */
+"yJj-uy-re2.title" = "색온도 조정...";
+/* yMG-g6-wez.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Sharpness and Noise..."; ObjectID = "yMG-g6-wez"; */
+"yMG-g6-wez.ibShadowedToolTip" = "선명도 및 노이즈...";
+/* ycU-Cs-JLq.title
+Class = "NSBox"; title = "Box"; ObjectID = "ycU-Cs-JLq"; */
+"ycU-Cs-JLq.title" = "박스";
+/* z1W-SL-b9V.title
+Class = "NSTextFieldCell"; title = "Pixea wouldn't be possible without these components:"; ObjectID = "z1W-SL-b9V"; */
+"z1W-SL-b9V.title" = "Pixea는 다음 구성 요소 없이는 불가능했을 것입니다:";
+/* z3A-9g-LlM.title
+Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "z3A-9g-LlM"; */
+"z3A-9g-LlM.title" = "휴지통으로 이동";
+/* z6Y-gD-vft.ibShadowedToolTip
+Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft"; */
+"z6Y-gD-vft.ibShadowedToolTip" = "이미지 크기 조정..";
+/* zB0-DC-BoP.title
+Class = "NSTextFieldCell"; title = "Built-in video player with MP4 and MKV support"; ObjectID = "zB0-DC-BoP"; */
+"zB0-DC-BoP.title" = "MP4 및 MKV 지원 내장 비디오 플레이어";
+/* zLZ-LC-aXe.title
+Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "zLZ-LC-aXe"; */
+"zLZ-LC-aXe.title" = "Pixea에게 슬라이드쇼를 위한 추가 이미지와 비디오를 찾고 다음 폴더를 빠르게 탐색할 수 있는 권한을 부여하세요:";
+/* zRl-BO-RJ0.title
+Class = "NSTextFieldCell"; title = "Four times double the pixels using ML-powered algorithms"; ObjectID = "zRl-BO-RJ0"; */
+"zRl-BO-RJ0.title" = "ML 알고리즘을 사용하여 네 배 더 많은 픽셀 두 배로";
+/* zd4-VX-VWV.title
+Class = "NSTextFieldCell"; title = "Super Resolution"; ObjectID = "zd4-VX-VWV"; */
+"zd4-VX-VWV.title" = "슈퍼 해상도";
+/* zeQ-sl-hPT.title
+Class = "NSTextFieldCell"; title = "Images"; ObjectID = "zeQ-sl-hPT"; */
+"zeQ-sl-hPT.title" = "이미지";
+/* zew-TH-yR2.title
+Class = "NSBox"; title = "Box"; ObjectID = "zew-TH-yR2"; */
+"zew-TH-yR2.title" = "박스";
+/* zjJ-yz-HL8.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "zjJ-yz-HL8"; */
+"zjJ-yz-HL8.headerCell.title" = "폴더";
+/* zzy-YJ-msS.title
+Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
+"zzy-YJ-msS.title" = "불투명도";

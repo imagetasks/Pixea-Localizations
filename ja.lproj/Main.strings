@@ -57,7 +57,7 @@ Class = "NSTextFieldCell"; title = "Pixea can play almost every media format and
 "2lY-1f-keo.title" = "Pixea はほぼすべてのメディア形式を再生でき、映画を一時停止した場所から再開します。";
 /* 2oX-Rh-0jJ.title
 Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "2oX-Rh-0jJ"; */
-"2oX-Rh-0jJ.title" = "ズームイン";
+"2oX-Rh-0jJ.title" = "拡大";
 /* 32b-FF-Kjb.title
 Class = "NSMenuItem"; title = "Date Added"; ObjectID = "32b-FF-Kjb"; */
 "32b-FF-Kjb.title" = "追加日";
@@ -108,7 +108,7 @@ Class = "NSBox"; title = "Box"; ObjectID = "5H2-If-tiW"; */
 "5H2-If-tiW.title" = "ボックス";
 /* 5HH-hz-IJv.title
 Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "5HH-hz-IJv"; */
-"5HH-hz-IJv.title" = "ズームアウト";
+"5HH-hz-IJv.title" = "縮小";
 /* 5Jr-7K-IcS.title
 Class = "NSTextFieldCell"; title = "Use the \"Upscale Image\" tool to achieve better results when enlarging images."; ObjectID = "5Jr-7K-IcS"; */
 "5Jr-7K-IcS.title" = "画像を拡大するときにより良い結果を得るには、「画像をアップスケール」ツールを使用してください。";
@@ -225,7 +225,7 @@ Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "環境設定…";
 /* BSP-lv-ooN.title
 Class = "NSMenuItem"; title = "Export..."; ObjectID = "BSP-lv-ooN"; */
-"BSP-lv-ooN.title" = "書き出し…";
+"BSP-lv-ooN.title" = "書き出す...";
 /* BVG-eR-wTo.title
 Class = "NSTextFieldCell"; title = "Folder"; ObjectID = "BVG-eR-wTo"; */
 "BVG-eR-wTo.title" = "フォルダー";
@@ -309,7 +309,7 @@ Class = "NSMenuItem"; title = "Open"; ObjectID = "FaJ-Id-m0g"; */
 "FaJ-Id-m0g.title" = "開く";
 /* FkQ-hh-Gwa.title
 Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "FkQ-hh-Gwa"; */
-"FkQ-hh-Gwa.title" = "画面に合わせる";
+"FkQ-hh-Gwa.title" = "画面の大きさに合わせる";
 /* G0A-vg-f8I.title
 Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "G0A-vg-f8I"; */
 "G0A-vg-f8I.title" = "シャッフル";
@@ -402,7 +402,7 @@ Class = "NSMenuItem"; title = "Regular"; ObjectID = "Jg6-mH-6b3"; */
 "Jg6-mH-6b3.title" = "レギュラー";
 /* Jtx-kb-gcf.title
 Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "Jtx-kb-gcf"; */
-"Jtx-kb-gcf.title" = "ズームイン";
+"Jtx-kb-gcf.title" = "拡大";
 /* K2k-bp-amS.title
 Class = "NSTextFieldCell"; title = "Settings..."; ObjectID = "K2k-bp-amS"; */
 "K2k-bp-amS.title" = "設定…";
@@ -432,10 +432,10 @@ Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "Kvi-QI-RHW"; */
 "Kvi-QI-RHW.title" = "シャッフル";
 /* LD0-zF-hNW.title
 Class = "NSButtonCell"; title = "Undo"; ObjectID = "LD0-zF-hNW"; */
-"LD0-zF-hNW.title" = "取り消し";
+"LD0-zF-hNW.title" = "取り消す";
 /* LE2-aR-0XJ.title
 Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
-"LE2-aR-0XJ.title" = "すべてを前面に移動";
+"LE2-aR-0XJ.title" = "すべてを手前に移動";
 /* LKs-6t-Gpx.title
 Class = "NSBox"; title = "Box"; ObjectID = "LKs-6t-Gpx"; */
 "LKs-6t-Gpx.title" = "ボックス";
@@ -444,13 +444,13 @@ Class = "NSMenuItem"; title = "Ambient light"; ObjectID = "LKu-up-qrl"; */
 "LKu-up-qrl.title" = "アンビエントライト";
 /* LQy-38-T9R.title
 Class = "NSMenuItem"; title = "Get Info"; ObjectID = "LQy-38-T9R"; */
-"LQy-38-T9R.title" = "情報を取得";
+"LQy-38-T9R.title" = "情報を見る";
 /* LZX-I5-3QR.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "LZX-I5-3QR"; */
 "LZX-I5-3QR.title" = "適用";
 /* Lbs-JZ-O2N.title
 Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Lbs-JZ-O2N"; */
-"Lbs-JZ-O2N.title" = "Finderで表示";
+"Lbs-JZ-O2N.title" = "Finderに表示";
 /* LdV-jm-VcE.title
 Class = "NSMenuItem"; title = "Find..."; ObjectID = "LdV-jm-VcE"; */
 "LdV-jm-VcE.title" = "検索…";
@@ -462,7 +462,7 @@ Class = "NSTextFieldCell"; title = "W: 0, H: 0"; ObjectID = "Lfe-Ve-rFq"; */
 "Lfe-Ve-rFq.title" = "W: 0, H: 0";
 /* LmA-ln-jNe.title
 Class = "NSMenuItem"; title = "Remove from Favorites"; ObjectID = "LmA-ln-jNe"; */
-"LmA-ln-jNe.title" = "お気に入りから削除";
+"LmA-ln-jNe.title" = "よく使う項目から削除";
 /* LvE-Il-RyX.title
 Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "LvE-Il-RyX"; */
 "LvE-Il-RyX.title" = "シャープネスとノイズ…";
@@ -471,7 +471,7 @@ Class = "NSMenuItem"; title = "Next Media"; ObjectID = "Lzp-L7-kzG"; */
 "Lzp-L7-kzG.title" = "次のメディア";
 /* MKN-JM-Xav.title
 Class = "NSMenuItem"; title = "Show Thumbnails"; ObjectID = "MKN-JM-Xav"; */
-"MKN-JM-Xav.title" = "サムネイルを表示";
+"MKN-JM-Xav.title" = "サムネールを表示";
 /* MSf-lC-bwD.title
 Class = "NSTextFieldCell"; title = "Upscale Mode:"; ObjectID = "MSf-lC-bwD"; */
 "MSf-lC-bwD.title" = "拡大モード：";
@@ -516,10 +516,10 @@ Class = "NSMenuItem"; title = "Stretch to Fit"; ObjectID = "OXD-1x-aeb"; */
 "OXD-1x-aeb.title" = "画面に合わせて調整";
 /* OY7-WF-poV.title
 Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
-"OY7-WF-poV.title" = "最小化";
+"OY7-WF-poV.title" = "しまう";
 /* Olw-nP-bQN.title
 Class = "NSMenuItem"; title = "Hide Pixea"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Pixeaを非表示";
+"Olw-nP-bQN.title" = "Pixea を隠す";
 /* OwG-hA-I7X.title
 Class = "NSMenuItem"; title = "90º Clockwise"; ObjectID = "OwG-hA-I7X"; */
 "OwG-hA-I7X.title" = "90º 時計回り";
@@ -552,19 +552,19 @@ Class = "NSMenuItem"; title = "Date Added"; ObjectID = "QhC-BY-ca2"; */
 "QhC-BY-ca2.title" = "追加日";
 /* R4o-n2-Eq4.title
 Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
-"R4o-n2-Eq4.title" = "ズーム";
+"R4o-n2-Eq4.title" = "拡大／縮小";
 /* RN3-Qt-F71.title
 Class = "NSMenuItem"; title = "3:2"; ObjectID = "RN3-Qt-F71"; */
 "RN3-Qt-F71.title" = "3:2";
 /* RZH-Sj-qMe.title
 Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "RZH-Sj-qMe"; */
-"RZH-Sj-qMe.title" = "画面を埋める";
+"RZH-Sj-qMe.title" = "画面に合わせる";
 /* RuK-iH-K5f.title
 Class = "NSMenuItem"; title = "Add to Favorites"; ObjectID = "RuK-iH-K5f"; */
-"RuK-iH-K5f.title" = "お気に入りに追加";
+"RuK-iH-K5f.title" = "よく使う項目に追加";
 /* Ruw-6m-B2m.title
 Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
-"Ruw-6m-B2m.title" = "すべて選択";
+"Ruw-6m-B2m.title" = "すべてを選択";
 /* Ry1-9i-6M3.title
 Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ry1-9i-6M3"; */
 "Ry1-9i-6M3.title" = "テキストセル";
@@ -609,10 +609,10 @@ Class = "NSTextFieldCell"; title = "Pixea"; ObjectID = "TRy-1a-nmH"; */
 "TRy-1a-nmH.title" = "Pixea";
 /* Td7-aD-5lo.title
 Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
-"Td7-aD-5lo.title" = "ウィンドウ";
+"Td7-aD-5lo.title" = "ウインドウ";
 /* Tgc-bh-Ybe.title
 Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "Tgc-bh-Ybe"; */
-"Tgc-bh-Ybe.title" = "ゴミ箱に移動";
+"Tgc-bh-Ybe.title" = "ゴミ箱に入れる";
 /* UGm-SA-Fqb.title
 Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "UGm-SA-Fqb"; */
 "UGm-SA-Fqb.title" = "次のフレーム";
@@ -651,7 +651,7 @@ Class = "NSButton"; ibShadowedToolTip = "Select Text..."; ObjectID = "VZe-sp-Biq
 "VZe-sp-Biq.ibShadowedToolTip" = "テキストを選択...";
 /* Vdr-fp-XzO.title
 Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
-"Vdr-fp-XzO.title" = "他を非表示";
+"Vdr-fp-XzO.title" = "ほかを隠す";
 /* Vo4-ix-Uc3.title
 Class = "NSButtonCell"; title = "●"; ObjectID = "Vo4-ix-Uc3"; */
 "Vo4-ix-Uc3.title" = "●";
@@ -699,7 +699,7 @@ Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Wi7-J4-l0J"; */
 "Wi7-J4-l0J.headerCell.title" = "キー";
 /* WoY-kc-InQ.title
 Class = "NSMenuItem"; title = "Export..."; ObjectID = "WoY-kc-InQ"; */
-"WoY-kc-InQ.title" = "エクスポート...";
+"WoY-kc-InQ.title" = "書き出す...";
 /* WrH-5a-2aF.title
 Class = "NSBox"; title = "Box"; ObjectID = "WrH-5a-2aF"; */
 "WrH-5a-2aF.title" = "ボックス";
@@ -759,19 +759,19 @@ Class = "NSBox"; title = "Box"; ObjectID = "aIp-ev-WIq"; */
 "aIp-ev-WIq.title" = "ボックス";
 /* aPJ-Va-Sk8.title
 Class = "NSTextFieldCell"; title = "Zoom Out:"; ObjectID = "aPJ-Va-Sk8"; */
-"aPJ-Va-Sk8.title" = "ズームアウト:";
+"aPJ-Va-Sk8.title" = "縮小:";
 /* aSa-g5-7U9.title
 Class = "NSMenuItem"; title = "Clone Tool"; ObjectID = "aSa-g5-7U9"; */
 "aSa-g5-7U9.title" = "クローンツール";
 /* aTl-1u-JFS.title
 Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
-"aTl-1u-JFS.title" = "印刷...";
+"aTl-1u-JFS.title" = "プリント…";
 /* aTv-hl-jXN.title
 Class = "NSBox"; title = "Box"; ObjectID = "aTv-hl-jXN"; */
 "aTv-hl-jXN.title" = "ボックス";
 /* aUF-d1-5bR.title
 Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
-"aUF-d1-5bR.title" = "ウィンドウ";
+"aUF-d1-5bR.title" = "ウインドウ";
 /* aVN-Uu-M5E.placeholderString
 Class = "NSTextFieldCell"; placeholderString = "Search..."; ObjectID = "aVN-Uu-M5E"; */
 "aVN-Uu-M5E.placeholderString" = "検索...";
@@ -813,7 +813,7 @@ Class = "NSTextFieldCell"; title = "The machine learning algorithm is trained by
 "bLu-IO-FjE.title" = "機械学習アルゴリズムは、数百万の画像を分析することで訓練されています。通常のスケーリングアルゴリズムによって行われるような、画素の値を数学的に補間するのではなく、コンテンツを失わずに写真をシャープ化してアップスケールします。";
 /* bgE-Ny-zlN.title
 Class = "NSMenuItem"; title = "Get Info"; ObjectID = "bgE-Ny-zlN"; */
-"bgE-Ny-zlN.title" = "情報を取得";
+"bgE-Ny-zlN.title" = "情報を見る";
 /* bib-Uj-vzu.title
 Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
 "bib-Uj-vzu.title" = "ファイル";
@@ -837,7 +837,7 @@ Class = "NSMenuItem"; title = "Previous Frame"; ObjectID = "cWd-AP-HWm"; */
 "cWd-AP-HWm.title" = "前のフレーム";
 /* cjT-Xn-gYh.title
 Class = "NSMenuItem"; title = "Mute"; ObjectID = "cjT-Xn-gYh"; */
-"cjT-Xn-gYh.title" = "ミュート";
+"cjT-Xn-gYh.title" = "消音";
 /* cqB-yT-TcN.title
 Class = "NSMenuItem"; title = "RGB"; ObjectID = "cqB-yT-TcN"; */
 "cqB-yT-TcN.title" = "RGB";
@@ -864,7 +864,7 @@ Class = "NSTextFieldCell"; title = "Remove any object from your photo in a few b
 "dwN-NN-qTD.title" = "数回のブラシストロークで写真からオブジェクトを削除";
 /* e9u-yo-2uF.title
 Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "e9u-yo-2uF"; */
-"e9u-yo-2uF.title" = "ゴミ箱に移動";
+"e9u-yo-2uF.title" = "ゴミ箱に入れる";
 /* eKm-Kz-PM4.title
 Class = "NSMenuItem"; title = "Selection Tool"; ObjectID = "eKm-Kz-PM4"; */
 "eKm-Kz-PM4.title" = "選択ツール";
@@ -927,7 +927,7 @@ Class = "NSTextFieldCell"; title = "0 items"; ObjectID = "gVR-QG-fLx"; */
 "gVR-QG-fLx.title" = "0 アイテム";
 /* gWr-ui-SHc.title
 Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "gWr-ui-SHc"; */
-"gWr-ui-SHc.title" = "ゴミ箱に移動";
+"gWr-ui-SHc.title" = "ゴミ箱に入れる";
 /* gvM-Fz-Tpc.title
 Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "gvM-Fz-Tpc"; */
 "gvM-Fz-Tpc.title" = "右にスクロール";
@@ -963,7 +963,7 @@ Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
 "hz9-B4-Xy5.title" = "サービス";
 /* i6e-DF-AK3.title
 Class = "NSMenuItem"; title = "Show Thumbnails"; ObjectID = "i6e-DF-AK3"; */
-"i6e-DF-AK3.title" = "サムネイルを表示";
+"i6e-DF-AK3.title" = "サムネールを表示";
 /* i7t-1C-EW2.title
 Class = "NSMenuItem"; title = "16:9"; ObjectID = "i7t-1C-EW2"; */
 "i7t-1C-EW2.title" = "16:9";
@@ -1044,7 +1044,7 @@ Class = "NSTextFieldCell"; title = "Trackpad Gestures"; ObjectID = "lHS-If-wO6";
 "lHS-If-wO6.title" = "トラックパッドジェスチャー";
 /* lHj-J1-gLz.title
 Class = "NSWindow"; title = "Get Info"; ObjectID = "lHj-J1-gLz"; */
-"lHj-J1-gLz.title" = "情報を表示";
+"lHj-J1-gLz.title" = "情報";
 /* lZc-ig-wk3.title
 Class = "NSMenu"; title = "Subtitles"; ObjectID = "lZc-ig-wk3"; */
 "lZc-ig-wk3.title" = "字幕";
@@ -1107,7 +1107,7 @@ Class = "NSTextFieldCell"; title = "Status bar with resolution, date taken and o
 "nqQ-ho-gil.title" = "解像度、撮影日、その他の画像プロパティを表示するステータスバー";
 /* nr3-WM-JWj.title
 Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "nr3-WM-JWj"; */
-"nr3-WM-JWj.title" = "ズームアウト";
+"nr3-WM-JWj.title" = "縮小";
 /* nwQ-wL-OCE.title
 Class = "NSButtonCell"; title = "Cancel"; ObjectID = "nwQ-wL-OCE"; */
 "nwQ-wL-OCE.title" = "キャンセル";
@@ -1131,7 +1131,7 @@ Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "oYX-DN-eTA"; */
 "oYX-DN-eTA.title" = "テキスト選択ツール";
 /* oas-Oc-fiZ.title
 Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
-"oas-Oc-fiZ.title" = "最近開いた項目";
+"oas-Oc-fiZ.title" = "最近使った項目を開く";
 /* ohI-Hy-8It.title
 Class = "NSTextFieldCell"; title = "Resize Image"; ObjectID = "ohI-Hy-8It"; */
 "ohI-Hy-8It.title" = "画像サイズを変更";
@@ -1209,7 +1209,7 @@ Class = "NSMenuItem"; title = "Name"; ObjectID = "sYL-FL-bXv"; */
 "sYL-FL-bXv.title" = "名前";
 /* shR-Xo-D1C.title
 Class = "NSTextFieldCell"; title = "Fit to Screen:"; ObjectID = "shR-Xo-D1C"; */
-"shR-Xo-D1C.title" = "画面に合わせる：";
+"shR-Xo-D1C.title" = "画面の大きさに合わせる：";
 /* sod-aH-xTL.title
 Class = "NSBox"; title = "Box"; ObjectID = "sod-aH-xTL"; */
 "sod-aH-xTL.title" = "ボックス";
@@ -1218,16 +1218,16 @@ Class = "NSMenuItem"; title = "Stretch to Fit"; ObjectID = "t2S-s7-dew"; */
 "t2S-s7-dew.title" = "フィットにストレッチ";
 /* tEv-le-JYp.title
 Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "tEv-le-JYp"; */
-"tEv-le-JYp.title" = "画面に合わせる";
+"tEv-le-JYp.title" = "画面の大きさに合わせる";
 /* tTD-vd-D6Q.title
 Class = "NSMenuItem"; title = "Normal"; ObjectID = "tTD-vd-D6Q"; */
 "tTD-vd-D6Q.title" = "ノーマル";
 /* tTh-ST-KJH.title
 Class = "NSTextFieldCell"; title = "Zoom In / Zoom Out:"; ObjectID = "tTh-ST-KJH"; */
-"tTh-ST-KJH.title" = "ズームイン / ズームアウト：";
+"tTh-ST-KJH.title" = "拡大 / 縮小：";
 /* tXI-mr-wws.title
 Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
-"tXI-mr-wws.title" = "最近開いた項目";
+"tXI-mr-wws.title" = "最近使った項目を開く";
 /* tj6-nX-z2t.title
 Class = "NSWindow"; title = "Welcome"; ObjectID = "tj6-nX-z2t"; */
 "tj6-nX-z2t.title" = "ようこそ";
@@ -1269,7 +1269,7 @@ Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "ued-Tb-dcA"; */
 "ued-Tb-dcA.title" = "Finderで表示";
 /* ufs-fc-ciP.title
 Class = "NSMenuItem"; title = "Paste"; ObjectID = "ufs-fc-ciP"; */
-"ufs-fc-ciP.title" = "貼り付け";
+"ufs-fc-ciP.title" = "ペースト";
 /* v0i-GE-7ZD.title
 Class = "NSWindow"; title = "Upgrade"; ObjectID = "v0i-GE-7ZD"; */
 "v0i-GE-7ZD.title" = "アップグレード";
@@ -1278,7 +1278,7 @@ Class = "NSButtonCell"; title = "●"; ObjectID = "vAe-9l-YNQ"; */
 "vAe-9l-YNQ.title" = "●";
 /* vNY-rz-j42.title
 Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
-"vNY-rz-j42.title" = "メニューをクリア";
+"vNY-rz-j42.title" = "メニューを消去";
 /* vXa-zs-95c.title
 Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "vXa-zs-95c"; */
 "vXa-zs-95c.title" = "影";
@@ -1371,7 +1371,7 @@ Class = "NSTextFieldCell"; title = "Pixea wouldn't be possible without these com
 "z1W-SL-b9V.title" = "Pixeaはこれらのコンポーネントなしでは実現できませんでした：";
 /* z3A-9g-LlM.title
 Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "z3A-9g-LlM"; */
-"z3A-9g-LlM.title" = "ゴミ箱に移動";
+"z3A-9g-LlM.title" = "ゴミ箱に入れる";
 /* z6Y-gD-vft.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft"; */
 "z6Y-gD-vft.ibShadowedToolTip" = "画像サイズを変更。。";

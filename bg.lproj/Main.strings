@@ -978,7 +978,7 @@
 "ieI-ek-vp0.title" = "2 елемента";
 
 /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "ir5-La-uXN"; */
-"ir5-La-uXN.title" = "Премахване";
+"ir5-La-uXN.title" = "Приложи";
 
 /* Class = "NSTextFieldCell"; title = "Today"; ObjectID = "izt-Qb-S3c"; */
 "izt-Qb-S3c.title" = "Днес";
@@ -996,7 +996,7 @@
 "jaB-Gb-rUi.title" = "Сортиране";
 
 /* Class = "NSTextFieldCell"; title = "Option+Click to select pixels to clone. Click in any area to clone selected pixels."; ObjectID = "jbS-Ra-FBd"; */
-"jbS-Ra-FBd.title" = "Option+Щракнете, за да изберете пиксели за клониране. Щракнете във всяка област, за да клонирате избрани пиксели.";
+"jbS-Ra-FBd.title" = "Option+Щракнете, за да изберете пиксели за клониране.";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "jeY-Oj-aG4"; */
 "jeY-Oj-aG4.title" = "Приложи"; //прилагане
@@ -1041,7 +1041,7 @@
 "lHS-If-wO6.title" = "Жестове с тракпад";
 
 /* Class = "NSWindow"; title = "Get Info"; ObjectID = "lHj-J1-gLz"; */
-"lHj-J1-gLz.title" = "Получете информация";
+"lHj-J1-gLz.title" = "Информация";
 
 /* Class = "NSMenu"; title = "Subtitles"; ObjectID = "lZc-ig-wk3"; */
 "lZc-ig-wk3.title" = "Субтитри";

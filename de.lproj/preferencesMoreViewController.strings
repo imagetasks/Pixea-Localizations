@@ -18,7 +18,7 @@
 "arx-LP-oVu.title" = "Personalisieren Sie Ihren Desktop mit Lockera-Widgets. Behalten Sie wichtige Informationen im Blick.\nLockera-Widgets: Speicher, Jahresverlauf, An diesem Tag, Verbleibende Tage, Kalender, Datennutzung, WLAN-Datennutzung, vergangene Tage und Geburtstage.";
 
 /* Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
-"ulv-pe-DW8.title" = "Lockera-Widgets";
+"ulv-pe-DW8.title" = "Lockera Widgets";
 
 /* Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
 "wvu-eL-Cug.title" = "iStatistica Pro";

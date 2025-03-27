@@ -1,0 +1,33 @@
+/* 9uZ-Tb-YpY.title
+Class = "NSTextFieldCell"; title = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. If permission was not granted before, the dialog requesting you to grant access is displayed."; ObjectID = "9uZ-Tb-YpY"; */
+"9uZ-Tb-YpY.title" = "이미지나 비디오를 열 때마다 Pixea는 파일의 상위 폴더를 스캔하여 다른 미디어를 찾습니다. 이전에 권한이 부여되지 않은 경우, 액세스를 요청하는 대화 상자가 표시됩니다.";
+/* C3O-re-5e7.title
+Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "C3O-re-5e7"; */
+"C3O-re-5e7.title" = "액세스 허용";
+/* C96-9R-xlJ.title
+Class = "NSTextFieldCell"; title = "Pixea won't show \"Grant Access\" dialog when opening individual files if this option is unchecked. You will need to open a folder instead of an individual file to enable slideshow and media browsing features."; ObjectID = "C96-9R-xlJ"; */
+"C96-9R-xlJ.title" = "이 옵션이 선택 해제되면 Pixea는 개별 파일을 열 때 \"액세스 허용\" 대화 상자를 표시하지 않습니다. 슬라이드쇼 및 미디어 탐색 기능을 사용하려면 개별 파일 대신 폴더를 열어야 합니다.";
+/* Dzl-eQ-UQN.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dzl-eQ-UQN"; */
+"Dzl-eQ-UQN.title" = "텍스트 셀";
+/* GQW-6p-mcS.title
+Class = "NSTextFieldCell"; title = "Folder"; ObjectID = "GQW-6p-mcS"; */
+"GQW-6p-mcS.title" = "폴더";
+/* Vjm-4n-4X9.title
+Class = "NSBox"; title = "Box"; ObjectID = "Vjm-4n-4X9"; */
+"Vjm-4n-4X9.title" = "박스";
+/* cW7-h4-Cgz.title
+Class = "NSButtonCell"; title = "Ask for folder access when opening images"; ObjectID = "cW7-h4-Cgz"; */
+"cW7-h4-Cgz.title" = "이미지를 열 때 폴더 액세스 권한 요청";
+/* nBi-vL-aCO.title
+Class = "NSBox"; title = "Box"; ObjectID = "nBi-vL-aCO"; */
+"nBi-vL-aCO.title" = "박스";
+/* r28-NY-wGI.title
+Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "r28-NY-wGI"; */
+"r28-NY-wGI.title" = "Pixea에게 슬라이드쇼를 위한 추가 이미지와 비디오를 찾고 다음 폴더를 빠르게 탐색할 수 있는 권한을 부여하세요:";
+/* sLh-AK-fC7.title
+Class = "NSButtonCell"; title = "Manage Access..."; ObjectID = "sLh-AK-fC7"; */
+"sLh-AK-fC7.title" = "액세스 관리...";
+/* yrv-wp-W9z.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "yrv-wp-W9z"; */
+"yrv-wp-W9z.headerCell.title" = "폴더";

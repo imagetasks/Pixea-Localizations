@@ -18,7 +18,7 @@
 "arx-LP-oVu.title" = "Персонализируйте свой рабочий стол с помощью виджетов Lockera. Отслеживайте важную информацию.\nВиджеты Lockera:\nХранилище, Прогресс за год, В этот день, Осталось дней, Календарь, Использование данных, Использование данных Wi-Fi, Прошедшие дни и Дни рождения.";
 
 /* Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
-"ulv-pe-DW8.title" = "Видежеты Lockera";
+"ulv-pe-DW8.title" = "Lockera Widgets";
 
 /* Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
 "wvu-eL-Cug.title" = "iStatistica Pro";

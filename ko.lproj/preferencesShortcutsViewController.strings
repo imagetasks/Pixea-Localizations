@@ -1,0 +1,25 @@
+/* 9KK-3t-xZD.title
+Class = "NSTextFieldCell"; title = "Customize Pixea shortcuts:"; ObjectID = "9KK-3t-xZD"; */
+"9KK-3t-xZD.title" = "Pixea 바로가기 맞춤 설정:";
+/* UZU-so-m59.headerCell.title
+Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "UZU-so-m59"; */
+"UZU-so-m59.headerCell.title" = "폴더";
+/* VUf-W6-3O0.title
+Class = "NSTextFieldCell"; title = "Next Image"; ObjectID = "VUf-W6-3O0"; */
+"VUf-W6-3O0.title" = "다음 이미지";
+/* m9I-Wa-c89.title
+Class = "NSButtonCell"; title = "PLUS"; ObjectID = "m9I-Wa-c89"; */
+"m9I-Wa-c89.title" = "플러스";
+/* pva-Kw-3Xm.title
+Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pva-Kw-3Xm"; */
+"pva-Kw-3Xm.title" = "텍스트 셀";
+/* r8b-mT-VMR.title
+Class = "NSTextFieldCell"; title = "SPACE is reserved for \"Hold Spacebar and Drag to Scroll\" and \"Play / Pause Video\" actions. Z and ⌥Z are reserved for \"Zoom In\" / \"Zoom Out\" actions."; ObjectID = "r8b-mT-VMR"; */
+"r8b-mT-VMR.title" = "SPACE는 \"스페이스바를 누르고 드래그하여 스크롤\" 및 \"비디오 재생 / 일시정지\" 작업에 예약되어 있습니다.
+Z 및 ⌥Z는 \"확대\" / \"축소\" 작업에 예약되어 있습니다.";
+/* wqY-nK-Suo.title
+Class = "NSBox"; title = "Box"; ObjectID = "wqY-nK-Suo"; */
+"wqY-nK-Suo.title" = "상자";
+/* xDv-OG-qlV.title
+Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
+"xDv-OG-qlV.title" = "이전/다음 이미지 보기 위해 좌/우로 스와이프";

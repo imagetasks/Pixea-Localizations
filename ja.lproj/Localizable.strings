@@ -68,6 +68,7 @@ export jpeg quality */
 "Removing objects..." = "オブジェクトを削除しています…";
 "Processing transparency..." = "透明度を処理しています…";
 "Upscaling image..." = "画像をアップスケーリングしています…";
+"Processing upscaled image..." = "拡大画像を処理しています...";
 "Loading..." = "読み込み中…";
 /* Stopping...
 Stopping upscaling process */
@@ -92,10 +93,10 @@ gif frames */
 "Access granted" = "アクセス許可が付与されました";
 /* Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue. */
 "Pixea needs write permissions to delete \'%@\'. Click \"Grant Access\" to continue." = "Pixea には \'%@\' を削除するための書き込み権限が必要です。 続行するには「アクセスを許可」をクリックしてください。";
-"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**スペース** は「**スペースバーを押しながらドラッグしてスクロール**」および「**ビデオの再生/一時停止**」アクションに予約されています。**Z** および **⌥Z** は「**ズームイン**/ **ズームアウト**」アクションに予約されています。";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**スペース** は「**スペースバーを押しながらドラッグしてスクロール**」および「**ビデオの再生/一時停止**」アクションに予約されています。**Z** および **⌥Z** は「**縮小**/ **拡大**」アクションに予約されています。";
 "Clipboard" = "クリップボード";
 "Unmute" = "ミュート解除";
-"Mute" = "ミュート";
+"Mute" = "消音";
 /* Track %i - [%@]
 track 1 - [spanish] */
 "Track %i - [%@]" = "トラック %i - [%@]";
@@ -128,11 +129,11 @@ shortcuts */
 "Volume Down" = "音量を下げる";
 "Mute/Unmute" = "ミュート/ミュート解除";
 "Slideshow" = "スライドショー";
-"Zoom In" = "ズームアウト";
-"Zoom Out" = "ズームイン";
-"Fit to Screen" = "画面に合わせる";
+"Zoom In" = "拡大";
+"Zoom Out" = "縮小";
+"Fit to Screen" = "画面の大きさに合わせる";
 "Stretch to Fit" = "フィットに引き伸ばす";
-"Fill Screen" = "画面を埋める";
+"Fill Screen" = "画面に合わせる";
 "Toggle Fullscreen" = "全画面表示を切り替え";
 "Actual Size" = "実際のサイズ";
 "Fixed Size & Position" = "固定サイズと位置";
@@ -153,7 +154,7 @@ shortcuts */
 "Deselect" = "選択解除";
 "Show Thumbnails" = "サムネイルを表示";
 "Get Info" = "情報を見る";
-"Move to Trash" = "ゴミ箱に移動";
+"Move to Trash" = "ゴミ箱に入れる";
 "Show in Finder" = "Finder で表示";
 "Export..." = "エクスポート…";
 "Crop Image..." = "画像をトリミング…";
@@ -186,7 +187,7 @@ Preferences items */
 "Preferences" = "環境設定";
 "General" = "一般";
 "Appearance" = "外観";
-"Shortcuts" = "ショートカット";
+"Shortcuts" = "キーボードショートカット";
 "File Types" = "ファイルタイプ";
 "Video" = "ビデオ";
 "Folder Access" = "フォルダへのアクセス";

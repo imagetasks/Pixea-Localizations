@@ -67,7 +67,7 @@
 "Loading..." = "Загрузка...";
 "Stopping..." = "Отмена..."; //Stopping upscaling process
 "Processing '%@'..." = "Обработка '%@'..."; //Saving file
-
+"Processing upscaled image..." = "Обработка увеличенного изображения...";
 
 "Created: %@" = "Создан: %@"; //file created
 "Taken: %@" = "Снято: %@"; //photo taken

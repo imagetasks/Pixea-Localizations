@@ -68,6 +68,7 @@ export jpeg quality */
 "Removing objects..." = "Eliminando objetos...";
 "Processing transparency..." = "Procesando transparencia...";
 "Upscaling image..." = "Ampliando imagen...";
+"Processing upscaled image..." = "Procesando imagen ampliada...";
 "Loading..." = "Cargando...";
 /* Stopping...
 Stopping upscaling process */

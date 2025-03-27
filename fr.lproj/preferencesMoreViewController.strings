@@ -18,7 +18,7 @@ Class = "NSTextFieldCell"; title = "Personalize your Desktop with Lockera widget
 "arx-LP-oVu.title" = "Personnalisez votre bureau avec les widgets Lockera. Suivez les informations essentielles.\nWidgets Lockera: Stockage, Avancement de l\'année, Ce jour-là, Jours restants, Calendrier, Utilisation des données, Utilisation des données Wi-Fi, Jours écoulés, et Anniversaires.";
 /* ulv-pe-DW8.title
 Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
-"ulv-pe-DW8.title" = "Widgets Lockera";
+"ulv-pe-DW8.title" = "Lockera Widgets";
 /* wvu-eL-Cug.title
 Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
 "wvu-eL-Cug.title" = "iStatistica Pro";

@@ -75,7 +75,7 @@ Class = "NSTextFieldCell"; title = "Deleting files and folders"; ObjectID = "gsV
 "gsV-rn-zs2.title" = "ファイルとフォルダーの削除";
 /* h84-vw-CFX.title
 Class = "NSTextFieldCell"; title = "Fill Screen"; ObjectID = "h84-vw-CFX"; */
-"h84-vw-CFX.title" = "画面を埋める";
+"h84-vw-CFX.title" = "画面に合わせる";
 /* hek-kW-9le.title
 Class = "NSButtonCell"; title = "Quit Pixea when last window is closed"; ObjectID = "hek-kW-9le"; */
 "hek-kW-9le.title" = "最後のウィンドウが閉じられたときにPixeaを終了";

@@ -44,7 +44,7 @@
 /* Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
 "GTf-ff-aln.title" = "Die macOS-Engine Bevorzugen";
 
-/* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
+/* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "kX7-LK-XlL"; */
 "kX7-LK-XlL.title" = "Verwenden Sie immer integrierte";
 
 /* Class = "NSButtonCell"; title = "Process HDR images"; ObjectID = "4BK-K4-0o5"; */

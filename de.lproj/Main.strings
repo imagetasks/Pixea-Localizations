@@ -99,7 +99,7 @@
 "54U-4s-nQf.title" = "M";
 
 /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "5CW-qq-0gN"; */
-"5CW-qq-0gN.title" = "Tatsächliche Größe";
+"5CW-qq-0gN.title" = "Originalgröße";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "5FY-Fw-KLM"; */
 "5FY-Fw-KLM.title" = "Box";
@@ -156,7 +156,7 @@
 "7i2-91-a7w.title" = "Box";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "8Ru-D7-ENs"; */
-"8Ru-D7-ENs.title" = "Datum der Änderung";
+"8Ru-D7-ENs.title" = "Geändert";
 
 /* Class = "NSMenu"; title = "Edit with..."; ObjectID = "8VL-ln-ZDQ"; */
 "8VL-ln-ZDQ.title" = "Bearbeiten mit..."; //if a dynamic value to be replaced better the verb to be at the end Mit some_tool bearbeiten
@@ -192,7 +192,7 @@
 "AIK-D5-Bcw.title" = "einmaliger Kauf";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "AIL-CH-Cv8"; */
-"AIL-CH-Cv8.title" = "Alles auswählen";
+"AIL-CH-Cv8.title" = "Alle auswählen";
 
 /* Class = "NSTextFieldCell"; title = "0/0"; ObjectID = "AMG-AS-CZn"; */
 "AMG-AS-CZn.title" = "0/0";
@@ -273,7 +273,7 @@
 "DJs-LR-ydU.title" = "Für dieses Archiv ist ein Kennwort erforderlich:";
 
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "DNE-ms-IDb"; */
-"DNE-ms-IDb.title" = "Nächster";
+"DNE-ms-IDb.title" = "Weiter";
 
 /* Class = "NSMenu"; title = "Video"; ObjectID = "DVW-AH-S9e"; */
 "DVW-AH-S9e.title" = "Video";
@@ -348,7 +348,7 @@
 "H8K-iQ-dVU.title" = "Sortieren nach";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
-"H8h-7b-M4v.title" = "Ansicht";
+"H8h-7b-M4v.title" = "Darstellung";
 
 /* Class = "NSMenu"; title = "Panel Size"; ObjectID = "HBQ-iF-HgZ"; */
 "HBQ-iF-HgZ.title" = "Panel-Größe";
@@ -360,7 +360,7 @@
 "Hx8-bn-cdh.title" = "〉";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
-"HyV-fh-RgO.title" = "Ansicht"; 
+"HyV-fh-RgO.title" = "Darstellung";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "I7k-iA-z8K"; */
 "I7k-iA-z8K.title" = "Box";
@@ -435,7 +435,7 @@
 "LD0-zF-hNW.title" = "Widerrufen";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
-"LE2-aR-0XJ.title" = "Alle nach vorn bringen";
+"LE2-aR-0XJ.title" = "Alle nach vorne bringe";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "LKs-6t-Gpx"; */
 "LKs-6t-Gpx.title" = "Box";
@@ -450,7 +450,7 @@
 "LZX-I5-3QR.title" = "Anwenden";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Lbs-JZ-O2N"; */
-"Lbs-JZ-O2N.title" = "Im Finder anzeigen";
+"Lbs-JZ-O2N.title" = "Im Finder zeigen";
 
 /* Class = "NSMenuItem"; title = "Find..."; ObjectID = "LdV-jm-VcE"; */
 "LdV-jm-VcE.title" = "Suchen ...";
@@ -516,7 +516,7 @@
 "OXD-1x-aeb.title" = "Dehnen und Anpassen";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
-"OY7-WF-poV.title" = "Minimieren"; 
+"OY7-WF-poV.title" = "Im Dock ablegen";
 
 /* Class = "NSMenuItem"; title = "Hide Pixea"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Pixea ausblenden";
@@ -564,7 +564,7 @@
 "RuK-iH-K5f.title" = "Zu Favoriten hinzufügen"; 
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
-"Ruw-6m-B2m.title" = "Alles auswählen"; 
+"Ruw-6m-B2m.title" = "Alle auswählen";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ry1-9i-6M3"; */
 "Ry1-9i-6M3.title" = "Textzelle"; 
@@ -612,7 +612,7 @@
 "Td7-aD-5lo.title" = "Fenster"; 
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "Tgc-bh-Ybe"; */
-"Tgc-bh-Ybe.title" = "In den Papierkorb verschieben"; 
+"Tgc-bh-Ybe.title" = "In den Papierkorb legen";
 
 /* Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "UGm-SA-Fqb"; */
 "UGm-SA-Fqb.title" = "Nächster Rahmen";
@@ -642,7 +642,7 @@
 "VHm-My-9aD.title" = "Preis";
 
 /* Class = "NSMenuItem"; title = "File Type"; ObjectID = "VJo-ej-Jj8"; */
-"VJo-ej-Jj8.title" = "Dateityp"; 
+"VJo-ej-Jj8.title" = "Dateityp";
 
 /* Class = "NSMenuItem"; title = "Sort by"; ObjectID = "VKC-a1-mMW"; */
 "VKC-a1-mMW.title" = "Sortieren nach";
@@ -864,7 +864,7 @@
 "dwN-NN-qTD.title" = "Entfernen Sie beliebige Objekte mit wenigen Pinselstrichen aus Ihrem Foto";
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "e9u-yo-2uF"; */
-"e9u-yo-2uF.title" = "In den Papierkorb bewegen"; 
+"e9u-yo-2uF.title" = "In den Papierkorb legen";
 
 /* Class = "NSMenuItem"; title = "Selection Tool"; ObjectID = "eKm-Kz-PM4"; */
 "eKm-Kz-PM4.title" = "Auswahl-Werkzeug";
@@ -912,7 +912,7 @@
 "g0T-Tv-F9l.title" = "Sortieren von Medienverzeichnissen nach Name/Typ/Größe/Datum oder Zufallswiedergabe";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "g12-LW-4XD"; */
-"g12-LW-4XD.title" = "Im Finder anzeigen"; 
+"g12-LW-4XD.title" = "Im Finder zeigen";
 
 /* Class = "NSWindow"; title = "Settings"; ObjectID = "g7q-IO-vA8"; */
 "g7q-IO-vA8.title" = "Einstellungen";
@@ -1014,7 +1014,7 @@
 "jrX-9u-FS5.title" = "Bildskalierung";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "k6s-Qo-Lkq"; */
-"k6s-Qo-Lkq.title" = "Änderungsdatum"; 
+"k6s-Qo-Lkq.title" = "Geändert";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "k8g-2K-Bey"; */
 "k8g-2K-Bey.title" = "Box";
@@ -1044,7 +1044,7 @@
 "lHS-If-wO6.title" = "Trackpad-Gesten";
 
 /* Class = "NSWindow"; title = "Get Info"; ObjectID = "lHj-J1-gLz"; */
-"lHj-J1-gLz.title" = "Informationen anfordern";
+"lHj-J1-gLz.title" = "Informationen";
 
 /* Class = "NSMenu"; title = "Subtitles"; ObjectID = "lZc-ig-wk3"; */
 "lZc-ig-wk3.title" = "Untertitel"; 
@@ -1077,7 +1077,7 @@
 "mQA-MX-ia8.title" = "Hintergrundfarbe";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "maz-8z-dLI"; */
-"maz-8z-dLI.title" = "Änderungsdatum"; 
+"maz-8z-dLI.title" = "Geändert";
 
 /* Class = "NSTextFieldCell"; title = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. This enables slideshows, media browsing with arrow keys, switching between subfolders, and sorting the directory contents. If permission was not granted before, the dialog requesting you to grant access is displayed. You can change this behavior in Settings at any time."; ObjectID = "moW-aX-kij"; */
 "moW-aX-kij.title" = "Wenn Sie ein Bild oder Video öffnen, versucht Pixea, den übergeordneten Ordner der Datei nach anderen Medien zu durchsuchen. Dies ermöglicht Diashows, das Durchsuchen von Medien mit Pfeiltasten, das Wechseln zwischen Unterordnern und das Sortieren des Verzeichnisinhalts. Wenn zuvor keine Berechtigung erteilt wurde, wird der Dialog angezeigt, in dem Sie aufgefordert werden, den Zugriff zu gewähren. Sie können dieses Verhalten in den Einstellungen jederzeit ändern.";
@@ -1131,7 +1131,7 @@
 "oYX-DN-eTA.title" = "Textauswahl-Werkzeug";
 
 /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
-"oas-Oc-fiZ.title" = "Zuletzt verwendete Elemente öffnen";
+"oas-Oc-fiZ.title" = "Benutzte Objekte";
 
 /* Class = "NSTextFieldCell"; title = "Resize Image"; ObjectID = "ohI-Hy-8It"; */
 "ohI-Hy-8It.title" = "Bildgröße ändern";
@@ -1182,7 +1182,7 @@
 "qxH-GS-iQ4.title" = "Box";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "rID-o7-iKz"; */
-"rID-o7-iKz.title" = "Änderungsdatum"; 
+"rID-o7-iKz.title" = "Geändert";
 
 /* Class = "NSMenuItem"; title = "Adjust Hue, Saturation, Brightness..."; ObjectID = "rOH-IW-srC"; */
 "rOH-IW-srC.title" = "Farbton, Sättigung und Helligkeit anpassen...";
@@ -1266,10 +1266,10 @@
 "uY4-Tr-wCF.title" = "●";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "ued-Tb-dcA"; */
-"ued-Tb-dcA.title" = "Im Finder anzeigen"; 
+"ued-Tb-dcA.title" = "Im Finder zeigen";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "ufs-fc-ciP"; */
-"ufs-fc-ciP.title" = "Einfügen"; 
+"ufs-fc-ciP.title" = "Einsetzen";
 
 /* Class = "NSWindow"; title = "Upgrade"; ObjectID = "v0i-GE-7ZD"; */
 "v0i-GE-7ZD.title" = "Aktualisierung";
@@ -1278,7 +1278,7 @@
 "vAe-9l-YNQ.title" = "●";
 
 /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
-"vNY-rz-j42.title" = "Menü löschen";
+"vNY-rz-j42.title" = "Einträge löschen";
 
 /* Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "vXa-zs-95c"; */
 "vXa-zs-95c.title" = "Schatten"; 
@@ -1296,7 +1296,7 @@
 "wGB-4Q-Jmg.title" = "Tastaturkurzbefehle"; //OR Tastaturk-Hotkeys
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "wLA-RR-qSZ"; */
-"wLA-RR-qSZ.title" = "Tatsächliche Größe";
+"wLA-RR-qSZ.title" = "Originalgröße";
 
 /* Class = "NSWindow"; title = "Upscale Image..."; ObjectID = "wXo-xS-kZS"; */
 "wXo-xS-kZS.title" = "Bild hochskalieren...";
@@ -1371,7 +1371,7 @@
 "z1W-SL-b9V.title" = "Ohne diese Komponenten wäre Pixea nicht möglich:";
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "z3A-9g-LlM"; */
-"z3A-9g-LlM.title" = "In den Papierkorb verschieben"; 
+"z3A-9g-LlM.title" = "In den Papierkorb legen";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft"; */
 "z6Y-gD-vft.ibShadowedToolTip" = "Bildgröße ändern..";

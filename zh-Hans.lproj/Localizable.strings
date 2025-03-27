@@ -68,6 +68,7 @@ export jpeg quality */
 "Removing objects..." = "移除对象中……";
 "Processing transparency..." = "处理透明度……";
 "Upscaling image..." = "图像升级中……";
+"Processing upscaled image..." = "正在处理放大的图像...";
 "Loading..." = "加载中……";
 /* Stopping...
 Stopping upscaling process */
@@ -133,9 +134,9 @@ shortcuts */
 "Zoom Out" = "缩小";
 "Fit to Screen" = "适应屏幕";
 "Stretch to Fit" = "拉伸适应";
-"Fill Screen" = "填满屏幕";
+"Fill Screen" = "充满屏幕";
 "Toggle Fullscreen" = "切换全屏";
-"Actual Size" = "实际尺寸";
+"Actual Size" = "实际大小";
 "Fixed Size & Position" = "固定大小和位置";
 "Playback Speed x 0.5" = "播放速度 x 0.5";
 "Playback Speed x 0.9" = "播放速度 x 0.9";
@@ -155,8 +156,8 @@ shortcuts */
 "Show Thumbnails" = "显示缩略图";
 "Get Info" = "获取信息";
 "Move to Trash" = "移到废纸篓";
-"Show in Finder" = "在Finder中显示";
-"Export..." = "导出……";
+"Show in Finder" = "在 Finder 中显示";
+"Export..." = "导出…";
 "Crop Image..." = "裁剪图像……";
 "Hand Tool" = "手形工具";
 "Adjust Hue, Saturation, Brightness..." = "调整色调、饱和度、亮度……";
@@ -187,7 +188,7 @@ Preferences items */
 "Preferences" = "偏好设置";
 "General" = "一般";
 "Appearance" = "外观";
-"Shortcuts" = "快捷方式";
+"Shortcuts" = "键盘快捷键";
 "File Types" = "文件类型";
 "Video" = "视频";
 "Folder Access" = "文件夹访问";
