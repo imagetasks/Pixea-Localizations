@@ -264,7 +264,7 @@
 "D5D-oq-By8.title" = "Контрастность";
 
 /* Class = "NSTextFieldCell"; title = "Square Selection:"; ObjectID = "DFh-Uq-L1Q"; */
-"DFh-Uq-L1Q.title" = "Выделение квадрата:";
+"DFh-Uq-L1Q.title" = "Выделение квадратом:";
 
 /* Class = "NSMenuItem"; title = "Settings..."; ObjectID = "DJJ-LH-C5t"; */
 "DJJ-LH-C5t.title" = "Настройки...";

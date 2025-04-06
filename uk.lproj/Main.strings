@@ -9,7 +9,7 @@ Class = "NSButtonCell"; title = "●"; ObjectID = "0FS-Rn-xpr"; */
 "0FS-Rn-xpr.title" = "●";
 /* 0MR-nN-3xe.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "0MR-nN-3xe"; */
-"0MR-nN-3xe.title" = "Застосувати";
+"0MR-nN-3xe.title" = "Застосув";
 /* 0Qo-LP-ge7.title
 Class = "NSMenuItem"; title = "Audio"; ObjectID = "0Qo-LP-ge7"; */
 "0Qo-LP-ge7.title" = "Аудіо";
@@ -219,7 +219,7 @@ Class = "NSMenuItem"; title = "Settings..."; ObjectID = "B4P-M2-v7q"; */
 "B4P-M2-v7q.title" = "Налаштування...";
 /* BMn-5U-qpQ.title
 Class = "NSTextFieldCell"; title = "Double-click to toggle Fullscreen"; ObjectID = "BMn-5U-qpQ"; */
-"BMn-5U-qpQ.title" = "Двічі клацніть, щоб переключити на повноекранний режим";
+"BMn-5U-qpQ.title" = "Натисніть двічі, щоб переключитись на повноекранний режим";
 /* BOF-NM-1cW.title
 Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "Параметри…";
@@ -264,13 +264,13 @@ Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "D5D-oq-By8"; */
 "D5D-oq-By8.title" = "Контраст";
 /* DFh-Uq-L1Q.title
 Class = "NSTextFieldCell"; title = "Square Selection:"; ObjectID = "DFh-Uq-L1Q"; */
-"DFh-Uq-L1Q.title" = "Квадратний вибір:";
+"DFh-Uq-L1Q.title" = "Виділення квадратом:";
 /* DJJ-LH-C5t.title
 Class = "NSMenuItem"; title = "Settings..."; ObjectID = "DJJ-LH-C5t"; */
 "DJJ-LH-C5t.title" = "Налаштування...";
 /* DJs-LR-ydU.title
 Class = "NSTextFieldCell"; title = "Password is required for this archive:"; ObjectID = "DJs-LR-ydU"; */
-"DJs-LR-ydU.title" = "Пароль потрібен для цього архіву:";
+"DJs-LR-ydU.title" = "Для цього архіву потрібен пароль:";
 /* DNE-ms-IDb.title
 Class = "NSButtonCell"; title = "Next"; ObjectID = "DNE-ms-IDb"; */
 "DNE-ms-IDb.title" = "Далі";
@@ -300,7 +300,7 @@ Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Довідка";
 /* FBO-zE-1dF.title
 Class = "NSTextFieldCell"; title = "The invisible image viewer & video player"; ObjectID = "FBO-zE-1dF"; */
-"FBO-zE-1dF.title" = "Невидимий переглядач зображень і відеоплеєр";
+"FBO-zE-1dF.title" = "Непомітний переглядач зображень і відеоплеєр";
 /* FVb-yn-q62.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Move around the picture..."; ObjectID = "FVb-yn-q62"; */
 "FVb-yn-q62.ibShadowedToolTip" = "Переміщуйтеся по зображенню...";
@@ -375,7 +375,7 @@ Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "IHD-sx-eo9"; */
 "IHD-sx-eo9.title" = "Роздільна здатність";
 /* IHT-n0-mvJ.title
 Class = "NSButtonCell"; title = "Resize"; ObjectID = "IHT-n0-mvJ"; */
-"IHT-n0-mvJ.title" = "Змінити розмір";
+"IHT-n0-mvJ.title" = "Змінити";
 /* IQv-IB-iLA.title
 Class = "NSWindow"; title = "Pixea"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Pixea";
@@ -408,7 +408,7 @@ Class = "NSTextFieldCell"; title = "Settings..."; ObjectID = "K2k-bp-amS"; */
 "K2k-bp-amS.title" = "Налаштування...";
 /* K5C-Rc-DMb.title
 Class = "NSTextFieldCell"; title = "Use Objects Removal Tool to remove unwanted objects, people, or defects. Pixea will reconstruct what was behind the object. Use Clone tool to polish the result."; ObjectID = "K5C-Rc-DMb"; */
-"K5C-Rc-DMb.title" = "Використовуйте інструмент видалення об\'єктів, щоб видалити небажані об\'єкти, людей або дефекти. Pixea відновить те, що було за об\'єктом. Використовуйте інструмент клону, щоб відшліфувати результат.";
+"K5C-Rc-DMb.title" = "Використовуйте інструмент видалення об\'єктів, щоб видалити небажані об\'єкти, людей або дефекти. Pixea відновить те, що було позаду об\'єкта. Використовуйте інструмент клонування, щоб удосконалити результат.";
 /* KFA-UH-GAx.title
 Class = "NSBox"; title = "Box"; ObjectID = "KFA-UH-GAx"; */
 "KFA-UH-GAx.title" = "Бокс";
@@ -447,7 +447,7 @@ Class = "NSMenuItem"; title = "Get Info"; ObjectID = "LQy-38-T9R"; */
 "LQy-38-T9R.title" = "Отримати інформацію";
 /* LZX-I5-3QR.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "LZX-I5-3QR"; */
-"LZX-I5-3QR.title" = "Застосувати";
+"LZX-I5-3QR.title" = "Застосув";
 /* Lbs-JZ-O2N.title
 Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Lbs-JZ-O2N"; */
 "Lbs-JZ-O2N.title" = "Показати у Finder";
@@ -468,7 +468,7 @@ Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "LvE-Il-RyX";
 "LvE-Il-RyX.title" = "Різкість і шум...";
 /* Lzp-L7-kzG.title
 Class = "NSMenuItem"; title = "Next Media"; ObjectID = "Lzp-L7-kzG"; */
-"Lzp-L7-kzG.title" = "Наступний медіа";
+"Lzp-L7-kzG.title" = "Наступний медіафайл";
 /* MKN-JM-Xav.title
 Class = "NSMenuItem"; title = "Show Thumbnails"; ObjectID = "MKN-JM-Xav"; */
 "MKN-JM-Xav.title" = "Показати мініатюри";
@@ -492,7 +492,7 @@ Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
 "NMo-om-nkz.title" = "Сервіси";
 /* Nk1-R6-DuY.title
 Class = "NSTextFieldCell"; title = "Previous / Next Media:"; ObjectID = "Nk1-R6-DuY"; */
-"Nk1-R6-DuY.title" = "Попереднє/Наступне медіа:";
+"Nk1-R6-DuY.title" = "Попередній/Наступний медіафайл:";
 /* O3o-wm-ana.title
 Class = "NSMenuItem"; title = "Fixed Size & Position"; ObjectID = "O3o-wm-ana"; */
 "O3o-wm-ana.title" = "Фіксований розмір і положення";
@@ -597,10 +597,10 @@ Class = "NSTextFieldCell"; title = "Welcome to Pixea!"; ObjectID = "SyG-73-GCB";
 "SyG-73-GCB.title" = "Ласкаво просимо до Pixea!";
 /* T6u-Hv-Ln0.title
 Class = "NSMenuItem"; title = "System default"; ObjectID = "T6u-Hv-Ln0"; */
-"T6u-Hv-Ln0.title" = "Системний за замовчуванням";
+"T6u-Hv-Ln0.title" = "Системні налаштування";
 /* TAo-ff-djH.title
 Class = "NSMenuItem"; title = "Full Screen background:"; ObjectID = "TAo-ff-djH"; */
-"TAo-ff-djH.title" = "Фон повного екрану:";
+"TAo-ff-djH.title" = "Фон повноекраннного режиму:";
 /* TDY-tf-kxD.title
 Class = "NSBox"; title = "Box"; ObjectID = "TDY-tf-kxD"; */
 "TDY-tf-kxD.title" = "Коробка";
@@ -618,7 +618,7 @@ Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "UGm-SA-Fqb"; */
 "UGm-SA-Fqb.title" = "Наступний кадр";
 /* UQP-Jr-V7o.title
 Class = "NSTextFieldCell"; title = "Double-click to Step Backward 10s"; ObjectID = "UQP-Jr-V7o"; */
-"UQP-Jr-V7o.title" = "Подвійний клік, щоб повернути назад на 10 с";
+"UQP-Jr-V7o.title" = "Подвійний клік, щоб повернутись назад на 10 с";
 /* UQg-Np-NgI.title
 Class = "NSMenu"; title = "Sort by"; ObjectID = "UQg-Np-NgI"; */
 "UQg-Np-NgI.title" = "Сортувати за";
@@ -663,7 +663,7 @@ Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
 "W48-6f-4Dl.title" = "Редагувати";
 /* WDs-a0-atr.title
 Class = "NSMenuItem"; title = "Step Backward 30s"; ObjectID = "WDs-a0-atr"; */
-"WDs-a0-atr.title" = "Повернути назад на 30 с";
+"WDs-a0-atr.title" = "Крок назад на 30с";
 /* WMu-6w-ljA.title
 Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "WMu-6w-ljA"; */
 "WMu-6w-ljA.title" = "Інструмент виділення тексту";
@@ -693,7 +693,7 @@ Class = "NSMenuItem"; title = "Tools"; ObjectID = "WX4-3f-MXQ"; */
 "WX4-3f-MXQ.title" = "Інструменти";
 /* Was-JA-tGl.title
 Class = "NSMenuItem"; title = "New from Clipboard"; ObjectID = "Was-JA-tGl"; */
-"Was-JA-tGl.title" = "Новий з буфера обміну";
+"Was-JA-tGl.title" = "Нове з буфера обміну";
 /* Wi7-J4-l0J.headerCell.title
 Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Wi7-J4-l0J"; */
 "Wi7-J4-l0J.headerCell.title" = "Ключ";
@@ -804,7 +804,7 @@ Class = "NSMenuItem"; title = "Localizations"; ObjectID = "92h-11-9j8"; */
 "92h-11-9j8.title" = "Локалізації";
 /* b6o-em-pee.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "b6o-em-pee"; */
-"b6o-em-pee.title" = "Застосувати";
+"b6o-em-pee.title" = "Застосув";
 /* bHN-V9-Jl9.title
 Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "bHN-V9-Jl9"; */
 "bHN-V9-Jl9.title" = "Надати доступ";
@@ -855,7 +855,7 @@ Class = "NSButtonCell"; title = "Cancel"; ObjectID = "dRC-iW-vch"; */
 "dRC-iW-vch.title" = "Скасувати";
 /* dTs-zJ-MNH.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "dTs-zJ-MNH"; */
-"dTs-zJ-MNH.title" = "Застосувати";
+"dTs-zJ-MNH.title" = "Застосув";
 /* dik-yh-Vk0.title
 Class = "NSMenu"; title = "Edit with..."; ObjectID = "dik-yh-Vk0"; */
 "dik-yh-Vk0.title" = "Редагувати за допомогою...";
@@ -882,7 +882,7 @@ Class = "NSMenuItem"; title = "Hand Tool"; ObjectID = "fAE-4v-4dG"; */
 "fAE-4v-4dG.title" = "Інструмент \"Рука\"";
 /* fBA-dM-TKX.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Color Temperature..."; ObjectID = "fBA-dM-TKX"; */
-"fBA-dM-TKX.ibShadowedToolTip" = "Температура кольору...";
+"fBA-dM-TKX.ibShadowedToolTip" = "Колірна температура...";
 /* fK4-ad-YlY.title
 Class = "NSWindow"; title = "Acknowledgements"; ObjectID = "fK4-ad-YlY"; */
 "fK4-ad-YlY.title" = "Подяки";
@@ -918,7 +918,7 @@ Class = "NSWindow"; title = "Settings"; ObjectID = "g7q-IO-vA8"; */
 "g7q-IO-vA8.title" = "Налаштування";
 /* gAH-Nf-82X.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Clone Tool"; ObjectID = "gAH-Nf-82X"; */
-"gAH-Nf-82X.ibShadowedToolTip" = "Інструмент \"Клон\"";
+"gAH-Nf-82X.ibShadowedToolTip" = "Інструмент клонування";
 /* gLk-de-69p.title
 Class = "NSTextFieldCell"; title = "Details:"; ObjectID = "gLk-de-69p"; */
 "gLk-de-69p.title" = "Деталі:";
@@ -951,7 +951,7 @@ Class = "NSMenuItem"; title = "16:10"; ObjectID = "hcM-8w-dSu"; */
 "hcM-8w-dSu.title" = "16:10";
 /* hcf-RF-4ls.title
 Class = "NSMenuItem"; title = "Clone Tool"; ObjectID = "hcf-RF-4ls"; */
-"hcf-RF-4ls.title" = "Інструмент \"Клон\"";
+"hcf-RF-4ls.title" = "Інструмент клонування";
 /* hcl-ym-lx4.title
 Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "hcl-ym-lx4"; */
 "hcl-ym-lx4.title" = "Перевірити на наявність оновлень...";
@@ -999,10 +999,10 @@ Class = "NSTextFieldCell"; title = "Sorting"; ObjectID = "jaB-Gb-rUi"; */
 "jaB-Gb-rUi.title" = "Сортування";
 /* jbS-Ra-FBd.title
 Class = "NSTextFieldCell"; title = "Option+Click to select pixels to clone. Click in any area to clone selected pixels."; ObjectID = "jbS-Ra-FBd"; */
-"jbS-Ra-FBd.title" = "Option+Клацніть, щоб вибрати пікселі для клону. Клацніть у будь-якій області, щоб клонувати вибрані пікселі.";
+"jbS-Ra-FBd.title" = "Option+Клацніть, щоб вибрати пікселі для клону.";
 /* jeY-Oj-aG4.title
 Class = "NSButtonCell"; title = "Apply"; ObjectID = "jeY-Oj-aG4"; */
-"jeY-Oj-aG4.title" = "Застосувати";
+"jeY-Oj-aG4.title" = "Застосув";
 /* jel-QX-qNV.title
 Class = "NSTextFieldCell"; title = "4X Upscale"; ObjectID = "jel-QX-qNV"; */
 "jel-QX-qNV.title" = "4X збільшення";
@@ -1080,7 +1080,7 @@ Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "maz-8z-dLI"; */
 "maz-8z-dLI.title" = "Дата модифікації";
 /* moW-aX-kij.title
 Class = "NSTextFieldCell"; title = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. This enables slideshows, media browsing with arrow keys, switching between subfolders, and sorting the directory contents. If permission was not granted before, the dialog requesting you to grant access is displayed. You can change this behavior in Settings at any time."; ObjectID = "moW-aX-kij"; */
-"moW-aX-kij.title" = "Коли ви відкриваєте будь-яке зображення або відео, Pixea намагається прочитати батьківську папку файлу, щоб знайти інші медіафайли. Це дозволяє проводити слайд-шоу, переглядати медіа за допомогою клавіш зі стрілками, перемикатися між підпапками та сортувати вміст каталогу. Якщо дозвіл не було раніше надано, з’явиться діалогове вікно для надання доступу. Ви можете змінити цю поведінку в Налаштуваннях у будь-який час.";
+"moW-aX-kij.title" = "Коли ви відкриваєте будь-яке зображення або відео, Pixea намагається прочитати батьківську папку файлу, щоб знайти інші медіафайли. Це дозволяє проводити слайд-шоу, переглядати медіа за допомогою клавіш зі стрілками, перемикатися між підпапками та сортувати вміст каталогу. Якщо дозвіл не було  надано раніше, з’явиться діалогове вікно для надання доступу. Ви можете змінити цю поведінку в Налаштуваннях у будь-який час.";
 /* mpy-Gc-OkH.title
 Class = "NSButtonCell"; title = "Purchase"; ObjectID = "mpy-Gc-OkH"; */
 "mpy-Gc-OkH.title" = "Купити";
@@ -1104,7 +1104,7 @@ Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "nZZ-rK-2YN"; */
 "nZZ-rK-2YN.title" = "Попереднє медіа";
 /* nqQ-ho-gil.title
 Class = "NSTextFieldCell"; title = "Status bar with resolution, date taken and other image properties"; ObjectID = "nqQ-ho-gil"; */
-"nqQ-ho-gil.title" = "Рядок стану з роздільною здатністю, датою зйомки та іншими властивостями зображення";
+"nqQ-ho-gil.title" = "Статусбар з роздільною здатністю, датою зйомки та іншими властивостями зображення";
 /* nr3-WM-JWj.title
 Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "nr3-WM-JWj"; */
 "nr3-WM-JWj.title" = "Зменшити";
@@ -1146,10 +1146,10 @@ Class = "NSMenuItem"; title = "Sharpness and Noise..."; ObjectID = "pCa-58-8Oh";
 "pCa-58-8Oh.title" = "Різкість і шум...";
 /* pHN-GX-oKg.title
 Class = "NSTextFieldCell"; title = "Paint over the object you want to remove. Click \"Remove\" when done."; ObjectID = "pHN-GX-oKg"; */
-"pHN-GX-oKg.title" = "Намалюйте по об\'єкту, який хочете видалити.";
+"pHN-GX-oKg.title" = "Замалюйте об\'єкт, який хочете видалити.";
 /* pI0-XX-fNl.title
 Class = "NSTextFieldCell"; title = "Color Temperature"; ObjectID = "pI0-XX-fNl"; */
-"pI0-XX-fNl.title" = "Температура кольору";
+"pI0-XX-fNl.title" = "Колірна температура";
 /* pSZ-1U-BMT.title
 Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "pSZ-1U-BMT"; */
 "pSZ-1U-BMT.title" = "Перемішати";
@@ -1359,7 +1359,7 @@ Class = "NSBox"; title = "Box"; ObjectID = "yHg-du-rEw"; */
 "yHg-du-rEw.title" = "Рамка";
 /* yJj-uy-re2.title
 Class = "NSMenuItem"; title = "Adjust Color Temperature..."; ObjectID = "yJj-uy-re2"; */
-"yJj-uy-re2.title" = "Налаштувати температуру кольору...";
+"yJj-uy-re2.title" = "Налаштувати колірну температуру...";
 /* yMG-g6-wez.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Sharpness and Noise..."; ObjectID = "yMG-g6-wez"; */
 "yMG-g6-wez.ibShadowedToolTip" = "Різкість і шум...";
@@ -1368,7 +1368,7 @@ Class = "NSBox"; title = "Box"; ObjectID = "ycU-Cs-JLq"; */
 "ycU-Cs-JLq.title" = "Рамка";
 /* z1W-SL-b9V.title
 Class = "NSTextFieldCell"; title = "Pixea wouldn't be possible without these components:"; ObjectID = "z1W-SL-b9V"; */
-"z1W-SL-b9V.title" = "Pixea не було б можливо без цих компонентів:";
+"z1W-SL-b9V.title" = "Pixea не була б можливою без цих компонентів:";
 /* z3A-9g-LlM.title
 Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "z3A-9g-LlM"; */
 "z3A-9g-LlM.title" = "Перемістити в Смітник";
@@ -1383,7 +1383,7 @@ Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images an
 "zLZ-LC-aXe.title" = "Дозвольте Pixea шукати додаткові зображення та відео для слайдшоу і швидко переглядати наступні папки:";
 /* zRl-BO-RJ0.title
 Class = "NSTextFieldCell"; title = "Four times double the pixels using ML-powered algorithms"; ObjectID = "zRl-BO-RJ0"; */
-"zRl-BO-RJ0.title" = "Чотири рази подвійні пікселі з використанням алгоритмів на базі ML";
+"zRl-BO-RJ0.title" = "4х збільшення пікселів з використанням алгоритмів на базі ML";
 /* zd4-VX-VWV.title
 Class = "NSTextFieldCell"; title = "Super Resolution"; ObjectID = "zd4-VX-VWV"; */
 "zd4-VX-VWV.title" = "Суперроздільна здатність";
@@ -1398,4 +1398,4 @@ Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "zjJ-yz-HL8"; *
 "zjJ-yz-HL8.headerCell.title" = "Папка";
 /* zzy-YJ-msS.title
 Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
-"zzy-YJ-msS.title" = "Непрозорість";
+"zzy-YJ-msS.title" = "Прозорість";

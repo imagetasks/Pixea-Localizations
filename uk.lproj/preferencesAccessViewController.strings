@@ -6,7 +6,7 @@ Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "C3O-re-5e7"; */
 "C3O-re-5e7.title" = "Надати доступ";
 /* C96-9R-xlJ.title
 Class = "NSTextFieldCell"; title = "Pixea won't show \"Grant Access\" dialog when opening individual files if this option is unchecked. You will need to open a folder instead of an individual file to enable slideshow and media browsing features."; ObjectID = "C96-9R-xlJ"; */
-"C96-9R-xlJ.title" = "Pixea не буде показувати діалог \"Надати доступ\", коли ви відкриваєте окремі файли, якщо цей параметр знятий. Вам потрібно буде відкрити папку замість окремого файлу, щоб увімкнути функції слайдшоу та перегляду медіафайлів.";
+"C96-9R-xlJ.title" = "Pixea не буде показувати діалогове вікно \"Надати доступ\", коли ви відкриваєте окремі файли, якщо цей параметр знятий. Вам потрібно буде відкрити папку замість окремого файлу, щоб увімкнути функції слайдшоу та перегляду медіафайлів.";
 /* Dzl-eQ-UQN.title
 Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dzl-eQ-UQN"; */
 "Dzl-eQ-UQN.title" = "Текстовий осередок";

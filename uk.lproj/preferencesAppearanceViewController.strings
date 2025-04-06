@@ -36,7 +36,7 @@ Class = "NSBox"; title = "Box"; ObjectID = "R27-9r-DyL"; */
 "R27-9r-DyL.title" = "Коробка";
 /* RTj-IL-rf3.title
 Class = "NSButtonCell"; title = "Animate Show Previous/Next media actions"; ObjectID = "RTj-IL-rf3"; */
-"RTj-IL-rf3.title" = "Анімація дій показу попередніх/наступних медіа";
+"RTj-IL-rf3.title" = "Анімація дій показу попередніх/наступних медіафайлів";
 /* TDB-d8-u4M.title
 Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
 "TDB-d8-u4M.title" = "Колір фону";
@@ -45,7 +45,7 @@ Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-
 "WeQ-iF-4I5.title" = "Фон повного екрану";
 /* XRc-FW-CYe.title
 Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
-"XRc-FW-CYe.title" = "Системний стандарт";
+"XRc-FW-CYe.title" = "Системні налаштування";
 /* Xod-Ki-J3G.title
 Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
 "Xod-Ki-J3G.title" = "Коробка";
@@ -66,7 +66,7 @@ Class = "NSTextFieldCell"; title = "Panel size:"; ObjectID = "hND-55-qek"; */
 "hND-55-qek.title" = "Розмір панелі:";
 /* ik7-8b-NVU.title
 Class = "NSButtonCell"; title = "Show folders and archives on top"; ObjectID = "ik7-8b-NVU"; */
-"ik7-8b-NVU.title" = "Показати папки та архіви зверху";
+"ik7-8b-NVU.title" = "Показати папки та архіви згори";
 /* nZQ-9C-Ogw.title
 Class = "NSButtonCell"; title = "PLUS"; ObjectID = "nZQ-9C-Ogw"; */
 "nZQ-9C-Ogw.title" = "ПЛЮС";

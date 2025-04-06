@@ -12,7 +12,7 @@ Class = "NSTextFieldCell"; title = "Preloading of previous and next images offer
 "YYM-D8-hhL.title" = "Попереднє завантаження попередніх та наступних зображень забезпечує миттєве перемикання, але вимагає більшого використання пам\'яті RAM. Зніміть цю опцію, якщо у вашому комп\'ютері мало пам\'яті.";
 /* irp-me-Bao.title
 Class = "NSTextFieldCell"; title = "Memory and disk cache"; ObjectID = "irp-me-Bao"; */
-"irp-me-Bao.title" = "Кеш пам\'яті та диска";
+"irp-me-Bao.title" = "Пам\'ять та кеш зображень";
 /* jNe-Nj-BJO.title
 Class = "NSBox"; title = "Box"; ObjectID = "jNe-Nj-BJO"; */
 "jNe-Nj-BJO.title" = "Коробка";
@@ -21,7 +21,7 @@ Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
 "p97-VP-ELd.title" = "ПЛЮС";
 /* s1J-IY-0lH.title
 Class = "NSButtonCell"; title = "Cache thumbnails"; ObjectID = "s1J-IY-0lH"; */
-"s1J-IY-0lH.title" = "Кешування ескізів";
+"s1J-IY-0lH.title" = "Кешування мініатюр";
 /* x9U-hd-fpM.title
 Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "x9U-hd-fpM"; */
 "x9U-hd-fpM.title" = "Нуль КБ";
@@ -50,8 +50,8 @@ Class = "NSButtonCell"; title = "as HDR"; ObjectID = "u3J-bs-ZaH"; */
 Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
 "FOW-av-yIA.title" = "як SDR";
 /* Class = "NSTextFieldCell"; title = "Minification filtering"; ObjectID = "jkJ-Uo-raR"; */
-"jkJ-Uo-raR.title" = "Мініфікаційна фільтрація";
+"jkJ-Uo-raR.title" = "Фільтрація";
 /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "I3E-ap-nn2"; */
-"I3E-ap-nn2.title" = "Трилінійна,";
+"I3E-ap-nn2.title" = "Лінійна,";
 /* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
 "OWj-KS-U6S.title" = "Трилінійна,";

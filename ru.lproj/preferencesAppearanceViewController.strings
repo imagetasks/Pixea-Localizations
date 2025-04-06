@@ -36,7 +36,7 @@
 "R27-9r-DyL.title" = "Ящик"; //A
 
 /* Class = "NSButtonCell"; title = "Animate Show Previous/Next media actions"; ObjectID = "RTj-IL-rf3"; */
-"RTj-IL-rf3.title" = "Анимация Предыдущий/Следующий медиафайл";
+"RTj-IL-rf3.title" = "Анимация действий Предыдущий/Следующий медиафайл";
 
 /* Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
 "TDB-d8-u4M.title" = "Цвет фона";

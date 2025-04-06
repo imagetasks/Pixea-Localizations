@@ -131,8 +131,8 @@ shortcuts */
 "Slideshow" = "Слайдшоу";
 "Zoom In" = "Збільшити";
 "Zoom Out" = "Зменшити";
-"Fit to Screen" = "Помістити на екран";
-"Stretch to Fit" = "Розтягнути до розміру";
+"Fit to Screen" = "Допасувати до розмірів екрана";
+"Stretch to Fit" = "Розтягнути до розмірів екрана";
 "Fill Screen" = "Заповнити екран";
 "Toggle Fullscreen" = "Переключити на повний екран";
 "Actual Size" = "Справжній розмір";
@@ -191,7 +191,7 @@ Preferences items */
 "File Types" = "Типи файлів";
 "Video" = "Відео";
 "Folder Access" = "Доступ до папок";
-"Advanced" = "Розширене";
+"Advanced" = "Додатково";
 "More Apps" = "Більше додатків";
 /* in
 inches, cm/mm, pixels, points per inch, etc... */

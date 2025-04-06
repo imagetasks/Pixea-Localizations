@@ -3,7 +3,7 @@ Class = "NSBox"; title = "Box"; ObjectID = "2Iy-x3-QKJ"; */
 "2Iy-x3-QKJ.title" = "Коробка";
 /* 5KC-MQ-7fc.title
 Class = "NSButtonCell"; title = "Keep always on top"; ObjectID = "5KC-MQ-7fc"; */
-"5KC-MQ-7fc.title" = "Тримати завжди зверху";
+"5KC-MQ-7fc.title" = "Поверх інших вікон";
 /* 6rx-de-30V.title
 Class = "NSButtonCell"; title = "Automatically switch to full screen"; ObjectID = "6rx-de-30V"; */
 "6rx-de-30V.title" = "Автоматично переключатися на повний екран";
@@ -15,7 +15,7 @@ Class = "NSBox"; title = "Box"; ObjectID = "7vn-qv-CEQ"; */
 "7vn-qv-CEQ.title" = "Коробка";
 /* 8R8-C7-F4i.title
 Class = "NSTextFieldCell"; title = "Default zoom"; ObjectID = "8R8-C7-F4i"; */
-"8R8-C7-F4i.title" = "За замовчуванням масштабування";
+"8R8-C7-F4i.title" = "Масштабування за замовчуванням";
 /* 8gm-BS-eqC.title
 Class = "NSTextFieldCell"; title = "Sort media files by"; ObjectID = "8gm-BS-eqC"; */
 "8gm-BS-eqC.title" = "Сортувати медіафайли за";
@@ -27,7 +27,7 @@ Class = "NSButtonCell"; title = "Date modified"; ObjectID = "CzN-fp-7TW"; */
 "CzN-fp-7TW.title" = "Дата зміни";
 /* EER-jc-phA.title
 Class = "NSTextFieldCell"; title = "Stretch to Fit"; ObjectID = "EER-jc-phA"; */
-"EER-jc-phA.title" = "Розтягнути для підгонки";
+"EER-jc-phA.title" = "Розтягнути до розмірів екрану";
 /* F74-M3-Cci.title
 Class = "NSButtonCell"; title = "Manage Access..."; ObjectID = "F74-M3-Cci"; */
 "F74-M3-Cci.title" = "Керування доступом...";
@@ -60,7 +60,7 @@ Class = "NSButtonCell"; title = "Use existing window for the same folder"; Objec
 "Sc4-2j-8ms.title" = "Використовувати існуюче вікно для тієї самої папки";
 /* VDb-Ze-X4P.title
 Class = "NSButtonCell"; title = "Automatically set sort mode based on Finder's sort column"; ObjectID = "VDb-Ze-X4P"; */
-"VDb-Ze-X4P.title" = "Автоматично встановити режим сортування на основі стовпця сортування Finder";
+"VDb-Ze-X4P.title" = "Автоматично встановити режим сортування на основі Finder";
 /* Wf9-JJ-N3n.title
 Class = "NSButtonCell"; title = "Keep aspect ratio when resizing"; ObjectID = "Wf9-JJ-N3n"; */
 "Wf9-JJ-N3n.title" = "Зберігати співвідношення сторін при зміні розміру";
@@ -99,7 +99,7 @@ Class = "NSTextFieldCell"; title = "Editing images"; ObjectID = "m2J-xa-kiP"; */
 "m2J-xa-kiP.title" = "Редагування зображень";
 /* mw4-Oi-R2y.title
 Class = "NSTextFieldCell"; title = "If this option is selected, Pixea will sort the contents based on the preferences set in your file system. By default, this option applies to subfolders only, as the sort information for any folder is stored in its parent's attributes. If you want to apply automatic sorting to your root folder, grant permission to access its parent."; ObjectID = "mw4-Oi-R2y"; */
-"mw4-Oi-R2y.title" = "Якщо цей параметр вибрано, Pixea буде сортувати вміст на основі параметрів, встановлених у вашій файловій системі. За замовчуванням цей параметр застосовується лише до підкаталогів, оскільки інформація про сортування для будь-якої папки зберігається в атрибутах її батька. Якщо ви хочете застосувати автоматичне сортування до вашої кореневої папки, надайте дозвіл на доступ до її батька.";
+"mw4-Oi-R2y.title" = "Якщо цей параметр вибрано, Pixea буде сортувати вміст на основі параметрів, встановлених у вашій файловій системі. За замовчуванням цей параметр застосовується лише до підкаталогів, оскільки інформація про сортування для будь-якої папки зберігається в атрибутах її батьківської папки. Якщо ви хочете застосувати автоматичне сортування до вашої кореневої папки, надайте дозвіл на доступ до її батьківської папки.";
 /* qwJ-si-VBu.title
 Class = "NSButtonCell"; title = "Use existing window for any folder"; ObjectID = "qwJ-si-VBu"; */
 "qwJ-si-VBu.title" = "Використовувати існуюче вікно для будь-якої папки";
@@ -114,8 +114,8 @@ Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "ysg-55-8kg"; */
 "ysg-55-8kg.title" = "Справжній розмір";
 /* zXk-De-iOY.title
 Class = "NSTextFieldCell"; title = "Fit To Screen"; ObjectID = "zXk-De-iOY"; */
-"zXk-De-iOY.title" = "Підігнати під екран";
+"zXk-De-iOY.title" = "Допасувати до розмірів екрана";
 /* Class = "NSButtonCell"; title = "Pixels"; ObjectID = "jNp-fN-bqc"; */
 "jNp-fN-bqc.title" = "Пікселі";
 /* Class = "NSButtonCell"; title = "Points"; ObjectID = "91x-64-bJ9"; */
-"91x-64-bJ9.title" = "Очки";
+"91x-64-bJ9.title" = "Крапки";

@@ -75,7 +75,7 @@ Class = "NSButtonCell"; title = "avi"; ObjectID = "Qgh-u2-qxf"; */
 "Qgh-u2-qxf.title" = "avi";
 /* Roy-IC-n7s.title
 Class = "NSTextFieldCell"; title = "Reopen Pixea windows to apply this setting."; ObjectID = "Roy-IC-n7s"; */
-"Roy-IC-n7s.title" = "Повторно відкрийте вікна Pixea, щоб застосувати цю налаштування.";
+"Roy-IC-n7s.title" = "Повторно відкрийте вікна Pixea, щоб застосувати це налаштування.";
 /* S84-wM-JWM.title
 Class = "NSButtonCell"; title = "Select All"; ObjectID = "S84-wM-JWM"; */
 "S84-wM-JWM.title" = "Вибрати все";

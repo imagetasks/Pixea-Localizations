@@ -3,7 +3,7 @@ Class = "NSMenuItem"; title = "x 0.5"; ObjectID = "0ku-5x-buq"; */
 "0ku-5x-buq.title" = "x 0,5";
 /* 91x-64-bJ9.title
 Class = "NSButtonCell"; title = "Step forward/backward 30s"; ObjectID = "91x-64-bJ9"; */
-"91x-64-bJ9.title" = "Крок вперед/назад";
+"91x-64-bJ9.title" = "Крок вперед/назад на 30с";
 /* C5L-OT-pcu.title
 Class = "NSMenuItem"; title = "x 2.0"; ObjectID = "C5L-OT-pcu"; */
 "C5L-OT-pcu.title" = "x 2,0";
@@ -33,7 +33,7 @@ Class = "NSMenuItem"; title = "x 1.1"; ObjectID = "UFb-bx-xDc"; */
 "UFb-bx-xDc.title" = "x 1,1";
 /* UsA-ZU-Slq.title
 Class = "NSTextFieldCell"; title = "Swiping left/right"; ObjectID = "UsA-ZU-Slq"; */
-"UsA-ZU-Slq.title" = "Проведення вліво/вправо";
+"UsA-ZU-Slq.title" = "Свайп вліво/вправо";
 /* cGE-u0-PNl.title
 Class = "NSBox"; title = "Box"; ObjectID = "cGE-u0-PNl"; */
 "cGE-u0-PNl.title" = "Коробка";
@@ -45,10 +45,10 @@ Class = "NSButtonCell"; title = "Repeat"; ObjectID = "eR3-E3-vOw"; */
 "eR3-E3-vOw.title" = "Повторити";
 /* fCB-IQ-slF.title
 Class = "NSMenuItem"; title = "Normal"; ObjectID = "fCB-IQ-slF"; */
-"fCB-IQ-slF.title" = "Нормально";
+"fCB-IQ-slF.title" = "Звичайна";
 /* iPN-a7-Gon.title
 Class = "NSButtonCell"; title = "Show next media"; ObjectID = "iPN-a7-Gon"; */
-"iPN-a7-Gon.title" = "Показати наступне медіа";
+"iPN-a7-Gon.title" = "Показати наступний медіафайл";
 /* jNp-fN-bqc.title
 Class = "NSButtonCell"; title = "Show next/previous media"; ObjectID = "jNp-fN-bqc"; */
 "jNp-fN-bqc.title" = "Показати наступне/попереднє медіа";
@@ -63,10 +63,10 @@ Class = "NSMenuItem"; title = "x 0.9"; ObjectID = "mgD-hk-Dmy"; */
 "mgD-hk-Dmy.title" = "x 0,9";
 /* oGQ-pN-Jnb.title
 Class = "NSButtonCell"; title = "Remember playback position"; ObjectID = "oGQ-pN-Jnb"; */
-"oGQ-pN-Jnb.title" = "Запам\'ятати місце відтворення";
+"oGQ-pN-Jnb.title" = "Запам\'ятати місце зупинки";
 /* pqz-0e-mL8.title
 Class = "NSButtonCell"; title = "Step forward/backward 30s"; ObjectID = "pqz-0e-mL8"; */
-"pqz-0e-mL8.title" = "Крок вперед/назад";
+"pqz-0e-mL8.title" = "Крок вперед/назад на 30с";
 /* prn-Kr-UHQ.title
 Class = "NSBox"; title = "Box"; ObjectID = "prn-Kr-UHQ"; */
 "prn-Kr-UHQ.title" = "Коробка";
