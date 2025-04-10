@@ -16,7 +16,7 @@ If you'd like to contribute, pick up a branch and follow contribution guidelines
 
 ## Localizations in progress
 
-[**German**](https://github.com/imagetasks/Pixea-Localizations/tree/main/de.lproj), [**Russian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/ru.lproj), [**Bulgarian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/bg.lproj), [**French**](https://github.com/imagetasks/Pixea-Localizations/tree/main/fr.lproj), [**Spanish**](https://github.com/imagetasks/Pixea-Localizations/tree/main/es.lproj), [**Italian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/it.lproj), [**Portuguese**](https://github.com/imagetasks/Pixea-Localizations/tree/main/pt-PT.lproj), [**Japanese**](https://github.com/imagetasks/Pixea-Localizations/tree/main/ja.lproj), [**Chinese (Simplified)**](https://github.com/imagetasks/Pixea-Localizations/tree/main/zh-Hans.lproj), **Ukrainian** (in progress). 
+[**German**](https://github.com/imagetasks/Pixea-Localizations/tree/main/de.lproj), [**Russian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/ru.lproj), [**Bulgarian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/bg.lproj), [**French**](https://github.com/imagetasks/Pixea-Localizations/tree/main/fr.lproj), [**Spanish**](https://github.com/imagetasks/Pixea-Localizations/tree/main/es.lproj), [**Italian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/it.lproj), [**Portuguese**](https://github.com/imagetasks/Pixea-Localizations/tree/main/pt-PT.lproj), [**Japanese**](https://github.com/imagetasks/Pixea-Localizations/tree/main/ja.lproj), [**Chinese (Simplified)**](https://github.com/imagetasks/Pixea-Localizations/tree/main/zh-Hans.lproj), [**Ukrainian**](https://github.com/imagetasks/Pixea-Localizations/tree/main/uk.lproj). 
 
 Fork to add your own language!
 
@@ -32,7 +32,7 @@ Create an [**issue**](https://github.com/imagetasks/Pixea-Localizations/issues).
 4. Create a pull-request when done
 
 ## Big thanks to our contributors
-[IT Creativity + Art Team](https://github.com/nimdassdev)
+[IT Creativity + Art Team](https://github.com/nimdassdev), Nika Danilevskaya.
 
 
 

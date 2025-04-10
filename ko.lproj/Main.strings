@@ -83,8 +83,8 @@ Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "416-RX-gxy"; */
 Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "4Nr-8T-Cgs"; */
 "4Nr-8T-Cgs.title" = "이전 미디어";
 /* 4bu-yX-k9h.title
-Class = "NSTextFieldCell"; title = "100 x 100"; ObjectID = "4bu-yX-k9h"; */
-"4bu-yX-k9h.title" = "100 x 100";
+Class = "NSTextFieldCell"; title = ""; ObjectID = "4bu-yX-k9h"; */
+"4bu-yX-k9h.title" = "";
 /* 4sb-4s-VLi.title
 Class = "NSMenuItem"; title = "Quit Pixea"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "Pixea 종료";

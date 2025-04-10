@@ -40,7 +40,7 @@
 "Folders: %lu" = "Папки: %lu";
 "Folders: %lu, Archives: %lu" = "Папки: %lu, Архивы: %lu";
 "Can't open" = "Не могу открыть";
-"Unable to open this image file" = "Невозможно открыть этот файл изображения";
+"Unable to open this image file" = "Невозможно открыть это изображение";
 "Unable to open this video file" = "Невозможно открыть этот видеофайл";
 "Unable to open this archive" = "Невозможно открыть этот архив";
 "No media" = "Нет медиафайлов";

@@ -83,8 +83,8 @@
 /* Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "4Nr-8T-Cgs"; */
 "4Nr-8T-Cgs.title" = "Предыдущий медиафайл";
 
-/* Class = "NSTextFieldCell"; title = "100 x 100"; ObjectID = "4bu-yX-k9h"; */
-"4bu-yX-k9h.title" = "100 x 100";
+/* Class = "NSTextFieldCell"; title = ""; ObjectID = "4bu-yX-k9h"; */
+"4bu-yX-k9h.title" = "";
 
 /* Class = "NSMenuItem"; title = "Quit Pixea"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "Завершить Pixea";
@@ -249,7 +249,7 @@
 "Cc6-JU-cWk.title" = "Инструмент «Удаление объектов»";
 
 /* Class = "NSMenuItem"; title = "Aspect Ratio"; ObjectID = "Cia-re-48J"; */
-"Cia-re-48J.title" = "Формат";
+"Cia-re-48J.title" = "Соотношение сторон";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "Ckk-un-E0S"; */
 "Ckk-un-E0S.title" = "Формат:";
@@ -1221,7 +1221,7 @@
 "tEv-le-JYp.title" = "По размеру экрана";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "tTD-vd-D6Q"; */
-"tTD-vd-D6Q.title" = "Нормальный";
+"tTD-vd-D6Q.title" = "Нормальная";
 
 /* Class = "NSTextFieldCell"; title = "Zoom In / Zoom Out:"; ObjectID = "tTh-ST-KJH"; */
 "tTh-ST-KJH.title" = "Увеличение/уменьшение масштаба:";
