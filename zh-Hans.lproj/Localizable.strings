@@ -158,6 +158,12 @@ shortcuts */
 "Move to Trash" = "移到废纸篓";
 "Show in Finder" = "在 Finder 中显示";
 "Export..." = "导出…";
+"Toggle Image Adjustments Toolbar" = "显示/隐藏图像调整工具栏";
+"Hide Image Adjustments Toolbar" = "隐藏图像调整工具栏";
+"Show Image Adjustments Toolbar" = "显示图像调整工具栏";
+"Toggle Main Toolbar" = "显示/隐藏主工具栏";
+"Hide Main Toolbar" = "隐藏主工具栏";
+"Show Main Toolbar" = "显示主工具栏";
 "Crop Image..." = "裁剪图像……";
 "Hand Tool" = "手形工具";
 "Adjust Hue, Saturation, Brightness..." = "调整色调、饱和度、亮度……";
@@ -204,3 +210,6 @@ inches, cm/mm, pixels, points per inch, etc... */
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ 字节";
 "%li sec" = "%li 秒";
+
+"Playing" = "正在播放";
+"Paused" = "已暂停";

@@ -142,6 +142,12 @@
 "Move to Trash" = "Move to Trash";
 "Show in Finder" = "Show in Finder";
 "Export..." = "Export...";
+"Toggle Image Adjustments Toolbar" = "Toggle Image Adjustments Toolbar";
+"Hide Image Adjustments Toolbar" = "Hide Image Adjustments Toolbar";
+"Show Image Adjustments Toolbar" = "Show Image Adjustments Toolbar";
+"Toggle Main Toolbar" = "Toggle Main Toolbar";
+"Hide Main Toolbar" = "Hide Main Toolbar";
+"Show Main Toolbar" = "Show Main Toolbar";
 "Crop Image..." = "Crop Image...";
 "Hand Tool" = "Hand Tool";
 "Adjust Hue, Saturation, Brightness..." = "Adjust Hue, Saturation, Brightness...";
@@ -189,3 +195,6 @@
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ bytes";
 "%li sec" = "%li sec";
+
+"Playing" = "Playing";
+"Paused" = "Paused";

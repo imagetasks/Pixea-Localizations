@@ -73,3 +73,12 @@ Class = "NSBox"; title = "Box"; ObjectID = "prn-Kr-UHQ"; */
 /* ro3-ih-vbR.title
 Class = "NSTextFieldCell"; title = "Default playback speed"; ObjectID = "ro3-ih-vbR"; */
 "ro3-ih-vbR.title" = "Vitesse de lecture par défaut";
+
+/* Class = "NSTextFieldCell"; title = "On-screen display"; ObjectID = "CGZ-wi-SiP"; */
+"CGZ-wi-SiP.title" = "Affichage à l'écran";
+
+/* Class = "NSButtonCell"; title = "Show on-screen display"; ObjectID = "kJn-L6-VDl"; */
+"kJn-L6-VDl.title" = "Afficher l'affichage à l'écran";
+
+/* Class = "NSTextFieldCell"; title = "Font size"; ObjectID = "pLW-qy-yYB"; */
+"pLW-qy-yYB.title" = "Taille de la police";

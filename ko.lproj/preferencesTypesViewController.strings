@@ -204,3 +204,24 @@ Class = "NSButtonCell"; title = "rgb"; ObjectID = "yjJ-er-ruk"; */
 /* zqN-70-S4v.title
 Class = "NSButtonCell"; title = "avif"; ObjectID = "zqN-70-S4v"; */
 "zqN-70-S4v.title" = "avif";
+
+/* Class = "NSTextFieldCell"; title = "Folders"; ObjectID = "Cs6-4C-bCA"; */
+"Cs6-4C-bCA.title" = "폴더";
+
+/* Class = "NSButtonCell"; title = "Ignore hierarchy"; ObjectID = "7k9-KY-I4f"; */
+"7k9-KY-I4f.title" = "계층 무시";
+
+/* Class = "NSTextFieldCell"; title = "Scan depth"; ObjectID = "DhB-fc-7WZ"; */
+"DhB-fc-7WZ.title" = "스캔 깊이";
+
+/* Class = "NSTextFieldCell"; title = "Reopen Pixea windows to apply this setting."; ObjectID = "HoZ-0E-OyP"; */
+"HoZ-0E-OyP.title" = "이 설정을 적용하려면 Pixea 창을 다시 열어야 합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Treat unknown file types"; ObjectID = "g9E-ZD-yIa"; */
+"g9E-ZD-yIa.title" = "알 수 없는 파일 형식 처리";
+
+/* Class = "NSButtonCell"; title = "As images"; ObjectID = "E70-Hn-Pt5"; */
+"E70-Hn-Pt5.title" = "이미지로 처리";
+
+/* Class = "NSButtonCell"; title = "As videos"; ObjectID = "NIV-7n-QdW"; */
+"NIV-7n-QdW.title" = "비디오로 처리";

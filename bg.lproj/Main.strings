@@ -1396,3 +1396,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 "zzy-YJ-msS.title" = "Непрозрачност";
+
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "xge-86-qHy"; */
+"xge-86-qHy.title" = "Задаване като тапет на работния плот";
+
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "Z9f-9r-oMW"; */
+"Z9f-9r-oMW.title" = "Задаване като тапет на работния плот";

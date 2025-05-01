@@ -157,6 +157,12 @@ shortcuts */
 "Move to Trash" = "ゴミ箱に入れる";
 "Show in Finder" = "Finder で表示";
 "Export..." = "エクスポート…";
+"Toggle Image Adjustments Toolbar" = "画像調整ツールバーの表示/非表示を切り替え";
+"Hide Image Adjustments Toolbar" = "画像調整ツールバーを非表示にする";
+"Show Image Adjustments Toolbar" = "画像調整ツールバーを表示する";
+"Toggle Main Toolbar" = "メインツールバーの表示/非表示を切り替え";
+"Hide Main Toolbar" = "メインツールバーを非表示にする";
+"Show Main Toolbar" = "メインツールバーを表示する";
 "Crop Image..." = "画像をトリミング…";
 "Hand Tool" = "ハンドツール";
 "Adjust Hue, Saturation, Brightness..." = "色合い、彩度、明るさを調整…";
@@ -203,3 +209,6 @@ inches, cm/mm, pixels, points per inch, etc... */
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ バイト";
 "%li sec" = "%li 秒";
+
+"Playing" = "再生中";
+"Paused" = "一時停止";

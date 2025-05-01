@@ -1400,3 +1400,8 @@
 /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 "zzy-YJ-msS.title" = "Deckkraft";
 
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "xge-86-qHy"; */
+"xge-86-qHy.title" = "Als Schreibtischhintergrund festlegen";
+
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "Z9f-9r-oMW"; */
+"Z9f-9r-oMW.title" = "Als Schreibtischhintergrund festlegen";

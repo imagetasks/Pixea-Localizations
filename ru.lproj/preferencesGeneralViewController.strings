@@ -69,7 +69,7 @@
 "VDb-Ze-X4P.title" = "Автоматически устанавливать режим сортировки как в Finder";
 
 /* Class = "NSButtonCell"; title = "Keep aspect ratio when resizing"; ObjectID = "Wf9-JJ-N3n"; */
-"Wf9-JJ-N3n.title" = "Сохраняйть пропорции при изменении размера";
+"Wf9-JJ-N3n.title" = "Сохранять пропорции при изменении размера";
 
 /* Class = "NSButtonCell"; title = "Shuffle"; ObjectID = "XQe-uj-4X2"; */
 "XQe-uj-4X2.title" = "Перемешать";

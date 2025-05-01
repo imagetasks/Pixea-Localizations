@@ -157,6 +157,12 @@ shortcuts */
 "Move to Trash" = "Перемістити в кошик";
 "Show in Finder" = "Показати у Finder";
 "Export..." = "Експортувати...";
+"Toggle Image Adjustments Toolbar" = "Показати/сховати панель налаштувань зображення";
+"Hide Image Adjustments Toolbar" = "Сховати панель налаштувань зображення";
+"Show Image Adjustments Toolbar" = "Показати панель налаштувань зображення";
+"Toggle Main Toolbar" = "Показати/сховати основну панель інструментів";
+"Hide Main Toolbar" = "Сховати основну панель інструментів";
+"Show Main Toolbar" = "Показати основну панель інструментів";
 "Crop Image..." = "Обрізати зображення...";
 "Hand Tool" = "Інструмент руки";
 "Adjust Hue, Saturation, Brightness..." = "Регулювання відтінку, насиченості, яскравості...";
@@ -203,3 +209,6 @@ inches, cm/mm, pixels, points per inch, etc... */
 "%iпікс × %iпікс (%iпнд)" = "%iпікс × %iпікс (%iпнд)";
 "%@ bytes" = "%@ байт";
 "%li sec" = "%li сек";
+
+"Playing" = "Відтворення";
+"Paused" = "Пауза";

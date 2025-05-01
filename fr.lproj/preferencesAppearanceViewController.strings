@@ -85,3 +85,27 @@ Class = "NSBox"; title = "Box"; ObjectID = "y0i-P4-Mgr"; */
 /* zph-U7-RvC.title
 Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph-U7-RvC"; */
 "zph-U7-RvC.title" = "Masquer automatiquement la barre d\'état";
+
+/* Class = "NSTextFieldCell"; title = "Toolbars"; ObjectID = "64A-DO-fOb"; */
+"64A-DO-fOb.title" = "Barres d'outils";
+
+/* Class = "NSButtonCell"; title = "Show image adjustments toolbar"; ObjectID = "CGc-0f-zuK"; */
+"CGc-0f-zuK.title" = "Afficher la barre d'outils des réglages d'image";
+
+/* Class = "NSButtonCell"; title = "Show main toolbar"; ObjectID = "WUO-Mw-w8Y"; */
+"WUO-Mw-w8Y.title" = "Afficher la barre d'outils principale";
+
+/* Class = "NSTextFieldCell"; title = "Theatre mode"; ObjectID = "ND3-k3-Uao"; */
+"ND3-k3-Uao.title" = "Mode cinéma";
+
+/* Class = "NSTextFieldCell"; title = "Dim Desktop and other apps:"; ObjectID = "wBS-GO-g6w"; */
+"wBS-GO-g6w.title" = "Assombrir le bureau et les autres applications:";
+
+/* Class = "NSButtonCell"; title = "When viewing media files"; ObjectID = "X96-Oc-91U"; */
+"X96-Oc-91U.title" = "Lors de la visualisation de fichiers multimédia";
+
+/* Class = "NSButtonCell"; title = "When browsing media files"; ObjectID = "AUs-8Y-8Hi"; */
+"AUs-8Y-8Hi.title" = "Lors de la navigation dans les fichiers multimédia";
+
+/* Class = "NSTextFieldCell"; title = "Dimming"; ObjectID = "eqV-VH-Kot"; */
+"eqV-VH-Kot.title" = "Assombrissement";

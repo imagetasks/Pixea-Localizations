@@ -142,6 +142,12 @@
 "Move to Trash" = "В Корзину";
 "Show in Finder" = "Показать в Finder";
 "Export..." = "Экспорт...";
+"Toggle Image Adjustments Toolbar" = "Показать/Скрыть панель настроек изображения";
+"Hide Image Adjustments Toolbar" = "Скрыть панель настроек изображения";
+"Show Image Adjustments Toolbar" = "Показать панель настроек изображения";
+"Toggle Main Toolbar" = "Показать/Скрыть основную панель инструментов";
+"Hide Main Toolbar" = "Скрыть основную панель инструментов";
+"Show Main Toolbar" = "Показать основную панель инструментов";
 "Crop Image..." = "Обрезать изображение...";
 "Hand Tool" = "Инструмент «Рука»";
 "Adjust Hue, Saturation, Brightness..." = "Оттенок, насыщенность, яркость";
@@ -189,3 +195,6 @@
 "%ipx × %ipx (%ippi)" = "%iпикс × %iпикс (%iпикс на дюйм)";
 "%@ bytes" = "%@ байт";
 "%li sec" = "%li сек";
+
+"Playing" = "Воспроизведение";
+"Paused" = "Пауза";

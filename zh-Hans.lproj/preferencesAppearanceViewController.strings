@@ -85,3 +85,27 @@ Class = "NSBox"; title = "Box"; ObjectID = "y0i-P4-Mgr"; */
 /* zph-U7-RvC.title
 Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph-U7-RvC"; */
 "zph-U7-RvC.title" = "自动隐藏状态栏";
+
+/* Class = "NSTextFieldCell"; title = "Toolbars"; ObjectID = "64A-DO-fOb"; */
+"64A-DO-fOb.title" = "工具栏";
+
+/* Class = "NSButtonCell"; title = "Show image adjustments toolbar"; ObjectID = "CGc-0f-zuK"; */
+"CGc-0f-zuK.title" = "显示图像调整工具栏";
+
+/* Class = "NSButtonCell"; title = "Show main toolbar"; ObjectID = "WUO-Mw-w8Y"; */
+"WUO-Mw-w8Y.title" = "显示主工具栏";
+
+/* Class = "NSTextFieldCell"; title = "Theatre mode"; ObjectID = "ND3-k3-Uao"; */
+"ND3-k3-Uao.title" = "影院模式";
+
+/* Class = "NSTextFieldCell"; title = "Dim Desktop and other apps:"; ObjectID = "wBS-GO-g6w"; */
+"wBS-GO-g6w.title" = "调暗桌面和其他应用:";
+
+/* Class = "NSButtonCell"; title = "When viewing media files"; ObjectID = "X96-Oc-91U"; */
+"X96-Oc-91U.title" = "查看媒体文件时";
+
+/* Class = "NSButtonCell"; title = "When browsing media files"; ObjectID = "AUs-8Y-8Hi"; */
+"AUs-8Y-8Hi.title" = "浏览媒体文件时";
+
+/* Class = "NSTextFieldCell"; title = "Dimming"; ObjectID = "eqV-VH-Kot"; */
+"eqV-VH-Kot.title" = "调暗";

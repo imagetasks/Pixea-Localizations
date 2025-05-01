@@ -1399,3 +1399,8 @@ Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "zjJ-yz-HL8"; *
 /* zzy-YJ-msS.title
 Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 "zzy-YJ-msS.title" = "不透明度";
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "xge-86-qHy"; */
+"xge-86-qHy.title" = "设为桌面壁纸";
+
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "Z9f-9r-oMW"; */
+"Z9f-9r-oMW.title" = "设为桌面壁纸";

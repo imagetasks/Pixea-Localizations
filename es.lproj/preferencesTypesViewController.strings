@@ -204,3 +204,24 @@ Class = "NSButtonCell"; title = "rgb"; ObjectID = "yjJ-er-ruk"; */
 /* zqN-70-S4v.title
 Class = "NSButtonCell"; title = "avif"; ObjectID = "zqN-70-S4v"; */
 "zqN-70-S4v.title" = "avif";
+
+/* Class = "NSTextFieldCell"; title = "Folders"; ObjectID = "Cs6-4C-bCA"; */
+"Cs6-4C-bCA.title" = "Carpetas";
+
+/* Class = "NSButtonCell"; title = "Ignore hierarchy"; ObjectID = "7k9-KY-I4f"; */
+"7k9-KY-I4f.title" = "Ignorar jerarquía";
+
+/* Class = "NSTextFieldCell"; title = "Scan depth"; ObjectID = "DhB-fc-7WZ"; */
+"DhB-fc-7WZ.title" = "Profundidad de escaneo";
+
+/* Class = "NSTextFieldCell"; title = "Reopen Pixea windows to apply this setting."; ObjectID = "HoZ-0E-OyP"; */
+"HoZ-0E-OyP.title" = "Reabrir ventanas de Pixea para aplicar este ajuste.";
+
+/* Class = "NSTextFieldCell"; title = "Treat unknown file types"; ObjectID = "g9E-ZD-yIa"; */
+"g9E-ZD-yIa.title" = "Tratar tipos de archivo desconocidos";
+
+/* Class = "NSButtonCell"; title = "As images"; ObjectID = "E70-Hn-Pt5"; */
+"E70-Hn-Pt5.title" = "Como imágenes";
+
+/* Class = "NSButtonCell"; title = "As videos"; ObjectID = "NIV-7n-QdW"; */
+"NIV-7n-QdW.title" = "Como videos";

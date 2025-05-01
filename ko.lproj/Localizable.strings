@@ -157,6 +157,12 @@ shortcuts */
 "Move to Trash" = "휴지통으로 이동";
 "Show in Finder" = "Finder에서 보기";
 "Export..." = "보내기...";
+"Toggle Image Adjustments Toolbar" = "이미지 조정 도구 막대 표시/숨기기";
+"Hide Image Adjustments Toolbar" = "이미지 조정 도구 막대 숨기기";
+"Show Image Adjustments Toolbar" = "이미지 조정 도구 막대 표시";
+"Toggle Main Toolbar" = "기본 도구 막대 표시/숨기기";
+"Hide Main Toolbar" = "기본 도구 막대 숨기기";
+"Show Main Toolbar" = "기본 도구 막대 표시";
 "Crop Image..." = "이미지 자르기...";
 "Hand Tool" = "핸드 도구";
 "Adjust Hue, Saturation, Brightness..." = "색조, 채도, 밝기 조정...";
@@ -203,3 +209,6 @@ inches, cm/mm, pixels, points per inch, etc... */
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ 바이트";
 "%li sec" = "%li 초";
+
+"Playing" = "재생 중";
+"Paused" = "일시 정지";

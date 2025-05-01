@@ -39,7 +39,7 @@
 "1aG-GF-KI0.title" = "Добро пожаловать в Pixea!";
 
 /* Class = "NSTextFieldCell"; title = "Searching"; ObjectID = "1eL-r6-5Mi"; */
-"1eL-r6-5Mi.title" = "Идет поиск";
+"1eL-r6-5Mi.title" = "Поиск";
 
 /* Class = "NSTextFieldCell"; title = "No details"; ObjectID = "2Rj-9j-jUH"; */
 "2Rj-9j-jUH.title" = "Нет информации";
@@ -1400,3 +1400,8 @@
 /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 "zzy-YJ-msS.title" = "Прозрачность";
 
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "xge-86-qHy"; */
+"xge-86-qHy.title" = "Сделать фоном рабочего стола";
+
+/* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "Z9f-9r-oMW"; */
+"Z9f-9r-oMW.title" = "Сделать фоном рабочего стола";

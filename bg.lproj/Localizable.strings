@@ -142,6 +142,12 @@
 "Move to Trash" = "Преместване в кошчето";
 "Show in Finder" = "Показване във Finder";
 "Export..." = "Експортиране...";
+"Toggle Image Adjustments Toolbar" = "Показване/скриване на лентата за корекция на изображението";
+"Hide Image Adjustments Toolbar" = "Скрий лентата за корекция на изображението";
+"Show Image Adjustments Toolbar" = "Покажи лентата за корекция на изображението";
+"Toggle Main Toolbar" = "Показване/скриване на основната лента с инструменти";
+"Hide Main Toolbar" = "Скрий основната лента с инструменти";
+"Show Main Toolbar" = "Покажи основната лента с инструменти";
 "Crop Image..." = "Изрязване на изображението...";
 "Hand Tool" = "Инструмент ръчичка"; //perhaps hand to be replaced as wording i18n testing_optimization
 "Adjust Hue, Saturation, Brightness..." = "Регулирайте нюанса, наситеността, яркостта...";
@@ -189,3 +195,6 @@
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ байта";
 "%li sec" = "%li сек";
+
+"Playing" = "Възпроизвеждане";
+"Paused" = "Пауза";

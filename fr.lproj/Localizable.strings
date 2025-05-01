@@ -158,6 +158,12 @@ shortcuts */
 "Move to Trash" = "Déplacer à la corbeille";
 "Show in Finder" = "Afficher dans le Finder";
 "Export..." = "Exporter...";
+"Toggle Image Adjustments Toolbar" = "Afficher/Masquer la barre d’ajustement de l’image";
+"Hide Image Adjustments Toolbar" = "Masquer la barre d’ajustement de l’image";
+"Show Image Adjustments Toolbar" = "Afficher la barre d’ajustement de l’image";
+"Toggle Main Toolbar" = "Afficher/Masquer la barre d’outils principale";
+"Hide Main Toolbar" = "Masquer la barre d’outils principale";
+"Show Main Toolbar" = "Afficher la barre d’outils principale";
 "Crop Image..." = "Rogner l\'image...";
 "Hand Tool" = "Outil Main";
 "Adjust Hue, Saturation, Brightness..." = "Ajuster la teinte, la saturation, la luminosité...";
@@ -204,3 +210,6 @@ inches, cm/mm, pixels, points per inch, etc... */
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ octets";
 "%li sec" = "%li sec";
+
+"Playing" = "Lecture";
+"Paused" = "Pause";

@@ -143,6 +143,12 @@
 "Move to Trash" = "In den Papierkorb verschieben";
 "Show in Finder" = "Im Finder anzeigen";
 "Export..." = "Exportieren...";
+"Toggle Image Adjustments Toolbar" = "Symbolleiste für Bildanpassungen ein-/ausblenden";
+"Hide Image Adjustments Toolbar" = "Symbolleiste für Bildanpassungen ausblenden";
+"Show Image Adjustments Toolbar" = "Symbolleiste für Bildanpassungen einblenden";
+"Toggle Main Toolbar" = "Hauptsymbolleiste ein-/ausblenden";
+"Hide Main Toolbar" = "Hauptsymbolleiste ausblenden";
+"Show Main Toolbar" = "Hauptsymbolleiste einblenden";
 "Crop Image..." = "Bild zuschneiden...";
 "Hand Tool" = "Hand-Werkzeug";
 "Adjust Hue, Saturation, Brightness..." = "Farbton, Sättigung und Helligkeit anpassen...";
@@ -190,3 +196,6 @@
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ Bytes";
 "%li sec" = "%li Sek";
+
+"Playing" = "Wiedergabe";
+"Paused" = "Pause";
