@@ -1,0 +1,501 @@
+
+/* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "0FT-31-fJ2"; */
+"0FT-31-fJ2.title" = "Température de couleur";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "0Fb-lF-Xgf"; */
+"0Fb-lF-Xgf.title" = "100%";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "0O4-v1-o2t"; */
+"0O4-v1-o2t.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Sharpen and upscale a photo without losing its content instead of mathematically interpolating the values of pixels as done by the regular scaling algorithms."; ObjectID = "0Uh-Xo-Fr7"; */
+"0Uh-Xo-Fr7.title" = "Mise à l\'échelle 2x et 4x alimentée par apprentissage automatique.";
+
+/* Class = "NSTextFieldCell"; title = "Sharpen and denoise"; ObjectID = "0bJ-1U-UJv"; */
+"0bJ-1U-UJv.title" = "Netteté et Bruit";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "0kL-4L-Blt"; */
+"0kL-4L-Blt.title" = "Texte";
+
+/* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "0xS-Aw-EA9"; */
+"0xS-Aw-EA9.title" = "Red";
+
+/* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "1Iz-eo-HvB"; */
+"1Iz-eo-HvB.title" = "Yellow";
+
+/* Class = "NSButtonCell"; title = "2x upscale"; ObjectID = "1Pk-9I-OPV"; */
+"1Pk-9I-OPV.title" = "Agrandissement 2x";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "2RS-QA-xh7"; */
+"2RS-QA-xh7.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "2Rw-JM-se0"; */
+"2Rw-JM-se0.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Orange"; ObjectID = "2TX-TK-eHK"; */
+"2TX-TK-eHK.title" = "Orange";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "2TY-ca-cOS"; */
+"2TY-ca-cOS.title" = "Taille";
+
+/* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "2pX-9X-xD1"; */
+"2pX-9X-xD1.title" = "Blue";
+
+/* Class = "NSTextFieldCell"; title = "Sharpness"; ObjectID = "2ut-OS-TbJ"; */
+"2ut-OS-TbJ.title" = "Netteté";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "59a-5p-RBS"; */
+"59a-5p-RBS.title" = "PLUS";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "5Lg-oz-xbS"; */
+"5Lg-oz-xbS.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "66B-tt-fxQ"; */
+"66B-tt-fxQ.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "69I-y4-gQR"; */
+"69I-y4-gQR.title" = "Blue";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "6jL-fp-eGb"; */
+"6jL-fp-eGb.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "74P-Uq-Zn0"; */
+"74P-Uq-Zn0.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "79R-jE-Occ"; */
+"79R-jE-Occ.title" = "Ombres";
+
+/* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "7En-tU-knp"; */
+"7En-tU-knp.title" = "Green";
+
+/* Class = "NSTextFieldCell"; title = "Purple"; ObjectID = "7HH-YV-iHH"; */
+"7HH-YV-iHH.title" = "Purple";
+
+/* Class = "NSButtonCell"; title = "Upscale image"; ObjectID = "7Nc-YL-yAp"; */
+"7Nc-YL-yAp.title" = "Agrandir l\'image";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7Uk-99-TxK"; */
+"7Uk-99-TxK.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "0%"; ObjectID = "7mv-ns-ehy"; */
+"7mv-ns-ehy.title" = "0%";
+
+/* Class = "NSMenuItem"; title = "Up or Down"; ObjectID = "8RS-Id-4C6"; */
+"8RS-Id-4C6.title" = "Agrandir ou réduire";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "8bO-Ph-atE"; */
+"8bO-Ph-atE.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "8vv-nP-FEj"; */
+"8vv-nP-FEj.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "9WK-gb-IgE"; */
+"9WK-gb-IgE.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "Arn-nv-De3"; */
+"Arn-nv-De3.title" = "Exposition";
+
+/* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "BV8-4p-87O"; */
+"BV8-4p-87O.title" = "Style";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Bdf-3h-2NT"; */
+"Bdf-3h-2NT.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "D3z-V3-bsq"; */
+"D3z-V3-bsq.title" = "PLUS";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "DO0-kF-zny"; */
+"DO0-kF-zny.title" = "0°";
+
+/* Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "Diz-Ga-rTp"; */
+"Diz-Ga-rTp.title" = "Teinte";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "EJo-nV-iwg"; */
+"EJo-nV-iwg.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Purple"; ObjectID = "FHd-Us-YLk"; */
+"FHd-Us-YLk.title" = "Purple";
+
+/* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "Fqg-wl-LoS"; */
+"Fqg-wl-LoS.title" = "Saturation";
+
+/* Class = "NSTextFieldCell"; title = "Details:"; ObjectID = "GFR-H2-1Bi"; */
+"GFR-H2-1Bi.title" = "Détails:";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "GKG-iK-jEg"; */
+"GKG-iK-jEg.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "GOJ-zU-wMe"; */
+"GOJ-zU-wMe.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "Ggm-ID-NF6"; */
+"Ggm-ID-NF6.title" = "Red";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "HOF-W6-Vlm"; */
+"HOF-W6-Vlm.title" = "0°";
+
+/* Class = "NSTextFieldCell"; title = "Orange"; ObjectID = "HOY-jl-reu"; */
+"HOY-jl-reu.title" = "Orange";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "IlI-nZ-hhy"; */
+"IlI-nZ-hhy.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "Ipr-nW-r59"; */
+"Ipr-nW-r59.title" = "Opacité";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "J3R-Ra-t0b"; */
+"J3R-Ra-t0b.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "JCR-Tf-15R"; */
+"JCR-Tf-15R.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "JCf-A0-he0"; */
+"JCf-A0-he0.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "JEt-Jr-bnb"; */
+"JEt-Jr-bnb.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "JHA-Of-Z9d"; */
+"JHA-Of-Z9d.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Watermark"; ObjectID = "Jnk-ag-qfU"; */
+"Jnk-ag-qfU.title" = "Filigrane";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "K6w-x0-nMt"; */
+"K6w-x0-nMt.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "0 EV"; ObjectID = "KtW-oT-xzz"; */
+"KtW-oT-xzz.title" = "0 EV";
+
+/* Class = "NSTextFieldCell"; title = "Tint"; ObjectID = "L1x-de-mJk"; */
+"L1x-de-mJk.title" = "Teinte";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "LHb-KC-4yr"; */
+"LHb-KC-4yr.title" = "100%";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Lgm-QT-Lhd"; */
+"Lgm-QT-Lhd.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "MNd-bE-oZh"; */
+"MNd-bE-oZh.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "MSn-v7-DFC"; */
+"MSn-v7-DFC.title" = "0°";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "N1B-mi-iPT"; */
+"N1B-mi-iPT.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Scale Down"; ObjectID = "NTg-LM-2nB"; */
+"NTg-LM-2nB.title" = "Réduire";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "NZo-Eq-QJ7"; */
+"NZo-Eq-QJ7.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "Nme-BY-9tE"; */
+"Nme-BY-9tE.title" = "Red";
+
+/* Class = "NSTextFieldCell"; title = "Balanced"; ObjectID = "Nsq-dm-auu"; */
+"Nsq-dm-auu.title" = "Équilibré";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "OTl-Rx-7Ka"; */
+"OTl-Rx-7Ka.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "PO4-64-bwj"; */
+"PO4-64-bwj.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "Q90-gV-4b9"; */
+"Q90-gV-4b9.title" = "Luminosité";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Qy8-hs-FPl"; */
+"Qy8-hs-FPl.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Rn2-Hw-3Nd"; */
+"Rn2-Hw-3Nd.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "SVI-7u-sRA"; */
+"SVI-7u-sRA.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Hue, Saturation, Brightness"; ObjectID = "SpO-wx-tYv"; */
+"SpO-wx-tYv.title" = "Teinte, Saturation et Luminosité";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "T6h-gY-bvt"; */
+"T6h-gY-bvt.title" = "0°";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "TwX-fh-BuG"; */
+"TwX-fh-BuG.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Purple"; ObjectID = "UGI-yx-9dl"; */
+"UGI-yx-9dl.title" = "Purple";
+
+/* Class = "NSTextFieldCell"; title = "Magenta"; ObjectID = "UJM-ms-EuF"; */
+"UJM-ms-EuF.title" = "Magenta";
+
+/* Class = "NSTextFieldCell"; title = "0%"; ObjectID = "Ua8-4Z-1Uo"; */
+"Ua8-4Z-1Uo.title" = "0%";
+
+/* Class = "NSTextFieldCell"; title = "Aqua"; ObjectID = "UfJ-C0-DXf"; */
+"UfJ-C0-DXf.title" = "Aqua";
+
+/* Class = "NSTextFieldCell"; title = "Pattern"; ObjectID = "WU3-mE-9AA"; */
+"WU3-mE-9AA.title" = "Motif";
+
+/* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "Xvu-nZ-5mn"; */
+"Xvu-nZ-5mn.title" = "Contraste";
+
+/* Class = "NSTextFieldCell"; title = "Aqua"; ObjectID = "XwW-ly-YdQ"; */
+"XwW-ly-YdQ.title" = "Aqua";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "ZDW-yh-Kpp"; */
+"ZDW-yh-Kpp.title" = "0°";
+
+/* Class = "NSTextFieldCell"; title = "Magenta"; ObjectID = "a9G-Dc-UTY"; */
+"a9G-Dc-UTY.title" = "Magenta";
+
+/* Class = "NSTextFieldCell"; title = "pt"; ObjectID = "aQT-Rc-5YN"; */
+"aQT-Rc-5YN.title" = "pt";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aZA-Cj-Bp9"; */
+"aZA-Cj-Bp9.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Reduce noise"; ObjectID = "as0-kg-S1e"; */
+"as0-kg-S1e.title" = "Réduire le bruit";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "as3-y2-giZ"; */
+"as3-y2-giZ.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "4x upscale"; ObjectID = "bY1-gG-igA"; */
+"bY1-gG-igA.title" = "Agrandissement 4x";
+
+/* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "bu2-zn-ZaS"; */
+"bu2-zn-ZaS.title" = "Green";
+
+/* Class = "NSTextFieldCell"; title = "Color"; ObjectID = "cYq-nT-Llj"; */
+"cYq-nT-Llj.title" = "Couleur";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "cnB-Kc-2DG"; */
+"cnB-Kc-2DG.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Font"; ObjectID = "coM-8q-QeV"; */
+"coM-8q-QeV.title" = "Police";
+
+/* Class = "NSTextFieldCell"; title = "Lightness"; ObjectID = "dXG-ee-vGW"; */
+"dXG-ee-vGW.title" = "Luminosité";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "dkn-SJ-kgz"; */
+"dkn-SJ-kgz.title" = "100%";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "dwO-kq-Lkm"; */
+"dwO-kq-Lkm.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Aqua"; ObjectID = "eGY-SX-3vy"; */
+"eGY-SX-3vy.title" = "Aqua";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "eIF-4z-6xd"; */
+"eIF-4z-6xd.title" = "100%";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "euR-XC-17A"; */
+"euR-XC-17A.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Color curve"; ObjectID = "f6p-Cc-NEK"; */
+"f6p-Cc-NEK.title" = "Courbe de couleur";
+
+/* Class = "NSTextFieldCell"; title = "Position"; ObjectID = "fCJ-rr-GRW"; */
+"fCJ-rr-GRW.title" = "Position";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "fOE-p2-hcc"; */
+"fOE-p2-hcc.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "fai-Wu-9VI"; */
+"fai-Wu-9VI.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "gaX-xp-o5q"; */
+"gaX-xp-o5q.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Color Temperature"; ObjectID = "h68-M0-rdf"; */
+"h68-M0-rdf.title" = "Température des couleurs";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "hAO-Lv-1fU"; */
+"hAO-Lv-1fU.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "hVk-VL-2Fg"; */
+"hVk-VL-2Fg.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "i69-lt-tdY"; */
+"i69-lt-tdY.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "iRo-dt-jMU"; */
+"iRo-dt-jMU.title" = "Blue";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "jJe-nK-6jl"; */
+"jJe-nK-6jl.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "jPb-xY-M5j"; */
+"jPb-xY-M5j.title" = "0°";
+
+/* Class = "NSButtonCell"; title = "Resize image"; ObjectID = "jXs-sf-Sno"; */
+"jXs-sf-Sno.title" = "Redimensionner l\'image";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "jdS-oc-nyz"; */
+"jdS-oc-nyz.title" = "PLUS";
+
+/* Class = "NSTextFieldCell"; title = "Reduce Noise"; ObjectID = "kDT-Wr-qrt"; */
+"kDT-Wr-qrt.title" = "Réduire le bruit";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "kq7-Sh-Hb4"; */
+"kq7-Sh-Hb4.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Orange"; ObjectID = "kti-bC-6xQ"; */
+"kti-bC-6xQ.title" = "Orange";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "mPn-X3-yhi"; */
+"mPn-X3-yhi.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "n7X-pz-ouS"; */
+"n7X-pz-ouS.title" = "Yellow";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "nCL-Cf-Msz"; */
+"nCL-Cf-Msz.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "nOJ-xh-ahm"; */
+"nOJ-xh-ahm.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Define maximum size to resize the image’s longest edge while keeping proportions."; ObjectID = "nyw-Ml-HGE"; */
+"nyw-Ml-HGE.title" = "Redimensionner proportionnellement en définissant la taille maximale du côté le plus long en pixels.";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "ovZ-Dy-7MD"; */
+"ovZ-Dy-7MD.title" = "0°";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "oyS-iN-Wup"; */
+"oyS-iN-Wup.title" = "PLUS";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "pDC-am-fq8"; */
+"pDC-am-fq8.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "pOI-pq-uLS"; */
+"pOI-pq-uLS.title" = "100%";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "pXh-eJ-0PR"; */
+"pXh-eJ-0PR.title" = "PLUS";
+
+/* Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "pcg-O6-eY3"; */
+"pcg-O6-eY3.title" = "Teinte";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ptU-OB-cxV"; */
+"ptU-OB-cxV.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Highlights"; ObjectID = "pur-7S-pEF"; */
+"pur-7S-pEF.title" = "Mises en avant";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qhA-We-ahH"; */
+"qhA-We-ahH.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "qnp-uD-4MX"; */
+"qnp-uD-4MX.title" = "0°";
+
+/* Class = "NSTextFieldCell"; title = "Longest edge"; ObjectID = "s2G-js-TYf"; */
+"s2G-js-TYf.title" = "Côté le plus long";
+
+/* Class = "NSTextFieldCell"; title = "Magenta"; ObjectID = "sZY-b7-0Lv"; */
+"sZY-b7-0Lv.title" = "Magenta";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "scN-4w-csw"; */
+"scN-4w-csw.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "t6g-kV-urJ"; */
+"t6g-kV-urJ.title" = "Saturation";
+
+/* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "vM2-VV-ogl"; */
+"vM2-VV-ogl.title" = "Yellow";
+
+/* Class = "NSTextFieldCell"; title = "Image upscale"; ObjectID = "vRf-un-TKT"; */
+"vRf-un-TKT.title" = "Agrandir l\'image";
+
+/* Class = "NSTextFieldCell"; title = "0°"; ObjectID = "vps-LN-XYh"; */
+"vps-LN-XYh.title" = "0°";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "vqF-di-B52"; */
+"vqF-di-B52.title" = "px";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "w5e-Sw-kQf"; */
+"w5e-Sw-kQf.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "w8e-nI-ogO"; */
+"w8e-nI-ogO.title" = "PLUS";
+
+/* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "wGw-4C-xTi"; */
+"wGw-4C-xTi.title" = "Green";
+
+/* Class = "NSTextFieldCell"; title = "Image size"; ObjectID = "wU5-2N-i6j"; */
+"wU5-2N-i6j.title" = "Taille de l’image";
+
+/* Class = "NSTextFieldCell"; title = "Scaling"; ObjectID = "wlb-OE-TNy"; */
+"wlb-OE-TNy.title" = "Mise à l’échelle";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "xPh-DE-13k"; */
+"xPh-DE-13k.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "xw2-NX-dKS"; */
+"xw2-NX-dKS.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Preserve details"; ObjectID = "yDh-wG-g9m"; */
+"yDh-wG-g9m.title" = "Préserver les détails";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "yIj-9C-QGA"; */
+"yIj-9C-QGA.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "zOG-AN-eDA"; */
+"zOG-AN-eDA.title" = "Exposition";
+
+/* Class = "NSTextFieldCell"; title = "Straighten"; ObjectID = "mOL-7y-Ddl"; */
+"mOL-7y-Ddl.title" = "Redresser l’horizon";
+
+/* Class = "NSTextFieldCell"; title = "Straighten"; ObjectID = "il7-O0-UGu"; */
+"il7-O0-UGu.title" = "Angle";
+
+/* Class = "NSTextFieldCell"; title = "Perspective Correction"; ObjectID = "sXn-O2-Eir"; */
+"sXn-O2-Eir.title" = "Correction de perspective";
+
+/* Class = "NSTextFieldCell"; title = "Horizontal"; ObjectID = "KAd-eh-KKg"; */
+"KAd-eh-KKg.title" = "Horizontal";
+
+/* Class = "NSTextFieldCell"; title = "Vertical"; ObjectID = "enm-4a-xjD"; */
+"enm-4a-xjD.title" = "Vertical";
+
+/* Class = "NSTextFieldCell"; title = "Color LUT"; ObjectID = "qhV-xN-4tP"; */
+"qhV-xN-4tP.title" = "Filtres LUT";
+
+/* Class = "NSTextFieldCell"; title = "Select LUT"; ObjectID = "c1B-IB-WzX"; */
+"c1B-IB-WzX.title" = "Sélectionner une LUT";
+
+/* Class = "NSTextFieldCell"; title = "Strength"; ObjectID = "ueb-rB-xwu"; */
+"ueb-rB-xwu.title" = "Intensité";
+
+/* Class = "NSMenuItem"; title = "Import LUT..."; ObjectID = "LEP-Xb-FFR"; */
+"LEP-Xb-FFR.title" = "Importer une LUT…";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "Bbr-e7-j6V"; */
+"Bbr-e7-j6V.title" = "Supprimer";
+
+/* Class = "NSTextFieldCell"; title = "Image Overlay"; ObjectID = "sTy-l7-bOZ"; */
+"sTy-l7-bOZ.title" = "Superposition d’image";
+
+/* Class = "NSTextFieldCell"; title = "Image"; ObjectID = "a9S-e4-7a1"; */
+"a9S-e4-7a1.title" = "Image";
+
+/* Class = "NSTextFieldCell"; title = "Scale"; ObjectID = "kD4-FS-e7U"; */
+"kD4-FS-e7U.title" = "Échelle";
+
+/* Class = "NSTextFieldCell"; title = "Position"; ObjectID = "Nf4-HT-oNm"; */
+"Nf4-HT-oNm.title" = "Position";
+
+/* Class = "NSTextFieldCell"; title = "Margin"; ObjectID = "fyW-yQ-bp4"; */
+"fyW-yQ-bp4.title" = "Marge";
+
+/* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "Bsh-6D-NLB"; */
+"Bsh-6D-NLB.title" = "Opacité";
+
+/* Class = "NSMenuItem"; title = "Import LUT..."; ObjectID = "dhT-MT-HWn"; */
+"dhT-MT-HWn.title" = "Importer une image...";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "3IJ-hW-h5v"; */
+"3IJ-hW-h5v.title" = "Supprimer";

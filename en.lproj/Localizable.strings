@@ -10,9 +10,9 @@
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "Check available memory and disk space. Try closing other apps and restarting Pixea.";
 "OK" = "OK";
 "Cancel" = "Cancel";
-"macOS 11 or higher is required." = "macOS 11 or higher is required.";
+"macOS 13 or higher is required." = "macOS 13 or higher is required.";
 "macOS 10.15 or higher is required." = "macOS 10.15 or higher is required.";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool.";
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool.";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling.";
 "No media" = "No media";
@@ -59,6 +59,8 @@
 "Unable to find your purchase..." = "Unable to find your purchase...";
 "Check your Apple Account or try again later." = "Check your Apple Account or try again later.";
 "No applications" = "No applications";
+"Unable to update '%@'" = "Unable to update '%@'";
+"Unable to save metadata for '%@'" = "Unable to save metadata for '%@'";
 
 "Preparing..." = "Preparing...";
 "Removing objects..." = "Removing objects...";
@@ -173,6 +175,12 @@
 "Next Media" = "Next Media";
 "Previous Media" = "Previous Media";
 "Not set" = "Not set";
+"Rate - 1 star" = "Rate - 1 star";
+"Rate - 2 stars" = "Rate - 2 stars";
+"Rate - 3 stars" = "Rate - 3 stars";
+"Rate - 4 stars" = "Rate - 4 stars";
+"Rate - 5 stars" = "Rate - 5 stars";
+"Unrated" = "Unrated";
 
 // Preferences items
 "Preferences" = "Preferences";
@@ -198,3 +206,44 @@
 
 "Playing" = "Playing";
 "Paused" = "Paused";
+
+"No items match the selected filters" = "No items match the selected filters";
+
+"Extract" = "Extract";
+"Copy" = "Copy";
+"Move" = "Move";
+"Can't save" = "Can't save";
+"Can't open" = "Can't open";
+"Can't extract" = "Can't extract";
+"Unable to save '%@'" = "Unable to save '%@'";
+"Unable to open '%@'" = "Unable to open '%@'";
+"Unable to extract '%@'" = "Unable to extract '%@'";
+"Unable to move '%@'" = "Unable to move '%@'";
+"Unable to rename '%@'" = "Unable to rename '%@'";
+"Retry" = "Retry";
+"Skip" = "Skip";
+"Abort" = "Abort";
+"Convert" = "Convert";
+"Extracting '%@'..." = "Extracting '%@'...";
+"Moving '%@'..." = "Moving '%@'...";
+"Extract items to" = "Extract items to";
+"Move items to" = "Move items to";
+"Choose a folder to save converted images" = "Choose a folder to save converted images";
+"Are you sure you want to move selected items to Trash?" = "Are you sure you want to move selected items to Trash?";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?";
+"Selected items will be deleted immediately. You can’t undo this action." = "Selected items will be deleted immediately. You can’t undo this action.";
+"Add to Batch Edit" = "Add to Batch Edit";
+"Pixea+ Batch Editor" = "Pixea+ Batch Editor";
+
+"Images were edited" = "Images were edited";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "You can choose to export images, or ignore changes. You can’t undo this action.";
+"Export All" = "Export All";
+
+"Pixea+ required for more images" = "Pixea+ required for more images";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once.";
+"Puchase Pixea+" = "Puchase Pixea+";
+
+"Select preset" = "Select preset";
+"Name is already taken" = "Name is already taken";
+
+"None" = "None";

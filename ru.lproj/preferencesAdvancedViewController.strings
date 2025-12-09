@@ -58,3 +58,30 @@
 
 /* Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
 "FOW-av-yIA.title" = "как SDR";
+
+/* Class = "NSTextFieldCell"; title = "Metadata"; ObjectID = "gmU-G7-asl"; */
+"gmU-G7-asl.title" = "Метаданные";
+
+/* Class = "NSButtonCell"; title = "Always save sidecar XMP file when updating metadata"; ObjectID = "ZJI-As-wzd"; */
+"ZJI-As-wzd.title" = "Всегда сохранять XMP sidecar файлы при обновлении метаданных";
+
+/* Class = "NSTextFieldCell"; title = "Pixea stores all metadata changes in its metadata database by default, keeping the original files unchanged. If you plan to transfer files to another volume or application, Pixea can create separate sidecar XMP files."; ObjectID = "19F-02-VpJ"; */
+"19F-02-VpJ.title" = "По умолчанию Pixea сохраняет все изменения метаданных в своей базе данных, оставляя оригинальные файлы без изменений. Если вы планируете переносить файлы на другой диск или в другое приложение, Pixea может создавать отдельные XMP sidecar файлы.";
+
+/* Class = "NSButtonCell"; title = "Update metadata in the original files"; ObjectID = "NZq-g0-Kid"; */
+"NZq-g0-Kid.title" = "Обновлять метаданные в оригинальных файлах";
+
+/* Class = "NSTextFieldCell"; title = "Original files will be overwritten. Not all formats support embedded metadata."; ObjectID = "ipn-FS-Yub"; */
+"ipn-FS-Yub.title" = "Оригинальные файлы будут перезаписаны. Не все форматы поддерживают встроенные метаданные.";
+
+/* Class = "NSButtonCell"; title = "Disable metadata reading on network drives"; ObjectID = "ily-Kp-DoY"; */
+"ily-Kp-DoY.title" = "Отключить чтение метаданных на сетевых дисках";
+
+/* Class = "NSTextFieldCell"; title = "Speeds up browsing by skipping metadata extraction for images located on network volumes."; ObjectID = "Qek-Dd-X2V"; */
+"Qek-Dd-X2V.title" = "Ускоряет просмотр, пропуская извлечение метаданных для изображений на сетевых дисках.";
+
+/* Class = "NSButtonCell"; title = "Always show options before updating metadata"; ObjectID = "aaJ-CE-OH1"; */
+"aaJ-CE-OH1.title" = "Всегда показывать параметры перед обновлением метаданных";
+
+/* Class = "NSButtonCell"; title = "Always smooth when zoomed in"; ObjectID = "LJn-71-YCV"; */
+"LJn-71-YCV.title" = "Всегда сглаживать при увеличении";

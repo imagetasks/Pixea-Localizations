@@ -58,3 +58,30 @@
 
 /* Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
 "FOW-av-yIA.title" = "als SDR";
+
+/* Class = "NSTextFieldCell"; title = "Metadata"; ObjectID = "gmU-G7-asl"; */
+"gmU-G7-asl.title" = "Metadaten";
+
+/* Class = "NSButtonCell"; title = "Always save sidecar XMP file when updating metadata"; ObjectID = "ZJI-As-wzd"; */
+"ZJI-As-wzd.title" = "Immer XMP-Sidecar-Datei speichern, wenn Metadaten aktualisiert werden";
+
+/* Class = "NSTextFieldCell"; title = "Pixea stores all metadata changes in its metadata database by default, keeping the original files unchanged. If you plan to transfer files to another volume or application, Pixea can create separate sidecar XMP files."; ObjectID = "19F-02-VpJ"; */
+"19F-02-VpJ.title" = "Pixea speichert standardmäßig alle Metadatenänderungen in seiner Metadatenbank, ohne die Originaldateien zu verändern. Wenn Sie Dateien auf ein anderes Volume oder in eine andere Anwendung übertragen möchten, kann Pixea separate XMP-Sidecar-Dateien erstellen.";
+
+/* Class = "NSButtonCell"; title = "Update metadata in the original files"; ObjectID = "NZq-g0-Kid"; */
+"NZq-g0-Kid.title" = "Metadaten in den Originaldateien aktualisieren";
+
+/* Class = "NSTextFieldCell"; title = "Original files will be overwritten. Not all formats support embedded metadata."; ObjectID = "ipn-FS-Yub"; */
+"ipn-FS-Yub.title" = "Originaldateien werden überschrieben. Nicht alle Formate unterstützen eingebettete Metadaten.";
+
+/* Class = "NSButtonCell"; title = "Disable metadata reading on network drives"; ObjectID = "ily-Kp-DoY"; */
+"ily-Kp-DoY.title" = "Metadatenauslesen auf Netzlaufwerken deaktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Speeds up browsing by skipping metadata extraction for images located on network volumes."; ObjectID = "Qek-Dd-X2V"; */
+"Qek-Dd-X2V.title" = "Beschleunigt das Durchsuchen, indem die Metadatenextraktion für Bilder auf Netzlaufwerken übersprungen wird.";
+
+/* Class = "NSButtonCell"; title = "Always show options before updating metadata"; ObjectID = "aaJ-CE-OH1"; */
+"aaJ-CE-OH1.title" = "Optionen immer vor dem Aktualisieren von Metadaten anzeigen";
+
+/* Class = "NSButtonCell"; title = "Always smooth when zoomed in"; ObjectID = "LJn-71-YCV"; */
+"LJn-71-YCV.title" = "Immer glätten bei starker Vergrößerung";

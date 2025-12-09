@@ -82,3 +82,9 @@ Class = "NSTextFieldCell"; title = "Default playback speed"; ObjectID = "ro3-ih-
 
 /* Class = "NSTextFieldCell"; title = "Font size"; ObjectID = "pLW-qy-yYB"; */
 "pLW-qy-yYB.title" = "フォントサイズ";
+
+/* Class = "NSButtonCell"; title = "Autoplay video files"; ObjectID = "HLn-iJ-jyL"; */
+"HLn-iJ-jyL.title" = "動画ファイルを自動再生";
+
+/* Class = "NSButtonCell"; title = "Autoplay animated image files"; ObjectID = "Uw9-9v-wh8"; */
+"Uw9-9v-wh8.title" = "アニメーション画像を自動再生";

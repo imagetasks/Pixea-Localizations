@@ -55,3 +55,30 @@ Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
 "I3E-ap-nn2.title" = "線形";
 /* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
 "OWj-KS-U6S.title" = "三線形";
+
+/* Class = "NSTextFieldCell"; title = "Metadata"; ObjectID = "gmU-G7-asl"; */
+"gmU-G7-asl.title" = "メタデータ";
+
+/* Class = "NSButtonCell"; title = "Always save sidecar XMP file when updating metadata"; ObjectID = "ZJI-As-wzd"; */
+"ZJI-As-wzd.title" = "メタデータ更新時に常に XMP sidecar を保存する";
+
+/* Class = "NSTextFieldCell"; title = "Pixea stores all metadata changes in its metadata database by default, keeping the original files unchanged. If you plan to transfer files to another volume or application, Pixea can create separate sidecar XMP files."; ObjectID = "19F-02-VpJ"; */
+"19F-02-VpJ.title" = "Pixea はデフォルトですべてのメタデータ変更をデータベースに保存し、元のファイルは変更しません。ファイルを別のボリュームやアプリケーションに転送する場合、Pixea は別の XMP sidecar ファイルを作成できます。";
+
+/* Class = "NSButtonCell"; title = "Update metadata in the original files"; ObjectID = "NZq-g0-Kid"; */
+"NZq-g0-Kid.title" = "元のファイルにメタデータを更新";
+
+/* Class = "NSTextFieldCell"; title = "Original files will be overwritten. Not all formats support embedded metadata."; ObjectID = "ipn-FS-Yub"; */
+"ipn-FS-Yub.title" = "元のファイルは上書きされます。すべての形式が埋め込みメタデータをサポートしているわけではありません。";
+
+/* Class = "NSButtonCell"; title = "Disable metadata reading on network drives"; ObjectID = "ily-Kp-DoY"; */
+"ily-Kp-DoY.title" = "ネットワークドライブでのメタデータ読み取りを無効化";
+
+/* Class = "NSTextFieldCell"; title = "Speeds up browsing by skipping metadata extraction for images located on network volumes."; ObjectID = "Qek-Dd-X2V"; */
+"Qek-Dd-X2V.title" = "ネットワークボリューム上の画像に対してメタデータ抽出をスキップすることで閲覧を高速化します。";
+
+/* Class = "NSButtonCell"; title = "Always show options before updating metadata"; ObjectID = "aaJ-CE-OH1"; */
+"aaJ-CE-OH1.title" = "メタデータを更新する前に常にオプションを表示";
+
+/* Class = "NSButtonCell"; title = "Always smooth when zoomed in"; ObjectID = "LJn-71-YCV"; */
+"LJn-71-YCV.title" = "拡大時は常に滑らかに表示";

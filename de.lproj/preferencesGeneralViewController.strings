@@ -127,3 +127,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Fit To Screen"; ObjectID = "zXk-De-iOY"; */
 "zXk-De-iOY.title" = "An Bildschirm anpassen";
+
+/* Class = "NSButtonCell"; title = "Fit window to image"; ObjectID = "VCO-5E-JXe"; */
+"VCO-5E-JXe.title" = "Fenster an Bild anpassen";

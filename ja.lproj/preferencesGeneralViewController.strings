@@ -119,3 +119,5 @@ Class = "NSTextFieldCell"; title = "Fit To Screen"; ObjectID = "zXk-De-iOY"; */
 "jNp-fN-bqc.title" = "ピクセル";
 /* Class = "NSButtonCell"; title = "Points"; ObjectID = "91x-64-bJ9"; */
 "91x-64-bJ9.title" = "ポイント";
+/* Class = "NSButtonCell"; title = "Fit window to image"; ObjectID = "VCO-5E-JXe"; */
+"VCO-5E-JXe.title" = "ウィンドウを画像に合わせる";

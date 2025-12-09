@@ -9,9 +9,9 @@ Copyright © 2025 Andrey Tsarkov. All rights reserved. */
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "사용 가능한 메모리와 디스크 공간을 확인하세요. 다른 앱을 닫고 Pixea를 다시 시작해 보세요.";
 "OK" = "확인";
 "Cancel" = "취소";
-"macOS 11 or higher is required." = "macOS 11 이상이 필요합니다.";
+"macOS 13 or higher is required." = "macOS 13 이상이 필요합니다.";
 "macOS 10.15 or higher is required." = "macOS 10.15 이상이 필요합니다.";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "객체 제거 알고리즘은 macOS Big Sur에서 처음 도입된 기계 학습 기능을 기반으로 합니다. macOS를 업데이트하여 객체 제거 도구를 사용하세요.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "객체 제거 알고리즘은 macOS Ventura에서 처음 도입된 기계 학습 기능을 기반으로 합니다. macOS를 업데이트하여 객체 제거 도구를 사용하세요.";
 /* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "텍스트 선택은 macOS Catalina에서 처음 도입된 기계 학습 기능을 기반으로 합니다. macOS를 업데이트하여 텍스트 선택 도구를 사용하세요.";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "이미지 업스케일링은 macOS Catalina에서 처음 도입된 기계 학습 기능을 기반으로 합니다. macOS를 업데이트하여 이미지 업스케일링을 사용하세요.";
@@ -64,6 +64,9 @@ export jpeg quality */
 "Unable to find your purchase..." = "구매 내역을 찾을 수 없습니다...";
 "Check your Apple Account or try again later." = "Apple 계정을 확인하거나 나중에 다시 시도하세요.";
 "No applications" = "애플리케이션 없음";
+"Unable to update '%@'" = "‘%@’을(를) 업데이트할 수 없습니다";
+"Unable to save metadata for '%@'" = "‘%@’의 메타데이터를 저장할 수 없습니다";
+
 "Preparing..." = "준비 중...";
 "Removing objects..." = "객체 제거 중...";
 "Processing transparency..." = "투명성 처리 중...";
@@ -188,6 +191,13 @@ shortcuts */
 "Next Media" = "다음 미디어";
 "Previous Media" = "이전 미디어";
 "Not set" = "설정되지 않음";
+"Rate - 1 star" = "평가 – 별 1개";
+"Rate - 2 stars" = "평가 – 별 2개";
+"Rate - 3 stars" = "평가 – 별 3개";
+"Rate - 4 stars" = "평가 – 별 4개";
+"Rate - 5 stars" = "평가 – 별 5개";
+"Unrated" = "평가 안 됨";
+
 /* Preferences
 Preferences items */
 "Preferences" = "환경 설정";
@@ -212,3 +222,45 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Playing" = "재생 중";
 "Paused" = "일시 정지";
+
+"No items match the selected filters" = "선택한 필터와 일치하는 항목이 없습니다";
+
+"Extract" = "추출";
+"Copy" = "복사";
+"Move" = "이동";
+"Can't save" = "저장할 수 없습니다";
+"Can't open" = "열 수 없습니다";
+"Can't extract" = "추출할 수 없습니다";
+"Unable to save '%@'" = "'%@'을(를) 저장할 수 없습니다";
+"Unable to open '%@'" = "'%@'을(를) 열 수 없습니다";
+"Unable to extract '%@'" = "'%@'을(를) 추출할 수 없습니다";
+"Unable to move '%@'" = "'%@'을(를) 이동할 수 없습니다";
+"Unable to rename '%@'" = "'%@'의 이름을 변경할 수 없습니다";
+"Retry" = "재시도";
+"Skip" = "건너뛰기";
+
+"Abort" = "중단";
+"Convert" = "변환";
+"Extracting '%@'..." = "'%@' 추출 중...";
+"Moving '%@'..." = "'%@' 이동 중...";
+"Extract items to" = "항목 추출 위치";
+"Move items to" = "항목 이동 위치";
+"Choose a folder to save converted images" = "변환된 이미지를 저장할 폴더 선택";
+"Are you sure you want to move selected items to Trash?" = "선택한 항목을 휴지통으로 이동하시겠습니까?";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "선택한 항목은 휴지통으로 이동할 수 없습니다. 영구 삭제하시겠습니까?";
+"Selected items will be deleted immediately. You can’t undo this action." = "선택한 항목은 즉시 삭제됩니다. 이 작업은 취소할 수 없습니다.";
+"Add to Batch Edit" = "일괄 편집에 추가";
+"Pixea+ Batch Editor" = "Pixea+ 일괄 편집기";
+
+"Images were edited" = "이미지가 편집되었습니다";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "이미지를 내보내거나 변경 사항을 무시할 수 있습니다. 이 작업은 취소할 수 없습니다.";
+"Export All" = "모두 내보내기";
+
+"Pixea+ required for more images" = "더 많은 이미지를 위해서는 Pixea+가 필요합니다";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "무료 버전에서는 최대 3개의 이미지를 일괄 편집할 수 있습니다. Pixea+로 업그레이드하면 더 많은 파일을 한 번에 편집할 수 있습니다.";
+"Puchase Pixea+" = "Pixea+ 구매";
+
+"Select preset" = "프리셋 선택";
+"Name is already taken" = "이 이름은 이미 사용 중입니다";
+
+"None" = "없음";

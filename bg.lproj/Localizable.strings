@@ -10,9 +10,9 @@
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "Проверете наличната памет и дисковото пространство. Опитайте да затворите други приложения и да рестартирате Pixea.";
 "OK" = "OK";
 "Cancel" = "Отказ";
-"macOS 11 or higher is required." = "Изисква се macOS 11 или по-висока версия.";
+"macOS 13 or higher is required." = "Изисква се macOS 13 или по-висока версия.";
 "macOS 10.15 or higher is required." = "Изисква се macOS 10.15 или по-висока версия.";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "Алгоритъмът за премахване на обекти се основава на функции за машинно обучение, въведени за първи път в macOS Big Sur. Актуализирайте своята macOS, за да използвате инструмента за премахване на обекти.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "Алгоритъмът за премахване на обекти се основава на функции за машинно обучение, въведени за първи път в macOS Ventura. Актуализирайте своята macOS, за да използвате инструмента за премахване на обекти.";
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "Изборът на текст се основава на функцията за машинно обучение, въведена за първи път в macOS Catalina. Актуализирайте своята macOS, за да използвате инструмента за избор на текст.";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Увеличаването на мащаба на изображението се основава на функцията за машинно обучение, въведена за първи път в macOS Catalina. Актуализирайте своята macOS, за да използвате възможността за увеличаване на мащаба на изображенията.";
 "No media" = "Няма медия";
@@ -59,6 +59,8 @@
 "Unable to find your purchase..." = "Покупката ви не може да бъде намерена...";
 "Check your Apple Account or try again later." = "Проверете акаунта си в Apple или опитайте отново по-късно.";
 "No applications" = "Няма заявки"; //to check if Заявки or meaning like Application?
+"Unable to update '%@'" = "Неуспешно обновяване на „%@“";
+"Unable to save metadata for '%@'" = "Неуспешно запазване на метаданни за „%@“";
 
 "Preparing..." = "Подготовка...";
 "Removing objects..." = "Премахване на обекти...";
@@ -173,6 +175,12 @@
 "Next Media" = "Следващ медия файл";
 "Previous Media" = "Предишен медия файл";
 "Not set" = "Не е зададено";
+"Rate - 1 star" = "Оцени – 1 звезда";
+"Rate - 2 stars" = "Оцени – 2 звезди";
+"Rate - 3 stars" = "Оцени – 3 звезди";
+"Rate - 4 stars" = "Оцени – 4 звезди";
+"Rate - 5 stars" = "Оцени – 5 звезди";
+"Unrated" = "Без оценка";
 
 // Preferences items
 "Preferences" = "Преференции";
@@ -198,3 +206,45 @@
 
 "Playing" = "Възпроизвеждане";
 "Paused" = "Пауза";
+
+"No items match the selected filters" = "Няма елементи, отговарящи на избраните филтри";
+
+"Extract" = "Извличане";
+"Copy" = "Копиране";
+"Move" = "Преместване";
+"Can't save" = "Не може да се запази";
+"Can't open" = "Не може да се отвори";
+"Can't extract" = "Не може да се извлече";
+"Unable to save '%@'" = "Неуспешно запазване на „%@“";
+"Unable to open '%@'" = "Неуспешно отваряне на „%@“";
+"Unable to extract '%@'" = "Неуспешно извличане на „%@“";
+"Unable to move '%@'" = "Неуспешно преместване на „%@“";
+"Unable to rename '%@'" = "Не може да се преименува „%@“";
+"Retry" = "Опитай отново";
+"Skip" = "Пропусни";
+
+"Abort" = "Прекъсни";
+"Convert" = "Конвертиране";
+"Extracting '%@'..." = "Извличане на „%@“...";
+"Moving '%@'..." = "Преместване на „%@“...";
+"Extract items to" = "Извлечи елементите в";
+"Move items to" = "Премести елементите в";
+"Choose a folder to save converted images" = "Изберете папка за записване на конвертираните изображения";
+"Are you sure you want to move selected items to Trash?" = "Сигурни ли сте, че искате да преместите избраните елементи в кошчето?";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "Избраните елементи не могат да бъдат преместени в кошчето. Да бъдат ли изтрити завинаги?";
+"Selected items will be deleted immediately. You can’t undo this action." = "Избраните елементи ще бъдат изтрити незабавно. Това действие не може да бъде отменено.";
+"Add to Batch Edit" = "Добави към пакетно редактиране";
+"Pixea+ Batch Editor" = "Pixea+ Пакетен редактор";
+
+"Images were edited" = "Изображенията бяха редактирани";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "Можете да експортирате изображенията или да игнорирате промените. Действието не може да бъде отменено.";
+"Export All" = "Експортирай всички";
+
+"Pixea+ required for more images" = "Pixea+ е необходим за повече изображения";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "Безплатната версия позволява пакетна обработка на до 3 изображения. Надградете до Pixea+, за да редактирате повече файлове едновременно.";
+"Puchase Pixea+" = "Закупи Pixea+";
+
+"Select preset" = "Избор на пресет";
+"Name is already taken" = "Името вече е заето";
+
+"None" = "Няма";

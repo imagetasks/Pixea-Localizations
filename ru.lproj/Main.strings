@@ -597,10 +597,10 @@
 "SyG-73-GCB.title" = "Добро пожаловать в Pixea!";
 
 /* Class = "NSMenuItem"; title = "System default"; ObjectID = "T6u-Hv-Ln0"; */
-"T6u-Hv-Ln0.title" = "Системные настройки";
+"T6u-Hv-Ln0.title" = "По умолчанию";
 
-/* Class = "NSMenuItem"; title = "Full Screen background:"; ObjectID = "TAo-ff-djH"; */
-"TAo-ff-djH.title" = "Фон в полноэкранном режиме:";
+/* Class = "NSMenuItem"; title = "Background:"; ObjectID = "TAo-ff-djH"; */
+"TAo-ff-djH.title" = "Фон:";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "TDY-tf-kxD"; */
 "TDY-tf-kxD.title" = "Ящик";
@@ -737,8 +737,8 @@
 /* Class = "NSTextFieldCell"; title = "1/1"; ObjectID = "YxT-j9-Oog"; */
 "YxT-j9-Oog.title" = "1/1";
 
-/* Class = "NSTextFieldCell"; title = "macOS 11 or higher is required. Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur."; ObjectID = "Yxs-SF-uxz"; */
-"Yxs-SF-uxz.title" = "Алгоритм удаления объектов основан на функциях машинного обучения, впервые представленных в macOS Big Sur. Обновите macOS, чтобы использовать инструмент удаления объектов.";
+/* Class = "NSTextFieldCell"; title = "macOS 13 or higher is required. Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura."; ObjectID = "Yxs-SF-uxz"; */
+"Yxs-SF-uxz.title" = "Алгоритм удаления объектов основан на функциях машинного обучения, впервые представленных в macOS Ventura. Обновите macOS, чтобы использовать инструмент удаления объектов.";
 
 /* Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "ZEt-IC-aoh"; */
 "ZEt-IC-aoh.title" = "Во весь экран";
@@ -1405,3 +1405,255 @@
 
 /* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "Z9f-9r-oMW"; */
 "Z9f-9r-oMW.title" = "Сделать фоном рабочего стола";
+
+/* Class = "NSMenuItem"; title = "Metadata"; ObjectID = "jQC-nj-2cX"; */
+"jQC-nj-2cX.title" = "Метаданные";
+
+/* Class = "NSMenuItem"; title = "Indexing metadata..."; ObjectID = "6x4-8F-jWG"; */
+"6x4-8F-jWG.title" = "Индексация метаданных...";
+
+/* Class = "NSMenuItem"; title = "Indexing metadata..."; ObjectID = "ddO-O0-LLL"; */
+"ddO-O0-LLL.title" = "Индексация метаданных...";
+
+/* Class = "NSMenuItem"; title = "Tags"; ObjectID = "MG3-pf-GUp"; */
+"MG3-pf-GUp.title" = "Теги";
+
+/* Class = "NSMenuItem"; title = "Rating"; ObjectID = "hZw-ec-XDc"; */
+"hZw-ec-XDc.title" = "Рейтинг";
+
+/* Class = "NSMenuItem"; title = "Rating"; ObjectID = "xFW-bN-t8w"; */
+"xFW-bN-t8w.title" = "Рейтинг";
+
+/* Class = "NSMenuItem"; title = "Date Taken"; ObjectID = "p81-9k-T7H"; */
+"p81-9k-T7H.title" = "Дата съёмки";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "yQr-MW-N8c"; */
+"yQr-MW-N8c.title" = "Тип";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "fWE-h7-30e"; */
+"fWE-h7-30e.title" = "Любой";
+
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "8Uz-z7-rBu"; */
+"8Uz-z7-rBu.title" = "Изображение";
+
+/* Class = "NSMenuItem"; title = "Video"; ObjectID = "hFi-tb-yov"; */
+"hFi-tb-yov.title" = "Видео";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "Dai-9i-hod"; */
+"Dai-9i-hod.title" = "Любой";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "cqx-FO-adw"; */
+"cqx-FO-adw.title" = "Любой";
+
+/* Class = "NSMenuItem"; title = "Clear filters"; ObjectID = "BIl-c4-lah"; */
+"BIl-c4-lah.title" = "Сбросить фильтры";
+
+/* Class = "NSTextFieldCell"; title = "Metadata"; ObjectID = "8Yo-1L-2tE"; */
+"8Yo-1L-2tE.title" = "Метаданные";
+
+/* Class = "NSButtonCell"; title = "Save sidecar XMP file"; ObjectID = "SPT-IL-tZt"; */
+"SPT-IL-tZt.title" = "Сохранить XMP sidecar файл";
+
+/* Class = "NSTextFieldCell"; title = "Pixea stores all metadata changes in its metadata database by default, keeping the original files unchanged. If you plan to transfer files to another volume or application, Pixea can create separate sidecar XMP files."; ObjectID = "6gE-dh-1Nx"; */
+"6gE-dh-1Nx.title" = "По умолчанию Pixea сохраняет все изменения метаданных в своей базе данных, оставляя оригинальные файлы без изменений. Если вы планируете переносить файлы на другой диск или в другое приложение, Pixea может создавать отдельные XMP sidecar файлы.";
+
+/* Class = "NSButtonCell"; title = "Update metadata in the original file"; ObjectID = "X7r-u3-uGw"; */
+"X7r-u3-uGw.title" = "Обновить метаданные в оригинальном файле";
+
+/* Class = "NSTextFieldCell"; title = "Original files will be overwritten. Not all formats support embedded metadata."; ObjectID = "zAg-Fn-v24"; */
+"zAg-Fn-v24.title" = "Оригинальные файлы будут перезаписаны. Не все форматы поддерживают встроенные метаданные.";
+
+/* Class = "NSButtonCell"; title = "Don't ask again"; ObjectID = "yS2-OI-65h"; */
+"yS2-OI-65h.title" = "Больше не спрашивать";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "hen-V0-dei"; */
+"hen-V0-dei.title" = "Сохранить";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "FJd-wq-A6N"; */
+"FJd-wq-A6N.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Filtering"; ObjectID = "i0B-NN-BBH"; */
+"i0B-NN-BBH.title" = "Фильтры";
+
+/* Class = "NSTextFieldCell"; title = "Filter media files by type or metadata"; ObjectID = "lZ8-NU-cQx"; */
+"lZ8-NU-cQx.title" = "Фильтруйте медиафайлы по типу или метаданным";
+
+/* Class = "NSMenuItem"; title = "Filter"; ObjectID = "Ift-AQ-hVo"; */
+"Ift-AQ-hVo.title" = "Фильтровать";
+
+/* Class = "NSTextFieldCell"; title = "Adjustments"; ObjectID = "baP-4Q-8A2"; */
+"baP-4Q-8A2.title" = "Коррекции";
+
+/* Class = "NSSegmentedCell"; ibShadowedLabels[0] = "Global"; ObjectID = "hPY-bS-zdE"; */
+"hPY-bS-zdE.ibShadowedLabels[0]" = "Глобальные";
+
+/* Class = "NSSegmentedCell"; ibShadowedLabels[1] = "Individual"; ObjectID = "hPY-bS-zdE"; */
+"hPY-bS-zdE.ibShadowedLabels[1]" = "Индивидуальные";
+
+/* Class = "NSTextFieldCell"; title = "Batch Editor"; ObjectID = "ixc-2v-HcK"; */
+"ixc-2v-HcK.title" = "Пакетный редактор";
+
+/* Class = "NSButtonCell"; title = "Export current image"; ObjectID = "c0f-0e-Kc7"; */
+"c0f-0e-Kc7.title" = "Экспортировать текущее изображение";
+
+/* Class = "NSButtonCell"; title = "Export All"; ObjectID = "6EW-L0-MgH"; */
+"6EW-L0-MgH.title" = "Экспортировать всё";
+
+/* Class = "NSButtonCell"; title = "Compare with original"; ObjectID = "0jA-jh-66S"; */
+"0jA-jh-66S.title" = "Сравнить с оригиналом";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "Hqu-LL-1xH"; */
+"Hqu-LL-1xH.title" = "Готово";
+
+/* Class = "NSButtonCell"; title = "Batch edit"; ObjectID = "0tm-Mr-gSd"; */
+"0tm-Mr-gSd.title" = "Пакетное редактирование";
+
+/* Class = "NSButtonCell"; title = "Convert"; ObjectID = "OE2-3l-XJC"; */
+"OE2-3l-XJC.title" = "Конвертировать";
+
+/* Class = "NSTextFieldCell"; title = "Adjustments"; ObjectID = "ODl-UQ-vqK"; */
+"ODl-UQ-vqK.title" = "Коррекции";
+
+/* Class = "NSButtonCell"; title = "Compare with original"; ObjectID = "Bug-Ep-wFf"; */
+"Bug-Ep-wFf.title" = "Сравнить с оригиналом";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Le3-1p-1yD"; */
+"Le3-1p-1yD.title" = "Отмена";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "uk5-kT-TdY"; */
+"uk5-kT-TdY.title" = "Применить";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "aSh-3C-Rdv"; */
+"aSh-3C-Rdv.title" = "Добавить в пакетное редактирование";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "a7s-TD-oBh"; */
+"a7s-TD-oBh.title" = "Добавить в пакетное редактирование";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "mBf-ha-BFv"; */
+"mBf-ha-BFv.title" = "Добавить в пакетное редактирование";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "1Xf-pO-WH4"; */
+"1Xf-pO-WH4.title" = "Добавить в пакетное редактирование";
+
+/* Class = "NSMenuItem"; title = "Convert"; ObjectID = "kW6-Fc-DOV"; */
+"kW6-Fc-DOV.title" = "Конвертировать";
+
+/* Class = "NSMenuItem"; title = "Convert"; ObjectID = "iHu-Gs-Rqw"; */
+"iHu-Gs-Rqw.title" = "Конвертировать";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Image Adjustments"; ObjectID = "cPE-cb-Ebk"; */
+"cPE-cb-Ebk.ibShadowedToolTip" = "Коррекция изображения";
+
+/* Class = "NSMenuItem"; title = "Remove from Batch Edit"; ObjectID = "iod-68-vZy"; */
+"iod-68-vZy.title" = "Удалить из пакетного редактирования";
+
+/* Class = "NSMenuItem"; title = "Panel Size"; ObjectID = "7eA-T3-wOd"; */
+"7eA-T3-wOd.title" = "Размер панели";
+
+/* Class = "NSMenuItem"; title = "Small"; ObjectID = "H5q-Cz-YK7"; */
+"H5q-Cz-YK7.title" = "Маленький";
+
+/* Class = "NSMenuItem"; title = "Regular"; ObjectID = "Sdd-bY-8AX"; */
+"Sdd-bY-8AX.title" = "Стандартный";
+
+/* Class = "NSMenuItem"; title = "Large"; ObjectID = "XN8-NC-tK6"; */
+"XN8-NC-tK6.title" = "Большой";
+
+/* Class = "NSMenuItem"; title = "Create New Preset..."; ObjectID = "hju-7I-KSu"; */
+"hju-7I-KSu.title" = "Создать новый пресет...";
+
+/* Class = "NSMenuItem"; title = "Update Current Preset"; ObjectID = "eBp-od-W8v"; */
+"eBp-od-W8v.title" = "Обновить текущий пресет";
+
+/* Class = "NSMenuItem"; title = "Rename Preset"; ObjectID = "vNc-qS-gdq"; */
+"vNc-qS-gdq.title" = "Переименовать пресет";
+
+/* Class = "NSMenuItem"; title = "Remove Preset"; ObjectID = "4zd-Zu-b3L"; */
+"4zd-Zu-b3L.title" = "Удалить пресет";
+
+/* Class = "NSTextFieldCell"; title = "Presets:"; ObjectID = "Xjw-Kt-2zb"; */
+"Xjw-Kt-2zb.title" = "Пресеты:";
+
+/* Class = "NSMenuItem"; title = "Create New Preset..."; ObjectID = "Ww0-4G-EVa"; */
+"Ww0-4G-EVa.title" = "Создать новый пресет...";
+
+/* Class = "NSMenuItem"; title = "Update Current Preset"; ObjectID = "dlA-JC-tNK"; */
+"dlA-JC-tNK.title" = "Обновить текущий пресет";
+
+/* Class = "NSMenuItem"; title = "Rename Preset"; ObjectID = "rft-QD-wnS"; */
+"rft-QD-wnS.title" = "Переименовать пресет";
+
+/* Class = "NSMenuItem"; title = "Remove Preset"; ObjectID = "gh4-Zf-Vgg"; */
+"gh4-Zf-Vgg.title" = "Удалить пресет";
+
+/* Class = "NSTextFieldCell"; title = "Presets:"; ObjectID = "waj-Kx-gmx"; */
+"waj-Kx-gmx.title" = "Пресеты:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "PMV-K8-OiT"; */
+"PMV-K8-OiT.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "WhK-kk-kUG"; */
+"WhK-kk-kUG.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Enter name:"; ObjectID = "1Ms-Is-jAD"; */
+"1Ms-Is-jAD.title" = "Введите имя:";
+
+/* Class = "NSTextFieldCell"; title = "1 Month"; ObjectID = "AA2-Re-Jqy"; */
+"AA2-Re-Jqy.title" = "1 месяц";
+
+/* Class = "NSTextFieldCell"; title = "1 Year"; ObjectID = "3Sr-qM-fuC"; */
+"3Sr-qM-fuC.title" = "1 год";
+
+/* Class = "NSTextFieldCell"; title = "Lifetime"; ObjectID = "E63-Ib-acz"; */
+"E63-Ib-acz.title" = "Навсегда";
+
+/* Class = "NSTextFieldCell"; title = "Subscribe monthly to get full access to all Pixea Plus features. The subscription period lasts 1 month from the time of purchase, and renews automatically."; ObjectID = "b5h-rT-6X9"; */
+"b5h-rT-6X9.title" = "Ежемесячная подписка с полным доступом ко всем функциям Pixea Plus. Подписка действует 1 месяц с момента покупки и продлевается автоматически.";
+
+/* Class = "NSTextFieldCell"; title = "Subscribe yearly to get full access to all Pixea Plus features. The subscription period lasts 1 year from the time of purchase, and renews automatically."; ObjectID = "f25-yS-8vU"; */
+"f25-yS-8vU.title" = "Ежегодная подписка с полным доступом ко всем функциям Pixea Plus. Подписка действует 1 год с момента покупки и продлевается автоматически.";
+
+/* Class = "NSTextFieldCell"; title = "One time purchase. Get full access to all Pixea Plus features for a lifetime. No extra renewals or purchases required."; ObjectID = "0x6-LJ-W7Z"; */
+"0x6-LJ-W7Z.title" = "Разовая покупка. Полный доступ ко всем функциям Pixea Plus навсегда. Никаких продлений или дополнительных покупок не требуется.";
+
+/* Class = "NSButtonCell"; title = "Purchase"; ObjectID = "czY-tV-mGS"; */
+"czY-tV-mGS.title" = "Купить";
+
+/* Class = "NSButtonCell"; title = "Restore purchase"; ObjectID = "egj-5H-eZz"; */
+"egj-5H-eZz.title" = "Восстановить покупки";
+
+/* Class = "NSTextFieldCell"; title = "Image Adjustments"; ObjectID = "hAJ-t8-c5d"; */
+"hAJ-t8-c5d.title" = "Коррекция изображения";
+
+/* Class = "NSTextFieldCell"; title = "Perspective correction, Color curves, HSL by color channel, Watermark, and other Pixea Plus tools"; ObjectID = "oz8-Sr-smJ"; */
+"oz8-Sr-smJ.title" = "Коррекция перспективы, цветовые кривые, HSL по цветовому каналу, водяной знак и другие инструменты";
+
+/* Class = "NSTextFieldCell"; title = "Batch Edit"; ObjectID = "UqA-dY-hkq"; */
+"UqA-dY-hkq.title" = "Пакетная обработка";
+
+/* Class = "NSTextFieldCell"; title = "Apply image adjustments to a set of images with global and per-image settings"; ObjectID = "qxq-GV-A8d"; */
+"qxq-GV-A8d.title" = "Применяйте настройки изображения к группе фото с общими и индивидуальными параметрами";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "hgK-R7-FFL"; */
+"hgK-R7-FFL.title" = "Переименовать";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "CaD-ts-7N3"; */
+"CaD-ts-7N3.title" = "Переименовать";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "x8C-ge-BkQ"; */
+"x8C-ge-BkQ.title" = "Переименовать";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "Ux5-Jg-U5X"; */
+"Ux5-Jg-U5X.title" = "Переименовать";
+
+/* Class = "NSMenuItem"; title = "Before/after"; ObjectID = "qLJ-zh-7QS"; */
+"qLJ-zh-7QS.title" = "До/после";
+
+/* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "Bqv-qH-pIP"; */
+"Bqv-qH-pIP.title" = "Нажмите, чтобы показать оригинал";
+
+/* Class = "NSMenuItem"; title = "Before/after"; ObjectID = "tBw-ze-zCG"; */
+"tBw-ze-zCG.title" = "До/после";
+
+/* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "tpK-e3-02k"; */
+"tpK-e3-02k.title" = "Нажмите, чтобы показать оригинал";

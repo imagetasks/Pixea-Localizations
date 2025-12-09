@@ -597,10 +597,10 @@ Class = "NSTextFieldCell"; title = "Welcome to Pixea!"; ObjectID = "SyG-73-GCB";
 "SyG-73-GCB.title" = "Bienvenue sur Pixea!";
 /* T6u-Hv-Ln0.title
 Class = "NSMenuItem"; title = "System default"; ObjectID = "T6u-Hv-Ln0"; */
-"T6u-Hv-Ln0.title" = "Système par défaut";
+"T6u-Hv-Ln0.title" = "Par défaut";
 /* TAo-ff-djH.title
-Class = "NSMenuItem"; title = "Full Screen background:"; ObjectID = "TAo-ff-djH"; */
-"TAo-ff-djH.title" = "Arrière-plan en plein écran :";
+Class = "NSMenuItem"; title = "Background:"; ObjectID = "TAo-ff-djH"; */
+"TAo-ff-djH.title" = "Arrière-plan :";
 /* TDY-tf-kxD.title
 Class = "NSBox"; title = "Box"; ObjectID = "TDY-tf-kxD"; */
 "TDY-tf-kxD.title" = "Boîte";
@@ -737,8 +737,8 @@ Class = "NSMenuItem"; title = "Edit with..."; ObjectID = "Ybk-dm-Drb"; */
 Class = "NSTextFieldCell"; title = "1/1"; ObjectID = "YxT-j9-Oog"; */
 "YxT-j9-Oog.title" = "1/1";
 /* Yxs-SF-uxz.title
-Class = "NSTextFieldCell"; title = "macOS 11 or higher is required. Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur."; ObjectID = "Yxs-SF-uxz"; */
-"Yxs-SF-uxz.title" = "macOS 11 ou supérieur est requis. L\'algorithme de suppression d\'objets est basé sur les fonctionnalités d\'apprentissage automatique introduites pour la première fois avec macOS Big Sur.";
+Class = "NSTextFieldCell"; title = "macOS 13 or higher is required. Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura."; ObjectID = "Yxs-SF-uxz"; */
+"Yxs-SF-uxz.title" = "macOS 13 ou supérieur est requis. L\'algorithme de suppression d\'objets est basé sur les fonctionnalités d\'apprentissage automatique introduites pour la première fois avec macOS Ventura.";
 /* ZEt-IC-aoh.title
 Class = "NSMenuItem"; title = "Fill Screen"; ObjectID = "ZEt-IC-aoh"; */
 "ZEt-IC-aoh.title" = "Remplir l\'écran";
@@ -1405,3 +1405,255 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 
 /* Class = "NSMenuItem"; title = "Set as Wallpaper"; ObjectID = "Z9f-9r-oMW"; */
 "Z9f-9r-oMW.title" = "Définir comme fond d’écran";
+
+/* Class = "NSMenuItem"; title = "Metadata"; ObjectID = "jQC-nj-2cX"; */
+"jQC-nj-2cX.title" = "Métadonnées";
+
+/* Class = "NSMenuItem"; title = "Indexing metadata..."; ObjectID = "6x4-8F-jWG"; */
+"6x4-8F-jWG.title" = "Indexation des métadonnées...";
+
+/* Class = "NSMenuItem"; title = "Indexing metadata..."; ObjectID = "ddO-O0-LLL"; */
+"ddO-O0-LLL.title" = "Indexation des métadonnées...";
+
+/* Class = "NSMenuItem"; title = "Tags"; ObjectID = "MG3-pf-GUp"; */
+"MG3-pf-GUp.title" = "Tags";
+
+/* Class = "NSMenuItem"; title = "Rating"; ObjectID = "hZw-ec-XDc"; */
+"hZw-ec-XDc.title" = "Note";
+
+/* Class = "NSMenuItem"; title = "Rating"; ObjectID = "xFW-bN-t8w"; */
+"xFW-bN-t8w.title" = "Note";
+
+/* Class = "NSMenuItem"; title = "Date Taken"; ObjectID = "p81-9k-T7H"; */
+"p81-9k-T7H.title" = "Date de prise de vue";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "yQr-MW-N8c"; */
+"yQr-MW-N8c.title" = "Type";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "fWE-h7-30e"; */
+"fWE-h7-30e.title" = "N’importe lequel";
+
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "8Uz-z7-rBu"; */
+"8Uz-z7-rBu.title" = "Image";
+
+/* Class = "NSMenuItem"; title = "Video"; ObjectID = "hFi-tb-yov"; */
+"hFi-tb-yov.title" = "Vidéo";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "Dai-9i-hod"; */
+"Dai-9i-hod.title" = "N’importe lequel";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "cqx-FO-adw"; */
+"cqx-FO-adw.title" = "N’importe lequel";
+
+/* Class = "NSMenuItem"; title = "Clear filters"; ObjectID = "BIl-c4-lah"; */
+"BIl-c4-lah.title" = "Effacer les filtres";
+
+/* Class = "NSTextFieldCell"; title = "Metadata"; ObjectID = "8Yo-1L-2tE"; */
+"8Yo-1L-2tE.title" = "Métadonnées";
+
+/* Class = "NSButtonCell"; title = "Save sidecar XMP file"; ObjectID = "SPT-IL-tZt"; */
+"SPT-IL-tZt.title" = "Enregistrer le fichier XMP sidecar";
+
+/* Class = "NSTextFieldCell"; title = "Pixea stores all metadata changes in its metadata database by default, keeping the original files unchanged. If you plan to transfer files to another volume or application, Pixea can create separate sidecar XMP files."; ObjectID = "6gE-dh-1Nx"; */
+"6gE-dh-1Nx.title" = "Par défaut, Pixea stocke toutes les modifications des métadonnées dans sa base de données, sans modifier les fichiers originaux. Si vous prévoyez de transférer des fichiers vers un autre volume ou une autre application, Pixea peut créer des fichiers XMP sidecar séparés.";
+
+/* Class = "NSButtonCell"; title = "Update metadata in the original file"; ObjectID = "X7r-u3-uGw"; */
+"X7r-u3-uGw.title" = "Mettre à jour les métadonnées dans le fichier original";
+
+/* Class = "NSTextFieldCell"; title = "Original files will be overwritten. Not all formats support embedded metadata."; ObjectID = "zAg-Fn-v24"; */
+"zAg-Fn-v24.title" = "Les fichiers originaux seront remplacés. Tous les formats ne prennent pas en charge les métadonnées intégrées.";
+
+/* Class = "NSButtonCell"; title = "Don't ask again"; ObjectID = "yS2-OI-65h"; */
+"yS2-OI-65h.title" = "Ne plus demander";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "hen-V0-dei"; */
+"hen-V0-dei.title" = "Enregistrer";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "FJd-wq-A6N"; */
+"FJd-wq-A6N.title" = "Annuler";
+
+/* Class = "NSTextFieldCell"; title = "Filtering"; ObjectID = "i0B-NN-BBH"; */
+"i0B-NN-BBH.title" = "Filtrage";
+
+/* Class = "NSTextFieldCell"; title = "Filter media files by type or metadata"; ObjectID = "lZ8-NU-cQx"; */
+"lZ8-NU-cQx.title" = "Filtrer les fichiers multimédias par type ou métadonnées";
+
+/* Class = "NSMenuItem"; title = "Filter"; ObjectID = "Ift-AQ-hVo"; */
+"Ift-AQ-hVo.title" = "Filtrer";
+
+/* Class = "NSTextFieldCell"; title = "Adjustments"; ObjectID = "baP-4Q-8A2"; */
+"baP-4Q-8A2.title" = "Ajustements";
+
+/* Class = "NSSegmentedCell"; ibShadowedLabels[0] = "Global"; ObjectID = "hPY-bS-zdE"; */
+"hPY-bS-zdE.ibShadowedLabels[0]" = "Global";
+
+/* Class = "NSSegmentedCell"; ibShadowedLabels[1] = "Individual"; ObjectID = "hPY-bS-zdE"; */
+"hPY-bS-zdE.ibShadowedLabels[1]" = "Individuel";
+
+/* Class = "NSTextFieldCell"; title = "Batch Editor"; ObjectID = "ixc-2v-HcK"; */
+"ixc-2v-HcK.title" = "Éditeur par lot";
+
+/* Class = "NSButtonCell"; title = "Export current image"; ObjectID = "c0f-0e-Kc7"; */
+"c0f-0e-Kc7.title" = "Exporter l’image actuelle";
+
+/* Class = "NSButtonCell"; title = "Export All"; ObjectID = "6EW-L0-MgH"; */
+"6EW-L0-MgH.title" = "Tout exporter";
+
+/* Class = "NSButtonCell"; title = "Compare with original"; ObjectID = "0jA-jh-66S"; */
+"0jA-jh-66S.title" = "Comparer avec l’original";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "Hqu-LL-1xH"; */
+"Hqu-LL-1xH.title" = "Terminé";
+
+/* Class = "NSButtonCell"; title = "Batch edit"; ObjectID = "0tm-Mr-gSd"; */
+"0tm-Mr-gSd.title" = "Traitement par lot";
+
+/* Class = "NSButtonCell"; title = "Convert"; ObjectID = "OE2-3l-XJC"; */
+"OE2-3l-XJC.title" = "Convertir";
+
+/* Class = "NSTextFieldCell"; title = "Adjustments"; ObjectID = "ODl-UQ-vqK"; */
+"ODl-UQ-vqK.title" = "Ajustements";
+
+/* Class = "NSButtonCell"; title = "Compare with original"; ObjectID = "Bug-Ep-wFf"; */
+"Bug-Ep-wFf.title" = "Comparer avec l’original";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Le3-1p-1yD"; */
+"Le3-1p-1yD.title" = "Annuler";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "uk5-kT-TdY"; */
+"uk5-kT-TdY.title" = "Appliquer";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "aSh-3C-Rdv"; */
+"aSh-3C-Rdv.title" = "Ajouter au traitement par lot";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "a7s-TD-oBh"; */
+"a7s-TD-oBh.title" = "Ajouter au traitement par lot";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "mBf-ha-BFv"; */
+"mBf-ha-BFv.title" = "Ajouter au traitement par lot";
+
+/* Class = "NSMenuItem"; title = "Add to Batch Edit"; ObjectID = "1Xf-pO-WH4"; */
+"1Xf-pO-WH4.title" = "Ajouter au traitement par lot";
+
+/* Class = "NSMenuItem"; title = "Convert"; ObjectID = "kW6-Fc-DOV"; */
+"kW6-Fc-DOV.title" = "Convertir";
+
+/* Class = "NSMenuItem"; title = "Convert"; ObjectID = "iHu-Gs-Rqw"; */
+"iHu-Gs-Rqw.title" = "Convertir";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Image Adjustments"; ObjectID = "cPE-cb-Ebk"; */
+"cPE-cb-Ebk.ibShadowedToolTip" = "Ajustements de l’image";
+
+/* Class = "NSMenuItem"; title = "Remove from Batch Edit"; ObjectID = "iod-68-vZy"; */
+"iod-68-vZy.title" = "Retirer du traitement par lot";
+
+/* Class = "NSMenuItem"; title = "Panel Size"; ObjectID = "7eA-T3-wOd"; */
+"7eA-T3-wOd.title" = "Taille du panneau";
+
+/* Class = "NSMenuItem"; title = "Small"; ObjectID = "H5q-Cz-YK7"; */
+"H5q-Cz-YK7.title" = "Petit";
+
+/* Class = "NSMenuItem"; title = "Regular"; ObjectID = "Sdd-bY-8AX"; */
+"Sdd-bY-8AX.title" = "Régulier";
+
+/* Class = "NSMenuItem"; title = "Large"; ObjectID = "XN8-NC-tK6"; */
+"XN8-NC-tK6.title" = "Grande";
+
+/* Class = "NSMenuItem"; title = "Create New Preset..."; ObjectID = "hju-7I-KSu"; */
+"hju-7I-KSu.title" = "Créer un nouveau préréglage...";
+
+/* Class = "NSMenuItem"; title = "Update Current Preset"; ObjectID = "eBp-od-W8v"; */
+"eBp-od-W8v.title" = "Mettre à jour le préréglage actuel";
+
+/* Class = "NSMenuItem"; title = "Rename Preset"; ObjectID = "vNc-qS-gdq"; */
+"vNc-qS-gdq.title" = "Renommer le préréglage";
+
+/* Class = "NSMenuItem"; title = "Remove Preset"; ObjectID = "4zd-Zu-b3L"; */
+"4zd-Zu-b3L.title" = "Supprimer le préréglage";
+
+/* Class = "NSTextFieldCell"; title = "Presets:"; ObjectID = "Xjw-Kt-2zb"; */
+"Xjw-Kt-2zb.title" = "Préréglages:";
+
+/* Class = "NSMenuItem"; title = "Create New Preset..."; ObjectID = "Ww0-4G-EVa"; */
+"Ww0-4G-EVa.title" = "Créer un nouveau préréglage...";
+
+/* Class = "NSMenuItem"; title = "Update Current Preset"; ObjectID = "dlA-JC-tNK"; */
+"dlA-JC-tNK.title" = "Mettre à jour le préréglage actuel";
+
+/* Class = "NSMenuItem"; title = "Rename Preset"; ObjectID = "rft-QD-wnS"; */
+"rft-QD-wnS.title" = "Renommer le préréglage";
+
+/* Class = "NSMenuItem"; title = "Remove Preset"; ObjectID = "gh4-Zf-Vgg"; */
+"gh4-Zf-Vgg.title" = "Supprimer le préréglage";
+
+/* Class = "NSTextFieldCell"; title = "Presets:"; ObjectID = "waj-Kx-gmx"; */
+"waj-Kx-gmx.title" = "Préréglages:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "PMV-K8-OiT"; */
+"PMV-K8-OiT.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "WhK-kk-kUG"; */
+"WhK-kk-kUG.title" = "Annuler";
+
+/* Class = "NSTextFieldCell"; title = "Enter name:"; ObjectID = "1Ms-Is-jAD"; */
+"1Ms-Is-jAD.title" = "Saisir le nom :";
+
+/* Class = "NSTextFieldCell"; title = "1 Month"; ObjectID = "AA2-Re-Jqy"; */
+"AA2-Re-Jqy.title" = "1 mois";
+
+/* Class = "NSTextFieldCell"; title = "1 Year"; ObjectID = "3Sr-qM-fuC"; */
+"3Sr-qM-fuC.title" = "1 an";
+
+/* Class = "NSTextFieldCell"; title = "Lifetime"; ObjectID = "E63-Ib-acz"; */
+"E63-Ib-acz.title" = "À vie";
+
+/* Class = "NSTextFieldCell"; title = "Subscribe monthly to get full access to all Pixea Plus features. The subscription period lasts 1 month from the time of purchase, and renews automatically."; ObjectID = "b5h-rT-6X9"; */
+"b5h-rT-6X9.title" = "Abonnez-vous mensuellement pour accéder à toutes les fonctionnalités de Pixea Plus. L’abonnement dure 1 mois à partir de l’achat et se renouvelle automatiquement.";
+
+/* Class = "NSTextFieldCell"; title = "Subscribe yearly to get full access to all Pixea Plus features. The subscription period lasts 1 year from the time of purchase, and renews automatically."; ObjectID = "f25-yS-8vU"; */
+"f25-yS-8vU.title" = "Abonnez-vous annuellement pour accéder à toutes les fonctionnalités de Pixea Plus. L’abonnement dure 1 an à partir de l’achat et se renouvelle automatiquement.";
+
+/* Class = "NSTextFieldCell"; title = "One time purchase. Get full access to all Pixea Plus features for a lifetime. No extra renewals or purchases required."; ObjectID = "0x6-LJ-W7Z"; */
+"0x6-LJ-W7Z.title" = "Achat unique. Accédez à vie à toutes les fonctionnalités de Pixea Plus. Aucune reconduction ou dépense supplémentaire requise.";
+
+/* Class = "NSButtonCell"; title = "Purchase"; ObjectID = "czY-tV-mGS"; */
+"czY-tV-mGS.title" = "Acheter";
+
+/* Class = "NSButtonCell"; title = "Restore purchase"; ObjectID = "egj-5H-eZz"; */
+"egj-5H-eZz.title" = "Restaurer l’achat";
+
+/* Class = "NSTextFieldCell"; title = "Image Adjustments"; ObjectID = "hAJ-t8-c5d"; */
+"hAJ-t8-c5d.title" = "Ajustements d’image";
+
+/* Class = "NSTextFieldCell"; title = "Perspective correction, Color curves, HSL by color channel, Watermark, and other Pixea Plus tools"; ObjectID = "oz8-Sr-smJ"; */
+"oz8-Sr-smJ.title" = "Correction de perspective, courbes de couleur, HSL par canal, filigrane et autres outils Pixea Plus";
+
+/* Class = "NSTextFieldCell"; title = "Batch Edit"; ObjectID = "UqA-dY-hkq"; */
+"UqA-dY-hkq.title" = "Édition par lot";
+
+/* Class = "NSTextFieldCell"; title = "Apply image adjustments to a set of images with global and per-image settings"; ObjectID = "qxq-GV-A8d"; */
+"qxq-GV-A8d.title" = "Appliquer des ajustements d’image à un ensemble d’images avec des réglages globaux et individuels";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "hgK-R7-FFL"; */
+"hgK-R7-FFL.title" = "Renommer";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "CaD-ts-7N3"; */
+"CaD-ts-7N3.title" = "Renommer";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "x8C-ge-BkQ"; */
+"x8C-ge-BkQ.title" = "Renommer";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "Ux5-Jg-U5X"; */
+"Ux5-Jg-U5X.title" = "Renommer";
+
+/* Class = "NSMenuItem"; title = "Before/after"; ObjectID = "qLJ-zh-7QS"; */
+"qLJ-zh-7QS.title" = "Avant/Après";
+
+/* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "Bqv-qH-pIP"; */
+"Bqv-qH-pIP.title" = "Cliquez pour afficher l’original";
+
+/* Class = "NSMenuItem"; title = "Before/after"; ObjectID = "tBw-ze-zCG"; */
+"tBw-ze-zCG.title" = "Avant/Après";
+
+/* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "tpK-e3-02k"; */
+"tpK-e3-02k.title" = "Cliquez pour afficher l’original";

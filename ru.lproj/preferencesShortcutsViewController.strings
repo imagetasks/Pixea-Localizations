@@ -22,3 +22,15 @@
 
 /* Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
 "xDv-OG-qlV.title" = "Свайп влево/вправо — показать предыдущий/следующий медиафайл";
+
+/* Class = "NSTextFieldCell"; title = "Gesture-based scrolling devices"; ObjectID = "ujt-Zc-zoi"; */
+"ujt-Zc-zoi.title" = "Устройства с прокруткой жестами";
+
+/* Class = "NSTextFieldCell"; title = "Traditional scroll wheel devices"; ObjectID = "Bbc-QH-j2W"; */
+"Bbc-QH-j2W.title" = "Устройства с традиционным колесом прокрутки";
+
+/* Class = "NSButtonCell"; title = "Scroll to show previous/next image"; ObjectID = "EWJ-aY-6DW"; */
+"EWJ-aY-6DW.title" = "Прокрутка для просмотра предыдущего/следующего медиафайла";
+
+/* Class = "NSButtonCell"; title = "Scroll to zoom"; ObjectID = "XNU-VL-zHu"; */
+"XNU-VL-zHu.title" = "Прокрутка для масштабирования";

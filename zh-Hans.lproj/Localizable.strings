@@ -9,9 +9,9 @@ Copyright © 2025 Andrey Tsarkov. All rights reserved. */
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "检查可用内存和磁盘空间。尝试关闭其他应用程序并重新启动Pixea。";
 "OK" = "确定";
 "Cancel" = "取消";
-"macOS 11 or higher is required." = "需要macOS 11或更高版本。";
+"macOS 13 or higher is required." = "需要macOS 13或更高版本。";
 "macOS 10.15 or higher is required." = "需要macOS 10.15或更高版本。";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "对象移除算法基于首次在macOS Big Sur中引入的机器学习功能。更新您的macOS以使用对象移除工具。";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "对象移除算法基于首次在macOS Ventura中引入的机器学习功能。更新您的macOS以使用对象移除工具。";
 /* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "文本选择基于首次在macOS Catalina中引入的机器学习功能。更新您的macOS以使用文本选择工具。";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "图像升级基于首次在macOS Catalina中引入的机器学习功能。更新您的macOS以使用图像升级。";
@@ -64,6 +64,9 @@ export jpeg quality */
 "Unable to find your purchase..." = "无法找到您的购买……";
 "Check your Apple Account or try again later." = "检查您的Apple账户或稍后重试。";
 "No applications" = "没有应用程序";
+"Unable to update '%@'" = "无法更新“%@”";
+"Unable to save metadata for '%@'" = "无法保存“%@”的元数据";
+
 "Preparing..." = "准备中……";
 "Removing objects..." = "移除对象中……";
 "Processing transparency..." = "处理透明度……";
@@ -189,6 +192,13 @@ shortcuts */
 "Next Media" = "下一个媒体";
 "Previous Media" = "上一个媒体";
 "Not set" = "未设置";
+"Rate - 1 star" = "评分 – 1 星";
+"Rate - 2 stars" = "评分 – 2 星";
+"Rate - 3 stars" = "评分 – 3 星";
+"Rate - 4 stars" = "评分 – 4 星";
+"Rate - 5 stars" = "评分 – 5 星";
+"Unrated" = "未评分";
+
 /* Preferences
 Preferences items */
 "Preferences" = "偏好设置";
@@ -213,3 +223,45 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Playing" = "正在播放";
 "Paused" = "已暂停";
+
+"No items match the selected filters" = "没有与所选筛选器匹配的项目";
+
+"Extract" = "提取";
+"Copy" = "复制";
+"Move" = "移动";
+"Can't save" = "无法保存";
+"Can't open" = "无法打开";
+"Can't extract" = "无法提取";
+"Unable to save '%@'" = "无法保存“%@”";
+"Unable to open '%@'" = "无法打开“%@”";
+"Unable to extract '%@'" = "无法提取“%@”";
+"Unable to move '%@'" = "无法移动“%@”";
+"Unable to rename '%@'" = "无法重命名“%@”";
+"Retry" = "重试";
+"Skip" = "跳过";
+
+"Abort" = "中止";
+"Convert" = "转换";
+"Extracting '%@'..." = "正在提取“%@”…";
+"Moving '%@'..." = "正在移动“%@”…";
+"Extract items to" = "将项目提取到";
+"Move items to" = "将项目移动到";
+"Choose a folder to save converted images" = "选择用于保存转换后图像的文件夹";
+"Are you sure you want to move selected items to Trash?" = "确定要将选中的项目移到废纸篓吗？";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "选中的项目无法移到废纸篓。确定要永久删除它们吗？";
+"Selected items will be deleted immediately. You can’t undo this action." = "选中的项目将立即删除。此操作无法撤销。";
+"Add to Batch Edit" = "添加到批量编辑";
+"Pixea+ Batch Editor" = "Pixea+ 批量编辑器";
+
+"Images were edited" = "图像已编辑";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "您可以选择导出图像或忽略更改。此操作无法撤销。";
+"Export All" = "全部导出";
+
+"Pixea+ required for more images" = "处理更多图像需要 Pixea+";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "免费版最多可批量编辑 3 张图片。升级到 Pixea+ 可一次编辑更多文件。";
+"Puchase Pixea+" = "购买 Pixea+";
+
+"Select preset" = "选择预设";
+"Name is already taken" = "名称已被使用";
+
+"None" = "无";

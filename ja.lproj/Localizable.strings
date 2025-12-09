@@ -9,9 +9,9 @@ Copyright © 2025 Andrey Tsarkov. All rights reserved. */
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "利用可能なメモリとディスクスペースを確認してください。 他のアプリを閉じて Pixea を再起動してみてください。";
 "OK" = "OK";
 "Cancel" = "キャンセル";
-"macOS 11 or higher is required." = "macOS 11 以降が必要です。";
+"macOS 13 or higher is required." = "macOS 13 以降が必要です。";
 "macOS 10.15 or higher is required." = "macOS 10.15 以降が必要です。";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "オブジェクト削除アルゴリズムは、macOS Big Sur で初めて導入された機械学習機能に基づいています。 オブジェクト削除ツールを使用するには macOS を更新してください。";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "オブジェクト削除アルゴリズムは、macOS Ventura で初めて導入された機械学習機能に基づいています。 オブジェクト削除ツールを使用するには macOS を更新してください。";
 /* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "テキスト選択は、macOS Catalina で初めて導入された機械学習機能に基づいています。 テキスト選択ツールを使用するには macOS を更新してください。";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "画像のアップスケーリングは、macOS Catalina で初めて導入された機械学習機能に基づいています。 画像のアップスケーリングを使用するには macOS を更新してください。";
@@ -64,6 +64,9 @@ export jpeg quality */
 "Unable to find your purchase..." = "購入が見つかりません…";
 "Check your Apple Account or try again later." = "Apple アカウントを確認するか、後でもう一度お試しください。";
 "No applications" = "アプリケーションなし";
+"Unable to update '%@'" = "「%@」を更新できません";
+"Unable to save metadata for '%@'" = "「%@」のメタデータを保存できません";
+
 "Preparing..." = "準備中…";
 "Removing objects..." = "オブジェクトを削除しています…";
 "Processing transparency..." = "透明度を処理しています…";
@@ -188,6 +191,13 @@ shortcuts */
 "Next Media" = "次のメディア";
 "Previous Media" = "前のメディア";
 "Not set" = "設定なし";
+"Rate - 1 star" = "評価 – ★1";
+"Rate - 2 stars" = "評価 – ★2";
+"Rate - 3 stars" = "評価 – ★3";
+"Rate - 4 stars" = "評価 – ★4";
+"Rate - 5 stars" = "評価 – ★5";
+"Unrated" = "未評価";
+
 /* Preferences
 Preferences items */
 "Preferences" = "環境設定";
@@ -212,3 +222,45 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Playing" = "再生中";
 "Paused" = "一時停止";
+
+"No items match the selected filters" = "選択したフィルターに一致する項目はありません";
+
+"Extract" = "抽出";
+"Copy" = "コピー";
+"Move" = "移動";
+"Can't save" = "保存できません";
+"Can't open" = "開けません";
+"Can't extract" = "抽出できません";
+"Unable to save '%@'" = "「%@」を保存できません";
+"Unable to open '%@'" = "「%@」を開けません";
+"Unable to extract '%@'" = "「%@」を抽出できません";
+"Unable to move '%@'" = "「%@」を移動できません";
+"Unable to rename '%@'" = "「%@」の名前を変更できません";
+"Retry" = "再試行";
+"Skip" = "スキップ";
+
+"Abort" = "中止";
+"Convert" = "変換";
+"Extracting '%@'..." = "「%@」を抽出中...";
+"Moving '%@'..." = "「%@」を移動中...";
+"Extract items to" = "抽出先フォルダ";
+"Move items to" = "移動先フォルダ";
+"Choose a folder to save converted images" = "変換後の画像を保存するフォルダを選択";
+"Are you sure you want to move selected items to Trash?" = "選択した項目をゴミ箱に移動しますか？";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "選択した項目はゴミ箱に移動できません。完全に削除しますか？";
+"Selected items will be deleted immediately. You can’t undo this action." = "選択した項目は直ちに削除されます。元に戻すことはできません。";
+"Add to Batch Edit" = "バッチ編集に追加";
+"Pixea+ Batch Editor" = "Pixea+ バッチエディタ";
+
+"Images were edited" = "画像が編集されました";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "画像をエクスポートするか、変更を無視できます。この操作は取り消せません。";
+"Export All" = "すべてをエクスポート";
+
+"Pixea+ required for more images" = "より多くの画像には Pixea+ が必要です";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "無料版では最大3枚の画像を一括編集できます。Pixea+ にアップグレードすると、より多くのファイルを同時に編集できます。";
+"Puchase Pixea+" = "Pixea+ を購入";
+
+"Select preset" = "プリセットを選択";
+"Name is already taken" = "この名前は既に使用されています";
+
+"None" = "なし";

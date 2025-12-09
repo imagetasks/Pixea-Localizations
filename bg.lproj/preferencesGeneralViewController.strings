@@ -127,3 +127,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Fit To Screen"; ObjectID = "zXk-De-iOY"; */
 "zXk-De-iOY.title" = "Побиране в екрана";
+
+/* Class = "NSButtonCell"; title = "Fit window to image"; ObjectID = "VCO-5E-JXe"; */
+"VCO-5E-JXe.title" = "Напасване на прозореца към изображението";

@@ -22,3 +22,15 @@ Class = "NSBox"; title = "Box"; ObjectID = "wqY-nK-Suo"; */
 /* xDv-OG-qlV.title
 Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
 "xDv-OG-qlV.title" = "Deslize à esquerda/direita para mostrar a imagem anterior/próxima";
+
+/* Class = "NSTextFieldCell"; title = "Gesture-based scrolling devices"; ObjectID = "ujt-Zc-zoi"; */
+"ujt-Zc-zoi.title" = "Dispositivos com deslocamento por gestos";
+
+/* Class = "NSTextFieldCell"; title = "Traditional scroll wheel devices"; ObjectID = "Bbc-QH-j2W"; */
+"Bbc-QH-j2W.title" = "Dispositivos com roda de deslocamento tradicional";
+
+/* Class = "NSButtonCell"; title = "Scroll to show previous/next image"; ObjectID = "EWJ-aY-6DW"; */
+"EWJ-aY-6DW.title" = "Deslocar para mostrar a imagem anterior/seguinte";
+
+/* Class = "NSButtonCell"; title = "Scroll to zoom"; ObjectID = "XNU-VL-zHu"; */
+"XNU-VL-zHu.title" = "Deslocar para ampliar";

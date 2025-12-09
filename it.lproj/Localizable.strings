@@ -9,9 +9,9 @@ Copyright © 2025 Andrey Tsarkov. All rights reserved. */
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "Controlla la memoria disponibile e lo spazio su disco. Prova a chiudere altre app e riavviare Pixea.";
 "OK" = "OK";
 "Cancel" = "Annulla";
-"macOS 11 or higher is required." = "È richiesto macOS 11 o superiore.";
+"macOS 13 or higher is required." = "È richiesto macOS 13 o superiore.";
 "macOS 10.15 or higher is required." = "È richiesto macOS 10.15 o superiore.";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "L\'algoritmo di rimozione degli oggetti si basa su funzionalità di Machine Learning introdotte per la prima volta con macOS Big Sur. Aggiorna il tuo macOS per utilizzare lo strumento di rimozione degli oggetti.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "L\'algoritmo di rimozione degli oggetti si basa su funzionalità di Machine Learning introdotte per la prima volta con macOS Ventura. Aggiorna il tuo macOS per utilizzare lo strumento di rimozione degli oggetti.";
 /* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "La selezione del testo si basa sulla funzionalità Machine Learning introdotta per la prima volta con macOS Catalina. Aggiorna il tuo macOS per utilizzare lo strumento di selezione del testo.";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "L\'ingrandimento dell\'immagine si basa su funzionalità di Machine Learning introdotte per la prima volta con macOS Catalina. Aggiorna il tuo macOS per utilizzare l\'ingrandimento delle immagini.";
@@ -63,6 +63,9 @@ export jpeg quality */
 "Unable to process image..." = "Impossibile elaborare l\'immagine...";
 "Unable to find your purchase..." = "Impossibile trovare il tuo acquisto...";
 "Check your Apple Account or try again later." = "Controlla il tuo account Apple o riprova più tardi.";
+"Unable to update '%@'" = "Impossibile aggiornare «%@»";
+"Unable to save metadata for '%@'" = "Impossibile salvare i metadati per «%@»";
+
 "No applications" = "Nessuna applicazione";
 "Preparing..." = "Preparazione...";
 "Removing objects..." = "Eliminazione degli oggetti in corso...";
@@ -188,6 +191,13 @@ shortcuts */
 "Next Media" = "Prossimo Media";
 "Previous Media" = "Media Precedente";
 "Not set" = "Non impostato";
+"Rate - 1 star" = "Assegna – 1 stella";
+"Rate - 2 stars" = "Assegna – 2 stelle";
+"Rate - 3 stars" = "Assegna – 3 stelle";
+"Rate - 4 stars" = "Assegna – 4 stelle";
+"Rate - 5 stars" = "Assegna – 5 stelle";
+"Unrated" = "Senza valutazione";
+
 /* Preferences
 Preferences items */
 "Preferences" = "Preferenze";
@@ -212,3 +222,45 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Playing" = "Riproduzione";
 "Paused" = "Pausa";
+
+"No items match the selected filters" = "Nessun elemento corrisponde ai filtri selezionati";
+
+"Extract" = "Estrarre";
+"Copy" = "Copiare";
+"Move" = "Spostare";
+"Can't save" = "Impossibile salvare";
+"Can't open" = "Impossibile aprire";
+"Can't extract" = "Impossibile estrarre";
+"Unable to save '%@'" = "Impossibile salvare «%@»";
+"Unable to open '%@'" = "Impossibile aprire «%@»";
+"Unable to extract '%@'" = "Impossibile estrarre «%@»";
+"Unable to move '%@'" = "Impossibile spostare «%@»";
+"Unable to rename '%@'" = "Impossibile rinominare «%@»";
+"Retry" = "Riprova";
+"Skip" = "Salta";
+
+"Abort" = "Interrompi";
+"Convert" = "Converti";
+"Extracting '%@'..." = "Estrazione di «%@»...";
+"Moving '%@'..." = "Spostamento di «%@»...";
+"Extract items to" = "Estrai elementi in";
+"Move items to" = "Sposta elementi in";
+"Choose a folder to save converted images" = "Scegli una cartella per salvare le immagini convertite";
+"Are you sure you want to move selected items to Trash?" = "Spostare gli elementi selezionati nel Cestino?";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "Gli elementi selezionati non possono essere spostati nel Cestino. Eliminarli definitivamente?";
+"Selected items will be deleted immediately. You can’t undo this action." = "Gli elementi selezionati saranno eliminati immediatamente. L’azione non può essere annullata.";
+"Add to Batch Edit" = "Aggiungi alla modifica in batch";
+"Pixea+ Batch Editor" = "Pixea+ Editor batch";
+
+"Images were edited" = "Le immagini sono state modificate";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "È possibile esportare le immagini o ignorare le modifiche. L’azione non può essere annullata.";
+"Export All" = "Esporta tutto";
+
+"Pixea+ required for more images" = "Pixea+ è necessario per più immagini";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "La versione gratuita consente la modifica in batch di massimo 3 immagini. Passa a Pixea+ per modificare più file contemporaneamente.";
+"Puchase Pixea+" = "Acquista Pixea+";
+
+"Select preset" = "Seleziona preset";
+"Name is already taken" = "Il nome è già in uso";
+
+"None" = "Nessuno";

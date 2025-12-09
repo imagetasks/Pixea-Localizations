@@ -42,10 +42,13 @@
 "TDB-d8-u4M.title" = "Hintergrundfarbe";
 
 /* Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
-"WeQ-iF-4I5.title" = "Vollbild-Hintergrund";
+"WeQ-iF-4I5.title" = "Vollbildhintergrund";
 
-/* Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
-"XRc-FW-CYe.title" = "Systemstandard";
+/* Class = "NSTextFieldCell"; title = "Window background"; ObjectID = "ryc-lE-qbm"; */
+"ryc-lE-qbm.title" = "Fensterhintergrund";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "XRc-FW-CYe"; */
+"XRc-FW-CYe.title" = "Standard";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
 "Xod-Ki-J3G.title" = "Box";
@@ -107,5 +110,32 @@
 /* Class = "NSButtonCell"; title = "When browsing media files"; ObjectID = "AUs-8Y-8Hi"; */
 "AUs-8Y-8Hi.title" = "Beim Durchsuchen von Mediendateien";
 
+/* Class = "NSButtonCell"; title = "When in Batch Editor"; ObjectID = "RGd-wD-59n"; */
+"RGd-wD-59n.title" = "Während der Stapelbearbeitung";
+
 /* Class = "NSTextFieldCell"; title = "Dimming"; ObjectID = "eqV-VH-Kot"; */
 "eqV-VH-Kot.title" = "Abdunkeln";
+
+/* Class = "NSTextFieldCell"; title = "Visual theme"; */
+"8vp-m2-bej.title" = "Visuelles Thema";
+
+/* Class = "NSTextFieldCell"; title = "Liquid Glass"; ObjectID = "hy6-34-ENh"; */
+"hy6-34-ENh.title" = "Flüssiges Glas";
+
+/* Class = "NSTextFieldCell"; title = "Classic"; ObjectID = "Waa-Kb-W78"; */
+"Waa-Kb-W78.title" = "Klassisch";
+
+/* Class = "NSTextFieldCell"; title = "Thumbnail Style"; */
+"6ZL-mh-PqW.title" = "Thumbnail‑Stil";
+
+/* Class = "NSButtonCell"; title = "Square thumbnails (cropped)"; ObjectID = "P6b-oN-OMw"; */
+"P6b-oN-OMw.title" = "Quadratische Miniaturen (beschnitten)";
+
+/* Class = "NSButtonCell"; title = "Show full image"; ObjectID = "XWI-2e-nh7"; */
+"XWI-2e-nh7.title" = "Vollbild anzeigen (nicht beschnitten)";
+
+/* Class = "NSButtonCell"; title = "Show tags"; ObjectID = "1i0-gW-bjS"; */
+"1i0-gW-bjS.title" = "Tags anzeigen";
+
+/* Class = "NSButtonCell"; title = "Show rating"; ObjectID = "cGw-Ow-1Jr"; */
+"cGw-Ow-1Jr.title" = "Bewertung anzeigen";

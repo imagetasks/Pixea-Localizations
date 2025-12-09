@@ -44,8 +44,10 @@ Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
 Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
 "WeQ-iF-4I5.title" = "전체 화면 배경";
 /* XRc-FW-CYe.title
-Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
-"XRc-FW-CYe.title" = "시스템 기본값";
+ /* Class = "NSTextFieldCell"; title = "Window background"; ObjectID = "ryc-lE-qbm"; */
+ "ryc-lE-qbm.title" = "창 배경";
+ /* Class = "NSMenuItem"; title = "Default"; ObjectID = "XRc-FW-CYe"; */
+ "XRc-FW-CYe.title" = "기본값";
 /* Xod-Ki-J3G.title
 Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
 "Xod-Ki-J3G.title" = "상자";
@@ -107,5 +109,32 @@ Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph
 /* Class = "NSButtonCell"; title = "When browsing media files"; ObjectID = "AUs-8Y-8Hi"; */
 "AUs-8Y-8Hi.title" = "미디어 파일을 탐색할 때";
 
+/* Class = "NSButtonCell"; title = "When in Batch Editor"; ObjectID = "RGd-wD-59n"; */
+"RGd-wD-59n.title" = "일괄 편집 중";
+
 /* Class = "NSTextFieldCell"; title = "Dimming"; ObjectID = "eqV-VH-Kot"; */
 "eqV-VH-Kot.title" = "어두운 상태로 만들기";
+
+/* Class = "NSTextFieldCell"; title = "Visual theme"; */
+"8vp-m2-bej.title" = "시각 테마";
+
+/* Class = "NSTextFieldCell"; title = "Liquid Glass"; ObjectID = "hy6-34-ENh"; */
+"hy6-34-ENh.title" = "리퀴드 글래스";
+
+/* Class = "NSTextFieldCell"; title = "Classic"; ObjectID = "Waa-Kb-W78"; */
+"Waa-Kb-W78.title" = "클래식";
+
+/* Class = "NSTextFieldCell"; title = "Thumbnail Style"; */
+"6ZL-mh-PqW.title" = "썸네일 스타일";
+
+/* Class = "NSButtonCell"; title = "Square thumbnails (cropped)"; ObjectID = "P6b-oN-OMw"; */
+"P6b-oN-OMw.title" = "정사각형 썸네일 (잘라내기)";
+
+/* Class = "NSButtonCell"; title = "Show full image"; ObjectID = "XWI-2e-nh7"; */
+"XWI-2e-nh7.title" = "전체 이미지 보기";
+
+/* Class = "NSButtonCell"; title = "Show tags"; ObjectID = "1i0-gW-bjS"; */
+"1i0-gW-bjS.title" = "태그 표시";
+
+/* Class = "NSButtonCell"; title = "Show rating"; ObjectID = "cGw-Ow-1Jr"; */
+"cGw-Ow-1Jr.title" = "평가 표시";

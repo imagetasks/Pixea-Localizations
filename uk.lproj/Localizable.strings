@@ -9,9 +9,9 @@ Copyright © 2025 Andrey Tsarkov. All rights reserved. */
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "Перевірте доступну пам\'ять та місце на диску. Спробуйте закрити інші програми та перезапустити Pixea.";
 "OK" = "ОК";
 "Cancel" = "Скасувати";
-"macOS 11 or higher is required." = "Потрібна macOS 11 або новіша версія.";
+"macOS 13 or higher is required." = "Потрібна macOS 13 або новіша версія.";
 "macOS 10.15 or higher is required." = "Потрібна macOS 10.15 або новіша версія.";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "Алгоритм видалення об\'єктів базується на функціях машинного навчання, вперше представлених у macOS Big Sur. Оновіть вашу macOS, щоб використовувати інструмент видалення об\'єктів.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "Алгоритм видалення об\'єктів базується на функціях машинного навчання, вперше представлених у macOS Ventura. Оновіть вашу macOS, щоб використовувати інструмент видалення об\'єктів.";
 /* Text Selection is based on machine learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool. */
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "Виділення тексту базується на функціях машинного навчання, вперше представлених у macOS Catalina. Оновіть вашу macOS, щоб використовувати інструмент виділення тексту.";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Масштабування зображення базується на функціях машинного навчання, вперше представлених у macOS Catalina. Оновіть вашу macOS, щоб використовувати функцію масштабування зображення.";
@@ -64,6 +64,9 @@ export jpeg quality */
 "Unable to find your purchase..." = "Не вдається знайти вашу покупку...";
 "Check your Apple Account or try again later." = "Перевірте свій обліковий запис Apple або спробуйте пізніше.";
 "No applications" = "Немає застосунків";
+"Unable to update '%@'" = "Не вдалося оновити «%@»";
+"Unable to save metadata for '%@'" = "Не вдалося зберегти метадані для «%@»";
+
 "Preparing..." = "Підготовка...";
 "Removing objects..." = "Видалення об\'єктів...";
 "Processing transparency..." = "Обробка прозорості...";
@@ -188,6 +191,13 @@ shortcuts */
 "Next Media" = "Наступне медіа";
 "Previous Media" = "Попереднє медіа";
 "Not set" = "Не встановлено";
+"Rate - 1 star" = "Оцінити – 1 зірка";
+"Rate - 2 stars" = "Оцінити – 2 зірки";
+"Rate - 3 stars" = "Оцінити – 3 зірки";
+"Rate - 4 stars" = "Оцінити – 4 зірки";
+"Rate - 5 stars" = "Оцінити – 5 зірок";
+"Unrated" = "Без оцінки";
+
 /* Preferences
 Preferences items */
 "Preferences" = "Налаштування";
@@ -212,3 +222,45 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Playing" = "Відтворення";
 "Paused" = "Пауза";
+
+"No items match the selected filters" = "Немає елементів, що відповідають вибраним фільтрам";
+
+"Extract" = "Витягнути";
+"Copy" = "Копіювати";
+"Move" = "Перемістити";
+"Can't save" = "Не вдається зберегти";
+"Can't open" = "Не вдається відкрити";
+"Can't extract" = "Не вдається витягнути";
+"Unable to save '%@'" = "Не вдалося зберегти «%@»";
+"Unable to open '%@'" = "Не вдалося відкрити «%@»";
+"Unable to extract '%@'" = "Не вдалося витягнути «%@»";
+"Unable to move '%@'" = "Не вдалося перемістити «%@»";
+"Unable to rename '%@'" = "Не вдалося перейменувати «%@»";
+"Retry" = "Повторити";
+"Skip" = "Пропустити";
+
+"Abort" = "Перервати";
+"Convert" = "Конвертувати";
+"Extracting '%@'..." = "Витягнення «%@»...";
+"Moving '%@'..." = "Переміщення «%@»...";
+"Extract items to" = "Витягнути елементи в";
+"Move items to" = "Перемістити елементи в";
+"Choose a folder to save converted images" = "Виберіть теку для збереження конвертованих зображень";
+"Are you sure you want to move selected items to Trash?" = "Перемістити вибрані елементи до кошика?";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "Вибрані елементи не можна перемістити до кошика. Видалити їх назавжди?";
+"Selected items will be deleted immediately. You can’t undo this action." = "Вибрані елементи буде видалено негайно. Дію не можна скасувати.";
+"Add to Batch Edit" = "Додати до пакетного редагування";
+"Pixea+ Batch Editor" = "Pixea+ Пакетний редактор";
+
+"Images were edited" = "Зображення було змінено";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "Ви можете експортувати зображення або ігнорувати зміни. Дію не можна скасувати.";
+"Export All" = "Експортувати все";
+
+"Pixea+ required for more images" = "Для більшої кількості зображень потрібен Pixea+";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "Безкоштовна версія дозволяє пакетне редагування до 3 зображень. Оновіться до Pixea+, щоб редагувати більше файлів одночасно.";
+"Puchase Pixea+" = "Придбати Pixea+";
+
+"Select preset" = "Вибрати пресет";
+"Name is already taken" = "Назву вже використано";
+
+"None" = "Немає";

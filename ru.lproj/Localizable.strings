@@ -10,9 +10,9 @@
 "Check available memory and disk space. Try closing other apps and restarting Pixea." = "Проверьте доступную память и дисковое пространство. Попробуйте закрыть другие приложения и перезапустить Pixea.";
 "OK" = "OK";
 "Cancel" = "Отмена";
-"macOS 11 or higher is required." = "Требуется macOS 11 или выше.";
+"macOS 13 or higher is required." = "Требуется macOS 13 или выше.";
 "macOS 10.15 or higher is required." = "Требуется macOS 10.15 или выше.";
-"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "Алгоритм удаления объектов основан на функциях машинного обучения, впервые представленных в macOS Big Sur. Обновите macOS, чтобы использовать инструмент удаления объектов.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "Алгоритм удаления объектов основан на функциях машинного обучения, впервые представленных в macOS Ventura. Обновите macOS, чтобы использовать инструмент удаления объектов.";
 "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "Выбор текста основан на функциональности машинного обучения, впервые представленной в macOS Catalina. Обновите macOS, чтобы использовать инструмент выбора текста.";
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Апскейлинг изображений основан на функциональности машинного обучения, впервые представленной в macOS Catalina. Обновите macOS, чтобы использовать апскейлинг изображений.";
 "No media" = "Нет медиа";
@@ -59,6 +59,8 @@
 "Unable to find your purchase..." = "Не удалось найти вашу покупку...";
 "Check your Apple Account or try again later." = "Проверьте свою учетную запись Apple или повторите попытку позже.";
 "No applications" = "Нет приложений";
+"Unable to update '%@'" = "Не удалось обновить «%@»";
+"Unable to save metadata for '%@'" = "Не удалось сохранить метаданные для «%@»";
 
 "Preparing..." = "Подготовка...";
 "Removing objects..." = "Удаление объектов...";
@@ -173,6 +175,12 @@
 "Next Media" = "Следующий медиафайл";
 "Previous Media" = "Предыдущий медиафайл";
 "Not set" = "Не установлено";
+"Rate - 1 star" = "Оценить — 1 звезда";
+"Rate - 2 stars" = "Оценить — 2 звезды";
+"Rate - 3 stars" = "Оценить — 3 звезды";
+"Rate - 4 stars" = "Оценить — 4 звезды";
+"Rate - 5 stars" = "Оценить — 5 звёзд";
+"Unrated" = "Без оценки";
 
 // Preferences items
 "Preferences" = "Настройки";
@@ -198,3 +206,45 @@
 
 "Playing" = "Воспроизведение";
 "Paused" = "Пауза";
+
+"No items match the selected filters" = "Нет элементов, соответствующих выбранным фильтрам";
+
+"Extract" = "Извлечь";
+"Copy" = "Копировать";
+"Move" = "Переместить";
+"Can't save" = "Невозможно сохранить";
+"Can't open" = "Невозможно открыть";
+"Can't extract" = "Невозможно извлечь";
+"Unable to save '%@'" = "Не удалось сохранить «%@»";
+"Unable to open '%@'" = "Не удалось открыть «%@»";
+"Unable to extract '%@'" = "Не удалось извлечь «%@»";
+"Unable to move '%@'" = "Не удалось переместить «%@»";
+"Unable to rename '%@'" = "Не удалось переименовать «%@»";
+"Retry" = "Повторить";
+"Skip" = "Пропустить";
+
+"Abort" = "Прервать";
+"Convert" = "Конвертировать";
+"Extracting '%@'..." = "Извлечение «%@»...";
+"Moving '%@'..." = "Перемещение «%@»...";
+"Extract items to" = "Извлечь элементы в";
+"Move items to" = "Переместить элементы в";
+"Choose a folder to save converted images" = "Выберите папку для сохранения конвертированных изображений";
+"Are you sure you want to move selected items to Trash?" = "Вы уверены, что хотите переместить выбранные элементы в корзину?";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "Выбранные элементы нельзя переместить в корзину. Удалить их безвозвратно?";
+"Selected items will be deleted immediately. You can’t undo this action." = "Выбранные элементы будут удалены сразу. Действие нельзя отменить.";
+"Add to Batch Edit" = "Добавить в пакетное редактирование";
+"Pixea+ Batch Editor" = "Pixea+ Пакетный редактор";
+
+"Images were edited" = "Изображения были отредактированы";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "Вы можете экспортировать изображения или игнорировать изменения. Действие нельзя отменить.";
+"Export All" = "Экспортировать всё";
+
+"Pixea+ required for more images" = "Для большего количества изображений требуется Pixea+";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "Бесплатная версия позволяет редактировать до 3 изображений одновременно. Обновитесь до Pixea+, чтобы редактировать больше файлов сразу.";
+"Puchase Pixea+" = "Купить Pixea+";
+
+"Select preset" = "Выбрать пресет";
+"Name is already taken" = "Имя уже занято";
+
+"None" = "Нет";

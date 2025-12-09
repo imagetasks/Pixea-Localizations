@@ -44,8 +44,10 @@ Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
 Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
 "WeQ-iF-4I5.title" = "Фон повного екрану";
 /* XRc-FW-CYe.title
-Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
-"XRc-FW-CYe.title" = "Системні налаштування";
+ /* Class = "NSTextFieldCell"; title = "Window background"; ObjectID = "ryc-lE-qbm"; */
+ "ryc-lE-qbm.title" = "Фон вікна";
+ /* Class = "NSMenuItem"; title = "Default"; ObjectID = "XRc-FW-CYe"; */
+ "XRc-FW-CYe.title" = "Типове";
 /* Xod-Ki-J3G.title
 Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
 "Xod-Ki-J3G.title" = "Коробка";
@@ -107,5 +109,32 @@ Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph
 /* Class = "NSButtonCell"; title = "When browsing media files"; ObjectID = "AUs-8Y-8Hi"; */
 "AUs-8Y-8Hi.title" = "При перегляді у медіа-браузері";
 
+/* Class = "NSButtonCell"; title = "When in Batch Editor"; ObjectID = "RGd-wD-59n"; */
+"RGd-wD-59n.title" = "Під час пакетного редагування";
+
 /* Class = "NSTextFieldCell"; title = "Dimming"; ObjectID = "eqV-VH-Kot"; */
 "eqV-VH-Kot.title" = "Затемнення";
+
+/* Class = "NSTextFieldCell"; title = "Visual theme"; */
+"8vp-m2-bej.title" = "Візуальна тема";
+
+/* Class = "NSTextFieldCell"; title = "Liquid Glass"; ObjectID = "hy6-34-ENh"; */
+"hy6-34-ENh.title" = "Рідке скло";
+
+/* Class = "NSTextFieldCell"; title = "Classic"; ObjectID = "Waa-Kb-W78"; */
+"Waa-Kb-W78.title" = "Класична";
+
+/* Class = "NSTextFieldCell"; title = "Thumbnail Style"; */
+"6ZL-mh-PqW.title" = "Стиль мініатюр";
+
+/* Class = "NSButtonCell"; title = "Square thumbnails (cropped)"; ObjectID = "P6b-oN-OMw"; */
+"P6b-oN-OMw.title" = "Квадратні мініатюри (обрізані)";
+
+/* Class = "NSButtonCell"; title = "Show full image"; ObjectID = "XWI-2e-nh7"; */
+"XWI-2e-nh7.title" = "Показати повне зображення";
+
+/* Class = "NSButtonCell"; title = "Show tags"; ObjectID = "1i0-gW-bjS"; */
+"1i0-gW-bjS.title" = "Показувати теги";
+
+/* Class = "NSButtonCell"; title = "Show rating"; ObjectID = "cGw-Ow-1Jr"; */
+"cGw-Ow-1Jr.title" = "Показувати рейтинг";

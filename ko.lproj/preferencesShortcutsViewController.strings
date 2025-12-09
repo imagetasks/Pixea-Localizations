@@ -23,3 +23,15 @@ Class = "NSBox"; title = "Box"; ObjectID = "wqY-nK-Suo"; */
 /* xDv-OG-qlV.title
 Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
 "xDv-OG-qlV.title" = "이전/다음 이미지 보기 위해 좌/우로 스와이프";
+
+/* Class = "NSTextFieldCell"; title = "Gesture-based scrolling devices"; ObjectID = "ujt-Zc-zoi"; */
+"ujt-Zc-zoi.title" = "제스처 기반 스크롤 장치";
+
+/* Class = "NSTextFieldCell"; title = "Traditional scroll wheel devices"; ObjectID = "Bbc-QH-j2W"; */
+"Bbc-QH-j2W.title" = "전통적인 스크롤 휠 장치";
+
+/* Class = "NSButtonCell"; title = "Scroll to show previous/next image"; ObjectID = "EWJ-aY-6DW"; */
+"EWJ-aY-6DW.title" = "스크롤하여 이전/다음 이미지를 표시";
+
+/* Class = "NSButtonCell"; title = "Scroll to zoom"; ObjectID = "XNU-VL-zHu"; */
+"XNU-VL-zHu.title" = "스크롤하여 확대/축소";

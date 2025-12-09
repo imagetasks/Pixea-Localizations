@@ -44,8 +44,10 @@ Class = "NSMenuItem"; title = "Background color"; ObjectID = "TDB-d8-u4M"; */
 Class = "NSTextFieldCell"; title = "Full screen background"; ObjectID = "WeQ-iF-4I5"; */
 "WeQ-iF-4I5.title" = "全屏背景";
 /* XRc-FW-CYe.title
-Class = "NSMenuItem"; title = "System default"; ObjectID = "XRc-FW-CYe"; */
-"XRc-FW-CYe.title" = "系统默认";
+ /* Class = "NSTextFieldCell"; title = "Window background"; ObjectID = "ryc-lE-qbm"; */
+ "ryc-lE-qbm.title" = "窗口背景";
+ /* Class = "NSMenuItem"; title = "Default"; ObjectID = "XRc-FW-CYe"; */
+ "XRc-FW-CYe.title" = "默认";
 /* Xod-Ki-J3G.title
 Class = "NSBox"; title = "Box"; ObjectID = "Xod-Ki-J3G"; */
 "Xod-Ki-J3G.title" = "框";
@@ -107,5 +109,32 @@ Class = "NSButtonCell"; title = "Hide status bar automatically"; ObjectID = "zph
 /* Class = "NSButtonCell"; title = "When browsing media files"; ObjectID = "AUs-8Y-8Hi"; */
 "AUs-8Y-8Hi.title" = "浏览媒体文件时";
 
+/* Class = "NSButtonCell"; title = "When in Batch Editor"; ObjectID = "RGd-wD-59n"; */
+"RGd-wD-59n.title" = "批量编辑时";
+
 /* Class = "NSTextFieldCell"; title = "Dimming"; ObjectID = "eqV-VH-Kot"; */
 "eqV-VH-Kot.title" = "调暗";
+
+/* Class = "NSTextFieldCell"; title = "Visual theme"; */
+"8vp-m2-bej.title" = "视觉主题";
+
+/* Class = "NSTextFieldCell"; title = "Liquid Glass"; ObjectID = "hy6-34-ENh"; */
+"hy6-34-ENh.title" = "液态玻璃";
+
+/* Class = "NSTextFieldCell"; title = "Classic"; ObjectID = "Waa-Kb-W78"; */
+"Waa-Kb-W78.title" = "经典款";
+
+/* Class = "NSTextFieldCell"; title = "Thumbnail Style"; */
+"6ZL-mh-PqW.title" = "缩略图样式";
+
+/* Class = "NSButtonCell"; title = "Square thumbnails (cropped)"; ObjectID = "P6b-oN-OMw"; */
+"P6b-oN-OMw.title" = "方形缩略图（裁剪）";
+
+/* Class = "NSButtonCell"; title = "Show full image"; ObjectID = "XWI-2e-nh7"; */
+"XWI-2e-nh7.title" = "显示完整图像";
+
+/* Class = "NSButtonCell"; title = "Show tags"; ObjectID = "1i0-gW-bjS"; */
+"1i0-gW-bjS.title" = "显示标签";
+
+/* Class = "NSButtonCell"; title = "Show rating"; ObjectID = "cGw-Ow-1Jr"; */
+"cGw-Ow-1Jr.title" = "显示评分";
