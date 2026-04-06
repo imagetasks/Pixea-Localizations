@@ -312,7 +312,7 @@
 "gaX-xp-o5q.title" = "100%";
 
 /* Class = "NSTextFieldCell"; title = "Color Temperature"; ObjectID = "h68-M0-rdf"; */
-"h68-M0-rdf.title" = "Température des couleurs";
+"h68-M0-rdf.title" = "Température de couleur";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "hAO-Lv-1fU"; */
 "hAO-Lv-1fU.title" = "Box";

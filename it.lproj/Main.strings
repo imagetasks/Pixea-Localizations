@@ -1656,3 +1656,42 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 
 /* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "tpK-e3-02k"; */
 "tpK-e3-02k.title" = "Clicca per mostrare l’originale";
+
+/* Class = "NSTextFieldCell"; title = "Fill mode"; ObjectID = "hgO-3a-FvZ"; */
+"hgO-3a-FvZ.title" = "Modalità di riempimento";
+
+/* Class = "NSButtonCell"; title = "Conservative background fill"; ObjectID = "meG-lF-9tg"; */
+"meG-lF-9tg.title" = "Riempimento dello sfondo conservativo";
+
+/* Class = "NSButtonCell"; title = "Strong geometry reconstruction"; ObjectID = "2TV-zG-DrJ"; */
+"2TV-zG-DrJ.title" = "Ricostruzione geometrica avanzata";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
+"8xS-7v-OQn.ibShadowedToolTip" = "Regolazioni immagine basate sulla profondità";
+
+/* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
+"OLa-MC-HfL.title" = "Stima della profondità...";
+
+/* Class = "NSTextFieldCell"; title = "Apply depth-based adjustments:"; ObjectID = "foS-N5-1sd"; */
+"foS-N5-1sd.title" = "In base alla profondità dell’immagine:";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "J8s-48-6yc"; */
+"J8s-48-6yc.title" = "Regolazioni immagine basate sulla profondità...";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "R2T-Mz-Bxh"; */
+"R2T-Mz-Bxh.title" = "Regolazioni immagine basate sulla profondità...";
+
+/* Class = "NSMenuItem"; title = "Similar Images"; ObjectID = "8NC-OZ-jzi"; */
+"8NC-OZ-jzi.title" = "Immagini simili";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "yE1-vF-Fpe"; */
+"yE1-vF-Fpe.title" = "Tutte";
+
+/* Class = "NSMenuItem"; title = "Duplicates"; ObjectID = "A5Y-d5-1yw"; */
+"A5Y-d5-1yw.title" = "Duplicati";
+
+/* Class = "NSMenuItem"; title = "Near Match"; ObjectID = "E7b-YB-JnM"; */
+"E7b-YB-JnM.title" = "Con piccole differenze";
+
+/* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
+"9wH-8b-YvT.title" = "Correlate";

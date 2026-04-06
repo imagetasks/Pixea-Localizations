@@ -1,0 +1,47 @@
+/* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "0FT-31-fJ2"; */
+"0FT-31-fJ2.title" = "Exposition";
+
+/* Class = "NSTextFieldCell"; title = "Focus"; ObjectID = "79R-jE-Occ"; */
+"79R-jE-Occ.title" = "Mise au point";
+
+/* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "7ST-YE-zeY"; */
+"7ST-YE-zeY.title" = "Saturation";
+
+/* Class = "NSTextFieldCell"; title = "Lens Blur"; ObjectID = "Arn-nv-De3"; */
+"Arn-nv-De3.title" = "Flou de l’objectif";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "L1x-de-mJk"; */
+"L1x-de-mJk.title" = "Arrière-plan";
+
+/* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "bGK-CH-fia"; */
+"bGK-CH-fia.title" = "Température de couleur";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "ch9-SN-zrd"; */
+"ch9-SN-zrd.title" = "Arrière-plan";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "g7v-3W-OWd"; */
+"g7v-3W-OWd.title" = "Premier plan";
+
+/* Class = "NSTextFieldCell"; title = "Middle"; ObjectID = "gCc-NZ-Q6Z"; */
+"gCc-NZ-Q6Z.title" = "Plan intermédiaire";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "h68-M0-rdf"; */
+"h68-M0-rdf.title" = "Premier plan";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "hIW-jC-73N"; */
+"hIW-jC-73N.title" = "Premier plan";
+
+/* Class = "NSTextFieldCell"; title = "Middle"; ObjectID = "jyc-Wc-shJ"; */
+"jyc-Wc-shJ.title" = "Plan intermédiaire";
+
+/* Class = "NSTextFieldCell"; title = "Depth of Field"; ObjectID = "pur-7S-pEF"; */
+"pur-7S-pEF.title" = "Profondeur de champ";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "ww4-SP-oSN"; */
+"ww4-SP-oSN.title" = "Arrière-plan";
+
+/* Class = "NSTextFieldCell"; title = "Middle"; ObjectID = "zBl-aK-5zF"; */
+"zBl-aK-5zF.title" = "Plan intermédiaire";
+
+/* Class = "NSTextFieldCell"; title = "Focus"; ObjectID = "zOG-AN-eDA"; */
+"zOG-AN-eDA.title" = "Mise au point";

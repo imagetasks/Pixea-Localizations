@@ -1,0 +1,47 @@
+/* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "0FT-31-fJ2"; */
+"0FT-31-fJ2.title" = "露出";
+
+/* Class = "NSTextFieldCell"; title = "Focus"; ObjectID = "79R-jE-Occ"; */
+"79R-jE-Occ.title" = "フォーカス";
+
+/* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "7ST-YE-zeY"; */
+"7ST-YE-zeY.title" = "彩度";
+
+/* Class = "NSTextFieldCell"; title = "Lens Blur"; ObjectID = "Arn-nv-De3"; */
+"Arn-nv-De3.title" = "レンズぼかし";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "L1x-de-mJk"; */
+"L1x-de-mJk.title" = "背景";
+
+/* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "bGK-CH-fia"; */
+"bGK-CH-fia.title" = "色温度";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "ch9-SN-zrd"; */
+"ch9-SN-zrd.title" = "背景";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "g7v-3W-OWd"; */
+"g7v-3W-OWd.title" = "前景";
+
+/* Class = "NSTextFieldCell"; title = "Middle"; ObjectID = "gCc-NZ-Q6Z"; */
+"gCc-NZ-Q6Z.title" = "中景";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "h68-M0-rdf"; */
+"h68-M0-rdf.title" = "前景";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "hIW-jC-73N"; */
+"hIW-jC-73N.title" = "前景";
+
+/* Class = "NSTextFieldCell"; title = "Middle"; ObjectID = "jyc-Wc-shJ"; */
+"jyc-Wc-shJ.title" = "中景";
+
+/* Class = "NSTextFieldCell"; title = "Depth of Field"; ObjectID = "pur-7S-pEF"; */
+"pur-7S-pEF.title" = "被写界深度";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "ww4-SP-oSN"; */
+"ww4-SP-oSN.title" = "背景";
+
+/* Class = "NSTextFieldCell"; title = "Middle"; ObjectID = "zBl-aK-5zF"; */
+"zBl-aK-5zF.title" = "中景";
+
+/* Class = "NSTextFieldCell"; title = "Focus"; ObjectID = "zOG-AN-eDA"; */
+"zOG-AN-eDA.title" = "フォーカス";

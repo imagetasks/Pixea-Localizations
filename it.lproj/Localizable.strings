@@ -264,3 +264,21 @@ inches, cm/mm, pixels, points per inch, etc... */
 "Name is already taken" = "Il nome è già in uso";
 
 "None" = "Nessuno";
+
+"Download model?" = "Scaricare il modello?";
+"Selected fill mode requires additional machine learning model download." = "La modalità di riempimento selezionata richiede il download di un modello di apprendimento automatico aggiuntivo.";
+"Download (300 MB)" = "Scarica (300 MB)";
+"Downloading model..." = "Download del modello...";
+"Unable to download model" = "Impossibile scaricare il modello";
+"Check internet connection or try again later." = "Controlla la connessione Internet o riprova più tardi.";
+"Unable to install model" = "Impossibile installare il modello";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Controlla la memoria disponibile e lo spazio su disco. Prova a chiudere altre app e riavviare Pixea.";
+
+"Updating depth information..." = "Aggiornamento delle informazioni di profondità dell’immagine...";
+"%i px" = "%i px";
+"Depth-based adjustments tool is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Depth-based adjustments tool." = "Lo strumento di regolazioni immagine basate sulla profondità si basa su funzionalità di apprendimento automatico introdotte con macOS Ventura. Aggiorna macOS per utilizzarlo.";
+
+"Depth-based Adjustments..." = "Regolazioni immagine basate sulla profondità...";
+
+"Analyzing '%@'..." = "Analisi di '%@'...";
+"No text in this image" = "Nessun testo in questa immagine";

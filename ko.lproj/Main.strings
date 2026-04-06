@@ -1656,3 +1656,42 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 
 /* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "tpK-e3-02k"; */
 "tpK-e3-02k.title" = "클릭하여 원본 보기";
+
+/* Class = "NSTextFieldCell"; title = "Fill mode"; ObjectID = "hgO-3a-FvZ"; */
+"hgO-3a-FvZ.title" = "채우기 모드";
+
+/* Class = "NSButtonCell"; title = "Conservative background fill"; ObjectID = "meG-lF-9tg"; */
+"meG-lF-9tg.title" = "보수적 배경 채우기";
+
+/* Class = "NSButtonCell"; title = "Strong geometry reconstruction"; ObjectID = "2TV-zG-DrJ"; */
+"2TV-zG-DrJ.title" = "고급 기하 복원";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
+"8xS-7v-OQn.ibShadowedToolTip" = "깊이 기반 이미지 조정";
+
+/* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
+"OLa-MC-HfL.title" = "깊이 추정 중...";
+
+/* Class = "NSTextFieldCell"; title = "Apply depth-based adjustments:"; ObjectID = "foS-N5-1sd"; */
+"foS-N5-1sd.title" = "이미지 깊이 기준:";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "J8s-48-6yc"; */
+"J8s-48-6yc.title" = "깊이 기반 이미지 조정...";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "R2T-Mz-Bxh"; */
+"R2T-Mz-Bxh.title" = "깊이 기반 이미지 조정...";
+
+/* Class = "NSMenuItem"; title = "Similar Images"; ObjectID = "8NC-OZ-jzi"; */
+"8NC-OZ-jzi.title" = "유사 이미지";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "yE1-vF-Fpe"; */
+"yE1-vF-Fpe.title" = "전체";
+
+/* Class = "NSMenuItem"; title = "Duplicates"; ObjectID = "A5Y-d5-1yw"; */
+"A5Y-d5-1yw.title" = "중복";
+
+/* Class = "NSMenuItem"; title = "Near Match"; ObjectID = "E7b-YB-JnM"; */
+"E7b-YB-JnM.title" = "약간의 차이";
+
+/* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
+"9wH-8b-YvT.title" = "관련";

@@ -65,7 +65,7 @@
 "Preparing..." = "Подготовка...";
 "Removing objects..." = "Удаление объектов...";
 "Processing transparency..." = "Обработка прозрачности...";
-"Upscaling image..." = "Апсекейлинг изображения...";
+"Upscaling image..." = "Апскейлинг изображения...";
 "Loading..." = "Загрузка...";
 "Stopping..." = "Отмена..."; //Stopping upscaling process
 "Processing '%@'..." = "Обработка '%@'..."; //Saving file
@@ -248,3 +248,21 @@
 "Name is already taken" = "Имя уже занято";
 
 "None" = "Нет";
+
+"Download model?" = "Загрузить модель?";
+"Selected fill mode requires additional machine learning model download." = "Выбранный режим заливки требует загрузки дополнительной модели машинного обучения.";
+"Download (300 MB)" = "Загрузить (300 МБ)";
+"Downloading model..." = "Загрузка модели...";
+"Unable to download model" = "Не удалось загрузить модель";
+"Check internet connection or try again later." = "Проверьте подключение к интернету или попробуйте позже.";
+"Unable to install model" = "Не удалось установить модель";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Проверьте доступную память и место на диске. Попробуйте закрыть другие приложения и перезапустить Pixea.";
+
+"Updating depth information..." = "Обновление данных глубины изображения...";
+"%i px" = "%i пикс";
+"Depth-based adjustments tool is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Depth-based adjustments tool." = "Инструмент коррекции изображения с учетом глубины основан на функциях машинного обучения, впервые представленных в macOS Ventura. Обновите macOS, чтобы использовать его.";
+
+"Depth-based Adjustments..." = "Коррекция изображения с учетом глубины...";
+
+"Analyzing '%@'..." = "Анализ '%@'...";
+"No text in this image" = "В этом изображении нет текста";

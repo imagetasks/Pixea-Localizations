@@ -247,3 +247,21 @@
 "Name is already taken" = "Name is already taken";
 
 "None" = "None";
+
+"Download model?" = "Download model?";
+"Selected fill mode requires additional machine learning model download." = "Selected fill mode requires additional machine learning model download.";
+"Download (300 MB)" = "Download (300 MB)";
+"Downloading model..." = "Downloading model...";
+"Unable to download model" = "Unable to download model";
+"Check internet connection or try again later." = "Check internet connection or try again later.";
+"Unable to install model" = "Unable to install model";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Check available memory and disk space. Try closing other apps and restarting Pixea.";
+
+"Updating depth information..." = "Updating depth information...";
+"%i px" = "%i px";
+"Depth-based adjustments tool is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Depth-based adjustments tool." = "Depth-based adjustments tool is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Depth-based adjustments tool.";
+
+"Depth-based Adjustments..." = "Depth-based Adjustments...";
+
+"Analyzing '%@'..." = "Analyzing '%@'...";
+"No text in this image" = "No text in this image";

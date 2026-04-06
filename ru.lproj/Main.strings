@@ -1657,3 +1657,42 @@
 
 /* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "tpK-e3-02k"; */
 "tpK-e3-02k.title" = "Нажмите, чтобы показать оригинал";
+
+/* Class = "NSTextFieldCell"; title = "Fill mode"; ObjectID = "hgO-3a-FvZ"; */
+"hgO-3a-FvZ.title" = "Режим заполнения";
+
+/* Class = "NSButtonCell"; title = "Conservative background fill"; ObjectID = "meG-lF-9tg"; */
+"meG-lF-9tg.title" = "Консервативное заполнение фона";
+
+/* Class = "NSButtonCell"; title = "Strong geometry reconstruction"; ObjectID = "2TV-zG-DrJ"; */
+"2TV-zG-DrJ.title" = "Интенсивная реконструкция геометрии";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
+"8xS-7v-OQn.ibShadowedToolTip" = "Коррекция изображения с учетом глубины";
+
+/* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
+"OLa-MC-HfL.title" = "Оценка глубины...";
+
+/* Class = "NSTextFieldCell"; title = "Apply depth-based adjustments:"; ObjectID = "foS-N5-1sd"; */
+"foS-N5-1sd.title" = "С учетом глубины изображения:";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "J8s-48-6yc"; */
+"J8s-48-6yc.title" = "Коррекция изображения с учетом глубины...";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "R2T-Mz-Bxh"; */
+"R2T-Mz-Bxh.title" = "Коррекция изображения с учетом глубины...";
+
+/* Class = "NSMenuItem"; title = "Similar Images"; ObjectID = "8NC-OZ-jzi"; */
+"8NC-OZ-jzi.title" = "Похожие изображения";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "yE1-vF-Fpe"; */
+"yE1-vF-Fpe.title" = "Любые";
+
+/* Class = "NSMenuItem"; title = "Duplicates"; ObjectID = "A5Y-d5-1yw"; */
+"A5Y-d5-1yw.title" = "Дубликаты";
+
+/* Class = "NSMenuItem"; title = "Near Match"; ObjectID = "E7b-YB-JnM"; */
+"E7b-YB-JnM.title" = "С мелкими отличиями";
+
+/* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
+"9wH-8b-YvT.title" = "Связанные";

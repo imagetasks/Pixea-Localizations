@@ -248,3 +248,21 @@
 "Name is already taken" = "Името вече е заето";
 
 "None" = "Няма";
+
+"Download model?" = "Изтегляне на модел?";
+"Selected fill mode requires additional machine learning model download." = "Избраният режим на запълване изисква изтегляне на допълнителен модел за машинно обучение.";
+"Download (300 MB)" = "Изтегляне (300 MB)";
+"Downloading model..." = "Изтегляне на модел...";
+"Unable to download model" = "Неуспешно изтегляне на модела";
+"Check internet connection or try again later." = "Проверете интернет връзката си или опитайте отново по-късно.";
+"Unable to install model" = "Неуспешно инсталиране на модела";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Проверете наличната памет и дисково пространство. Опитайте да затворите други приложения и да рестартирате Pixea.";
+
+"Updating depth information..." = "Актуализиране на информацията за дълбочината на изображението...";
+"%i px" = "%i px";
+"Depth-based adjustments tool is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Depth-based adjustments tool." = "Инструментът за корекции на изображението според дълбочината е базиран на функции за машинно обучение, въведени за първи път в macOS Ventura. Актуализирайте macOS, за да го използвате.";
+
+"Depth-based Adjustments..." = "Корекции на изображението според дълбочината...";
+
+"Analyzing '%@'..." = "Анализиране на '%@'...";
+"No text in this image" = "Няма текст в това изображение";

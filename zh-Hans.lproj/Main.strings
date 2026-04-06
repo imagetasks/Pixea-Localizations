@@ -1656,3 +1656,42 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 
 /* Class = "NSMenuItem"; title = "Click to show original"; ObjectID = "tpK-e3-02k"; */
 "tpK-e3-02k.title" = "点击以显示原图";
+
+/* Class = "NSTextFieldCell"; title = "Fill mode"; ObjectID = "hgO-3a-FvZ"; */
+"hgO-3a-FvZ.title" = "填充模式";
+
+/* Class = "NSButtonCell"; title = "Conservative background fill"; ObjectID = "meG-lF-9tg"; */
+"meG-lF-9tg.title" = "保守的背景填充";
+
+/* Class = "NSButtonCell"; title = "Strong geometry reconstruction"; ObjectID = "2TV-zG-DrJ"; */
+"2TV-zG-DrJ.title" = "强几何重建";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
+"8xS-7v-OQn.ibShadowedToolTip" = "基于深度的图像调整";
+
+/* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
+"OLa-MC-HfL.title" = "正在估算深度...";
+
+/* Class = "NSTextFieldCell"; title = "Apply depth-based adjustments:"; ObjectID = "foS-N5-1sd"; */
+"foS-N5-1sd.title" = "基于图像深度:";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "J8s-48-6yc"; */
+"J8s-48-6yc.title" = "基于深度的图像调整...";
+
+/* Class = "NSMenuItem"; title = "Depth-based Adjustments..."; ObjectID = "R2T-Mz-Bxh"; */
+"R2T-Mz-Bxh.title" = "基于深度的图像调整...";
+
+/* Class = "NSMenuItem"; title = "Similar Images"; ObjectID = "8NC-OZ-jzi"; */
+"8NC-OZ-jzi.title" = "相似图像";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "yE1-vF-Fpe"; */
+"yE1-vF-Fpe.title" = "全部";
+
+/* Class = "NSMenuItem"; title = "Duplicates"; ObjectID = "A5Y-d5-1yw"; */
+"A5Y-d5-1yw.title" = "重复项";
+
+/* Class = "NSMenuItem"; title = "Near Match"; ObjectID = "E7b-YB-JnM"; */
+"E7b-YB-JnM.title" = "细微差异";
+
+/* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
+"9wH-8b-YvT.title" = "相关";
