@@ -1,0 +1,57 @@
+"I3E-ap-nn2.title" = "Liniowy";
+
+"IO5-6F-GlQ.title" = "Lanczos";
+
+"OWj-KS-U6S.title" = "Trójliniowy";
+
+"PZJ-ie-aQp.title" = "Wyczyść pamięć podręczną";
+
+"TxO-YS-twQ.title" = "Box";
+
+"YYM-D8-hhL.title" = "Wstępne ładowanie poprzedniego i następnego obrazu umożliwia natychmiastowe przełączanie, ale wymaga większego użycia RAM. Wyłącz tę opcję, jeśli komputer ma mało pamięci.";
+
+"irp-me-Bao.title" = "Pamięć i cache dyskowy";
+
+"jNe-Nj-BJO.title" = "Box";
+
+"jkJ-Uo-raR.title" = "Filtrowanie zmniejszania";
+
+"p97-VP-ELd.title" = "PLUS";
+
+"s1J-IY-0lH.title" = "Buforuj miniatury";
+
+"x9U-hd-fpM.title" = "Zero KB";
+
+"zBI-tS-TjZ.title" = "Wstępnie ładuj poprzednie i następne obrazy";
+
+"6Dv-jd-82V.title" = "Renderer RAW";
+
+"GTf-ff-aln.title" = "Preferuj silnik macOS";
+
+"kX7-LK-XlL.title" = "Zawsze używaj wbudowanego";
+
+"4BK-K4-0o5.title" = "Przetwarzaj obrazy HDR";
+
+"zc9-eF-W4i.title" = "Automatycznie";
+
+"u3J-bs-ZaH.title" = "jako HDR";
+
+"FOW-av-yIA.title" = "jako SDR";
+
+"gmU-G7-asl.title" = "Metadane";
+
+"ZJI-As-wzd.title" = "Zawsze zapisuj plik XMP przy aktualizacji metadanych";
+
+"19F-02-VpJ.title" = "Pixea zapisuje zmiany metadanych w swojej bazie, pozostawiając oryginalne pliki bez zmian. Jeśli planujesz przenieść pliki do innej aplikacji lub woluminu, Pixea może utworzyć osobne pliki XMP.";
+
+"NZq-g0-Kid.title" = "Aktualizuj metadane w oryginalnych plikach";
+
+"ipn-FS-Yub.title" = "Oryginalne pliki zostaną nadpisane. Nie wszystkie formaty obsługują osadzone metadane.";
+
+"ily-Kp-DoY.title" = "Wyłącz odczyt metadanych na dyskach sieciowych";
+
+"Qek-Dd-X2V.title" = "Przyspiesza przeglądanie, pomijając odczyt metadanych dla obrazów znajdujących się na woluminach sieciowych.";
+
+"aaJ-CE-OH1.title" = "Zawsze pokazuj opcje przed aktualizacją metadanych";
+
+"LJn-71-YCV.title" = "Zawsze wygładzaj przy powiększeniu";

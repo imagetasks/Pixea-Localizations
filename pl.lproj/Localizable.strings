@@ -1,0 +1,272 @@
+/* 
+  Localizable.strings
+  Pixea
+
+*/
+
+"Unable to process image..." = "Nie można przetworzyć obrazu...";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Sprawdź dostępny RAM i miejsce na dysku. Zamknij inne aplikacje i uruchom ponownie Pixea.";
+"OK" = "OK";
+"Cancel" = "Anuluj";
+"macOS 13 or higher is required." = "Wymagany jest macOS 13 lub nowszy.";
+"macOS 10.15 or higher is required." = "Wymagany jest macOS 10.15 lub nowszy.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Object Removal tool." = "Usuwanie obiektów wykorzystuje funkcje uczenia maszynowego wprowadzone w macOS Ventura. Zaktualizuj system, aby użyć tego narzędzia.";
+"Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "Zaznaczanie tekstu wykorzystuje funkcje uczenia maszynowego wprowadzone w macOS Catalina. Zaktualizuj system, aby użyć tego narzędzia.";
+"Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Powiększanie obrazu wykorzystuje funkcje uczenia maszynowego wprowadzone w macOS Catalina. Zaktualizuj system, aby użyć tej funkcji.";
+
+"No media" = "Brak plików";
+"No supported media in this folder" = "Brak obsługiwanych plików w tym folderze";
+
+"Are you sure you want to move this folder to Trash?" = "Czy na pewno chcesz przenieść ten folder do Kosza?";
+"Are you sure you want to move this file to Trash?" = "Czy na pewno chcesz przenieść ten plik do Kosza?";
+"This folder cannot be moved to Trash. Are you sure you want to delete it permanently?" = "Tego folderu nie można przenieść do Kosza. Usunąć trwale?";
+"This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "Tego pliku nie można przenieść do Kosza. Usunąć trwale?";
+"\"%@\" will be moved to the Trash." = "\"%@\" zostanie przeniesiony do Kosza.";
+"\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\" zostanie usunięty natychmiast. Tej operacji nie można cofnąć.";
+
+"Move To Trash" = "Przenieś do Kosza";
+"Delete" = "Usuń";
+"Unable to delete '%@'" = "Nie można usunąć „%@”";
+"Check permissions or try again later." = "Sprawdź uprawnienia lub spróbuj ponownie później.";
+
+"Drop your media here" = "Upuść pliki tutaj";
+"Drop Image/Video file, Folder or Zip-Archive to start" = "Upuść obraz, wideo, folder lub archiwum ZIP, aby rozpocząć";
+
+"Favorites" = "Ulubione";
+"Recents" = "Ostatnie";
+"Archived Media" = "Zarchiwizowane pliki";
+"Media in this Folder" = "Pliki w tym folderze";
+"Subfolders in this Archive" = "Podfoldery w archiwum";
+"Subfolders and Archives" = "Podfoldery i archiwa";
+
+"Images: %lu" = "Obrazy: %lu";
+"Images: %lu, Videos: %lu" = "Obrazy: %lu, Wideo: %lu";
+"Folders: %lu" = "Foldery: %lu";
+"Folders: %lu, Archives: %lu" = "Foldery: %lu, Archiwa: %lu";
+
+"Can't open" = "Nie można otworzyć";
+"Unable to open this image file" = "Nie można otworzyć tego obrazu";
+"Unable to open this video file" = "Nie można otworzyć tego wideo";
+"Unable to open this archive" = "Nie można otworzyć tego archiwum";
+
+"No supported media in this archive" = "Brak obsługiwanych plików w tym archiwum";
+
+"Nothing found" = "Nic nie znaleziono";
+"Sorry, no matches found for '%@'" = "Brak wyników dla „%@”";
+
+"Image was edited" = "Obraz został zmodyfikowany";
+"You can choose to export the edited image, or ignore changes. You can’t undo this action." = "Możesz wyeksportować zmodyfikowany obraz lub pominąć zmiany. Tej operacji nie można cofnąć.";
+
+"Export Image..." = "Eksportuj obraz...";
+"Export Image" = "Eksportuj obraz";
+"Best" = "Najlepsza jakość";
+"Lossless" = "Bezstratnie";
+"Ignore Changes" = "Ignoruj zmiany";
+
+"Unable to find your purchase..." = "Nie można odnaleźć zakupu...";
+"Check your Apple Account or try again later." = "Sprawdź swoje konto Apple lub spróbuj ponownie później.";
+
+"No applications" = "Brak aplikacji";
+"Unable to update '%@'" = "Nie można zaktualizować „%@”";
+"Unable to save metadata for '%@'" = "Nie można zapisać metadanych dla „%@”";
+
+"Preparing..." = "Przygotowywanie...";
+"Removing objects..." = "Usuwanie obiektów...";
+"Processing transparency..." = "Przetwarzanie przezroczystości...";
+"Upscaling image..." = "Powiększanie obrazu...";
+"Loading..." = "Wczytywanie...";
+"Stopping..." = "Zatrzymywanie...";
+"Processing '%@'..." = "Przetwarzanie „%@”...";
+"Processing upscaled image..." = "Przetwarzanie powiększonego obrazu...";
+
+"Created: %@" = "Utworzono: %@";
+"Taken: %@" = "Zrobiono: %@";
+"Resume at %@" = "Wznów od %@";
+"Frames" = "Klatki";
+
+"Grant Access" = "Przyznaj dostęp";
+"No access" = "Brak dostępu";
+"Access granted" = "Dostęp przyznany";
+"Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue." = "Pixea potrzebuje uprawnień zapisu, aby usunąć „%@”. Kliknij „Przyznaj dostęp”, aby kontynuować.";
+
+"Clipboard" = "Schowek";
+"Unmute" = "Włącz dźwięk";
+"Mute" = "Wyłącz dźwięk";
+"Track %i - [%@]" = "Ścieżka %i – [%@]";
+"Track %i" = "Ścieżka %i";
+
+"Next" = "Dalej";
+"Done" = "Gotowe";
+
+"Small" = "Mały";
+"Large" = "Duży";
+"Regular" = "Standardowy";
+
+"Open File or Folder..." = "Otwórz plik lub folder...";
+"Recent:" = "Ostatnie:";
+"New from Clipboard" = "Nowy ze schowka";
+
+"Scroll Up" = "Przewiń w górę";
+"Scroll Down" = "Przewiń w dół";
+"Scroll Left" = "Przewiń w lewo";
+"Scroll Right" = "Przewiń w prawo";
+"Previous Media" = "Poprzedni plik";
+"Next Media" = "Następny plik";
+"Previous Frame/Step Backward 10s" = "Poprzednia klatka / Wstecz 10 s";
+"Next Frame/Step Forward 10s" = "Następna klatka / Naprzód 10 s";
+"Step Backward 30s" = "Wstecz 30 s";
+"Step Forward 30s" = "Naprzód 30 s";
+"Volume Up" = "Głośniej";
+"Volume Down" = "Ciszej";
+"Mute/Unmute" = "Wycisz / Włącz dźwięk";
+"Slideshow" = "Pokaz slajdów";
+"Zoom In" = "Powiększ";
+"Zoom Out" = "Pomniejsz";
+"Fit to Screen" = "Dopasuj do ekranu";
+"Stretch to Fit" = "Rozciągnij do dopasowania";
+"Fill Screen" = "Wypełnij ekran";
+"Toggle Fullscreen" = "Przełącz pełny ekran";
+"Actual Size" = "Rzeczywisty rozmiar";
+"Fixed Size & Position" = "Stały rozmiar i pozycja";
+
+"Playback Speed x 0.5" = "Prędkość odtwarzania × 0,5";
+"Playback Speed x 0.9" = "Prędkość odtwarzania × 0,9";
+"Playback Speed Normal" = "Normalna prędkość";
+"Playback Speed x 1.1" = "Prędkość odtwarzania × 1,1";
+"Playback Speed x 1.5" = "Prędkość odtwarzania × 1,5";
+"Playback Speed x 2.0" = "Prędkość odtwarzania × 2,0";
+
+"Rotate 180º" = "Obróć o 180º";
+"Rotate 90º Clockwise" = "Obróć o 90º w prawo";
+"Rotate 90º Counter-clockwise" = "Obróć o 90º w lewo";
+
+"Upscale Image" = "Powiększ obraz";
+"Eraser Tool" = "Gumka";
+"Flip Horizontally" = "Odbij poziomo";
+"Flip Vertically" = "Odbij pionowo";
+"Selection Tool" = "Zaznaczanie";
+"Deselect" = "Odznacz";
+"Show Thumbnails" = "Pokaż miniatury";
+"Get Info" = "Informacje";
+"Move to Trash" = "Przenieś do Kosza";
+"Show in Finder" = "Pokaż w Finderze";
+"Export..." = "Eksportuj...";
+"Toggle Image Adjustments Toolbar" = "Przełącz pasek edycji obrazu";
+"Hide Image Adjustments Toolbar" = "Ukryj pasek edycji obrazu";
+"Show Image Adjustments Toolbar" = "Pokaż pasek edycji obrazu";
+"Toggle Main Toolbar" = "Przełącz główny pasek";
+"Hide Main Toolbar" = "Ukryj główny pasek";
+"Show Main Toolbar" = "Pokaż główny pasek";
+
+"Crop Image..." = "Przytnij obraz...";
+"Hand Tool" = "Ręka";
+"Adjust Hue, Saturation, Brightness..." = "Dostosuj odcień, nasycenie, jasność...";
+"Adjust Color Temperature..." = "Dostosuj temperaturę barwową...";
+"Adjust Exposure..." = "Dostosuj ekspozycję...";
+"Resize Image..." = "Zmień rozmiar obrazu...";
+"Sharpness and Noise..." = "Ostrość i szum...";
+"Clone Tool" = "Klonowanie";
+"Text Selection Tool" = "Zaznaczanie tekstu";
+
+"Edit with: App #1" = "Edytuj w: App #1";
+"Edit with: App #2" = "Edytuj w: App #2";
+"Edit with: App #3" = "Edytuj w: App #3";
+"Edit with: App #4" = "Edytuj w: App #4";
+"Edit with: App #5" = "Edytuj w: App #5";
+
+"Hide Thumbnails" = "Ukryj miniatury";
+"Next Frame" = "Następna klatka";
+"Previous Frame" = "Poprzednia klatka";
+
+"Not set" = "Nie ustawiono";
+"Rate - 1 star" = "Ocena – 1 gwiazdka";
+"Rate - 2 stars" = "Ocena – 2 gwiazdki";
+"Rate - 3 stars" = "Ocena – 3 gwiazdki";
+"Rate - 4 stars" = "Ocena – 4 gwiazdki";
+"Rate - 5 stars" = "Ocena – 5 gwiazdek";
+"Unrated" = "Bez oceny";
+
+"Preferences" = "Preferencje";
+"General" = "Ogólne";
+"Appearance" = "Wygląd";
+"Shortcuts" = "Skróty";
+"File Types" = "Typy plików";
+"Video" = "Wideo";
+"Folder Access" = "Dostęp do folderów";
+"Advanced" = "Zaawansowane";
+"More Apps" = "Więcej aplikacji";
+
+"in" = "cal";
+"mm" = "mm";
+"cm" = "cm";
+"px" = "px";
+"%ipx × %ipx" = "%ipx × %ipx";
+"%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
+"%@ bytes" = "%@ bajtów";
+"%li sec" = "%li s";
+
+"Playing" = "Odtwarzanie";
+"Paused" = "Wstrzymano";
+
+"No items match the selected filters" = "Brak elementów spełniających wybrane filtry";
+
+"Extract" = "Wyodrębnij";
+"Copy" = "Kopiuj";
+"Move" = "Przenieś";
+"Can't save" = "Nie można zapisać";
+"Can't open" = "Nie można otworzyć";
+"Can't extract" = "Nie można wyodrębnić";
+
+"Unable to save '%@'" = "Nie można zapisać „%@”";
+"Unable to open '%@'" = "Nie można otworzyć „%@”";
+"Unable to extract '%@'" = "Nie można wyodrębnić „%@”";
+"Unable to move '%@'" = "Nie można przenieść „%@”";
+"Unable to rename '%@'" = "Nie można zmienić nazwy „%@”";
+
+"Retry" = "Ponów";
+"Skip" = "Pomiń";
+"Abort" = "Przerwij";
+"Convert" = "Konwertuj";
+
+"Extracting '%@'..." = "Wyodrębnianie „%@”...";
+"Moving '%@'..." = "Przenoszenie „%@”...";
+"Extract items to" = "Wyodrębnij do";
+"Move items to" = "Przenieś do";
+"Choose a folder to save converted images" = "Wybierz folder do zapisania przekonwertowanych obrazów";
+
+"Are you sure you want to move selected items to Trash?" = "Czy na pewno chcesz przenieść wybrane elementy do Kosza?";
+"Selected items cannot be moved to Trash. Are you sure you want to delete them permanently?" = "Wybranych elementów nie można przenieść do Kosza. Usunąć trwale?";
+"Selected items will be deleted immediately. You can’t undo this action." = "Wybrane elementy zostaną usunięte natychmiast. Tej operacji nie można cofnąć.";
+
+"Add to Batch Edit" = "Dodaj do edycji zbiorczej";
+"Pixea+ Batch Editor" = "Edytor zbiorczy Pixea+";
+
+"Images were edited" = "Obrazy zostały zmodyfikowane";
+"You can choose to export images, or ignore changes. You can’t undo this action." = "Możesz wyeksportować obrazy lub pominąć zmiany. Tej operacji nie można cofnąć.";
+"Export All" = "Eksportuj wszystko";
+
+"Pixea+ required for more images" = "Wymagany Pixea+ dla większej liczby obrazów";
+"The free version allows batch editing of up to 3 images. Upgrade to Pixea+ to edit more files at once." = "Wersja darmowa umożliwia edycję zbiorczą do 3 obrazów. Uaktualnij do Pixea+, aby edytować więcej plików jednocześnie.";
+"Puchase Pixea+" = "Kup Pixea+";
+
+"Select preset" = "Wybierz preset";
+"Name is already taken" = "Nazwa jest już używana";
+
+"None" = "Brak";
+
+"Download model?" = "Pobrać model?";
+"Selected fill mode requires additional machine learning model download." = "Wybrany tryb wypełnienia wymaga pobrania dodatkowego modelu ML.";
+"Download (300 MB)" = "Pobierz (300 MB)";
+"Downloading model..." = "Pobieranie modelu...";
+"Unable to download model" = "Nie można pobrać modelu";
+"Check internet connection or try again later." = "Sprawdź połączenie internetowe lub spróbuj ponownie później.";
+"Unable to install model" = "Nie można zainstalować modelu";
+
+"Updating depth information..." = "Aktualizowanie informacji o głębi...";
+"%i px" = "%i px";
+"Depth-based adjustments tool is based on Machine Learning features first introduced with macOS Ventura. Update your macOS to use Depth-based adjustments tool." = "Regulacja głębi wykorzystuje funkcje uczenia maszynowego wprowadzone w macOS Ventura. Zaktualizuj system, aby użyć tego narzędzia.";
+
+"Depth-based Adjustments..." = "Regulacja głębi...";
+"Analyzing '%@'..." = "Analizowanie „%@”...";
+"No text in this image" = "Brak tekstu na tym obrazie";
+
