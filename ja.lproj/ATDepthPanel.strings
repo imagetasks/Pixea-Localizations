@@ -45,3 +45,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Focus"; ObjectID = "zOG-AN-eDA"; */
 "zOG-AN-eDA.title" = "フォーカス";
+
+/* Class = "NSTextFieldCell"; title = "Brilliance"; ObjectID = "Emn-jW-xfA"; */
+"Emn-jW-xfA.title" = "ブリリアンス";
+
+/* Class = "NSTextFieldCell"; title = "Vibrance"; ObjectID = "Zum-7O-T8M"; */
+"Zum-7O-T8M.title" = "自然な彩度";

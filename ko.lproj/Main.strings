@@ -54,7 +54,7 @@ Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "2lD-Zn-e6Y"; */
 "2lD-Zn-e6Y.title" = "노출";
 /* 2lY-1f-keo.title
 Class = "NSTextFieldCell"; title = "Pixea can play almost every media format and will resume where you've paused the movie."; ObjectID = "2lY-1f-keo"; */
-"2lY-1f-keo.title" = "Pixea는 거의 모든 미디어 형식을 재생하고 영화를 일시 중지한 위치에서 다시 시작할 수 있습니다.";
+"2lY-1f-keo.title" = "초점, 노출, 대비, 채도를 조절하세요. 깊이 기반 조정, 마스크, 렌즈 보정 및 LUT 필터를 적용하세요. 수평선을 바로잡고 원근을 쉽게 보정할 수 있습니다.";
 /* 2oX-Rh-0jJ.title
 Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "2oX-Rh-0jJ"; */
 "2oX-Rh-0jJ.title" = "확대";
@@ -183,7 +183,7 @@ Class = "NSMenuItem"; title = "Zoom Mode"; ObjectID = "9q2-gY-8Wt"; */
 "9q2-gY-8Wt.title" = "확대/축소 모드";
 /* 9uP-xu-jM2.title
 Class = "NSTextFieldCell"; title = "Video Playback"; ObjectID = "9uP-xu-jM2"; */
-"9uP-xu-jM2.title" = "비디오 재생";
+"9uP-xu-jM2.title" = "정밀한 편집을 더 간편하게.";
 /* 9v5-Qh-6SO.title
 Class = "NSMenuItem"; title = "Large"; ObjectID = "9v5-Qh-6SO"; */
 "9v5-Qh-6SO.title" = "크게";
@@ -300,7 +300,7 @@ Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "도움말";
 /* FBO-zE-1dF.title
 Class = "NSTextFieldCell"; title = "The invisible image viewer & video player"; ObjectID = "FBO-zE-1dF"; */
-"FBO-zE-1dF.title" = "보이지 않는 이미지 뷰어 및 비디오 플레이어";
+"FBO-zE-1dF.title" = "미디어를 간편하게 탐색하고, 전문가처럼 편집하세요.";
 /* FVb-yn-q62.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Move around the picture..."; ObjectID = "FVb-yn-q62"; */
 "FVb-yn-q62.ibShadowedToolTip" = "그림을 이동...";
@@ -1377,7 +1377,7 @@ Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft
 "z6Y-gD-vft.ibShadowedToolTip" = "이미지 크기 조정..";
 /* zB0-DC-BoP.title
 Class = "NSTextFieldCell"; title = "Built-in video player with MP4 and MKV support"; ObjectID = "zB0-DC-BoP"; */
-"zB0-DC-BoP.title" = "MP4 및 MKV 지원 내장 비디오 플레이어";
+"zB0-DC-BoP.title" = "빛, 색상, 디테일을 완벽하게 제어하세요";
 /* zLZ-LC-aXe.title
 Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "zLZ-LC-aXe"; */
 "zLZ-LC-aXe.title" = "Pixea에게 슬라이드쇼를 위한 추가 이미지와 비디오를 찾고 다음 폴더를 빠르게 탐색할 수 있는 권한을 부여하세요:";
@@ -1669,6 +1669,15 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 /* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
 "8xS-7v-OQn.ibShadowedToolTip" = "깊이 기반 이미지 조정";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Masks..."; ObjectID = "RMz-AX-L0u"; */
+"RMz-AX-L0u.ibShadowedToolTip" = "마스크...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "C3b-Hb-fr3"; */
+"C3b-Hb-fr3.title" = "마스크...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "OPK-af-tq6"; */
+"OPK-af-tq6.title" = "마스크...";
+
 /* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
 "OLa-MC-HfL.title" = "깊이 추정 중...";
 
@@ -1695,3 +1704,36 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 
 /* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
 "9wH-8b-YvT.title" = "관련";
+
+/* Class = "NSButtonCell"; title = "Add mask"; ObjectID = "BNU-nb-3Ux"; */
+"BNU-nb-3Ux.title" = "마스크 추가";
+
+/* Class = "NSTextFieldCell"; title = "Start by adding a mask"; ObjectID = "aU2-jG-Cw6"; */
+"aU2-jG-Cw6.title" = "먼저 마스크를 추가하세요";
+
+/* Class = "NSTextFieldCell"; title = "Click an object to create a mask"; ObjectID = "ATa-Pv-2It"; */
+"ATa-Pv-2It.title" = "개체를 클릭하여 마스크를 만드세요";
+
+/* Class = "NSTextFieldCell"; title = "Analyzing image..."; ObjectID = "U2s-Uv-l0f"; */
+"U2s-Uv-l0f.title" = "이미지 분석 중...";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "5vC-s5-qry"; */
+"5vC-s5-qry.title" = "실행 취소";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "Zhi-wK-k5A"; */
+"Zhi-wK-k5A.title" = "다시 실행";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Nj0-rn-cLH; */
+"Nj0-rn-cLH.title" = "저장";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "LUU-Gq-mMt; */
+"LUU-Gq-mMt.title" = "다른 이름으로 저장…";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "5bi-n4-p40; */
+"5bi-n4-p40.title" = "저장된 상태로 복원";
+
+/* Class = "NSButtonCell"; title = "Terms of Use (EULA)"; ObjectID = "Cea-uj-qEx"; */
+"Cea-uj-qEx.title" = "이용 약관(EULA)";
+
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "cLU-k5-41H"; */
+"cLU-k5-41H.title" = "개인정보 처리방침";

@@ -282,3 +282,18 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Analyzing '%@'..." = "Analisi di '%@'...";
 "No text in this image" = "Nessun testo in questa immagine";
+
+"Some adjustments are disabled while editing the image." = "Alcune regolazioni sono disabilitate durante la modifica dell'immagine.";
+
+"Masks..." = "Maschere...";
+"Masks" = "Maschere";
+"Adjustments" = "Regolazioni";
+
+"Export as" = "Esporta come";
+"Save as" = "Salva con nome";
+"Save As..." = "Salva con nome...";
+"Save" = "Salva";
+"Export" = "Esporta";
+
+"Can't export" = "Impossibile esportare";
+"Saving '%@'..." = "Salvataggio di «%@»...";

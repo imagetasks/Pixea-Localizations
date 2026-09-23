@@ -267,3 +267,18 @@
 
 "Analyzing '%@'..." = "'%@' wird analysiert...";
 "No text in this image" = "Kein Text in diesem Bild";
+
+"Some adjustments are disabled while editing the image." = "Einige Anpassungen sind während der Bildbearbeitung deaktiviert.";
+
+"Masks..." = "Masken...";
+"Masks" = "Masken";
+"Adjustments" = "Anpassungen";
+
+"Export as" = "Exportieren als";
+"Save as" = "Sichern unter";
+"Save As..." = "Sichern unter...";
+"Save" = "Sichern";
+"Export" = "Exportieren";
+
+"Can't export" = "Export nicht möglich";
+"Saving '%@'..." = "'%@' wird gesichert...";

@@ -282,3 +282,18 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Analyzing '%@'..." = "'%@' を解析中...";
 "No text in this image" = "この画像にテキストはありません";
+
+"Some adjustments are disabled while editing the image." = "画像の編集中は一部の調整を使用できません。";
+
+"Masks..." = "マスク...";
+"Masks" = "マスク";
+"Adjustments" = "調整";
+
+"Export as" = "書き出す";
+"Save as" = "名前を付けて保存";
+"Save As..." = "名前を付けて保存...";
+"Save" = "保存";
+"Export" = "書き出す";
+
+"Can't export" = "書き出せません";
+"Saving '%@'..." = "「%@」を保存中…";

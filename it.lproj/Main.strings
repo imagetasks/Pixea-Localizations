@@ -54,7 +54,7 @@ Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "2lD-Zn-e6Y"; */
 "2lD-Zn-e6Y.title" = "Esposizione";
 /* 2lY-1f-keo.title
 Class = "NSTextFieldCell"; title = "Pixea can play almost every media format and will resume where you've paused the movie."; ObjectID = "2lY-1f-keo"; */
-"2lY-1f-keo.title" = "Pixea può riprodurre quasi tutti i formati di media e riprenderà da dove hai messo in pausa il film.";
+"2lY-1f-keo.title" = "Regola messa a fuoco, esposizione, contrasto e saturazione. Applica regolazioni basate sulla profondità, maschere, correzioni dell'obiettivo e filtri LUT. Raddrizza l’orizzonte e correggi la prospettiva con facilità.";
 /* 2oX-Rh-0jJ.title
 Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "2oX-Rh-0jJ"; */
 "2oX-Rh-0jJ.title" = "Ingrandisci";
@@ -183,7 +183,7 @@ Class = "NSMenuItem"; title = "Zoom Mode"; ObjectID = "9q2-gY-8Wt"; */
 "9q2-gY-8Wt.title" = "Modalità Zoom";
 /* 9uP-xu-jM2.title
 Class = "NSTextFieldCell"; title = "Video Playback"; ObjectID = "9uP-xu-jM2"; */
-"9uP-xu-jM2.title" = "Riproduzione Video";
+"9uP-xu-jM2.title" = "Modifica di precisione, senza complicazioni.";
 /* 9v5-Qh-6SO.title
 Class = "NSMenuItem"; title = "Large"; ObjectID = "9v5-Qh-6SO"; */
 "9v5-Qh-6SO.title" = "Grande";
@@ -300,7 +300,7 @@ Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Aiuto";
 /* FBO-zE-1dF.title
 Class = "NSTextFieldCell"; title = "The invisible image viewer & video player"; ObjectID = "FBO-zE-1dF"; */
-"FBO-zE-1dF.title" = "Il visualizzatore di immagini e lettore video invisibile";
+"FBO-zE-1dF.title" = "Sfoglia i tuoi contenuti con semplicità. Modifica come un professionista.";
 /* FVb-yn-q62.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Move around the picture..."; ObjectID = "FVb-yn-q62"; */
 "FVb-yn-q62.ibShadowedToolTip" = "Muoviti intorno all\'immagine...";
@@ -1377,7 +1377,7 @@ Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft
 "z6Y-gD-vft.ibShadowedToolTip" = "Ridimensiona immagine..";
 /* zB0-DC-BoP.title
 Class = "NSTextFieldCell"; title = "Built-in video player with MP4 and MKV support"; ObjectID = "zB0-DC-BoP"; */
-"zB0-DC-BoP.title" = "Lettore video integrato con supporto MP4 e MKV";
+"zB0-DC-BoP.title" = "Controlla ogni aspetto di luce, colore e dettagli";
 /* zLZ-LC-aXe.title
 Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "zLZ-LC-aXe"; */
 "zLZ-LC-aXe.title" = "Consenti a Pixea di cercare immagini e video aggiuntivi per la presentazione e di sfogliare rapidamente le seguenti cartelle:";
@@ -1669,6 +1669,15 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 /* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
 "8xS-7v-OQn.ibShadowedToolTip" = "Regolazioni immagine basate sulla profondità";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Masks..."; ObjectID = "RMz-AX-L0u"; */
+"RMz-AX-L0u.ibShadowedToolTip" = "Maschere...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "C3b-Hb-fr3"; */
+"C3b-Hb-fr3.title" = "Maschere...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "OPK-af-tq6"; */
+"OPK-af-tq6.title" = "Maschere...";
+
 /* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
 "OLa-MC-HfL.title" = "Stima della profondità...";
 
@@ -1695,3 +1704,36 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 
 /* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
 "9wH-8b-YvT.title" = "Correlate";
+
+/* Class = "NSButtonCell"; title = "Add mask"; ObjectID = "BNU-nb-3Ux"; */
+"BNU-nb-3Ux.title" = "Aggiungi maschera";
+
+/* Class = "NSTextFieldCell"; title = "Start by adding a mask"; ObjectID = "aU2-jG-Cw6"; */
+"aU2-jG-Cw6.title" = "Inizia aggiungendo una maschera";
+
+/* Class = "NSTextFieldCell"; title = "Click an object to create a mask"; ObjectID = "ATa-Pv-2It"; */
+"ATa-Pv-2It.title" = "Fai clic su un oggetto per creare una maschera";
+
+/* Class = "NSTextFieldCell"; title = "Analyzing image..."; ObjectID = "U2s-Uv-l0f"; */
+"U2s-Uv-l0f.title" = "Analisi dell'immagine...";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "5vC-s5-qry"; */
+"5vC-s5-qry.title" = "Annulla";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "Zhi-wK-k5A"; */
+"Zhi-wK-k5A.title" = "Ripristina";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Nj0-rn-cLH; */
+"Nj0-rn-cLH.title" = "Salva";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "LUU-Gq-mMt; */
+"LUU-Gq-mMt.title" = "Salva con nome…";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "5bi-n4-p40; */
+"5bi-n4-p40.title" = "Ripristina versione salvata";
+
+/* Class = "NSButtonCell"; title = "Terms of Use (EULA)"; ObjectID = "Cea-uj-qEx"; */
+"Cea-uj-qEx.title" = "Termini di utilizzo (EULA)";
+
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "cLU-k5-41H"; */
+"cLU-k5-41H.title" = "Informativa sulla privacy";

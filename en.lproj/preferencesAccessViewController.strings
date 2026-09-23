@@ -3,7 +3,7 @@
 "9uZ-Tb-YpY.title" = "When you open any image or video, Pixea tries to scan the file's parent folder for other media. If permission was not granted before, the dialog requesting you to grant access is displayed.";
 
 /* Class = "NSButtonCell"; title = "Grant Access"; ObjectID = "C3O-re-5e7"; */
-"C3O-re-5e7.title" = "Grant Access";
+"C3O-re-5e7.title" = "Access...";
 
 /* Class = "NSTextFieldCell"; title = "Pixea won't show \"Grant Access\" dialog when opening individual files if this option is unchecked. You will need to open a folder instead of an individual file to enable slideshow and media browsing features."; ObjectID = "C96-9R-xlJ"; */
 "C96-9R-xlJ.title" = "Pixea won't show \"Grant Access\" dialog when opening individual files if this option is unchecked. You will need to open a folder instead of an individual file to enable slideshow and media browsing features.";

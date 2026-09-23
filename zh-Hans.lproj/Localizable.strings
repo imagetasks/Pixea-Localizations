@@ -283,3 +283,18 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Analyzing '%@'..." = "正在分析“%@”...";
 "No text in this image" = "此图像中没有文本";
+
+"Some adjustments are disabled while editing the image." = "编辑图像时，部分调整不可用。";
+
+"Masks..." = "蒙版...";
+"Masks" = "蒙版";
+"Adjustments" = "调整";
+
+"Export as" = "导出为";
+"Save as" = "存储为";
+"Save As..." = "存储为...";
+"Save" = "存储";
+"Export" = "导出";
+
+"Can't export" = "无法导出";
+"Saving '%@'..." = "正在存储“%@”…";

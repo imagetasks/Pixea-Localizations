@@ -34,3 +34,12 @@ Class = "NSMenuItem"; title = "GIF"; ObjectID = "iR5-cq-Mmn"; */
 /* pg2-Hl-C7h.title
 Class = "NSButtonCell"; title = "Include EXIF metadata"; ObjectID = "pg2-Hl-C7h"; */
 "pg2-Hl-C7h.title" = "Inclure les métadonnées EXIF";
+
+/* Class = "NSMenuItem"; title = "Pixea Image"; ObjectID = "BUd-6w-IxJ"; */
+"BUd-6w-IxJ.title" = "Image Pixea";
+
+/* Class = "NSTextFieldCell"; title = "Pixea image contains masks, non-destructive adjustments, and additional data for futher editing."; ObjectID = "Bum-0c-jf6"; */
+"Bum-0c-jf6.title" = "L’image Pixea contient des masques, des réglages non destructifs et des données supplémentaires pour une modification ultérieure.";
+
+/* Class = "NSButtonCell"; title = "Export as HDR"; ObjectID = "1nx-ei-6v4"; */
+"1nx-ei-6v4.title" = "Exporter en HDR";

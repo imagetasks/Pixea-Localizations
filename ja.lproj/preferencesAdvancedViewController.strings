@@ -82,3 +82,12 @@ Class = "NSButtonCell"; title = "as SDR"; ObjectID = "FOW-av-yIA"; */
 
 /* Class = "NSButtonCell"; title = "Always smooth when zoomed in"; ObjectID = "LJn-71-YCV"; */
 "LJn-71-YCV.title" = "拡大時は常に滑らかに表示";
+
+/* Class = "NSTextFieldCell"; title = "Folder contents"; ObjectID = "OPj-L4-zxG"; */
+"OPj-L4-zxG.title" = "フォルダの内容";
+
+/* Class = "NSButtonCell"; title = "Automatically update open folders"; ObjectID = "54n-LD-R41"; */
+"54n-LD-R41.title" = "開いているフォルダを自動的に更新";
+
+/* Class = "NSTextFieldCell"; title = "Pixea automatically updates local folders when media files are added, removed, or renamed by other applications."; ObjectID = "ibQ-wQ-fPd"; */
+"ibQ-wQ-fPd.title" = "Pixeaは、他のアプリケーションによってメディアファイルが追加、削除、名前変更されたときに、ローカルフォルダを自動的に更新します。";

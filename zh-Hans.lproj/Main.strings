@@ -54,7 +54,7 @@ Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "2lD-Zn-e6Y"; */
 "2lD-Zn-e6Y.title" = "曝光";
 /* 2lY-1f-keo.title
 Class = "NSTextFieldCell"; title = "Pixea can play almost every media format and will resume where you've paused the movie."; ObjectID = "2lY-1f-keo"; */
-"2lY-1f-keo.title" = "Pixea几乎可以播放所有媒体格式，并将在您暂停电影的地方继续播放。";
+"2lY-1f-keo.title" = "调整对焦、曝光、对比度和饱和度。应用基于景深的调整、蒙版、镜头校正和 LUT 滤镜。轻松校正水平线和透视。";
 /* 2oX-Rh-0jJ.title
 Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "2oX-Rh-0jJ"; */
 "2oX-Rh-0jJ.title" = "放大";
@@ -183,7 +183,7 @@ Class = "NSMenuItem"; title = "Zoom Mode"; ObjectID = "9q2-gY-8Wt"; */
 "9q2-gY-8Wt.title" = "缩放模式";
 /* 9uP-xu-jM2.title
 Class = "NSTextFieldCell"; title = "Video Playback"; ObjectID = "9uP-xu-jM2"; */
-"9uP-xu-jM2.title" = "视频播放";
+"9uP-xu-jM2.title" = "精准编辑，轻松上手。";
 /* 9v5-Qh-6SO.title
 Class = "NSMenuItem"; title = "Large"; ObjectID = "9v5-Qh-6SO"; */
 "9v5-Qh-6SO.title" = "大";
@@ -300,7 +300,7 @@ Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "帮助";
 /* FBO-zE-1dF.title
 Class = "NSTextFieldCell"; title = "The invisible image viewer & video player"; ObjectID = "FBO-zE-1dF"; */
-"FBO-zE-1dF.title" = "隐形图像查看器和视频播放器";
+"FBO-zE-1dF.title" = "轻松浏览媒体，像专业人士一样编辑。";
 /* FVb-yn-q62.ibShadowedToolTip
 Class = "NSButton"; ibShadowedToolTip = "Move around the picture..."; ObjectID = "FVb-yn-q62"; */
 "FVb-yn-q62.ibShadowedToolTip" = "移动图片……";
@@ -1377,7 +1377,7 @@ Class = "NSButton"; ibShadowedToolTip = "Resize Image.."; ObjectID = "z6Y-gD-vft
 "z6Y-gD-vft.ibShadowedToolTip" = "调整图像大小。。";
 /* zB0-DC-BoP.title
 Class = "NSTextFieldCell"; title = "Built-in video player with MP4 and MKV support"; ObjectID = "zB0-DC-BoP"; */
-"zB0-DC-BoP.title" = "内置视频播放器，支持 MP4 和 MKV";
+"zB0-DC-BoP.title" = "全面掌控光线、色彩和细节";
 /* zLZ-LC-aXe.title
 Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "zLZ-LC-aXe"; */
 "zLZ-LC-aXe.title" = "允许 Pixea 搜索更多的幻灯片图片和视频，并快速浏览以下文件夹：";
@@ -1669,6 +1669,15 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 /* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
 "8xS-7v-OQn.ibShadowedToolTip" = "基于深度的图像调整";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Masks..."; ObjectID = "RMz-AX-L0u"; */
+"RMz-AX-L0u.ibShadowedToolTip" = "蒙版...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "C3b-Hb-fr3"; */
+"C3b-Hb-fr3.title" = "蒙版...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "OPK-af-tq6"; */
+"OPK-af-tq6.title" = "蒙版...";
+
 /* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
 "OLa-MC-HfL.title" = "正在估算深度...";
 
@@ -1695,3 +1704,36 @@ Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "zzy-YJ-msS"; */
 
 /* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
 "9wH-8b-YvT.title" = "相关";
+
+/* Class = "NSButtonCell"; title = "Add mask"; ObjectID = "BNU-nb-3Ux"; */
+"BNU-nb-3Ux.title" = "添加蒙版";
+
+/* Class = "NSTextFieldCell"; title = "Start by adding a mask"; ObjectID = "aU2-jG-Cw6"; */
+"aU2-jG-Cw6.title" = "请先添加蒙版";
+
+/* Class = "NSTextFieldCell"; title = "Click an object to create a mask"; ObjectID = "ATa-Pv-2It"; */
+"ATa-Pv-2It.title" = "点击对象以创建蒙版";
+
+/* Class = "NSTextFieldCell"; title = "Analyzing image..."; ObjectID = "U2s-Uv-l0f"; */
+"U2s-Uv-l0f.title" = "正在分析图像...";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "5vC-s5-qry"; */
+"5vC-s5-qry.title" = "撤销";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "Zhi-wK-k5A"; */
+"Zhi-wK-k5A.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Nj0-rn-cLH; */
+"Nj0-rn-cLH.title" = "存储";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "LUU-Gq-mMt; */
+"LUU-Gq-mMt.title" = "存储为…";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "5bi-n4-p40; */
+"5bi-n4-p40.title" = "恢复到已存储版本";
+
+/* Class = "NSButtonCell"; title = "Terms of Use (EULA)"; ObjectID = "Cea-uj-qEx"; */
+"Cea-uj-qEx.title" = "使用条款（EULA）";
+
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "cLU-k5-41H"; */
+"cLU-k5-41H.title" = "隐私政策";

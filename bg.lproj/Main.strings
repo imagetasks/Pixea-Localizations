@@ -54,7 +54,7 @@
 "2lD-Zn-e6Y.title" = "Експозиция";
 
 /* Class = "NSTextFieldCell"; title = "Pixea can play almost every media format and will resume where you've paused the movie."; ObjectID = "2lY-1f-keo"; */
-"2lY-1f-keo.title" = "Pixea може да възпроизвежда почти всички мултимедийни формати и ще продължи от мястото, където сте спрели медийния файл.";
+"2lY-1f-keo.title" = "Регулирайте фокуса, експонацията, контраста и наситеността. Прилагайте корекции според дълбочината, маски, корекции на обектива и LUT филтри. Изправяйте хоризонта и коригирайте перспективата с лекота.";
 
 /* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "2oX-Rh-0jJ"; */
 "2oX-Rh-0jJ.title" = "Увеличете";
@@ -183,7 +183,7 @@
 "9q2-gY-8Wt.title" = "Режим мащабиране";
 
 /* Class = "NSTextFieldCell"; title = "Video Playback"; ObjectID = "9uP-xu-jM2"; */
-"9uP-xu-jM2.title" = "Възпроизвеждане на видео";
+"9uP-xu-jM2.title" = "Прецизно редактиране с лекота.";
 
 /* Class = "NSMenuItem"; title = "Large"; ObjectID = "9v5-Qh-6SO"; */
 "9v5-Qh-6SO.title" = "Голям"; //Голямо_a i18n testing_optimization
@@ -300,7 +300,7 @@
 "F2S-fz-NVQ.title" = "Помощ";
 
 /* Class = "NSTextFieldCell"; title = "The invisible image viewer & video player"; ObjectID = "FBO-zE-1dF"; */
-"FBO-zE-1dF.title" = "Невидимият плейър за преглед на изображения и видеор";
+"FBO-zE-1dF.title" = "Разглеждайте медиата с лекота. Редактирайте като професионалист.";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Move around the picture..."; ObjectID = "FVb-yn-q62"; */
 "FVb-yn-q62.ibShadowedToolTip" = "Движете се по изображението...";
@@ -1374,7 +1374,7 @@
 "z6Y-gD-vft.ibShadowedToolTip" = "Преоразмеряване на изображението..";
 
 /* Class = "NSTextFieldCell"; title = "Built-in video player with MP4 and MKV support"; ObjectID = "zB0-DC-BoP"; */
-"zB0-DC-BoP.title" = "Вграден видео плейър с поддръжка на MP4 и MKV";
+"zB0-DC-BoP.title" = "Пълен контрол над светлината, цветовете и детайлите";
 
 /* Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "zLZ-LC-aXe"; */
 "zLZ-LC-aXe.title" = "Позволете на Pixea да търси допълнителни изображения и видеоклипове за слайдшоуто и бързо да прегледате следните папки:";
@@ -1667,6 +1667,15 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Depth-based Adjustments..."; ObjectID = "8xS-7v-OQn"; */
 "8xS-7v-OQn.ibShadowedToolTip" = "Корекции на изображението според дълбочината";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Masks..."; ObjectID = "RMz-AX-L0u"; */
+"RMz-AX-L0u.ibShadowedToolTip" = "Маски...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "C3b-Hb-fr3"; */
+"C3b-Hb-fr3.title" = "Маски...";
+
+/* Class = "NSMenuItem"; title = "Masks..."; ObjectID = "OPK-af-tq6"; */
+"OPK-af-tq6.title" = "Маски...";
+
 /* Class = "NSTextFieldCell"; title = "Estimating depth..."; ObjectID = "OLa-MC-HfL"; */
 "OLa-MC-HfL.title" = "Оценка на дълбочината...";
 
@@ -1693,3 +1702,36 @@
 
 /* Class = "NSMenuItem"; title = "Related"; ObjectID = "9wH-8b-YvT"; */
 "9wH-8b-YvT.title" = "Свързани";
+
+/* Class = "NSButtonCell"; title = "Add mask"; ObjectID = "BNU-nb-3Ux"; */
+"BNU-nb-3Ux.title" = "Добавяне на маска";
+
+/* Class = "NSTextFieldCell"; title = "Start by adding a mask"; ObjectID = "aU2-jG-Cw6"; */
+"aU2-jG-Cw6.title" = "Започнете с добавяне на маска";
+
+/* Class = "NSTextFieldCell"; title = "Click an object to create a mask"; ObjectID = "ATa-Pv-2It"; */
+"ATa-Pv-2It.title" = "Щракнете върху обект, за да създадете маска";
+
+/* Class = "NSTextFieldCell"; title = "Analyzing image..."; ObjectID = "U2s-Uv-l0f"; */
+"U2s-Uv-l0f.title" = "Анализ на изображението...";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "5vC-s5-qry"; */
+"5vC-s5-qry.title" = "Отмяна";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "Zhi-wK-k5A"; */
+"Zhi-wK-k5A.title" = "Повтаряне";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Nj0-rn-cLH; */
+"Nj0-rn-cLH.title" = "Запазване";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "LUU-Gq-mMt; */
+"LUU-Gq-mMt.title" = "Запазване като…";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "5bi-n4-p40; */
+"5bi-n4-p40.title" = "Връщане към запазеното";
+
+/* Class = "NSButtonCell"; title = "Terms of Use (EULA)"; ObjectID = "Cea-uj-qEx"; */
+"Cea-uj-qEx.title" = "Условия за използване (EULA)";
+
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "cLU-k5-41H"; */
+"cLU-k5-41H.title" = "Политика за поверителност";

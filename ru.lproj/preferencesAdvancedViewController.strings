@@ -85,3 +85,12 @@
 
 /* Class = "NSButtonCell"; title = "Always smooth when zoomed in"; ObjectID = "LJn-71-YCV"; */
 "LJn-71-YCV.title" = "Всегда сглаживать при увеличении";
+
+/* Class = "NSTextFieldCell"; title = "Folder contents"; ObjectID = "OPj-L4-zxG"; */
+"OPj-L4-zxG.title" = "Содержимое папки";
+
+/* Class = "NSButtonCell"; title = "Automatically update open folders"; ObjectID = "54n-LD-R41"; */
+"54n-LD-R41.title" = "Автоматически обновлять открытые папки";
+
+/* Class = "NSTextFieldCell"; title = "Pixea automatically updates local folders when media files are added, removed, or renamed by other applications."; ObjectID = "ibQ-wQ-fPd"; */
+"ibQ-wQ-fPd.title" = "Pixea автоматически обновляет локальные папки, когда другие приложения добавляют, удаляют или переименовывают медиафайлы.";

@@ -34,3 +34,12 @@ Class = "NSMenuItem"; title = "GIF"; ObjectID = "iR5-cq-Mmn"; */
 /* pg2-Hl-C7h.title
 Class = "NSButtonCell"; title = "Include EXIF metadata"; ObjectID = "pg2-Hl-C7h"; */
 "pg2-Hl-C7h.title" = "EXIF 메타데이터 포함";
+
+/* Class = "NSMenuItem"; title = "Pixea Image"; ObjectID = "BUd-6w-IxJ"; */
+"BUd-6w-IxJ.title" = "Pixea 이미지";
+
+/* Class = "NSTextFieldCell"; title = "Pixea image contains masks, non-destructive adjustments, and additional data for futher editing."; ObjectID = "Bum-0c-jf6"; */
+"Bum-0c-jf6.title" = "Pixea 이미지에는 마스크, 비파괴 조정 및 추가 편집을 위한 추가 데이터가 포함되어 있습니다.";
+
+/* Class = "NSButtonCell"; title = "Export as HDR"; ObjectID = "1nx-ei-6v4"; */
+"1nx-ei-6v4.title" = "HDR로 내보내기";

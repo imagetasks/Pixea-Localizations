@@ -77,7 +77,7 @@
 "Frames" = "Frames"; //gif frames
 
 
-"Grant Access" = "Grant Access";
+"Grant Access" = "Allow Access";
 "No access" = "No access";
 "Access granted" = "Access granted";
 "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue." = "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue.";
@@ -265,3 +265,19 @@
 
 "Analyzing '%@'..." = "Analyzing '%@'...";
 "No text in this image" = "No text in this image";
+
+"Some adjustments are disabled while editing the image." = "Some adjustments are disabled while editing the image.";
+
+"Masks..." = "Masks...";
+"Masks" = "Masks";
+"Adjustments" = "Adjustments";
+
+"Export as" = "Export as";
+"Save as" = "Save as";
+"Save As..." = "Save As...";
+"Save" = "Save";
+"Export" = "Export";
+
+"Can't export" = "Can't export";
+"Unable to export '%@'" = "Unable to export '%@'";
+"Saving '%@'..." = "Saving '%@'...";

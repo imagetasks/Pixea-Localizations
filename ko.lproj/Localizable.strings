@@ -282,3 +282,18 @@ inches, cm/mm, pixels, points per inch, etc... */
 
 "Analyzing '%@'..." = "'%@' 분석 중...";
 "No text in this image" = "이 이미지에 텍스트가 없습니다";
+
+"Some adjustments are disabled while editing the image." = "이미지를 편집하는 동안 일부 조정은 사용할 수 없습니다.";
+
+"Masks..." = "마스크...";
+"Masks" = "마스크";
+"Adjustments" = "조정";
+
+"Export as" = "다음으로 내보내기";
+"Save as" = "다른 이름으로 저장";
+"Save As..." = "다른 이름으로 저장...";
+"Save" = "저장";
+"Export" = "내보내기";
+
+"Can't export" = "내보낼 수 없음";
+"Saving '%@'..." = "'%@' 저장 중…";

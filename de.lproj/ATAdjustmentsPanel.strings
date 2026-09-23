@@ -1,6 +1,6 @@
 
-/* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "0FT-31-fJ2"; */
-"0FT-31-fJ2.title" = "Farbtemperatur";
+/* Class = "NSTextFieldCell"; title = "Color"; ObjectID = "0FT-31-fJ2"; */
+"0FT-31-fJ2.title" = "Farbe";
 
 /* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "0Fb-lF-Xgf"; */
 "0Fb-lF-Xgf.title" = "100%";
@@ -311,8 +311,23 @@
 /* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "gaX-xp-o5q"; */
 "gaX-xp-o5q.title" = "100%";
 
-/* Class = "NSTextFieldCell"; title = "Color Temperature"; ObjectID = "h68-M0-rdf"; */
+/* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "h68-M0-rdf"; */
 "h68-M0-rdf.title" = "Temperatur";
+
+/* Class = "NSTextFieldCell"; title = "Brilliance"; ObjectID = "qfb-7f-iYY"; */
+"qfb-7f-iYY.title" = "Brillanz";
+
+/* Class = "NSTextFieldCell"; title = "Vibrance"; ObjectID = "qDC-k2-bq5"; */
+"qDC-k2-bq5.title" = "Dynamik";
+
+/* Class = "NSTextFieldCell"; title = "Lens Correction"; ObjectID = "ebK-tL-HTF"; */
+"ebK-tL-HTF.title" = "Objektivkorrektur";
+
+/* Class = "NSTextFieldCell"; title = "Distortion"; ObjectID = "sLZ-Ow-5ZC"; */
+"sLZ-Ow-5ZC.title" = "Verzeichnung";
+
+/* Class = "NSTextFieldCell"; title = "Vignette"; ObjectID = "i8C-rQ-6gg"; */
+"i8C-rQ-6gg.title" = "Vignettierung";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "hAO-Lv-1fU"; */
 "hAO-Lv-1fU.title" = "Box";
